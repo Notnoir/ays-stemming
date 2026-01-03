@@ -1,0 +1,902 @@
+Manajemen Risiko Keuangan Digital: Strategi Mitigasi Risiko dalam Era Transformasi Digital
+
+Putri Anandi Nainggolan¹, Asep Risman²
+
+¹Student at Magister of Management, Mercu Buana University, Jakarta, Indonesia ²Lecturer at the Faculty of Economics and Business, Mercu Buana University, Jakarta, Indonesia
+
+
+
+Abstrak
+
+Transformasi digital yang pesat telah membawa perubahan signifikan pada sektor keuangan, dengan kemunculan layanan keuangan berbasis teknologi seperti fintech, perbankan digital, dan cryptocurrency. Walaupun inovasi ini meningkatkan efisiensi operasional, risiko-risiko baru seperti serangan siber dan penipuan digital turut meningkat. Artikel ini bertujuan untuk mengidentifikasi kategori risiko yang relevan dalam keuangan digital serta strategi mitigasinya. Menggunakan metode studi literatur dengan pendekatan deskriptif kualitatif, pembahasan menunjukkan bahwa penguatan sistem keamanan, kepatuhan terhadap regulasi, serta pemanfaatan teknologi canggih seperti blockchain dan kecerdasan buatan menjadi kunci utama dalam mitigasi risiko keuangan digital.
+
+Kata kunci: manajemen risiko, keuangan digital, fintech, risiko siber, mitigasi risiko PENDAHULUAN
+
+Perkembangan teknologi digital dalam dekade terakhir telah merevolusi berbagai sektor, khususnya sektor keuangan. Kemunculan inovasi seperti financial technology (fintech), layanan perbankan berbasis aplikasi, serta cryptocurrency telah mempercepat arus transaksi dan memperluas jangkauan layanan keuangan kepada masyarakat. Namun demikian, perubahan ini membawa tantangan baru berupa peningkatan kerentanan terhadap berbagai jenis risiko, terutama risiko siber dan penipuan digital. Oleh karena itu, implementasi manajemen risiko yang efektif menjadi krusial untuk menjaga
+
+
+
+keberlangsungan dan stabilitas operasional perusahaan keuangan digital di era transformasi digital ini.
+
+Transformasi digital yang terjadi dalam dekade terakhir telah membawa dampak signifikan terhadap industri keuangan global. Menurut laporan dari Deloitte (2022), adopsi layanan keuangan berbasis teknologi seperti fintech, mobile banking, dan cryptocurrency mengalami pertumbuhan tahunan sebesar 23% secara global. Di Indonesia, Otoritas Jasa Keuangan (OJK) melaporkan bahwa hingga akhir tahun 2023 terdapat lebih dari 300
+
+penyelenggara fintech yang terdaftar dan diawasi, menunjukkan tingginya minat masyarakat terhadap layanan keuangan digital (OJK, 2023).
+
+Di sisi lain, World Economic Forum (2023) mengidentifikasi risiko siber sebagai salah satu ancaman utama dalam lanskap keuangan digital, dengan peningkatan signifikan pada insiden serangan siber dan kebocoran data. Salah satu contohnya adalah insiden kebocoran data yang dialami oleh perusahaan besar seperti Tokopedia dan CNA Financial, yang menyebabkan kerugian besar secara finansial dan reputasi.
+
+Menurut Accenture (2023), sekitar 68% perusahaan di sektor keuangan digital melaporkan peningkatan serangan siber dalam dua tahun terakhir, dengan rata-rata kerugian mencapai 3,8 juta USD per insiden. Data dari IBM Cost of a Data Breach Report (2023) menunjukkan bahwa rata-rata biaya kebocoran data di sektor keuangan mencapai 5,72 juta USD per insiden, lebih tinggi dibandingkan sektor lainnya. Ini menunjukkan urgensi penguatan sistem keamanan informasi dan perlunya pengelolaan risiko yang efektif.
+
+
+
+
+
+Grafik ini menunjukkan perbandingan biaya rata-rata kebocoran data di berbagai sektor industri berdasarkan laporan IBM (2023). Data menunjukkan bahwa sektor keuangan memiliki biaya kebocoran data tertinggi, yaitu sekitar 5,72 juta USD per insiden. Angka ini lebih tinggi dibandingkan sektor kesehatan (4,25 juta USD), industri manufaktur (3,86
+
+juta USD), ritel (3,27 juta USD), dan teknologi (4,10 juta USD).
+
+Penjelasan di balik tingginya biaya di sektor keuangan adalah karena sensitivitas dan nilai strategis data keuangan, seperti informasi rekening, transaksi, dan identitas digital nasabah.
+
+Selain itu, regulasi perlindungan data yang ketat di sektor keuangan juga menyebabkan biaya pemulihan, termasuk denda dan kompensasi, menjadi lebih tinggi. Kebocoran data di sektor ini tidak hanya berdampak pada kerugian finansial langsung, tetapi juga kerusakan reputasi jangka panjang yang bisa menurunkan kepercayaan investor dan nasabah.
+
+Gambar 2. Distribusi Jenis Serangan Siber di Sektor Keuangan (2023): Gambar 2. Menjelaskan distribusi jenis serangan siber yang terjadi di sektor keuangan pada tahun 2023 menunjukkan dominasi serangan ransomware yang mencakup 35% dari total insiden yang terjadi. Ransomware merupakan ancaman utama karena memiliki dampak langsung yang sangat signifikan terhadap operasional perusahaan. Dalam skenario serangan ini, penyerang mengenkripsi data sensitif perusahaan dan meminta tebusan dalam bentuk uang tebusan (seringkali dalam cryptocurrency) sebagai syarat untuk memulihkan akses data. Tingginya proporsi serangan ransomware menunjukkan bahwa banyak
+
+perusahaan keuangan masih memiliki celah dalam sistem pertahanan mereka, khususnya dalam aspek cadangan data (backup) dan kemampuan pemulihan bencana (disaster recovery).
+
+Selain itu, serangan phishing menduduki posisi kedua dengan 25%. Phishing melibatkan manipulasi psikologis, di mana penyerang mengelabui individu untuk memberikan informasi login, data pribadi, atau mengklik tautan berbahaya. Di sektor keuangan, serangan phishing sering digunakan sebagai pintu masuk untuk mendapatkan kredensial akun pengguna yang kemudian dapat dimanfaatkan untuk akses ilegal ke sistem keuangan digital. Efektivitas phishing tetap tinggi karena memanfaatkan kelemahan faktor manusia, terutama dalam kondisi stres atau saat menerima email yang tampak resmi dari lembaga keuangan.
+
+Malware, termasuk trojan dan spyware, menyumbang sekitar 20% dari total serangan.
+
+Malware digunakan untuk mencuri informasi, merusak sistem, atau memberikan akses jarak jauh kepada pelaku kejahatan siber. Di sektor keuangan, malware biasanya disebarkan melalui lampiran email atau unduhan yang tampak sah, dan jika berhasil masuk, dapat mengakses data transaksi atau memantau aktivitas pengguna tanpa terdeteksi.
+
+Sementara itu, serangan Distributed Denial of Service (DDoS) mencakup 15% dari total serangan yang dilaporkan. DDoS digunakan untuk melumpuhkan server atau jaringan perusahaan dengan membanjiri mereka dengan lalu lintas palsu, sehingga layanan menjadi tidak tersedia bagi pengguna yang sah. Meskipun tidak selalu menyebabkan pencurian data, DDoS dapat menimbulkan kerugian finansial yang besar karena downtime layanan, serta digunakan sebagai distraksi untuk melancarkan serangan lain secara bersamaan.
+
+Yang terakhir, supply chain attack menyumbang 5%, namun serangan jenis ini memiliki potensi risiko sistemik yang tinggi. Serangan ini menargetkan vendor, penyedia layanan cloud, atau mitra teknologi yang terhubung dengan sistem perusahaan utama. Meskipun proporsinya kecil, serangan rantai pasokan sangat berbahaya karena pelaku dapat memanfaatkan kepercayaan yang diberikan kepada mitra eksternal untuk menyusup ke sistem utama, seperti yang terlihat dalam insiden SolarWinds.
+
+Distribusi ini mencerminkan lanskap ancaman siber yang semakin beragam dan kompleks di sektor keuangan digital, dengan dominasi ransomware dan phishing yang menegaskan perlunya pendekatan mitigasi yang berlapis, tidak hanya berfokus pada teknologi, tetapi juga membangun kesadaran keamanan di tingkat pengguna.
+
+Selain itu, kemajuan teknologi seperti kecerdasan buatan (AI), machine learning (ML), dan blockchain telah memperkaya lanskap keuangan digital, namun juga memperkenalkan risiko baru yang kompleks. McKinsey & Company (2023) menyoroti bahwa meskipun 80% perusahaan fintech mengadopsi AI untuk meningkatkan efisiensi, hanya 40% yang memiliki protokol keamanan AI yang memadai, memperlihatkan kesenjangan antara adopsi teknologi dan kesiapan keamanan.
+
+Permasalahan ini menyoroti pentingnya penerapan manajemen risiko yang komprehensif untuk mengelola risiko keuangan digital. Manajemen risiko yang efektif tidak hanya melindungi aset digital perusahaan, tetapi juga memperkuat kepercayaan konsumen dan memastikan kepatuhan terhadap regulasi yang berlaku. Oleh karena itu, penelitian ini penting dilakukan untuk mengidentifikasi risiko yang dihadapi oleh sektor keuangan digital dan mengevaluasi strategi mitigasi yang relevan.
+
+TINJAUAN PUSTAKA
+
+Manajemen risiko, sebagaimana dijelaskan dalam ISO 31000, merujuk pada proses terstruktur yang mencakup identifikasi, analisis, evaluasi, dan pengendalian risiko. Dalam konteks keuangan digital, manajemen risiko bertujuan untuk melindungi aset digital, menjaga kepercayaan pengguna, dan memastikan kepatuhan terhadap peraturan yang berlaku.
+
+Risiko
+
+utama
+
+dalam
+
+keuangan
+
+digital
+
+meliputi:
+
+1. Fraud adalah tindakan penipuan digital seperti phishing dan pencurian identitas.
+
+2. Serangan Siber adalah ancaman berupa malware, ransomware, dan DDoS.
+
+3. Kebocoran Data adalah pelanggaran keamanan yang menyebabkan data terekspos.
+
+4. Risiko Regulas adalah ketidakpatuhan terhadap standar dan regulasi seperti POJK, GDPR,
+
+dan
+
+ISO
+
+27001.
+
+Kerangka regulasi yang relevan meliputi POJK No. 12/POJK.03/2021 tentang penerapan
+
+manajemen risiko bagi bank umum, ISO 27001 tentang sistem manajemen keamanan informasi, serta GDPR yang mengatur perlindungan data pribadi di Eropa.
+
+Konsep Manajemen Risiko Digital
+
+Manajemen risiko dalam konteks keuangan digital mengacu pada serangkaian aktivitas sistematis untuk mengidentifikasi, mengukur, memantau, dan mengendalikan berbagai potensi ancaman yang dapat mengganggu kestabilan sistem keuangan berbasis teknologi.
+
+ISO 31000 menegaskan bahwa manajemen risiko adalah sebuah proses terstruktur yang dirancang untuk membantu organisasi mencapai tujuan melalui pengendalian ketidakpastian yang mungkin mempengaruhi operasional mereka (ISO, 2018). Dalam sektor keuangan digital, penerapan manajemen risiko menjadi semakin kompleks karena lanskap ancaman yang terus berubah, didorong oleh kemajuan teknologi dan evolusi metode serangan siber.
+
+Jenis-jenis Risiko dalam Layanan Keuangan Digital
+
+Menurut McKinsey & Company (2023), sektor keuangan digital dihadapkan pada berbagai jenis risiko, antara lain:
+
+•
+
+Risiko Operasional termasuk gangguan sistem, kegagalan perangkat lunak, atau kesalahan manusia yang dapat mempengaruhi kelancaran operasional layanan keuangan digital.
+
+•
+
+Risiko Siber serangan yang dilancarkan oleh pihak tidak bertanggung jawab untuk meretas sistem atau mencuri data sensitif, yang meliputi ransomware, malware, dan serangan denial of service (DDoS).
+
+•
+
+Risiko Reputasi dampak negatif terhadap kepercayaan publik yang timbul akibat insiden keamanan, penipuan, atau pelanggaran data.
+
+•
+
+Risiko Regulasi ancaman yang timbul dari ketidakpatuhan terhadap peraturan yang mengatur aktivitas sektor keuangan digital, seperti GDPR di Uni Eropa atau POJK di Indonesia.
+
+Kerangka Regulasi dalam Manajemen Risiko Keuangan Digital
+
+Kerangka regulasi yang relevan bagi manajemen risiko keuangan digital meliputi:
+
+•
+
+ISO/IEC 2700 adalah standar internasional yang menyediakan pedoman untuk pengelolaan sistem keamanan informasi (Information Security Management System/ISMS) dan memastikan perlindungan data yang sensitif.
+
+•
+
+GDPR (General Data Protection Regulation regulasi Uni Eropa yang mengatur perlindungan data pribadi dan hak privasi individu di era digital.
+
+•
+
+POJK No. 12/POJK.03/2021 regulasi yang diterbitkan oleh Otoritas Jasa Keuangan Indonesia terkait penerapan manajemen risiko bagi bank umum, termasuk ketentuan mengenai pengelolaan risiko teknologi informasi.
+
+Kerangka Kerja Manajemen Risiko Tambahan
+
+•
+
+NIST Cybersecurity Framework (CSF dikembangkan oleh National Institute of Standards and Technology (NIST), framework ini membantu organisasi untuk mengidentifikasi, melindungi, mendeteksi, merespons, dan memulihkan diri dari insiden siber.
+
+•
+
+COSO Enterprise Risk Management (ERM) menyediakan panduan komprehensif untuk mengintegrasikan manajemen risiko ke dalam strategi bisnis, yang juga dapat diterapkan pada sektor keuangan digital.
+
+Peran Teknologi dalam Mitigasi Risiko Digital
+
+Menurut penelitian oleh Smith dan Brown (2023), integrasi teknologi canggih seperti kecerdasan buatan (AI) dan machine learning (ML) memungkinkan deteksi dini terhadap ancaman siber dengan mengidentifikasi pola anomali dalam lalu lintas data secara real-time. Sementara itu, penggunaan blockchain diakui mampu meningkatkan keamanan transaksi keuangan melalui ledger terdistribusi yang sulit dimanipulasi (Rani & Sari, 2023).
+
+
+
+
+
+Literatur Empiris tentang Risiko Keuangan Digital
+
+•
+
+Rani & Sari (2023) mengkaji tantangan keamanan siber di sektor fintech dan menyimpulkan bahwa penerapan sistem pengendalian internal yang kuat berperan penting dalam mengurangi dampak serangan siber.
+
+•
+
+Suryanto & Putri (2022) menyoroti peran manajemen risiko digital di Indonesia, menekankan bahwa banyak institusi keuangan masih berada dalam tahap awal implementasi manajemen risiko teknologi informasi yang komprehensif.
+
+Perkembangan Fintech dan Risiko yang Mengiringi
+
+Fintech sebagai inovasi layanan keuangan berbasis teknologi membawa perubahan besar dalam sistem keuangan global. Menurut laporan oleh Financial Stability Board (FSB, 2023), meskipun fintech meningkatkan efisiensi dan inklusi keuangan, namun memperluas eksposur terhadap berbagai risiko baru, seperti ketergantungan pada pihak ketiga (third-party risk), risiko sistemik akibat integrasi platform, dan risiko volatilitas aset digital seperti cryptocurrency. Oleh karena itu, pendekatan manajemen risiko di fintech memerlukan strategi adaptif yang responsif terhadap dinamika teknologi dan regulasi.
+
+Pengelolaan Risiko Teknologi Informasi di Lembaga Keuangan Menurut penelitian oleh PwC (2023), 72% lembaga keuangan global menyatakan bahwa sistem pengelolaan risiko teknologi informasi (TI) mereka belum mampu mengikuti perkembangan ancaman siber yang terus berevolusi. Hal ini menunjukkan bahwa mitigasi risiko TI memerlukan penguatan dalam bentuk kebijakan keamanan data, penerapan enkripsi end-to-end, serta monitoring berkelanjutan terhadap sistem TI yang digunakan.
+
+Kerangka Mitigasi Risiko Berbasis Teknologi
+
+•
+
+Zero Trust Architecture (ZTA) merupakan pendekatan keamanan yang mengasumsikan bahwa semua pengguna dan perangkat, baik di dalam maupun di luar jaringan perusahaan, harus diverifikasi secara ketat sebelum diberikan akses ke sistem.
+
+Model ini efektif untuk membatasi ruang gerak peretas dan mencegah eskalasi serangan jika terjadi pelanggaran (Gartner, 2022).
+
+•
+
+DevSecOps integrasi aspek keamanan (security) dalam proses pengembangan perangkat lunak (development) dan operasi (operations). Praktik ini memastikan bahwa keamanan siber menjadi bagian integral dari siklus hidup aplikasi, bukan sekadar tambahan di akhir proses (Kaspersky, 2023).
+
+Strategi Kolaboratif dalam Penguatan Ketahanan Siber
+
+Menurut OECD (2023), kolaborasi antar lembaga keuangan, pemerintah, dan penyedia layanan TI menjadi kunci dalam memperkuat ketahanan siber di sektor keuangan.
+
+Pertukaran informasi ancaman (threat intelligence sharing) antar organisasi memungkinkan deteksi dini terhadap serangan siber berskala besar dan mempercepat respon mitigasi. Inisiatif seperti FS-ISAC (Financial Services Information Sharing and Analysis Center) menjadi contoh nyata bagaimana kolaborasi ini diimplementasikan di tingkat global.
+
+Dampak Ekonomi dari Insiden Siber dalam Sektor Keuangan Sebuah studi yang dilakukan oleh Allianz Risk Barometer (2023) menyebutkan bahwa kerugian finansial akibat serangan siber di sektor keuangan global mencapai lebih dari 6
+
+triliun USD per tahun. Selain kerugian langsung, dampak jangka panjangnya juga meliputi penurunan kepercayaan konsumen, biaya pemulihan yang tinggi, dan sanksi regulasi akibat pelanggaran data.
+
+Evaluasi Framework Manajemen Risiko Digital di Negara Berkembang Penelitian oleh Asian Development Bank (2023) menemukan bahwa di negara berkembang, implementasi framework manajemen risiko digital masih menghadapi tantangan, seperti kurangnya tenaga ahli keamanan siber dan keterbatasan anggaran untuk investasi teknologi keamanan. Oleh karena itu, strategi mitigasi yang disesuaikan dengan konteks lokal menjadi sangat penting.
+
+Pendekatan Kuantitatif dalam Penilaian Risiko Keuangan Digital Salah satu pendekatan dasar yang dapat diterapkan adalah perhitungan Risk Exposure Value (REV), yang mengalikan probabilitas terjadinya risiko dengan besaran dampaknya
+
+secara finansial. Sebagai contoh, apabila probabilitas serangan siber dalam satu tahun adalah 20% dan kerugian akibatnya mencapai USD 5 juta, maka nilai eksposur risiko (REV) mencapai USD 1 juta. Model ini memberikan dasar sederhana namun penting dalam memperkirakan potensi kerugian tahunan akibat suatu jenis risiko digital.
+
+
+
+Selain itu, pendekatan Annualized Loss Expectancy (ALE) yang berasal dari metode OCTAVE dan NIST, juga relevan dalam konteks digital finance. ALE dihitung dengan mengalikan Single Loss Expectancy (SLE) – yaitu kerugian dari satu kejadian – dengan Annual Rate of Occurrence (ARO), yaitu frekuensi kejadian dalam setahun. Misalnya, jika kebocoran data terjadi dua kali per tahun dengan kerugian masing-masing USD 5 juta, maka ALE mencapai USD 10 juta. Hal ini menegaskan urgensi penguatan sistem keamanan
+
+seperti
+
+SIEM,
+
+AI
+
+berbasis
+
+deteksi
+
+anomali,
+
+serta
+
+ZTA.
+
+
+
+Untuk mengukur efektivitas pengendalian risiko, pendekatan Residual Risk dari kerangka ISO 31000 dapat digunakan. Residual risk merupakan selisih antara inherent risk (tingkat risiko awal) dengan efektivitas kontrol mitigasi yang telah diterapkan. Misalnya, jika inherent risk dinilai sebesar 100 (skala 1–100), dan sistem mitigasi mampu menurunkan risiko sebesar 75, maka residual risk yang tersisa adalah 25. Perhitungan ini penting dalam menilai seberapa efektif teknologi seperti blockchain hybrid atau otentikasi biometrik dalam
+
+menekan
+
+risiko
+
+operasional
+
+dan
+
+siber.
+
+
+
+Sebagai tambahan, pendekatan modern seperti Cyber Risk Quantification (CRQ) dalam model FAIR (Factor Analysis of Information Risk) memberikan kerangka komprehensif dalam menilai dampak dan frekuensi kejadian risiko informasi. Model ini melibatkan variabel Loss Event Frequency (LEF) dan Probable Loss Magnitude (PLM), serta memungkinkan simulasi Monte Carlo untuk melihat distribusi kerugian potensial.
+
+Pendekatan ini sangat relevan untuk institusi yang mengelola aset digital berskala besar dan
+
+ingin
+
+membuat
+
+keputusan
+
+berdasarkan
+
+data
+
+risiko
+
+secara
+
+statistik.
+
+
+
+Integrasi pendekatan kuantitatif dengan strategi kualitatif seperti peningkatan budaya keamanan, kolaborasi intelijen ancaman, serta kepatuhan regulasi berbasis regtech, akan
+
+membentuk sistem manajemen risiko keuangan digital yang tangguh, adaptif, dan responsif terhadap dinamika ancaman di era transformasi digital.
+
+METODE PENELITIAN
+
+Artikel ini disusun menggunakan metode deskriptif kualitatif dengan pendekatan studi literatur. Data dikumpulkan dari berbagai sumber sekunder seperti jurnal ilmiah, laporan industri, dan peraturan terkait keuangan digital untuk dianalisis secara sistematis.
+
+PEMBAHASAN
+
+Identifikasi risiko keuangan digital
+
+Sektor keuangan digital menghadapi berbagai risiko yang semakin kompleks seiring pesatnya adopsi teknologi. Berdasarkan hasil studi literatur, risiko-risiko tersebut meliputi: a. Risiko Fraud Digital
+
+Fraud digital tidak hanya berkembang dalam frekuensi, tetapi juga dalam kecanggihan teknisnya. Pelaku memanfaatkan kerentanan manusia (human error) dan sistem yang belum optimal. Metode baru seperti voice phishing (vishing) dan sim swapping telah menambah lapisan kompleksitas pada ancaman ini. Beberapa pelaku juga memanfaatkan aplikasi palsu yang meniru aplikasi resmi untuk mencuri data pengguna.
+
+fraud digital yang berkembang dalam berbagai bentuk seiring meningkatnya interaksi keuangan berbasis teknologi. Fraud digital tidak hanya melibatkan serangan phishing tradisional, tetapi juga metode yang lebih canggih seperti synthetic identity fraud, di mana pelaku menggabungkan data sah dan palsu untuk menciptakan identitas baru yang sulit terdeteksi. Menurut Arner et al. (2020), perkembangan teknologi deepfake bahkan memungkinkan penipu menggunakan suara atau gambar palsu untuk memperdaya sistem otentikasi atau memanipulasi pengguna. Laporan dari Experian (2022) juga mengonfirmasi bahwa synthetic identity fraud menjadi salah satu ancaman yang paling sulit diatasi karena menyusup ke sistem dengan identitas yang tampak legal.
+
+Implikasi: Fraud digital dapat mengakibatkan kerugian langsung bagi nasabah dan perusahaan, serta menciptakan efek domino berupa hilangnya loyalitas pelanggan dan penurunan reputasi merek.
+
+b. Risiko Serangan Siber
+
+serangan siber merupakan ancaman signifikan lain yang dihadapi sektor keuangan digital.
+
+Serangan ini tidak lagi terbatas pada malware atau ransomware konvensional, melainkan telah berkembang ke bentuk-bentuk yang lebih kompleks seperti advanced persistent threats (APT) dan supply chain attacks. APT biasanya dilancarkan oleh kelompok kriminal terorganisir atau bahkan didukung negara, dengan tujuan untuk mengontrol sistem dalam jangka panjang. Berdasarkan laporan dari ENISA (2023), serangan rantai pasokan menjadi lebih umum, di mana pelaku tidak menyerang target utama secara langsung, tetapi menyusupi vendor atau pihak ketiga yang terhubung dengan sistem perusahaan keuangan.
+
+Ini menunjukkan bahwa perimeter keamanan konvensional sudah tidak lagi memadai untuk menghadapi ancaman yang melibatkan banyak lapisan pihak.
+
+Sektor keuangan adalah target favorit serangan siber karena nilai aset yang dikelola. Jenis serangan tidak hanya terbatas pada malware dan ransomware, tapi juga:
+
+•
+
+Credential stuffing menggunakan data dari kebocoran sebelumnya untuk membobol akun pengguna.
+
+•
+
+Man-in-the-middle attack (MitM) penyadapan komunikasi antara dua pihak, biasanya saat pengguna terhubung ke Wi-Fi publik.
+
+Serangan tidak hanya berasal dari aktor individu, namun juga kelompok kriminal terorganisir dan bahkan entitas negara (state-sponsored attacks) yang mengejar tujuan politik atau ekonomi.
+
+Implikasi: Menyebabkan gangguan layanan, pencurian data strategis, bahkan manipulasi sistem transaksi (misalnya dalam pasar modal digital atau crypto exchange).
+
+
+
+
+
+c. Risiko Kebocoran Data (Data Breach) Kebocoran data atau data breach adalah risiko lain yang memiliki dampak sangat merugikan di sektor keuangan. Data sensitif seperti informasi identitas nasabah, transaksi keuangan, hingga kode enkripsi menjadi sasaran empuk bagi peretas. Menurut laporan IBM (2023), biaya kebocoran data di sektor keuangan adalah yang tertinggi dibandingkan sektor lain, rata-rata mencapai 5,72 juta USD per insiden. Hal ini disebabkan karena data keuangan memiliki nilai jual tinggi di pasar gelap (dark web) dan dapat digunakan untuk berbagai bentuk kejahatan lanjutan seperti pencucian uang atau pembiayaan terorisme.
+
+Kebocoran data dapat terjadi karena kelemahan dalam pengaturan keamanan cloud, kurangnya enkripsi data yang kuat, atau serangan dari dalam oleh pihak internal perusahaan yang menyalahgunakan akses.
+
+Kebocoran data merupakan ancaman serius dalam digital banking dan fintech karena menyangkut data pribadi, data keuangan, dan identitas digital. Celah bisa timbul dari:
+
+•
+
+Human error dalam konfigurasi cloud.
+
+•
+
+Kurangnya mekanisme enkripsi data end-to-end.
+
+•
+
+Kegagalan memperbarui sistem keamanan (patching delay).
+
+Selain biaya finansial, kebocoran data juga memicu implikasi hukum, terutama jika perusahaan gagal mematuhi GDPR atau UU Perlindungan Data Pribadi (PDP) Indonesia.
+
+Implikasi: Potensi tuntutan hukum, sanksi regulator, kehilangan kepercayaan investor, serta penurunan valuasi pasar.
+
+d. Risiko Ketidakpatuhan Regulasi (Compliance Risk)
+
+ketidakpatuhan terhadap regulasi juga tidak kalah signifikan. Dalam lingkungan digital yang global, regulasi seperti General Data Protection Regulation (GDPR) di Uni Eropa dan POJK No.12/POJK.03/2021 di Indonesia menetapkan standar ketat mengenai perlindungan data dan keamanan informasi. OECD (2023) mencatat bahwa kompleksitas kepatuhan di era digital ini mendorong perusahaan untuk mengadopsi regtech atau teknologi regulasi yang membantu memantau perubahan regulasi secara otomatis dan
+
+memastikan kepatuhan tanpa celah. Ketidakpatuhan terhadap regulasi ini tidak hanya berisiko denda finansial yang besar, seperti yang ditetapkan GDPR hingga 4% dari pendapatan global, tetapi juga berpotensi menurunkan kepercayaan publik dan menyebabkan
+
+kerugian
+
+reputasi
+
+yang
+
+sulit
+
+dipulihkan.
+
+Peraturan yang berlaku dalam keuangan digital sangat dinamis. Ketidakpatuhan dapat disebabkan oleh:
+
+•
+
+Kurangnya pemahaman regulasi lintas negara (contoh: GDPR vs. UU PDP
+
+Indonesia)
+
+•
+
+Tidak adanya sistem monitoring regulasi secara otomatis.
+
+•
+
+Lemahnya pelaporan insiden (underreporting) yang diwajibkan oleh otoritas.
+
+Implikasi: Kenaikan denda (up to 4% dari global turnover untuk GDPR), pembekuan operasional, dan bahkan pencabutan izin usaha fintech.
+
+Pengukuran risiko keuangan digital
+
+F. Risk Exposure Value (REV)
+
+Teori ini cocok untuk mengukur potensi kerugian dari risiko tertentu seperti serangan siber atau kebocoran data.
+
+Formula:
+
+REV=P×IREV = P \times IREV=P×I
+
+Keterangan:
+
+• P = Probabilitas terjadinya risiko (dinyatakan dalam persen atau bobot probabilitas)
+
+• I = Dampak finansial (kerugian) jika risiko terjadi (dalam satuan mata uang) Contoh Aplikasi:
+
+Jika probabilitas serangan siber dalam satu tahun adalah 20% dan kerugian akibatnya diperkirakan sebesar USD 5 juta, maka:
+
+REV=0.2×5.000.000=USD1.000.000REV = 0.2 \times 5.000.000 = USD
+
+1.000.000REV=0.2×5.000.000=USD1.000.000
+
+Teori ini mendukung bagian pada tulisan Anda yang menyebut biaya kebocoran data berdasarkan laporan IBM (2023).
+
+g. Annualized Loss Expectancy (ALE) – dari metode OCTAVE dan NIST
+
+ALE membantu dalam pengambilan keputusan manajemen keamanan siber secara finansial.
+
+Formula:
+
+ALE=SLE×AROALE = SLE \times AROALE=SLE×ARO
+
+Keterangan:
+
+• SLE (Single Loss Expectancy): Kerugian tiap kali risiko terjadi (misalnya USD
+
+5 juta).
+
+• ARO (Annual Rate of Occurrence): Frekuensi risiko terjadi dalam satu tahun.
+
+Contoh:
+
+Jika kebocoran data terjadi rata-rata 2 kali per tahun dan tiap kejadian merugikan USD 5
+
+juta:
+
+ALE=5.000.000×2=USD10.000.000ALE = 5.000.000 \times 2 = USD
+
+10.000.000ALE=5.000.000×2=USD10.000.000
+
+Ini sangat relevan dengan pernyataan bahwa sektor keuangan memiliki biaya kebocoran tertinggi per insiden.
+
+h. Residual Risk Formula (ISO 31000)
+
+Setelah strategi mitigasi dijalankan, masih ada risiko sisa yang perlu diukur.
+
+Formula:
+
+Residual Risk=Inherent Risk−Risk Control EffectivenessResidual\ Risk = Inherent\ Risk
+
+- Risk\ Control\ EffectivenessResidual Risk=Inherent Risk−Risk Control Effectiveness Jika inherent risk adalah 100 (skala 1-100) dan efektivitas pengendalian risiko dari penerapan SIEM dan ZTA adalah 75, maka:
+
+Residual Risk=100−75=25Residual\ Risk = 100 - 75 = 25Residual Risk=100−75=25
+
+Ini sesuai dengan strategi penguatan keamanan teknologi yang Anda paparkan di bagian pembahasan.
+
+i. Cyber Risk Quantification (CRQ) – Model FAIR
+
+Model ini digunakan untuk menilai risiko keamanan informasi secara kuantitatif dan cocok dengan pendekatan modern mitigasi risiko siber.
+
+Komponen utamanya:
+
+• Loss Event Frequency (LEF): Frekuensi kerugian tahunan.
+
+• Probable Loss Magnitude (PLM): Estimasi kerugian dari setiap insiden.
+
+• Nilainya bisa dimasukkan ke analisis Monte Carlo Simulation untuk melihat distribusi kerugian yang mungkin.
+
+Model FAIR selaras dengan pendekatan berbasis AI dan machine learning yang dijelaskan dalam artikel Anda.
+
+Pengelolaan risiko keuangan digital
+
+Untuk mengelola risiko-risiko tersebut, berbagai strategi mitigasi dapat diimplementasikan secara terpadu:
+
+a. Penguatan Teknologi Keamanan
+
+teknologi keamanan yang mencakup integrasi Security Information and Event Management (SIEM) dan penggunaan teknologi deception seperti honeypots. SIEM
+
+memungkinkan perusahaan untuk memonitor aktivitas jaringan secara real-time,
+
+mengumpulkan log, dan mendeteksi pola serangan dengan cepat, sementara deception technology bertujuan memancing penyerang ke lingkungan yang terkendali sehingga dapat dianalisis teknik dan tujuannya (Gartner, 2023; Ponemon Institute, 2023). Selain itu, penerapan kecerdasan buatan (AI) dan machine learning dalam sistem deteksi fraud menjadi sangat krusial. Smith dan Brown (2023) mengungkapkan bahwa AI mampu meningkatkan akurasi deteksi anomali transaksi hingga 35% dibandingkan metode konvensional, karena mampu mempelajari pola perilaku nasabah dan menyesuaikan diri terhadap perubahan pola serangan.
+
+Teknologi bukan hanya alat pendukung, tetapi elemen utama dalam mitigasi risiko.
+
+Pendekatan mutakhir mencakup:
+
+•
+
+AI berbasis behavioral analytics mempelajari pola transaksi untuk mengenali tindakan abnormal secara otomatis.
+
+•
+
+Blockchain hybrid gabungan blockchain privat dan publik untuk keamanan sekaligus efisiensi.
+
+•
+
+Biometric authentication teknologi pengenalan wajah, sidik jari, dan retina untuk memperkuat otentikasi akses.
+
+Keunggulan: Real-time prevention, pengurangan ketergantungan pada password, dan deteksi fraud berbasis machine learning.
+
+b. Zero Trust Architecture (ZTA)
+
+Zero Trust Architecture (ZTA), paradigma keamanan yang diasumsikan bahwa tidak ada entitas dalam jaringan yang bisa dipercaya sepenuhnya. NIST (2022) mendefinisikan ZTA sebagai model yang menggabungkan verifikasi eksplisit, akses dengan hak minimum (least privilege access), dan pendekatan assume breach, di mana sistem selalu mengasumsikan adanya potensi pelanggaran dan membatasi pergerakan penyerang di dalam jaringan.
+
+Model ini membatasi ruang gerak penyerang dan meningkatkan visibilitas aktivitas internal, sehingga dapat mendeteksi pergerakan mencurigakan lebih dini.
+
+ZTA bukan hanya pendekatan keamanan, tapi paradigma baru dalam membangun arsitektur digital. Penerapannya mencakup:
+
+•
+
+Least privilege access pengguna hanya dapat mengakses sumber daya yang dibutuhkan, tidak lebih
+
+•
+
+Micro-segmentation memisahkan jaringan internal menjadi segmen kecil untuk menghambat penyebaran malware
+
+•
+
+Continuous trust validation sistem mengevaluasi tingkat kepercayaan setiap akses secara berkelanjutan
+
+Manfaat: Mencegah lateral movement saat pelanggaran terjadi dan meningkatkan visibilitas aktivitas pengguna.
+
+c. Kepatuhan terhadap Regulasi
+
+kepatuhan terhadap regulasi juga menjadi pilar penting dalam mitigasi risiko keuangan digital. Penerapan regtech memfasilitasi proses audit kepatuhan secara otomatis dan memungkinkan pemantauan regulasi lintas negara secara real-time (Arslanian & Fischer, 2021). Sistem ini tidak hanya memastikan bahwa prosedur internal sesuai dengan ketentuan regulator, tetapi juga memberikan peringatan dini jika ada perubahan regulasi yang relevan.
+
+Kepatuhan tidak lagi cukup dilakukan secara manual. Saat ini, perusahaan menerapkan regtech (regulatory technology) untuk otomatisasi proses:
+
+•
+
+Automated compliance monitoring sistem yang memperbarui regulasi dan menilai tingkat kepatuhan secara real-time.
+
+•
+
+Risk scoring system memberikan peringkat risiko terhadap proses yang tidak memenuhi regulasi tertentu.
+
+•
+
+Audit trail digital merekam semua aktivitas sistem untuk pelacakan forensik dan bukti pelaporan insiden.
+
+Manfaat: Menurunkan risiko sanksi, mempercepat adaptasi regulasi baru, dan menciptakan transparansi.
+
+d. Peningkatan Kapasitas SDM dan Budaya Keamanan
+
+penguatan kapasitas sumber daya manusia (SDM) dan budaya keamanan di lingkungan kerja. Faktor manusia masih menjadi celah utama dalam banyak insiden keamanan digital, sehingga pelatihan keamanan siber secara berkala menjadi suatu keharusan. Berdasarkan laporan ISACA (2023), organisasi yang secara rutin melakukan simulasi phishing dan pelatihan keamanan memiliki tingkat insiden keamanan yang 30% lebih rendah dibandingkan organisasi yang tidak melakukannya. Dengan mengadopsi pendekatan gamifikasi dalam pelatihan, organisasi dapat meningkatkan efektivitas pembelajaran dan membangun
+
+kesadaran
+
+keamanan
+
+yang
+
+lebih
+
+kuat
+
+di
+
+antara
+
+karyawan.
+
+Human factor masih menjadi penyebab utama kebocoran data. Solusi efektif:
+
+•
+
+Simulasi phishing secara berkala untuk menguji kesiapan karyawan.
+
+•
+
+Gamifikasi pelatihan keamanan agar lebih menarik dan berdampak.
+
+•
+
+Penilaian risiko individu yang mengintegrasikan data kehadiran pelatihan dan kepatuhan terhadap SOP.
+
+Manfaat: Menanamkan budaya keamanan digital sejak tahap onboarding karyawan.
+
+e. Kolaborasi dan Intelijen Ancaman
+
+kolaborasi dalam threat intelligence sharing menjadi strategi kolektif untuk memperkuat ketahanan terhadap serangan siber. Platform seperti FS-ISAC memungkinkan lembaga keuangan berbagi informasi mengenai pola serangan, teknik baru yang digunakan peretas, dan langkah-langkah mitigasi efektif secara real-time. Kolaborasi ini membantu mempercepat proses deteksi dan respon terhadap serangan, sehingga mengurangi dampak yang
+
+bisa
+
+di
+
+timbulkan
+
+(FS-ISAC,
+
+2023).
+
+Strategi berbasis komunitas terbukti mempercepat mitigasi insiden:
+
+•
+
+Threat intelligence sharing kolaborasi antar bank, fintech, dan regulator dalam berbagi pola serangan terbaru.
+
+•
+
+CERT (Computer Emergency Response Team) tim reaksi cepat yang dilatih untuk respons insiden skala besar.
+
+•
+
+Global partnership (seperti INTERPOL Cyber Fusion Centre) untuk penindakan lintas negara terhadap pelaku kejahatan siber.
+
+Manfaat: Meningkatkan kapasitas deteksi dini dan memotong siklus serangan sebelum meluas.
+
+KESIMPULAN
+
+Transformasi digital telah merevolusi sektor keuangan global, namun di sisi lain memperluas eksposur terhadap beragam risiko yang kompleks dan dinamis. Berdasarkan hasil studi literatur, risiko yang paling dominan dalam keuangan digital meliputi fraud digital, serangan siber, kebocoran data, dan ketidakpatuhan terhadap regulasi. Fraud digital menunjukkan evolusi signifikan dengan kemunculan teknik manipulatif seperti synthetic identity fraud dan vishing, yang memperdaya sistem otentikasi serta pengguna. Serangan siber, termasuk ransomware, APT, dan serangan rantai pasokan, menjadi ancaman signifikan karena dapat melumpuhkan operasional dan menyebabkan kerugian finansial maupun reputasi. Kebocoran data menjadi tantangan utama di sektor keuangan karena tingginya sensitivitas data dan biaya pemulihan yang signifikan. Selain itu, kompleksitas regulasi yang terus berkembang, baik secara lokal maupun global, menuntut institusi keuangan untuk senantiasa menjaga kepatuhan sebagai bagian integral dari strategi mitigasi risiko.
+
+Dalam menghadapi risiko-risiko tersebut, strategi mitigasi yang komprehensif meliputi penguatan teknologi keamanan, implementasi Zero Trust Architecture (ZTA), kepatuhan terhadap regulasi melalui pemanfaatan regtech, peningkatan kapasitas SDM, serta kolaborasi dalam berbagi intelijen ancaman. Integrasi teknologi canggih seperti AI, machine learning, dan blockchain memungkinkan deteksi dini ancaman dan meningkatkan keamanan sistem. ZTA mendorong paradigma keamanan baru yang mengasumsikan setiap entitas sebagai potensi ancaman hingga diverifikasi. Peningkatan budaya keamanan siber di lingkungan kerja, melalui pelatihan berkelanjutan dan simulasi phishing, juga terbukti efektif dalam menurunkan potensi insiden keamanan. Kolaborasi lintas institusi melalui
+
+threat intelligence sharing memperkuat kapasitas deteksi dini dan respons terhadap serangan berskala besar. Pendekatan ini menunjukkan bahwa mitigasi risiko keuangan digital memerlukan sinergi antara teknologi, kebijakan, dan kesadaran manusia.
+
+REKOMENDASI
+
+• Institusi keuangan digital perlu meningkatkan alokasi anggaran untuk teknologi keamanan, seperti SIEM, AI berbasis analitik perilaku, dan blockchain hybrid, guna mendeteksi dan merespons ancaman secara real-time.
+
+• Implementasi ZTA wajib menjadi standar minimum bagi institusi keuangan digital untuk membatasi ruang gerak penyerang dan memastikan akses yang aman serta terverifikasi di seluruh lapisan sistem.
+
+• Mengintegrasikan regtech untuk pemantauan dan audit kepatuhan secara otomatis, guna memastikan kesesuaian dengan regulasi global seperti GDPR, POJK, dan ISO
+
+27001.
+
+• Menyelenggarakan pelatihan keamanan siber secara rutin, termasuk simulasi serangan phishing dan evaluasi risiko individu, guna meningkatkan kesadaran dan kesiapsiagaan karyawan.
+
+
+
+
+
+DAFTAR PUSTAKA
+
+Accenture.
+
+(2023).
+
+State
+
+of
+
+Cybersecurity
+
+Resilience
+
+2023.
+
+Diakses
+
+dari
+
+https://www.accenture.com/us-en/insights/security/state-cybersecurityAccenture |
+
+Let there be change
+
+Ainunnisa, D., Oktaviani, D., & Risman, A. (2024). The Effect of Risk Management on Profitability: Empirical Study of Banking Companies Listed in Indonesian Stock Exchange 2019-2023. Indikator: Jurnal Ilmiah Manajemen dan Bisnis, 8(3), 99-109. doi:http://dx.doi.org/10.22441/indikator.v8i3.28287
+
+Allianz Global Corporate & Specialty. (2023). Allianz Risk Barometer 2023. Diakses dari
+
+https://commercial.allianz.com/news-and-insights/reports/allianz-risk-
+
+barometer.htmlAllianz Commercial+1Allianz Commercial+1
+
+Arner, D. W., Barberis, J., & Buckley, R. P. (2017). Fintech and Regtech: Impact on Regulators and Banks. Journal of Banking Regulation, 19(4), 1–14. Diakses dari
+
+https://www.sciencedirect.com/science/article/abs/pii/S014861951730142X
+
+ScienceDirect
+
+Arslanian, H., & Fischer, F. (2019). The Future of Finance: The Impact of FinTech, AI, and Crypto on Financial Services. Palgrave Macmillan. ISBN: 978-3-030-14532-
+
+3.Amazon+2www.palgrave.com+2Goodreads+2
+
+Asian Development Bank. (2023). Managing Digital Risks: A Primer. Diakses dari
+
+https://www.adb.org/publications/managing-digital-risks-primerAsian
+
+Development Bank+1Asian Development Bank+1
+
+Cloud Security Alliance. (2023). Highlights from the 2023 Cloud Threat Report. Diakses dari
+
+https://cloudsecurityalliance.org/articles/highlights-from-the-2023-cloud-
+
+threat-reportHome | CSA
+
+Deloitte.
+
+(2022).
+
+2022
+
+Digital
+
+Banking
+
+Maturity
+
+Report.
+
+Diakses
+
+dari
+
+https://www2.deloitte.com/us/en/pages/financial-services/articles/global-banking-
+
+solutions.htmlDeloitte United States+2Deloitte United States+2Deloitte United
+
+States+2
+
+ENISA. (2023). Threat Landscape for Supply Chain Attacks. Diakses dari
+
+https://www.enisa.europa.eu/publications/threat-landscape-for-supply-chain-
+
+attacksenisa.europa.eu+1enisa.europa.eu+1
+
+Experian. (2022). 2022 Global Identity and Fraud Report. Diakses dari
+
+https://www.experian.com/blogs/insights/experians-2022-global-identity-fraud-
+
+report/Experian
+
+Financial Stability Board. (2023). Policy Issues Concerning BigTech and FinTech. Diakses dari
+
+https://www.fsb.org/uploads/S140323.pdfFinancial
+
+Stability
+
+Board+1Financial Stability Board+1
+
+FS-ISAC.
+
+(2023).
+
+Navigating
+
+Cyber
+
+2023.
+
+Diakses
+
+dari
+
+https://www.fsisac.com/navigatingcyber2023
+
+fsisac.com+3fsisac.com+3fsisac.com+3
+
+Gartner. (2022). Implementing Zero Trust Security in the Public Sector. Diakses dari
+
+https://www.gartner.com/en/industries/government-public-sector/topics/zero-trust
+
+Gartner
+
+IBM Security. (2024). Cost of a Data Breach Report 2024. Diakses dari
+
+https://www.ibm.com/reports/data-breachIBM - United States
+
+ISACA.
+
+(2023).
+
+State
+
+of
+
+Cybersecurity
+
+2023
+
+Report.
+
+Diakses
+
+dari
+
+https://www.isaca.org/resources/reports/state-of-cybersecurity-2023ISACA
+
+Jannah, S., Surbakti, M., & Ascarya, A. (2025). Developing Green Banking Performance Measurement for Islamic Bank with Maqasid Shariah. Indikator: Jurnal Ilmiah Manajemen
+
+dan
+
+Bisnis,
+
+9(1),
+
+1-21.
+
+doi:http://dx.doi.org/10.22441/indikator.v9i1.29039
+
+Jenita, Muah, & Risman, A. (2024). Manajemen Inovasi. Karawang: Saba Jaya Publisher.
+
+Kaspersky.
+
+(2023).
+
+Cyber
+
+Security
+
+for
+
+Financial
+
+Services.
+
+Diakses
+
+dari
+
+https://www.kaspersky.com/enterprise-security/financekaspersky.com
+
+Kuosuwan, B., Risman, A., Dudukalov, E., & Kozlova, E. (2024). Digital banking and environmental impact: How Fintech supports carbon footprint reduction. BIO Web of Conferences, 145. https://doi.org/10.1051/bioconf/202414505017
+
+McKinsey & Company. (2023). Cybersecurity and Digital Finance. Diakses dari
+
+https://www.mckinsey.com/business-functions/risk-and-resilience/our-
+
+insights/cybersecurity-and-digital-finance
+
+Ningrum, M., & Risman, A. (2022). Performance Analysis of Protected Fund and Equity Fund Using Sharpe, Treynor, Jensen. Indikator: Jurnal Ilmiah Manajemen dan Bisnis, 6(1), 52 - 62. doi:http://dx.doi.org/10.22441/indikator.v6i1.15228
+
+NIST.
+
+(2022).
+
+Zero
+
+Trust
+
+Architecture
+
+(SP
+
+800-207).
+
+Diakses
+
+dari
+
+https://csrc.nist.gov/publications/detail/sp/800-207/final
+
+OECD. (2023). The Role of Regtech in Ensuring Compliance in Digital Finance. Diakses dari https://www.oecd.org/finance/the-role-of-regtech-in-ensuring-compliance-in-
+
+digital-finance.htm
+
+Pamungkas, A., & Risman, A. (2025). The Role of Financial Performance in Mediating the Effect of Sustainability on Firm Value: A Study on Property and Real Estate Companies. The EUrASEANs: Journal on Global Socio-Economic Dynamics, (2(51), 222-234. https://doi.org/10.35678/2539-5645.2(51).2025.222-234
+
+Ponemon Institute. (2023). The Efficacy of Deception Technologies. Diakses dari
+
+https://www.ponemon.org/library/the-efficacy-of-deception-technologies
+
+Prameswary, R., & Muslimin, M. (2025). The Behavioral Finance Perspective on MSMEs: Impact of Digital Finance, Financial Literacy, and Financial Inclusion. Indikator: Jurnal
+
+Ilmiah
+
+Manajemen
+
+dan
+
+Bisnis,
+
+9(2),
+
+1-11.
+
+doi:http://dx.doi.org/10.22441/indikator.v9i2.32979
+
+Puryandani, E. S., et al. Manajemen Portofolio dan Investasi. Edited by Edinov, Shelby, Eureka Media Aksara, 2024..
+
+Rani, M., & Sari, D. (2023). Blockchain and AI in Financial Cybersecurity. Journal of Financial Technology, 5(2), 45–60.
+
+Risman, A. (2021). Kurs Mata Uang dan Nilai Perusahaan. Banyumas: Pena Persada.
+
+Risman, A. (2024). The Behavioral Finance of MSME: Digital Finance, Managerial Biases, Financial Literacy. Dinasti International Journal of Economics, Finance & Accounting. 5(2): 641-649. https://doi.org/10.38035/dijefa.v5i2.2660
+
+Risman, A. (2024). The Behavioral Islamic Finance: Conceptual Framework and Literature Review. Indonesian Interdisciplinary Journal of Sharia Economics (IIJSE), 7(2), 3216-3230. https://doi.org/10.31538/iijse.v7i2.5071
+
+Risman, A., & Susanti, A. (2023). Determination of The Firm’s Performance Through Islamic Corporate Governance, Islamic Intellectual Capital and Company Size: Case Studies on Indonesian Islamic Banks (2018–2021). The EUrASEANs: Journal on
+
+Global
+
+Socio-Economic
+
+Dynamics,
+
+(6(43),
+
+202-213.
+
+https://doi.org/10.35678/2539-5645.6(43).2023.202-213
+
+Risman, A., Markonah, M., Mubarok, J., & Saputra, B. L. E. (2024). The Islamic Perspective of Gold-Based Investment: The Case of Indonesia. Tazkia Islamic Finance
+
+and
+
+Business
+
+Review,
+
+18(1),
+
+1–17.
+
+https://doi.org/10.30993/tifbr.v18i1.363
+
+Risman, A., Parwoto & Sulaeman, A., (2020). The Mediating Role of Firm’s Performance on The Relationship between Free Cash Flow and Capital Structure, Psychology and Education Journal, Vol. 58 No. 1: 1209-1216.
+
+Risman, A., Subhani, M., & Ushakov, D. (2021). Nexus between Financial Fundamentals and Automotive (Car) Industry. ARDL approach. E3S Web of Conferences, 244.
+
+https://doi.org/10.1051/e3sconf/202124408015
+
+Smith, J., & Brown, K. (2023). AI-Driven Fraud Detection in Fintech. FinTech
+
+Wahyuningsih, L., & Risman, A. (2025). The Effect Enterprise Risk Management, Sustainable Banking Disclosure, Financial Inclusion on Firm’s Value. Indikator: Jurnal
+
+Ilmiah
+
+Manajemen
+
+dan
+
+Bisnis,
+
+9(1),
+
+76–86.
+
+doi:http://dx.doi.org/10.22441/indikator.v9i1.30684
+
+
+
+
+

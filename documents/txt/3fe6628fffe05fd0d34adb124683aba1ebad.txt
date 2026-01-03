@@ -1,0 +1,927 @@
+﻿Jurnal Ilmu Sosial Humaniora Indonesia   Vol. 3, No. 2 Desember 2023, Hal. 69-82 
+ DOI: https://doi.org/10.52436/1.jishi.120 
+ 
+
+Peran Ergonomi Kognitif Dalam Mengatasi Ancaman Kecerdasan 
+Buatan Terhadap Eksistensi Manusia 
+
+Bayu Jati Jatmika*1 
+Kiki Amalia2 
+
+ 
+1,2Program Studi Psikologi Islam, Fakultas Ushuluddin dan Dakwah, Institut Agama Islam Negeri 
+
+Pontianak, Indonesia 
+*e-mail: kkpbayu@gmail.com1,  kikipsikolog@gmail.com2 
+
+ 
+(Naskah masuk : 06 November 2023, Revisi : 05 Maret 2024, Publikasi : 14 Maret 2024) 
+
+ 
+Abstrak 
+
+Ergonomi Kognitif mempelajari kognisi dalam pengaturan kerja dan operasional untuk mengoptimalkan 
+kesejahteraan manusia dan kinerja sistem. Kecerdasan Buatan mengoptimalisasikan banyak pekerjaan, 
+meningkatkan efesiensi dan mengurangi biaya produksi serta meningkatkan produktivitas. Namun dibalik 
+manfaat kecerdasan buatan tersimpan ancaman nyata yang berbahaya bagi kehidupan manusia. Eksistensi 
+kecerdasan buatan pada dasarnya merupakan sebuah tool atau “alat” untuk memudahkan segala aktivitas 
+manusia, bukan sebagai replacement atau pengganti manusia. Dengan adanya kecerdasan buatan bukan 
+berarti eksistensi manusia menjadi terdegradasi, bahkan mungkin akan semakin dibutuhkan. Karena cara 
+kerja kecerdasan buatan ini sendiri juga tetap membutuhkan operasional manusia. Filsafat akal tidak 
+mengetahui apakah sebuah mesin dapat memiliki cita, kesadaraan, dan tataran batin, dalam pengertian 
+yang sama seperti manusia. Komputasionalisme adalah posisi dalam filosofi pikiran bahwa manusia adalah 
+sistem pemrosesan informasi dan berpikir adalah bentuk komputasi. Komputasionalisme berpendapat 
+bahwa hubungan antara pikiran dan tubuh mirip atau identik dengan hubungan antara perangkat lunak 
+dan perangkat keras dan dengan demikian dapat menjadi solusi untuk masalah pikiran-tubuh. Jika sebuah 
+mesin memiliki pikiran dan pengalaman subjektif, maka ia mungkin juga memiliki perasaan (kemampuan 
+untuk merasakan), jika demikian ia juga dapat menderita, dan karena itu berhak pula atas hak-hak tertentu. 
+ 
+Kata kunci: Eksistensialisme, Ergonomi Kognitif, Kecerdasan Buatan 
+ 
+
+Abstract 
+Cognitive Ergonomics studies cognition in work and operational settings to optimize human well-being and 
+system performance. Artificial Intelligence optimizes many jobs, increases efficiency and reduces production 
+costs and increases productivity. But behind the benefits of artificial intelligence lies a real threat that is 
+dangerous to human life. The existence of artificial intelligence is basically a tool or "tool" to facilitate all 
+human activities, not as a replacement or substitute for humans. The existence of artificial intelligence does 
+not mean that human existence becomes degraded, it may even be increasingly needed. Because the way 
+artificial intelligence works itself also still requires human operations. The philosophy of reason does not 
+know whether a machine can have a mind, consciousness, and mental state, in the same sense as a human 
+being. Computationalism is a position in the philosophy of the mind that humans are information processing 
+systems and thinking is a form of computing. Computationalism holds that the relationship between mind 
+and body is similar or identical to the relationship between software and hardware and thus can be a 
+solution to mind-body problems. If a machine has subjective thoughts and experiences, then it may also have 
+feelings (the ability to feel), if so it can also suffer, and therefore also be entitled to certain rights. 
+ 
+Keywords: Artificial Intelligence, Cognitive Ergonomics, Existentialism 
+
+1. PENDAHULUAN 
+Ergonomi Kognitif atau Cognitive Ergonomic (CE) merupakan ranah keilmuan yang 
+
+mengupas dan mengelaborasi serta mendesain cara “bagaimana” suatu tugas, pekerjaan, dan 
+lingkungan maupun sistem agar dapat berinteraksi atau bersinergi antara manusia dengan 
+kemampuan kognitifnya. Berdasarkan definisi dari Asosiasi Ergonomi Internasional yang 
+menyatakan bahwa “disiplin ilmu ergonomi yang berkenaan dengan reaksi mental manusia yang 
+termuat didalamnya, seperti persepsi, memori, penalaran, respon motorik, sebagai dampak dari 
+korelasi manusia terhadap penggunaan konstituen atau elemen lain dari suatu sistem. CE 
+
+JISHI  
+P-ISSN 2797-3999 | E-ISSN 2797-4561 69 
+
+
+
+ Jurnal Ilmu Sosial Humaniora Indonesia   Vol. 3, No. 2 Desember 2023, Hal. 69-82 
+ DOI: https://doi.org/10.52436/1.jishi.120 
+ 
+menitikberatkan pada “bagaimana” pekerjaan yang dilakukan dalam pikiran, yang artinya 
+kualitas pekerjaan tersebut berkaitan pada pemahaman manusia itu sendiri tentang situasi 
+maupun kondisi. Situasi dapat juga meliputi tujuan, sarana dan batasan pekerjaan, yang secara 
+singkat disimpulkan bahwa Ergonomi Kognitif ialah ilmu yang mempelajari kognisi dalam 
+penyesuaian atau penyelarasan kerja untuk memaksimalkan kesejahteraan dan keselamatan 
+manusia dengan unjuk kerja sistem. 
+
+Ergonomi kognitif amat berlainan dengan ergonomi fisik, dikarenakan ergonomi kognitif 
+ini merupakan pelaksanaan psikologi dalam bekerja yang bertujuan agar mampu memperoleh 
+mengoptimalkan kemampuan manusia terhadap pekerjaan mereka tersebut. Di era seperti 
+sekarang ini, dimana semua menuju kepada digitalisasi, maka Interaksi komputer & manusia 
+memegang peranan besar dalam CE dimana mayoritas kehidupan dimudahkan dan dimanjakan 
+dengan teknologi digital. Hal tersebut menimbulkan problematika dan solusi baru, mayoritas 
+problem atau persoalan yang terjadi karena digitalisasi merupakan sistem yang dinamis, 
+sehingga meningkatkan keragaman dalam metode bagaimana memproses banyak aliran 
+informasi. Penelitian Kecerdasan Buatan atau Artificial Intellegence (AI) telah mencoba dan 
+membuang banyak pendekatan yang berbeda, termasuk menstimulasikan otak, memodelkan 
+pemecahan masalah manusia, logika formal, dan basis data pengetahuan yang besar serta 
+meniru perilaku hewan. Pada dekade pertama abad ke-21 pembelajaran mesin sangatlah 
+matematis dan statistis, yang kemudian telah mendominasi dan teknik ini terbukti sangat 
+berhasil membantu memecahkan banyak masalah yang menantang diseluruh industri dan 
+akademisi. 
+
+Perubahan arus teknologi yang semakin pesat, termasuk teknologi AI membuat potensi 
+besar mengubah dunia kerja manusia di masa depan. AI mengoptimalisasikan banyak pekerjaan, 
+meningkatkan efesiensi dan mengurangi biaya produksi serta meningkatkan produktivitas. 
+Namun dibalik kegunaan AI terselip ancaman nyata yang amat riskan bagi kehidupan manusia. 
+Seperti yang dikemukakan oleh bos Tesla dan SpaceX Elon Musk, yang memandang AI lebih 
+riskan daripada nuklir, dia mengutarakan pernyataan itu dikarenakan dia amat dekat dengan 
+perkembangan teknologi AI tersebut. 
+
+Ancaman dan risiko AI tersebut bagi kehidupan manusia diantaranya yakni 
+pengangguran, karna teknologi AI yang canggih mengambil alih atau menggeser pekerjaan 
+manusia; kemudian pelanggaran privasi, yang mengakibatkan ancaman keamanan digital dalam 
+melakukan tindak kriminal, dan peretasan. Pada dasarnya eksistensi AI merupakan sebuah tool 
+atau “alat” untuk memudahkan segala aktivitas manusia, namun bukanlan menjadi pengganti 
+manusia atau sebagai replacement. Dengan adanya AI bukan berarti eksistensi manusia menjadi 
+terdegradasi, bahkan mungkin akan semakin dibutuhkan. Mengingat cara kerja AI itu sendiri 
+tetaplah membutuhkan operasional manusia, sehingga kita harus meyakini bahwa AI ini 
+hanyalah sebuah bentuk tool bukan murni pencipta karya seperti manusia. Keyakinan tersebut 
+nantinya diharapkan mampu mewujudkan harmonisasi antara human dan machines. 
+
+Tujuan penelitian ini sebagai gambaran untuk mengetahui bagaimana setiap aktivitas 
+pekerjaan berefek pada pikiran dan sebaliknya, seperti apa pula pikiran berefek kepada 
+aktivitas pekerjaan. Dengan maksud sebagai upaya penerapan prinsip umum dan praktik CE 
+yang baik, sehingga mampu berkontribusi meminimalisir beban kognitif yang tidak semestinya 
+ada pada wilayah/ruang lingkup pekerjaan agar dapat meningkatkan kapasitas unjuk kerja 
+manusia. CE itu sendiri dimaksudkan untuk mengoptimalkan kemampuan tugas kognitif dengan 
+cara interferensi hubungan manusia dengan mesin atau manusia dengan komputer. Mendesain 
+metode informasi teknologi yang mampu menopang peran dan fungsi kognisi, mendesain ulang 
+pengelolaan beban kerja kognitif dan memaksimalkan kehandalan manusia. 
+
+2. TELAAH PUSTAKA 
+ 
+2.1. Ergonomi 
+
+Ergonomi diambil dari bahasa Yunani yang artinya ergon yakni “kerja” dan nomos yakni 
+“aturan”. Ergonomi dapat dimaknai sebagai kaidah atau norma yang berhubungan dengan kerja, 
+
+JISHI  
+P-ISSN 2797-3999 | E-ISSN 2797-4561 70 
+
+
+
+ Jurnal Ilmu Sosial Humaniora Indonesia   Vol. 3, No. 2 Desember 2023, Hal. 69-82 
+ DOI: https://doi.org/10.52436/1.jishi.120 
+ 
+(Hutabarat, 2017) sehingga dapat disimpulkan bahwa Ergonomi merupakan pendekatan multi 
+disiplin ilmu yang mendayagunakan sistem pekerjaan dengan manusia itu sendiri dengan tujuan 
+mencapai alat, metode, dan wilayah kerja yang kondusif, efektif dan efesien. 
+
+Ergonomi dapat juga disebut seni dalam penerapan teknologi, dalam hal menyelaraskan 
+semua prasarana yang dapat dimanfaatkan untuk kegiatan kerja dengan kapabilitas manusia 
+yang terbatas baik dalam hal fisik atau mental. Ergonomi merupakan seni mengenai manusia itu 
+sendiri dalam upayanya mengoptimalkan keamanan dan kenyamanan dalam bekerja, dan 
+menyelaraskan lingkungan yang diharapkan mampu mencapai efesiensi dan daya guna yang 
+maksimal melalui pendayagunaan peran manusia secara optimal. 
+
+Point penting dari Ergonomi dapat diinterpretasikan bahwa manusia itu sendirilah yang 
+memiliki kesadaran dalam keterbatasannya sehingga mampu mengoptimalkan kompetensi serta 
+kapabilitasnya sebagai manusia dalam upaya pencegahan kesalahan atau kecelakaan dalam 
+bekerja, kemudian mampu memaksimalkan produktivitas serta daya guna dalam keamanan dan 
+kenyamanan diwilayah atau runag lingkup pekerjaannya tersebut.  
+
+ 
+2.2. Prinsip Ergonomi 
+
+Kendati semakin berkembangnya ilmu dan pengetahuan dalam ergonomi serta 
+kemajuan teknologi yang terus berubah, namun landasan atau prinsip ergonomi tetap 
+merupakan pedoman dalam mengimplemantasikan ergonomi itu sendiri ditempat kerja. Berikut 
+landasan ergonomi antara lain yakni; a) posisi atau postur normal saat bekerja; b) 
+meminimalkan risiko dan beban yang terlalu banyak dan berlebihan; c) meletakkan alat-alat 
+supaya dapat tetap terjangkau ketika sedang bekerja; d) meminimalisasi gerakan yang statis dan 
+mengurangi titik beban; e) meminimalkan gerakan-gerakan yang berulang dan bekerja selalu 
+sesuai dengan ketinggian dimensi tubuh; f) membuat lingkungan kerja yang aman dan nyaman 
+serta mampu mencakup jarak ruang; g) melakukan peregangan saat hendak memulai pekerjaan 
+dan mengurangi stress (Hutabarat, 2017). 
+
+ 
+2.3. Bidang Studi Ergonomi 
+
+Menurut Asosisasi Internasional Ergonomi termuat 3 aspek yakni: (a) Ergonomi fisik 
+ialah ergonomi yang berkenaan pada anatomi atau tubuh manusia dan beberapa kekhususan 
+antropometrik, biomekanik dan fisiologis yang berkenaan pada aktifitas fisik; (b) Ergonomi 
+kognitif ialah ergonomi yang berkenaan dengan reaksi mental yang meliputi memori, persepsi, 
+penalaran serta respon motorik yang mempengaruhi korelasi manusia itu dengan komponen 
+lainnya dari sistem. Tema yang relevan seperti pengambilan keputusan, beban kerja mental, 
+kehandalan manusia, kinerja terampil, stress kerja, interaksi manusia dengan komputer dan 
+pelatihan yang berkenaan dengan manusia, sistem dan komputer (c) Ergonomi organisasi ialah 
+ergonomi yang berkenaan pada optimaslisasi sistem teknis sosial, yang meliputi proses, 
+kebijakan, dan struktur organisasi. Tema yang relevan seperti komunikasi, kerja tim, program 
+kerja baru, manajemen mutu dan manajemen sumber daya (Hutabarat, 2017). 
+
+ 
+2.4. Ergonomi Kognitif 
+
+Terminologi kognitif sendiri berasal dari Bahasa latin yang disebut cognoscere, yang 
+dapat diartikan untuk mengidentifikasi, mengenali, mengetahui dan mengkonsep. Ergonomi 
+kognitif meletakkan pengkhususan pada analisis reaksi-reaksi kognitif seperti analisis dan 
+diagnosis, perencanaan dan pengambilan keputusan yang dibutuhkan operator dalam industri 
+modern. Ergonomi kognitif ialah bagian dari ergonomi yang menelaah mengenai aktivitas 
+mental manusia. Pada dasarnya manusia tidak hanya sebagai reseptor pasif terhadap impetus 
+atau rangsangan, pikiran manusia itu juga secara aktif memproses dan memfilter informasi yang 
+diperoleh kemudian mengonversikannya menjadi struktur dan klasifikasi tertentu. Apa yang 
+dialami melalui pencitraan/visualisasi, mengingat dan berpikir, serta pemecahan masalah itu 
+semuanya merupakan istilah yang mendeskripsikan fase-fase dari kognitif (Hutabarat, 2018). 
+
+Terkadang proses kognitif dapat diidentikkan dengan sistem komputer (sistem 
+
+JISHI  
+P-ISSN 2797-3999 | E-ISSN 2797-4561 71 
+
+
+
+ Jurnal Ilmu Sosial Humaniora Indonesia   Vol. 3, No. 2 Desember 2023, Hal. 69-82 
+ DOI: https://doi.org/10.52436/1.jishi.120 
+ 
+komputasi) yakni masukan informasi diproses dengan cara penyaringan, pemadanan, 
+pengkonsolidasian dari berbagai informasi lain dengan informasi yang sudah ada dalam ingatan, 
+dikonversikan ke dalam strukturnya dan disusun kembali, kemudian respon keluaran 
+tergantung dari perilaku reaksi dalam diri individu tersebut.  
+
+ 
+2.5. Beban Kognitif 
+
+Cognitive Load (CL) atau beban kognitif merupakan aktivitas memori dalam rangka 
+melaksanakan tugas tertentu yang menyulitkan system pengolahan kognitif (Scharfenberg & 
+Bogner, 2010). CL memiliki 3 konstituen yakni Instrinsic Cognitive Load (ICL), Extraneous 
+Cognitive Load (ECL) dan Germane Cognitive Load (GCL). Bagian pertama yakni ICL, 
+merepresentasikan beban yang disebabkan oleh interaktivitas dalam konten yang disajikan dan 
+dipengaruhi oleh keahlian dari individu tersebut. Bagian kedua yakni ECL merepresentasikan 
+beban dari luar yang mengacu pada cara pekerjaan yang dapat menghambat pekerjaan individu. 
+
+Bagian yang ketiga yakni GCL merepresentasikan beban dalam memproses informasi 
+secara individual dan mentransfer pada memori jangka panjang dalam pembelajaran 
+(Scharfenberg & Bogner, 2010). 
+
+Bagian-bagian beban kognitif pada pekerjaan atau tugas merupakan suatu hal yang 
+harus diturunkan karena akan menyulitkan dalam memahami suatu pekerjaan atau tugas. Teori 
+beban kognitif menyatakan bahwa kekuatan dan keterbatasan arsitektur kognitif manusia 
+berasal dari desain instruksional (Moreno, 2006). 
+
+ 
+2.6. Kognitif atau Kognisi 
+
+Kognisi ialah reaksi mental yang terjadi pada suatu perihal yang didapatkan dari 
+aktivitas berpikir mengenai sesuatu. Proses tersebut terjadi ketika menerima pengetahuan dan 
+memanipulasi pengetahuan tersebut melalui kegiatan seperti mengingat dan membayangkan, 
+menganalisis dan memahami, menilai dan menalar, serta berbahasa. Kapasitas kognisi 
+terkadang diartikan sebagai kecerdasan inteligensi. Ranah keilmuan yang menelaah dan 
+mengkaji kognisi sangat beragam, diantaranya seperti filsafat, komunikasi, psikologi, 
+neurosains, serta kecerdasan buatan. Pengetahuan seseorang mengenai sesuatu diyakini dapat 
+mempengaruhi sikap mereka dan pada akhirnya memengaruhi tindakan atau perilaku mereka 
+terhadap sesuatu. Dengan demikian untuk mengubah pengetahuan seseorang akan sesuatu 
+dipercaya atau diyakini dapat mengubah pula perilaku mereka (Matlin, 1994). 
+
+Kognisi diinterpretasikan sebagai reaksi mental karena kognisi dianggap mencerminkan 
+pemikiran, artinya hal tersebut tidak secara langsung dapat diamati melainkan melalui perilaku 
+ataupun tingkah laku. Untuk tahu secara mendalam perihal kognisi muncul dan berkembanglah 
+psikologi kognitif yang mengkaji dan menyelidiki mengenai proses berpikir manusia. Dalam hal 
+proses berpikir tentunya melibatkan otak dan saraf-saraf sebagai alat berpikir manusia, maka 
+timbul dan berkembang lagi ilmu yang mempelajarinya yang disebut Neurosains Kognitif. Ilmu 
+yang menyelidiki tentang hubungan otak dan aspek-aspek lain dari sistem saraf dalam proses 
+kognisi dan pada akhirnya ilmu ini pula yang semakin berkembang dan dijadikan rujukan dan 
+dimanfaatkan dalam sistem komputasi oleh ilmu robot dalam mengembangkan kecerdasan 
+buatan.  
+
+ 
+2.7. Articifial Intelligence (AI) atau Kecerdasan Buatan 
+
+Articifial Intelligence (AI) biasanya diartikan sebagai kecerdasan buatan, yang artinya 
+merancang, atau mengonsep suatu mesin seperti komputer agar memiliki sebuah intelligence 
+atau kecerdasan berdasarkan perilaku manusia. AI diciptakan untuk merancang komputer 
+supaya dapat melaksanakan suatu perintah atau instruksi yang dapat dilakukan oleh manusia. 
+Salah satu bagian dari AI adalah sistem pakar (Turban, 1995)..  
+
+Kecerdasan buatan merupakan ilmu yang mengkaji bagaimana sebuah komputer dapat 
+menjalankan dan mengerjakan berbagai hal yang dikerjakan oleh manusia secara lebih baik. 
+Kecerdasan buatan atau AI merupakan solusi dari berbagai persoalan-persoalan yang ada 
+
+JISHI  
+P-ISSN 2797-3999 | E-ISSN 2797-4561 72 
+
+
+
+ Jurnal Ilmu Sosial Humaniora Indonesia   Vol. 3, No. 2 Desember 2023, Hal. 69-82 
+ DOI: https://doi.org/10.52436/1.jishi.120 
+ 
+dengan berbasis pada komputer dan menggunakan aplikasi yang mirip dengan proses berpikir 
+manusia atau sistem komputasi. AI adalah bagian dari ilmu komputer yang membuat perangkat 
+keras dari piranti lunak komputer agar memperoleh hasil atau pekerjaan yang sama baik atau 
+lebih baik dari apa yang dikerjakan manusia. AI memiliki banyak bidang terapan, seperti; 1) 
+Expert System (sistem pakar); 2) Natural Language Processing (pemrosesan Bahasa alamiah); 3) 
+Computer Vision and Scene Recognition; 4) Intelligence Computer Aided Instruction; 5) Speech 
+(voice) Understanding; 6) Robotics and Sensory System.  
+
+ 
+2.8. Eksistensialisme 
+
+Eksistensialisme merupakan suatu tradisi dalam pemikiran filsafat yang berpangkal pada 
+manusia sebagai subjeknya. Subjek tersebut bukan hanya sekedar manusia berpikir, melainkan 
+juga individu manusia yang melakukan, yang merasa, dan yang hidup. Poin yang mendasar dari 
+pemikiran eksistensialisme umumnya diakui sebagai kebebasan, namun sesungguhnya poin 
+terpentingnya merupakan keaslian (autentisitas). Dalam pemahaman seorang eksistensialis, 
+seorang individu berawal dari apa yang disebutnya sebagai “sikap eksistensial” yakni suatu 
+perasaan disorientasi, sikap skeptis, atau kebingungan bahkan menjadi ketakutan dihadapan 
+dunia yang tampaknya tidak berarti atau absurd. Ada pula sebagian filsuf eksistensialis yang 
+beranggapan bahwa substansi dari filsafat sistematis atau akademis tradisional terlalu abstrak 
+atau jauh dari pengalaman konkret manusia.  
+
+Sartre menyatakan bahwa secara fundamental eksistensialisme merupakan suatu konsep 
+eksistensi yang mendahului esensi, yang artinya seseorang individual adalah entitas yang 
+bersikap dan bertanggung jawab secara bebas atau independen serta sadar (eksistensi). Bukan 
+hanya predikat atau label, stereotype, klise, maupun definisi lainnya yang dipakai atau melekat 
+kepada individual tersebut (esensi). Kehidupan aktual seorang individu akhirnya bisa dijadikan 
+esensi nyata mereka, dan bukan esensi yang dipersonalitaskan orang lain kepada mereka. Oleh 
+karena itu, manusia melalui kesadarannya sendiri, menciptakan atau mewujudkan nilai-nilainya 
+sendiri, dan mentakrifkan arti bagi kehidupannya sendiri. 
+
+Kaum eksistensialisme menafikan interpretasi manusia sebagai makhluk yang rasional, 
+karena mereka memungkiri paham positivisme dan rasionalisme. Eksistensialisme mengklaim 
+bahwa manusia secara faktual menghasilkan suatu keputusan berdasarkan arti subjektif dan 
+bukan rasionalitas murni. Penolakan akal budi sebagai sumber makna atau akar substansi 
+adalah suatu konsep yang terus diulang dalam pemikiran eksistensialis, seperti fokus perasaan 
+gelisah dan ketakutan yang kita rasakan dihadapan kebebasan radikal kita sendiri dan 
+kesadaran kita akan kematian. Salah satu dampak besar eksistensialisme sebagai sebuah filsafat 
+adalah psikologi dan psikoanalisis eksistensialis, yang pertama kali mengkristal dalam karya Otto 
+Rank, rekan Sigmund Freud selama 20 tahun. 
+
+Kegelisahan menjadi parameter penting dalam eksistensialisme, hingga menjadi tajuk 
+yang prominen dalam psikoterapi. Para terapis suka memberikan filsafat eksistensialis sebagai 
+penjelasan kegelisahan. Apabila seseorang menyadari bahwa kegelisahan itu tidak mungkin 
+dihindari, maka ia dapat menjangkau potensi penuhnya. Psikologi humanistik juga memiliki 
+impetus besar dari psikologi eksistensialis dan banyak bersepaham. Teori manajemen teror, 
+yang didasarkan pada tulisan Ernest Becker dan Otto Rank adalah sebuah bidang berkembang 
+didalam studi akademik psikologi. Teori ini mencoba menginvestigasi dan menggali apa yang 
+disebut para ilmuwan sebagai “reaksi emosional implisit” yang mencuat pada orang-orang yang 
+dihadapkan pada kenyataan bahwa mereka suatu hari akan mati.  
+
+3. METODE PENELITIAN 
+ 
+
+3.1. Paradigma Interpretif 
+
+Penelitian ini menggunakan metode penelitian kualitatif dengan cara mendeskripsikan, 
+mengeksplorasi serta menemukan perspektif yang lebih luas sehingga dapat mengkonstruksi 
+berbagai pengetahuan yang didapat untuk menjadikan suatu pemahaman dan penemuan. 
+
+JISHI  
+P-ISSN 2797-3999 | E-ISSN 2797-4561 73 
+
+
+
+ Jurnal Ilmu Sosial Humaniora Indonesia   Vol. 3, No. 2 Desember 2023, Hal. 69-82 
+ DOI: https://doi.org/10.52436/1.jishi.120 
+ 
+Penelitian ini berdasarkan pada penyelidikan dan pengamatan suatu fenomena atau gejala sosial 
+dan problem manusia. Metode ini menggunakan paradigma interpretif, yang melihat kebenaran 
+atau realitas kehidupan nya tidak hanya dari satu sisi atau sudut pandang, melainkan mampu 
+melihat dari berbagai sudut pandang atau perpektif. Berikut identifikasi riset dalam paradigma 
+interpretif (Salim, 2001; 75-76): 
+
+ 
+Tabel 1. Identifikasi karakteristik riset dalam paradigma interpretif 
+
+Kriteria Heading 
+Mengadakan pemahaman, pemaknaan dan rekonstruksi Tindakan 
+
+Tujuan Penelitian 
+sosial 
+Sebagai langkah Menyusun deskripsi dan pemahaman terhadap 
+
+Peran Teori 
+kelompok Masyarakat yang hendak diteliti 
+Merupakan rekonstruksi pemikiran individual yang kemudian 
+
+Sifat Pengetahuan 
+berkembang menjadi konsensus masyarakat 
+Kekuatan teori berasal dari kehidupan keseharian yang harus dapat 
+
+Peranan Common-sense 
+digunakan oleh Masyarakat secara maksimal 
+Lebih banyak laporan dari rekonstruksi pemikiran; seolah berasal 
+
+Akumulasi pengetahuan 
+dari pengalaman yang dimiliki sendiri 
+
+Lingkup eksplanasi Ideografis 
+Kesesuaian dari kehendak baik bagi mereka yang menyadari sedang 
+
+Eksplanasi sejati 
+belajar 
+
+Bukti yang baik Ditanamkan dalam konteks interaksi social 
+Bersifat terpercaya dan asli serta dapat mengandung salah 
+
+Kriteria kualitas 
+pengertian 
+
+Nilai dan etika Nilai merupakan bagian integral dalam interaksi sosial 
+ 
+3.2. Fenomenologi 
+
+Fenomenologi merupakan studi interpretative yang bersifat apa adanya tentang 
+pengalaman manusia yang bertujuan memhami dan menggambarkan situasi manusia, peristiwa 
+dan pengalaman, “sebagai sesuatu yang muncul dan hadir sehari-hari” (Von Eckartsberg, 
+1998:3). Penelitian ini menganggap objek atau fenomena yang terjadi sebagai sesuatu hal yang 
+dinamis, sehingga hasil atau output dari konstruksi pemikiran dan interpretasi terhadap gejala 
+atau fenomena yang diteliti dilakukan secara utuh (keseluruhan). 
+
+Kuswarno (2009:36), menjelaskan mengenai penggambaran sifat dasar penelitian 
+kualitatif yang relevan dan akurat sehingga menggambarkan posisi metodologis fenomenologi 
+dan membedakannya dari penelitian kuantitatif: (1) mencari lebih dalam nilai-nilai dalam 
+pengalaman manusia, (2) terfokus pada satu tujuan dan keseluruhan, (3) menemukan makna 
+dan hakikat dari pengalaman yang dialami manusia bukan sekedar mencari penjelasan atau 
+mencari ukuran-ukuran dari realitas, (4) data yang diperoleh berbentuk deskriptif dan 
+penjabaran adalah dasar bagi pengetahuan ilmiah untuk memahami perilaku manusia, (5) 
+adanya pengalaman dan perilaku sebagai suatu kesatuan yang tidak dapat dipisahkan, baik itu 
+kesatuan antara subjek dan objek, maupun antara bagian dari keseluruh.  
+ 
+3.3. Pengumpulan data dan analisis data 
+
+Teknik dan cara pengumpulan data dilakukan dengan menggunakan dokumentasi, studi 
+kepustakaan dan gabungan atau metode triangulasi. Dokumentasi berarti cara pngumpulan data 
+dengan mencatat data-data yang sudah ada, mencari data mengenai variable yang berupa 
+catatan buku, surat, transkrip, majalah, prasati, notulen, rapat, lengger, agenda dan lain-lain. 
+
+Kemudian analisis data kualitatif dilakukan jika data empiris yang didapat adalah 
+Kumpulan data yang berupa kata-kata. Menurut Miles dan Huberman, kegiatan analisis terdiri 
+dari tiga alur kegiatan yang terjadi secara bersamaan yaitu reduksi data, penyajian data, dan 
+penarikan kesimpulan/verifikasi.  
+
+JISHI  
+P-ISSN 2797-3999 | E-ISSN 2797-4561 74 
+
+
+
+ Jurnal Ilmu Sosial Humaniora Indonesia   Vol. 3, No. 2 Desember 2023, Hal. 69-82 
+ DOI: https://doi.org/10.52436/1.jishi.120 
+ 
+4. HASIL DAN PEMBAHASAN 
+
+ 
+4.1. Risiko Artificial Intelligence (AI) 
+
+Jika penelitian tentang kecerdasan super buatan atau artificial super intelligence (ASI) 
+menghasilkan perangkat lunak yang sangat cerdas, sehingga amat potensial dapat memprogram 
+ulang dan memperbaiki dirinya sendiri. Perangkat lunak yang ditingkatkan akan lebih baik 
+dalam meningkatkan dirinya sendiri, yang berorientasi pada eskalasi diri secara rekursif. 
+Kecerdasannya akan berkembang secara eksponensial dalam ledakan kecerdasan dan dapat 
+melampaui manusia secara dramatis, yang disebut dengan Singularitas. Gagasan mengenai 
+Singularitas menemukan titik baliknya yang menjadi penyemangat dalam tulisan Ray Kurzweil. 
+
+Ray Kurzweil merupakan seorang futuris dan pengusaha yang mengambil inisiatif untuk 
+menyebarkan gagasan singularitas ke dalam ilmu budaya pop melalui publikasinya seperti The 
+Age of Intelligent Machines (1990), The Age of Spiritual Machies (1999), dan The Singularity Is 
+Near (2005). Kurzweil percaya bahwa dengan ASI, akan mencapai titik persilangan dimana 
+mesin dan bukan manusia yang berkuasa sebagai entitas paling cerdas planet bumi ini. Ray 
+Kurzweil telah meramalkan bahwa manusia dan mesin akan bergabung dimasa depan menjadi 
+cyborg yang lebih mampu dan kuat daripada keduanya. Gagasan ini yang disebut 
+transhumanisme. 
+
+Mark O’Connel dalam bukunya To Be a Machine, meringkas doktrin transhumanis yakni 
+“keyakinan mereka bahwa kita mesti mengikis penuaan sebagai pemicu dari kematian”. Bahwa 
+kita mesti memanfaatkan teknologi untuk mengkombinasikan tubuh dan pikiran kita untuk 
+berintegrasi dengan mesin sehingga dapat memperbaharui diri kita sendiri. Hal tersebut juga 
+menjadi dasar sebagai ancaman yang dihadapi oleh manusia, adapun ancaman atau resiko dari 
+penerapan AI adalah sebagai berikut: 
+
+Poin Petama, yakni Risiko Eksistensial; AI superintelligence mungkin dapat 
+meningkatkan dirinya hingga titik dimana manusia tidak dapat mengendalikannya. Ini bisa 
+seperti yang dikatakan fisikawan Stephen Hawking, “mengeja akhir umat manusia”. Filsuf Nick 
+Bostrom berpendapat bahwa AI yang sangat cerdas, jika memilih tindakan berdasarkan 
+pencapaian suatu tujuan akan menunjukkan perilaku konvergen seperti memperoleh sumber 
+daya atau melindungi dirinya dari penutupan ataupun pemberhentian. Jika tujuan AI tidak 
+sepenuhnya mencerminkan tujuan kemanusiaan maka akan merugikan umat manusia. Dia 
+menyimpulkan bahwa AI menimbulkan risiko bagi umat manusia. Ilmuwan politik Charles T. 
+Rubin berpendapat bahwa “kebajikan apa pun yang cukup maju mungkin tidak dapat dibedakan 
+dari emulasi”. Manusia seharusnya tidak menganggap mesin atau robot akan memperlakukan 
+kita dengan baik karena tidak ada alasan apriori untuk percaya bahwa mereka akan berbagi 
+sistem moralitas kita. 
+
+Poin Kedua, Bias Algortima; Program AI dapat menjadi bias setelah belajar dari data 
+dunia nyata. Ini biasanya tidak diperkenalkan oleh perancang sistem tetapi dipelajari oleh 
+program, dengan demikian pemrograman sering tidak menyadari bahwa ada bias. Bias dapat 
+secara tidak sengaja diperkenalkan dengan cara data pelatihan yang dipilih. Ini juga dapat 
+muncul dari korelasi AI digunakan untuk mengklasifikasikan individu ke dalam kelompok dan 
+kemudian membuat prediksi dengan asumsi bahwa individu tersebut akan menyerupai anggota 
+kelompok lainnya. 
+
+Poin Ketiga, Pengangguran; teknologi yang cenderung meningkat menjadi penyebab 
+terjadinya pengurangan jumlah tenaga kerja, tetapi para ekonom mengakui bahwa kita berada 
+diwilayah yang belum dipetakan dengan AI. Tidak serperti gelombang otomatisasi sebelumnya, 
+banyak pekerjaan kelas menengah dapat dihilangkan dengan kecerdasan buatan.  
+ 
+4.2. Rekonstruksi Eksplanasi AI 
+
+AI merupakan kecakapan digital yang dikendalikan oleh komputer untuk melaksanakan 
+instruksi atau fungsi yang berkenaan dengan mode intelektual. Dalam proses pengembangannya 
+sistem ini dibekali dengan kesadaran komputasi yang menjadi karakter manusia, sebagaimana 
+
+JISHI  
+P-ISSN 2797-3999 | E-ISSN 2797-4561 75 
+
+
+
+ Jurnal Ilmu Sosial Humaniora Indonesia   Vol. 3, No. 2 Desember 2023, Hal. 69-82 
+ DOI: https://doi.org/10.52436/1.jishi.120 
+ 
+kompetensi penalaran, menentukan makna, dan pemecahan masalah. Teori kesadaran 
+komputasi bertujuan untuk mengindikasikan bahwa bahasa komputer memegang kunci untuk 
+menyingkap bagaimana sistem materi yang bergerak, yaitu otak dapat menghasilkan kesadaran 
+dan kecerdasan. Gambaran otak sebagai komputer telah menjadi begitu meluas dan 
+berpengaruh sehingga banyak orang berpikir sesuatu yang sangat penting mengenai 
+pemahaman manusia akan hilang, kecuali kita dapat membuktikan bahwa kesadaran manusia 
+hanyalah jenis lain dari sistem komputer. Selain itu teori kesadaran komputasi mengungkapkan 
+keinginan teknologi tertentu untuk berkuasa, jika mampu menciptakan AI hanya dengan 
+merancang program komputer, kita akan mencapai penguasaan teknologi akhir manusia atas 
+alam. 
+
+Sejak tahun 1940-an yakni fase dimana pengembangan komputer digital telah 
+menunjukkan bahwa komputer dapat diprogram untuk melakukan instruksi dan fungsi-fungsi 
+yang sangat rumit. Pada tahun 1950 seorang penulis yang bernama Alan Turing mengusulkan 
+untuk mempertimbangkan pertanyaan dapatkah mesin berpikir? Dia menyarankan untuk 
+mengubah pertanyaan dari apakah sebuah mesin “berpikir” menjadi apakah mesin dapat 
+menunjukkan “perilaku cerdas atau tidak”, dia merancang tes turing yang mengukur 
+kemampuan mesin untuk mensimulasikan percakapan manusia. Karena kita hanya bisa 
+mengamati perilaku mesin, tetapi tidak tentang masalah apakah mesin itu “benar-benar” 
+berpikir atau secara harfiah memiliki “pikiran”. 
+
+Investigasi AI pada awalnya mengembangkan algoritma yakni dengan meniru penalaran 
+tahap demi tahap yang digunakan manusia saat memecahkan teka-teki atau membangun 
+deduksi logis. Ternyata algoritma ini terbukti tidak cukup ampuh untuk memecahkan masalah 
+penalaran yang besar karena mengalami “ledakan kombinatorial”, dan akan menjadi lebih 
+lambat secara eksponensial saat masalah yang bertambah besar. Bahkan kita jarang 
+menggunakan deduksi tahap demi tahap yang dapat dimodelkan oleh penelitian AI awal. Oleh 
+karenanya, kita terkadang memecahkan sebagian besar masalah dengan menggunakan penilaian 
+yang cepat dan intuitif. Sedangkan AI dapat memecahkan banyak masalah dengan mencari 
+secara cerdas melalui banyak kemungkinan solusi, dengan metode algoritma heuristik. 
+
+Kemudian bentuk logika yang digunakan dalam penelitian AI juga berbeda, yakni logika 
+proposisional yang mengikutsertakan fungsi kebenaran seperti “tidak” dan “atau”. Kemudian 
+Logika fuzzy yang menegaskan “tingkat kebenaran” tersebut yakni (antara 0 dan 1) untuk 
+mengafirmasi yang tidak jelas seperti pada terjemahan atau interpretasi “tua, kaya, tinggi atau 
+lapar” yang secara linguistik sangat kurang tepat untuk sepenuhnya dapat dikatakan benar atau 
+salah. Sedangkan logika default, logika dan batasan non monotonika adalah bentuk logika yang 
+dirancang untuk membantu penalaran default dan masalah kualifikasi. Beberapa ekstensi logika 
+telah dirancang untuk menangani domain pengetahuan tertentu, seperti logika deskripsi, 
+kalkulus situasi, kalkulus peristiwa dan kalkulus fasih (untuk merepresentasikan peristiwa dan 
+waktu). 
+
+Representasi pengetahuan dan rekayasa pengetahuan memungkinkan program AI untuk 
+menjawab pertanyaan secara cerdas dan membuat kesimpulan tentang fakta dunia nyata. 
+Program yang benar-benar cerdas juga membutuhkan akses ke pengetahuan yang masuk akal, 
+kumpulan fakta yang diketahui orang biasa. Semantik ontologi biasanya direpresentasikan 
+dalam logika deskripsi, seperti bahasa ontology web. 
+ 
+4.3. Kesadaran Mesin dan Pikiran AI 
+
+Dalam hal pemrosesan bahasa, sistem NLP (Natural Language Processing) atau 
+pemrosesan Bahasa alami pada AI, yakni dengan memungkinkan mesin untuk mengidentifikasi 
+dan memahami Bahasa manusia. Sistem NLP yang sangat kuat akan melegitimasi bahasa alami 
+dan pemerolehan pengetahuan langsung dari sumber tulisan manusia, berupa teks ataupun 
+berita. AI simbolik menggunakan sintaksis formal untuk menerjemahkan struktur kalimat penuh 
+makna ke dalam logika. Teknik statistik modern mencakup frekuensi kemunculan bersama 
+(seberapa sering satu kata muncul didekat kata lain), pencarian kata kunci (mencari kata 
+tertentu untuk mengambil informasi), pembelajaran mendalam berbasis transformator (yang 
+
+JISHI  
+P-ISSN 2797-3999 | E-ISSN 2797-4561 76 
+
+
+
+ Jurnal Ilmu Sosial Humaniora Indonesia   Vol. 3, No. 2 Desember 2023, Hal. 69-82 
+ DOI: https://doi.org/10.52436/1.jishi.120 
+ 
+menemukan pola dalam teks), dan yang lain. Mereka mencapai akurasi yang dapat diterima 
+ditingkat halaman atau paragraph, dan pada tahun 2019 dapat menghasilkan teks yang koheren. 
+AI simbolik juga mensimulasikan penalaran sadar tingkat tinggi yang digunakan orang saat 
+memecahkan teka-teki, menggunakan penalaran hukum, dan mengerjakan matematika. Sangat 
+berhasil dalam tugas-tugas “cerdas” seperti teks aljabar atau IQ. Namun, pendekatan simbolik 
+gagal pada banyak tugas yang mudah diselesaikan manusia, seperti belajar, mengenali objek 
+atau penalaran akal sehat. Paradox Moravec adalah penemuan bahawa tugas “cerdas” tingkat 
+tinggi mudah untuk AI, tetapi tugas “naluriah” tingkat rendah sangatlah sulit.  
+
+Filsafat akal tidak mengetahui apakah sebuah mesin dapat memiliki cita, kesadaraan, 
+dan tataran batin, dalam pengertian yang sama seperti manusia. Masalah ini 
+mempertimbangkan pengalaman internal mesin, bukan perilaku eskternalnya. David Chalmers 
+mengidentifikasi dua masalah dalam memahami pikiran, yang dia namakan kesadaran yang 
+“sulit” dan “mudah”. Masalah yang mudah adalah memahami bagaimana otak memproses sinyal, 
+membuat rencana, dan mengontrol perilaku. Masalah yang sulit adalah menjelaskan bagaimana 
+rasanya atau mengapa rasanya seperti apa pun. Pemrosesan informasi manusia mudah 
+dijelaskan, namun pengalaman subjektif manusia sulit untuk dijelaskan. Komputasionalisme 
+adalah posisi dalam filosofi pikiran bahwa manusia adalah sistem pemrosesan informasi dan 
+berpikir adalah bentuk komputasi. Komputasionalisme berpendapat bahwa hubungan antara 
+pikiran dan tubuh mirip atau identik dengan hubungan antara perangkat lunak dan perangkat 
+keras dan dengan demikian dapat menjadi solusi untuk masalah pikiran-tubuh. 
+
+Filsuf Roger Penrose dan John Searle berpendapat bahwa pada prinsipnya tidak mungkin 
+komputer dengan kecerdasan setingkat manusia. Pemahaman manusia tidak dapat direduksi 
+menjadi aktivitas algoritmik, karna pikiran manusia dicirikan oleh aktivitas nonkomputasi. 
+Meskipun demikian, sebuah mesin dengan sempurna mensimulasikan perilaku manusia, tetap 
+tidak ada alasan untuk menganggap mesin itu juga memiliki pikiran. Jika sebuah mesin memiliki 
+pikiran dan pengalaman subjektif, maka ia mungkin juga memiliki perasaan (kemampuan untuk 
+merasakan), jika demikian ia juga dapat menderita, dan berhak pula atas hak-hak tertentu.  
+ 
+4.4. Korelasi Kognisi, Emosi dan Gangguan Emosional 
+
+Emosi merupakan aspek yang dominan dalam mempengaruhi proses kognisi misalnya 
+seperti penalaran, persepsi, ingatan, pengambilan keputusan, Bahasa serta proses kognisi 
+lainnya. Menurut Suharnan (2005) menyatakan bahwa dampak emosi bisa tumbuh pada bagian 
+dari kerja kognisi manusia yang dimulai dari kodifikasi dan transformasi informasi, kemudian 
+penyimpanan informasi dalam gudang ingatan, selanjutnya penggalian kembali informasi yang 
+telah disimpan dalam ingatan untuk dibangkitkan kembali dalam upaya memberikan reaksi 
+terhadap suatu instruksi, sampai pada proses berpikir, memecahkan masalah dan kreativitas. 
+Terkadang pikiran dan otak sering dianalogikan dengan komputer, sehingga seringkali 
+dimetafora kan komputer tetap dalam ilmu kognitif. Namun menurut Psikolog Robert Epstein 
+berpendapat bahwa otak tidaklah sama seperti komputer, karena otak tidak menyimpan kata-
+kata atau aturan yang memberitahu kita bagaimana memanipulasinya, dan tidak ada pula 
+penyimpanan atau transfer bahkan pengambilan yang terjadi diotak manusia, tidak ada 
+harddrive dimana informasi disimpan, itu hanyalah hal-hal yang berhubungan dengan komputer 
+namum tidak ada hubungannya dengan organisme hidup. 
+
+Sedangkan menurut Ulric Neisser (1967) dalam bukunya Cognitive Psychology, sangat 
+skeptis mengenai kapasitas metafora komputer untuk menjelaskan aspek spesifik perilaku 
+manusia, termasuk emosi. Tidak seperti manusia, program kecerdasan buatan cenderung 
+berpikir sederhana, tidak dapat diganggu, dan tidak emosional, kemudian dia menegaskan 
+bahwa tubuh memberikan pengalaman sensorik tambahan yang penting, menyiratkan bahwa 
+kognisi tidak terbatas pada otak. Sebagian besar riset yang menyelidiki hubungan keadaan 
+emosional yang berfokus pada peran ketakutan dan kecemasan menemukan bahwa kecemasan 
+sifat dapat memberikan tekanan lebih besar pada beban kognitif, sehingga mengurangi 
+kompetensi untuk fokus pada tugas yang ada. 
+
+Kecemasan dan depresi merupakan gangguan emosional yang paling umum, secara 
+
+JISHI  
+P-ISSN 2797-3999 | E-ISSN 2797-4561 77 
+
+
+
+ Jurnal Ilmu Sosial Humaniora Indonesia   Vol. 3, No. 2 Desember 2023, Hal. 69-82 
+ DOI: https://doi.org/10.52436/1.jishi.120 
+ 
+teoritis bersifat provokatif, gangguan emosional tersebut menunjukkan bahwa sifat-sifat kognitif 
+yang berbeda fenomena atensional (perhatian) lebih mencederung pada gangguan kecemasan, 
+sedangkan fenomena memori lebih mencenderung pada gangguan depresi. 
+
+Kognisi manusia tidak senantiasa bersifat rasional dikarenakan melibatkan banyak bias 
+dalam persepsi dan dalam ingatan manusia. Emosi dapat pula mengarahkan jalannya sebuah 
+hubungan dan memotivasi orang dalam mencapai suatu sasaran. Tanpa kemampuan merasakan 
+emosi, manusia akan mengalami kesulitan dalam mengambil keputusan atau merencanakan 
+sesuatu. Dengan demikian motivasi berperan dalam terbentuknya regulasi emosi, dimana 
+motivasi sosial dapat membentuk regulasi emosi yang dilakukan.  
+ 
+4.5. Legitimasi Kognitif dalam Relevansi Keputusan 
+
+Keputusan merupakan komitmen terhadap rencana Tindakan yang berdasarkan pada 
+informasi dan nilai-nilai yng terkait dengan hasil yang mungkin akan terjadi. Kebanyakan 
+keputusan yang kita buat tidaklah bergantung pada satu aliran data saja, melainkan otak harus 
+mempunyai cara yang memungkinkan beberapa sumber informasi mengakses variabel 
+keputusan dan memfilter yang lainnya. Metode ini dianggap cara yang paling rasional untuk 
+menafsirkan proses pengalokasian atensi, yang memiliki peran yang sangat potensial dalam 
+mengambil keputusan berdasarkan bukti dari hasil ingatan. Hasil dari keputusan tersebut 
+mengarah pada hasil yang paling relevan, namun bukanlah sebuah Tindakan melainkan 
+perubahan dalam jalur informasi di otak. Menurut Power dan Petersen, 2013 mengemukakan 
+bahwa hal tersebut sebagai pengendalian dan sangat berbeda dengan pemrosesan. 
+
+Namun menurut Wild Cats berpendapat bahwa lebih baik membiarkan segala 
+sesuatunya sebagaimana adanya, daripada mengacaukan arus. Tetapi, dalam kehidupan nyata, 
+Ketika mengambil keputusan, orang biasanya membuat daftar pro dan kontra untuk sejumlah 
+pilihan, mencari alternatif, dan menilai kualitas pilihan yang sangat mungkin atau relevan. 
+
+Pada umumnya seseorang cenderung mengambil keputusan dalam situasi kehidupan 
+sehari-hari dengan berpikir bahwa apa yang dipilihnya adalah pilihan terbaik. Namun, Menurut 
+Galotti (2002) menyatakan bahwa sistem kognitif kita bisa saja tidak akurat dan menyebabkan 
+kesalahan, dan menyajikan model pengambilan keputusan beberapa fase atau tahapan. Pertama, 
+untuk mengambil keputusan kita harus menetapkan tujuan realitis yang ingin dicapai. 
+Selanjutnya mengumpulkan informasi yang tersedia tentang rute menuju tujuan. Kemudian 
+mengatur data, Menyusun keputusan dan mempertimbangkan semua pro dan kontra yang 
+dikumpulkan dalam proses tersebut. Secara singkat Galotti menyimpulkan bahwa mengambil 
+keputusan bukanlah tugas yang mudah dan kita biasanya cenderung mengambil keputusan yang 
+bias. 
+ 
+4.6. Disonansi Kognitif dalam Pemecahan Masalah 
+
+Seperti yang telah dipaparkan diatas ternyata dalam pengambilan keputusan ternyata 
+banyak hal pro dan kontra yang harus difilter agar tidak menimbulkan kebingungan dan bias. 
+Menurut Leon Festinger, disonansi kognitif adalah ketidaknyamanan psikologis yang dialami 
+seseorang ketika ia memiliki dua atau lebih keyakinan yang bertentangan yang bekerja pada 
+saat yang bersamaan. Kognisi kita memainkan peran penting dalam menjadikan kita apa adanya. 
+Kognitif ini mempengaruhi semua aspek kehidupan kita, misalnya sistem 
+nilai/moral/keyakinan, pikiran dan proses berpikir, sikap terhadap kehidupan dan Tindakan 
+serta perilaku. Motivasi yang kuat untuk menjaga konsistensi kognitif juga bias menimbulkan 
+perilaku yang tidak rasional (irrasional behavior) dan menyimpang (maladaptive). Kondisi ini 
+tentunya akan menimbulkan afeksi negative yang berarti perasan tidak menyenangkan seperti 
+rasa bersalah. Pengambilan keputusan, pemecahan masalah, dan Sebagian besar Tindakan serta 
+kepraktisan kita diatur oleh kognisi kita. Ketika kognisi ini tidak sejalan satu sama lain, 
+kemungkinan besar akan mengalami kondisi pikiran yang menyusahkan sehingga seseorang 
+akan mencari konsistensi psikologis antara harapan dan realitas eksistensial dunia. 
+
+Penciptaan dan pembentukan konsistensi psikologis memungkinkan orang yang terkena 
+
+JISHI  
+P-ISSN 2797-3999 | E-ISSN 2797-4561 78 
+
+
+
+ Jurnal Ilmu Sosial Humaniora Indonesia   Vol. 3, No. 2 Desember 2023, Hal. 69-82 
+ DOI: https://doi.org/10.52436/1.jishi.120 
+ 
+disonansi kognitif untuk mengurangi tekanan mental melalui tindakan yang mengurangi 
+besarnya disonansi, yang diwujudkan dengan mengubah atau dengan membenarkan atau 
+dengan bersikap acuh tak acuh terhadap kontradiksi eksistensial yang menyebabkan mental 
+tertekan. Kontradiksi keyakinan, cita-cita, atau system nilai menyebabkan disonansi kognitif 
+yang dapat diselesaikan dengan mengubah keyakinan yang ditentang, namun alih-alih 
+melakukan perubahan, tekanan mental yang diakibatnya malah mengembalikan keselarasan 
+psikologis pada orang tersebut melalui kesalahan persepsi, penolakan atau sanggahan terhadap 
+kontradiksi, mencari dukungan moral dariorang-orang yang memiliki keyakinan yang 
+bertentangan atau bertindak untuk meyakinkan orang lain bahwa kontradiksi tersebut tidak 
+nyata.  
+ 
+4.7. Refleksi Kognitif dalam Kreativitas dan Kesadaran 
+
+Kreativitas seringkali didefinisikan sebagai kemampuan untuk mengembangkan ide, 
+artefak, atau solusi baru dan efektif. Kreativitas adalah bidang penelitian dan praktik yang 
+kompleks, namun perspektif neoliberal sering kali mendorong wacana pendidikan tentang 
+kretivitas, menekankan dorongan instrumentalis dan masyarakat menuju inovasi. Namun 
+mungkin yang lebih penting, kreativitas adalah cara hidup didunia dengan nilai substantif untuk 
+kesejahteraan dan ekspresi yang berpusat pada manusia. Kreativitas merupakan kemampuan 
+untuk menata hal-hal baru, yang ditandai dengan mengolah atau menghasilkan keahlian 
+berimajinasi, memanifestaikan sebuah ciptaan yang baru. Ketika kemampuan untuk mencipta 
+ini terealisasikan, maka sesuatu itu menjadi eksis, yang mana dari tingkat ketiadaan menjadi 
+ada. Bahkan dengan kemajuan dunia teknologi sekarang ini kecerdasan juga telah menjadi suatu 
+hal atau kondisi baru, kecerdasan itu sendiri dapat dibuat (kecerdasan buatan) dengan hasil 
+karya kreativitas manusianya. 
+
+Pada dasarnya kreativitas manusia maupun kesadaran manusia merupakan konsekuensi 
+yang tidak disengaja dari efesiensi energi otak manusia yang luar biasa. Otak dapat memberikan 
+petunjuk untuk memahami proses kreatif, secara khusus kreativitas muncul dari sinergi yang 
+sangat kuat antara dua mode operasi kognitif yang melakukan komputasi secara berulang dan 
+andal. Sedangkan kesadaran digambarkan sebagai sesuatu yang berhubungan dengan objek 
+tertentu kemudian didefinisikan dalam istilah kemampuan untuk memahami objek tersebut 
+sebagai sesuatu yang ada, tidak bergantung pada bidang pandangan lainnya. Kesadaran muncul 
+dari interaksi antara ingatan dan peran dinamis sentral yang dimainkan oleh keadaan 
+kontrafaktual didekatnya. 
+
+Kesadaran dicirikan oleh kesegeraan mutlak yang melampaui semua pengalaman yang 
+dapat diobjektifkan, sehingga sia-sia untuk menganggap kesadaran sebagai “masalah”, karena 
+melakukan hal itu berarti mengobjektifkannya. Selain itu, jika kesadaran harus dibuktikan dalam 
+arti yang sama dengan misalnya benda (kursi atau pohon), maka kesadaran hanyalah objek 
+diantara yang lainnya, pada titik dimana setiap pembicaraan tentang kesadaran menjadi hal 
+yang tidak dapat diobjektifkan. Dasar pengalaman menjadi upaya yang sia-sia untuk 
+membuktikannya, karena alasan untuk berpikir kesadaran akan muncul hanya ketika ada 
+kesadaran-aku dalam kaitannya dengan objek eksternal, karena akal logis kita menuntut 
+kesadaran harus ada terlebih dahulu, agar dapat menjadi sadar-diri oleh pengetahuan tentang 
+objek yang kontras dengan dirinya sendiri. Bukti yang lebih rumit menunjukkan bahwa 
+kesadaran hanya bisa menjadi subjek yang mendasari semua pengalaman kita, karenanya itu 
+harus lebih mendasar daripada pengalaman reflektif dan intersubjektif (melibatkan banyak) 
+kita. Dengan demikian perlu dicata bahkan dipahami bahwa kesadaran adalah fenomena 
+multimodal yang memiliki mode nonreflektif, reflektif dan intersubjektif. 
+
+Hal pertama yang harus diperhatikan tentang “kesadaran” itu mirip dengan masalah 
+mendefinisikan “keberadaan”, seseorang tidak dapat berusahan untuk mendefinisikan 
+“keberadaan” tanpa memulai dengan mendefinisikan “mahkluk”. Hal yang sama terjadi dengan 
+istilah “kesadaran” yang tidak dapat didefinisikan karena merupakan landasan tertinggi dari 
+semua objek yang dapat diketahui. Apapun yang dikenal sebagai objek harus disajikan kepada 
+kesadaran dan dalam pengertian ini adalah landasan reflektif dan non-reflektif dari semua hal 
+
+JISHI  
+P-ISSN 2797-3999 | E-ISSN 2797-4561 79 
+
+
+
+ Jurnal Ilmu Sosial Humaniora Indonesia   Vol. 3, No. 2 Desember 2023, Hal. 69-82 
+ DOI: https://doi.org/10.52436/1.jishi.120 
+ 
+dan semua hubungan intersubjektif. Untuk dapat didefinisikan, “kesadaran”, seperti “makhluk”, 
+harus dibawa ke dalam genus yang lebih tinggi, sementaara pada saat yang sama dibedakan dari 
+entitas selain dirinya yang termasuk dalam genus yang sama. Namun ini akan melanggar premis 
+bahwa itu adalah subjek paling tahu dari semua objek yang diketahui. 
+
+Konsep kesadaran non-reflektif membuka batas terjauh dari pendekatan empiris murni 
+untuk mempelajari kesadaran. Ini karena kesadaran adalah fenomena orang pertama, dan 
+fenomena semacam itu tidak dapat direduksi menjadi sikap objektivis orang ketiga yang 
+mencirikan berbagai teori kesadaran fungsional-komputasi. Selain itu, karena kesadaran adalah 
+inti dari subjektivitas manusia, tidak ada cara untuk keluar dari kesadaran untuk mengintip 
+kedalamnya. Dengan kata lain, karena titik awal sains empiris adalah penilaian reflektif, ia sudah 
+mengandaikan struktur subjek-objek serta kesadaran non-reflektif pada tingkat epistemik yang 
+paling mendasar. Seperti yang disinggung sebelumnya, kesadaran non-reflektiflah yang 
+mendasari refleksifitas, bukan sebaliknya. Semua ini menimbulkan pertanyaan: Jika kesadaran 
+bersifat multimodal dan memiliki landasan non-reflektif, bagaimana kita bisa menganalisisnya 
+secara empiris melalui instrumen ilmiah? Non-reflektifitas kesadaran menyiratkan bahwa saat 
+kita mencoba menangkapnya melalui pikiran kita, kita menemukan gambaran objek kesadaran 
+kita di dalamnya daripada kesadaran itu sendiri. Oleh karena itu, perenungan atau introspeksi 
+tidak akan pernah dapat menangkap hakikat kesadaran. 
+
+Teori komputasi kesadaran mengobjektifkan kesadaran dua kali; pertama ketika 
+kesadaran dipahami dalam pikiran sebagai objek penyelidikan ilmiah, dan kedua ketika 
+berusaha untuk mengungkapnya dengan mengamati dan kemudian berteori berbagai keadaan 
+psiko-fisik, yang merupakan manifestasi dari kesadaran daripada kesadaran itu sendiri. 
+Kesulitan konseptual yang menimpa pendekatan empiris justru terletak pada 
+ketidakmampuannya untuk melihat struktur kesadaran multimodal, yang bertahan sebagai 
+sebuah kontinum meskipun mode reflektif dan intersubjektifnya. Ini juga tidak akan membantu 
+untuk hanya menolak struktur multimodal ini, karena setiap kali kita mencoba untuk 
+menyangkal kesadaran nonreflektif, kita pasti menggunakan kesadaran reflektif untuk 
+melakukannya, yang menunjukkan dengan cara tertentu, sanggahan kesadaran sebagai landasan 
+yang mendasari subjektivitas sudah mengandaikan realitasnya sendiri. 
+
+Secara keseluruhan, wawasan tentang sifat kesadaran di atas membantah gagasan 
+bahwa kesadaran dapat direplikasi dalam sebuah mesin, karena apa pun yang direplikasi adalah 
+citra kesadaran yang diobyektifkan daripada kesadaran itu sendiri. Selain itu, multimodalitas 
+kesadaran memunculkan manifestasinya yang kompleks dalam berbagai domain eksistensi yang 
+melampaui pola algoritmik.  
+
+5. KESIMPULAN 
+Jadi, pada intinya masalah AI kembali pada interpretasi ideologis sains dan metode 
+
+ilmiah. Otoritas sains begitu meresap dalam budaya kita sehingga sejak pencerahan kita 
+cenderung mendefinisikan identitas dan nilai manusia dalam kaitannya dengan nilai-nilai sains 
+itu sendiri, seolah-olah sains itu sendiri yang dapat memberi tahu kita siapa diri kita. Tetapi 
+mendefinisikan diri hanya dalam istilah ilmiah cenderung mengaburkan bentuk identitas lain, 
+seperti kerja seseorang, peran sosial, atau nilai moral dan spiritual. Yang pasti, kita dapat 
+dijelaskan dalam banyak tingkatan, dari molekuler hingga psikologis hingga spiritual. Sains 
+memungkinkan kita untuk melihat diri kita sebagai objek fisik alami yang kompleks, tapi itu 
+hampir tidak memadai. Karena kita adalah subjek dari pengalaman, niat, pemikiran, dan 
+penilaian kita sendiri, bukan hanya objek. Namun, di dunia yang didominasi Google, orang 
+semakin dipengaruhi oleh pandangan reduksionis dan berorientasi mesin tentang diri, 
+kesadaran, kecerdasan, dan kepribadian, karena AI jarang memberikan perspektif non-modern 
+tentang masalah ini. Artinya, pelanggaran kolonialisme AI terhadap nilai-nilai kemanusiaan 
+sangat nyata.  
+
+Ada sedikit ruang untuk memasukkan kontemplasi atau kekuatan sintetik kecerdasan, 
+yang secara sadar mampu mengajukan pertanyaan terkait makna dan keberadaan kehidupan. 
+Untuk membuka pembicaraan tentang kecerdasan sambil membahas kesadaran, karena tidak 
+
+JISHI  
+P-ISSN 2797-3999 | E-ISSN 2797-4561 80 
+
+
+
+ Jurnal Ilmu Sosial Humaniora Indonesia   Vol. 3, No. 2 Desember 2023, Hal. 69-82 
+ DOI: https://doi.org/10.52436/1.jishi.120 
+ 
+mungkin membayangkan pemikiran (ciri kecerdasan) tanpa mengandaikan kesadaran. Tetapi 
+pendekatan fungsional-mekanistik yang lazim mencegah kita untuk melihat keterkaitan antara 
+semua realitas yang mendefinisikan kedirian manusia ini. Begitu kecerdasan direduksi menjadi 
+fungsi analitiknya, hanya ada sedikit ruang tersisa untuk melihat bagaimana hal itu bergantung 
+pada psikologi moral atau pemurnian (tazkiyah) untuk pertumbuhan dan kesempurnaannya. 
+Oleh karena itu, tradisi Islam membedakan antara kecerdasan universal dan parsial. Dan teori 
+kecerdasan manusia yang lengkap menggambarkan perkembangan kecerdasan dari potensi ke 
+aktualitas. Ini menjelaskan transformasi kecerdasan dari tingkat terendah ke tertinggi melalui 
+agen universal seperti Akal Aktif (akal; agen yang bertanggung jawab untuk mengaktualisasikan 
+potensi kecerdasan manusia) dan gaya hidup etis dan spiritual yang membentuk fungsi 
+kecerdasan manusia. Kecerdasan manusia terdiri dari akal, intuisi, pemahaman, kebijaksanaan, 
+kesadaran moral, dan penilaian estetika selain perhitungan. Namun, di dunia yang didominasi 
+AI, "kecerdasan" hanya menyiratkan fungsi analitik komputasi. Oleh karena itu, bagi para 
+pendukung Dataisme, tidak ada perbedaan mendasar antara kecerdasan alami dan kecerdasan 
+buatan, artinya kita hanyalah sebuah komputer dan algoritmanya. Di sini paradigma ini, yang 
+menolak untuk keluar dari pendekatan fungsionalis dan berorientasi mesinnya, menemui jalan 
+buntu. 
+
+DAFTAR PUSTAKA 
+
+De Jong, T. (2010). Cognitive Load Theory, Educational Research and Instructional Design: Some 
+Food For Thought. International Science. 38(2): 105-134. https://doi.org/10.1007/s11251-
+009-9110-0 
+
+Haugeland, John. (1997). Mind Design II, Philosophy Psychology Artificial Intelligence. Cambridge, 
+London: MIT Press.  
+
+Hutabarat, Yulianus. (2017). Dasar-Dasar Pengetahuan Ergonomi. Malang: Media Nusa Creative. 
+http://eprints.itn.ac.id/id/eprint/3450 
+
+Hutabarat, Yulianus. (2018). Kognitif Ergonomi; Aplikasi Pada Pencatingan Batik Tulis dan Sopir 
+Angkutan Kota. Malang: Mitra Gajayana. 
+
+Kuswarno, Engkus. (2009). Fenomenologi. Bandung: Widy Padjadjaran. 
+Lidinillah, Mustofa Anshori. (2003). Eksistensi Manusia dalam Perspektif Tasawuf. UGM 
+
+Yogyakarta: Jurnal Filsafat, Jilid 33 No 1. 
+https://media.neliti.com/media/publications/223123 
+
+Martin, Margaret W. (1994). Cognition, Third Edition. State University of New York, Geneso: Ted 
+Buchholz 
+
+Moreno, R. (2006). When worked examples don’t work: Is cognitive load theory at an impasse?. 
+Learning and instruction 16(2): 170-181. 
+https://doi.org/10.1016/j.learninstruc.2006.02.006 
+
+Plass J. L. Moreno R., & Brunken R. (2010). Cognitive Load Theory. Cambridge: Cambridge 
+University Press 
+
+Salim, Agus. (2001). Teori dan Paradigma Penelitian Sosial. Tiara Wacana: Yogyakarta 
+Scharfenberg, F.J. & Bogner, F.X. (2010). Instructional efficiency of changing cognitive in an out 
+
+of school laboratory. International Journal of Science Education, 32(6): 829-844. 
+https://doi.org/10.1080/09500690902948862  
+
+Sternberg, R. J. (2008). Psikologi Kognitif Edisi Keempat. Yogyakarta: Pustaka Pelajar 
+Suharnan. (2005). Psikologi Kognitif. Surabaya: Srikandi 
+Sugiyono. (2008). Metode Penelitian Pendidikan, Pendekatan Kuantitatif, Kualitatif dan R&D. 
+
+Bandung: Alfabeta Cetakan Keempat 
+Tambunan, Sihol Farida. (2016). Kebebasan Individu Manusia Abad Dua Puluh: Filsafat 
+
+Ekstensialisme Sartre. Jambi: Jurnal Masyarakat & Budaya 18(2) 
+
+JISHI  
+P-ISSN 2797-3999 | E-ISSN 2797-4561 81 
+
+
+
+ Jurnal Ilmu Sosial Humaniora Indonesia   Vol. 3, No. 2 Desember 2023, Hal. 69-82 
+ DOI: https://doi.org/10.52436/1.jishi.120 
+ 
+Turban, Efraim. (1995). Decision support systems and expert system. United States: Prentice-Hall, 
+
+Inc. 
+Utomo, Hanggara Budi. (2015). Keterkaitan antara Kognitif dengan Regulasi Emosi. Kediri: 
+
+Universitas Airlangga 
+Von Eckartsberg, R. (1998). Existential Ethnomethodology research. In R. Valle (Ed.) Inquiry in 
+
+psychology. New York: Plenum 
+Yohanes, B. & Sisworo, S. (2016). Beban Kognitif Siswa dalam Pembelajaran Materi Geometri. 
+
+Malang: Jurnal Pendidikan 1(2). 
+ 
+
+JISHI  
+P-ISSN 2797-3999 | E-ISSN 2797-4561 82

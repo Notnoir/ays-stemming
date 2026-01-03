@@ -1,0 +1,518 @@
+ 
+  
+ 
+ 
+ 
+METODOLOGI PENELITIAN SOSIAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Penulis: 
+Prof. Dr. H. M. Bakry Usman, M.Si., Ph.D 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CV DUNIA PENERBITAN BUKU 
+ 
+ 
+ 
+ 
+METODOLOGI PENELITIAN SOSIAL  
+ 
+ 
+Penulis: 
+Prof. Dr. H. M. Bakry Usman, M.Si., Ph.D 
+ 
+ 
+Editor: Fajrina Margaretha Viruliana, M. Sos 
+Penyunting: Vanisa Sri Elvani, S.Si 
+Desain Sampul dan Tata Letak: Septia Fakhira Risti, S.Ds 
+ 
+ 
+ISBN: 978-623-10-7274-0 
+Anggota IKAPI No. 064/SBA/2024 
+ 
+Hak cipta dilindungi undang-undang 
+Cetakan pertama Februari 2025 
+ 
+Hak Cipta pada Penulis dan Penerbit  
+ 
+ 
+ 
+ 
+ 
+Diterbitkan oleh CV Dunia Penerbitan Buku 
+Alamat: Jl. Apel Raya No. 68, Kuranji, Kota Padang, Provinsi Sumatera Barat 
+Website: www.duniapenerbitanbuku.com 
+Email: duniapenerbitanbuku@gmail.com 
+Dilarang keras memperbanyak karya tulis ini dalam bentuk 
+dan dengan cara apapun tanpa izin sah dari penerbit 
+ 
+i 
+KATA PENGANTAR 
+ 
+ 
+Alhamdulillah segala puja dan puji hanyalah milik Allah SWT 
+yang telah melimpahkan rahmat, nikmat, baik nikmat Iman, nikmat 
+Islam maupun nikmat kesehatan sehingga penulis telah dapat 
+menyelesaikan penulisan buku Metodologi Penelitian Sosial. Buku ini 
+disusun agar dapat membantu mahasiswa dalam penulisan Laporan 
+Tugas Akhir (LTA), Skripsi, Tesis bahkan Disertasi.  
+ Salawat dan salam kepada junjungan alam Nabi Besar 
+Muhammad Saw selaku nabi yang akhir zaman yang telah membawa 
+umat-Nya dari alam kebodohan menuju kealam yang berilmu 
+pengetahuan. Kepada para sahabat, keluarga serta seluruh pengikut 
+beliau sampai pada akhir zaman.  
+Buku ini disusun sedemikian rupa agar dapat dijadikan 
+referensi sekaligus pedoman belajar bagi para mahasiswa, khususnya 
+yang menulis tugas akhir dengan menggunakan pendekatan kualitatif. 
+Akhir kata penulis menyadari dalam penyusunan buku ini masih 
+mempunyai banyak kekurangan baik isi maupun redaksi, namun 
+penulis menyakini sepenuhnya bahwa sekecil apapun buku ini tetap 
+akan memberikan manfaat pada para pembaca. Oleh karenanya demi 
+kesempurnaan buku ini maka kritik dan saran yang bersifat 
+membangun dari pembaca sangatlah berguna untuk penulisan 
+kedepannya. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Banda Aceh, Desember 2024  
+Prof. Dr. H. M. Bakry Usman, M.Si., PhD 
+ 
+ii 
+DAFTAR ISI 
+ 
+ 
+KATA PENGANTAR.......................................................................................... i 
+DAFTAR ISI ...................................................................................................... ii 
+DAFTAR GAMBAR......................................................................................... iv 
+DAFTAR TABEL ............................................................................................... v 
+BAB 1 PENDAHULUAN ................................................................................. 1 
+A. 
+Proses Mencari Kebenaran ..................................................................... 1 
+B. 
+Unsur Penelitian Sosial .......................................................................... 17 
+C. 
+Macam-Macam Penelitian Sosial ....................................................... 23 
+BAB 2 PENELITIAN DESKRIPTIF ............................................................ 33 
+A. 
+Jenis Penelitian Deskriptif .................................................................... 33 
+B. 
+Ilustrasi Penelitian Deskriptif ............................................................. 39 
+C. 
+Format Laporan Deskriptif................................................................... 42 
+BAB 3 PENELITIAN KUALITATIF ........................................................... 49 
+A. 
+Historis Penelitian Kualitatif ............................................................... 49 
+B. 
+Definisi Penelitian Kualitatif ................................................................ 55 
+C. 
+Instrumen dan Informan dalam Kualitatif ..................................... 63 
+BAB 4 TEKNIK PENGUMPULAN DATA.................................................. 91 
+A. 
+Pendahuluan .............................................................................................. 91 
+B. 
+Observasi ..................................................................................................... 92 
+C. 
+Wawancara ................................................................................................. 96 
+D. 
+Dokumen .................................................................................................... 103 
+BAB 5 TEKNIK ANALISIS DATA ........................................................... 107 
+ 
+iii 
+A. 
+Pengertian ................................................................................................. 107 
+B. 
+Proses Analisis Data .............................................................................. 110 
+C. 
+Validitas dan Reliabilitas ..................................................................... 120 
+DAFTAR PUSTAKA.................................................................................... 129 
+BIODATA PENULIS ................................................................................... 132 
+ 
+ 
+ 
+ 
+ 
+iv 
+DAFTAR GAMBAR 
+ 
+Gambar 5. 1 Teknik analisis data interaktif Miles dan Huberman 
+(2014) ............................................................................................... 114 
+ 
+ 
+ 
+ 
+v 
+DAFTAR TABEL 
+ 
+Tabel 3. 1 Perbedaan kualitatif dengan kuantitatif dari segala 
+kompleksita ..........................................................................................60 
+ 
+ 
+ 
+ Metodologi Penelitian Sosial 
+ 
+ 
+1 
+ 
+ 
+ 
+PENDAHULUAN 
+ 
+ 
+ 
+A. Proses Mencari Kebenaran 
+Penelitian merupakan salah satu cara yang dilakukan oleh setiap 
+orang dalam rangka mencari kebenaran berkaitan dengan fenomena-
+fenomena sosial yang semakin hari semakin berkembang, baik 
+berkembang model maupun berkembang caranya. Proses mencari 
+kebenaran diawali dengan adanya rasa ingin tahu yang dimiliki oleh 
+manusia sebagai makhluk sosial. Mengingat kebenaran memiliki sifat 
+relatif dan mengakibatkan suatu kebenaran tidak dapat bertahan 
+selamanya, maka setiap peneliti, khususnya penelitian sosial selalu 
+melakukan 
+berbagai 
+terobosan-terobasan 
+baru 
+dalam 
+mengungkapkan kebenaran berdasarkan berbagai perspektif. Hal 
+tersebut disebabkan kebenaran dari satu temuan akan terbantahkan 
+dan diperbarui oleh kebenaran baru yang lebih relevan.  
+Pengetahuan atau kebenaran dapat di capai individu melalui 
+pendekatan ilmiah dan pendekatan non ilmiah. Pendekatan ilmiah 
+menuntut individu melakukan langkah-langkah tertentu agar dapat 
+mencapai kebenaran. Dalam mencari kebenaran manusia tidak 
+membatasi dirinya, walaupun kebenaran dapat di capai dengan 
+usahanya 
+bersifatnya 
+terbatas 
+dengan 
+mengandalkan 
+pada 
+kemampuan akal. Oleh karenanya hasrat ingin tahu menusia akan 
+terpuaskan jika memperoleh pengetahuan mengenai hal yang 
+dipertanyakan tersebut serta adanya pengetahuan diinginkannya 
+1 
+ Metodologi Penelitian Sosial 
+ 
+ 
+33 
+ 
+ 
+ 
+PENELITIAN DESKRIPTIF  
+ 
+ 
+ 
+A. Jenis Penelitian Deskriptif 
+Penelitian deskriptif sebagai suatu kegiatan untuk menemukan 
+pengetahuan dengan cara menggunakan metode-metode secara 
+sistematis, sejak proses mengumpulkan data, menganalisis, serta 
+menginterpretasikan data. Penelitian deskriptif sebagai salah satu cara 
+mengembangkan pengetahuan bersifat ilmiah. Mencari kebenaran 
+dalam penelitian deskriptif bisa secara berpola yaitu sebagai suatu 
+prosedur pencarian dan pelaporan dengan menggunakan cara-cara 
+dan sistematika tertentu, disertai penjelasan dan alasan yang kuat. 
+Pencarian berpola bukan merupakan suatu pencarian bersifat 
+sempit dan mekanistis, tetapi mengikuti prosedur formal sesuai 
+standar. Prosedur pencarian ini pada tahap awalnya bersifat 
+spekulatif, mencoba menggabungkan ide-ide dan metode-metode, 
+kemudian menuangkan ide-ide dan metode tersebut dalam suatu 
+prosedur yang baku. 
+Kata deskriptif berasal dari bahasa Inggris, descriptive, artinya 
+bersifat menggambarkan atau melukiskan sesuatu. Menggambarkan 
+atau melukiskan dalam hal ini dapat dalam arti sebenarnya (harfiah), 
+yaitu berupa gambar-gambar atau foto-foto yang didapat dari data 
+lapangan, atau peneliti menjelaskan hasil penelitian dengan gambar-
+gambar dan dapat pula berarti menjelaskannya dengan kata-kata. 
+Keduanya dalam laporan penelitian dapat digunakan agar saling 
+2 
+ Metodologi Penelitian Sosial 
+ 
+ 
+49 
+ 
+ 
+ 
+PENELITIAN KUALITATIF 
+ 
+ 
+ 
+A. Historis Penelitian Kualitatif 
+Pada dasarnya penelitian muncul dikarenakan adanya rasa ingin tau 
+tentang sesuatu yang melekat pada manusia sebagai makhluk sosial, 
+sehingga di lakukanlah pengamatan baik secara kebetulan, trial and 
+error/coba-coba, berpikir kritis/berdasarkan pengalaman maupun 
+melalui sebuah penyelidikan ilmiah, sehingga kebenaran bisa didapat 
+dengan menggunakan penyelidikan-penyidikan ilmiah, berpikir kritis 
+dan induktif. Secara historis dasar teoritis dalam pendekatan kualitatif 
+adalah: Pertama; pendekatan fenomenologi. Dalam pandangan 
+fenomenologi, peneliti berusaha memahami arti peristiwa dan 
+kaitannya terhadap orang-orang dalam situasi-situasi tertentu. Kedu; 
+pendekatan interaksi simbolik. Pendekatan interaksi simbolik di 
+asumsikan bahwa objek orang, situasi dan peristiwa tidak memiliki 
+pengertian sendiri, sebaliknya pengertian itu diberikan kepada 
+mereka. Pengertian yang diberikan orang pada pengalaman dan 
+proses penafsirannya bersifat esensial dalam menentukannya. Ketiga; 
+pendekatan 
+kebudayaan. 
+Untuk 
+menggambarkan 
+kebudayaan 
+menurut perspektif masing-masing, seorang peneliti mungkin dapat 
+memikirkan suatu peristiwa di mana manusia diharapkan berperilaku 
+secara baik.  
+Peneliti dengan pendekatan ini mengatakan bahwa bagaimana 
+sebaiknya diharapkan berperilaku dalam suatu latar kebudayaan. 
+3 
+ Metodologi Penelitian Sosial 
+ 
+ 
+91 
+ 
+ 
+ 
+TEKNIK PENGUMPULAN DATA 
+ 
+ 
+ 
+A. Pendahuluan 
+Kegiatan penelitian yang terpenting adalah pengumpulan data, 
+sehingga data harus ditangani secara serius agar diperoleh hasil yang 
+sesuai. Pengumpulan data dalam penelitian perlu dipantau agar data 
+yang diperoleh dapat terjaga tingkat validitas dan reliabilitasnya. 
+Dalam penelitian kualitatif proses pengumpulan data tidak bisa 
+diwakili, harus dilakukan oleh peneliti itu sendiri. Pengumpulan data 
+dapat dilakukan dalam berbagai setting dan berbagai sumber serta 
+berbagai cara. Bila dilihat dari settingnya, data dapat dikumpulkan 
+pada setting alamiah, misalnya; di lingkungan tertentu dengan 
+berbagai informan, seminar dan diskusi. Sementara bila dilihat dari 
+sumber datanya, pengumpulan data dapat menggunakan sumber 
+primer yaitu sumber data yang langsung memberikan data kepada 
+pengumpul data, dan sumber sekunder yaitu sumber yang tidak 
+langsung memberikan data kepada pengumpul data, misalnya; lewat 
+orang lain atau lewat dokumen. Kemudian bila dilihat dari cara atau 
+teknik pengumpulan data, teknik pengumpulan data dapat dilakukan 
+dengan observasi, wawancara, dan studi dokumentasi.   
+ Koentjaraningrat (2013) mengatakan “pengumpulan data 
+dilakukan melalui observasi dan wawancara”. Menurut Mulyana 
+(2014) “Prosedur pengumpulan data dalam penelitian kualitatif ini, 
+4
+ Metodologi Penelitian Sosial 
+ 
+ 
+107 
+ 
+ 
+ 
+TEKNIK ANALISIS DATA 
+ 
+ 
+ 
+A. Pengertian 
+Dalam penelitian kuatitatif, teknik analisis data yang digunakan sudah 
+jelas, yaitu diarahkan untuk menjawab rumusan masalah atau 
+menguji hipotesis yang telah dirumuskan dalam proposal. Karena 
+datanya kuantitatif, maka teknik analisis data menggunakan metode 
+statistik yang sudah tersedia. Misalnya akan menguji hipotesis 
+hubungan antar dua variabel, bila datanya ordinal maka statistik yang 
+digunakan adalah Korelasi Pearson Product Moment. Bila akan 
+menguji signifikansi komporasi data dua sampel, datanya interval atau 
+ratio digunakan test dua sampel, bila datanya nominal digunakan chi 
+kuadrat. Selanjutnya bila akan menguji hipotesis komporatif lebih dari 
+dua sampel, datanya interval, digunakan Analisis Varian. 
+Dalam penelitian kualitatif, data diperoleh dari berbagai 
+sumber, dengan menggunkan teknik pengumpulan data yang 
+bermacam-macam (triangulasi), dan dilakukan secara terus menerus 
+sampai datanya jenuh. Dengan pengamatan yang terus menerus 
+tersebut mengakibatkan variasi data tinggi sekali. Data yang di 
+peroleh pada umumnya adalah data kualitatif (walaupun tidak 
+menolak data kuantitatif), sehingga teknik analisis data yang 
+digunakan belum ada polanya yang jelas. Oleh karena itu sering 
+mengalami kesulitan dalam melakukan analisis. Seperti dinyatakan 
+5 
+Metodologi Penelitian Sosial 
+ 
+132 
+BIODATA PENULIS 
+ 
+Prof. Dr. H. M. Bakry Usman, 
+M.Si., Ph.D., lahir di Ulee Gle, 
+Pidie Jaya, pada 10 Agustus 
+1957. 
+Saat 
+ini, 
+beliau 
+menjabat sebagai Ketua 
+Sekolah 
+Tinggi 
+Ilmu 
+Ekonomi 
+(STIE-YPHB). 
+Berdomisili di Jln. K. Gam 
+No. 5, Kelurahan Gampong 
+Beurawe, Kecamatan Kuta Alam, Kota Banda Aceh, beliau dikenal 
+sebagai seorang akademisi yang berdedikasi dalam bidang ilmu 
+ekonomi. 
+I. 
+RIWAYAT PENDIDIKAN 
+1. 
+MIN di Ulee Gle (Kabupaten Pidie Jaya) dari tahun 1964 s/d 1970 
+2. 
+SMP Negeri di Ulee Gle (Kaupaten Pidie Jaya) dari tahun 1970 s/d 
+1973 
+3. 
+STM Negeri di Banda Aceh dari tahun 1974 s/d 1976 (Pagi) 
+4. 
+SMA Iskandar Muda Jurusan Paspal di Banda Aceh dari tahun 
+1975 s/d 1976 (Sore) 
+5. 
+Institut Teknologi Bandung (ITB) di Bandung dari tahun 1976 s/d 
+1977 
+6. 
+Fakultas Teknik Jurusan Mesin (Unsyiah) di Banda Aceh dari 
+tahun 1978 s/d 1982 
+7. 
+Fakultas Keguruan Ilmu Pendidikan (FKIP) Jurusan Fisika 
+Universitas Abulyatama Banda Aceh 1983 s/d 1986 
+ Metodologi Penelitian Sosial 
+ 
+ 
+133 
+8. 
+Sekolah tinggi Ilmu Sosial dan Politik Iskandar Muda (STISPI) 
+Jurusan 
+Administrasi 
+Negara 
+(Sekarang 
+Universitas 
+Iskandarmuda/Unida) Banda Aceh 1986 s/d 1990 
+9. 
+Pascasarjana Jurusan Ilmu Ekonomi dan Studi Pembangunan 
+(IESP) Universitas Syiah Kuala (Unsyiah) Banda Aceh tahun 1994 
+s/d 1997 
+10. Pascasarjana Program Doktor of Phiosophy (Ph.D) Jurusan 
+Finance of Banking Universitas Utara Malaysia (UUM) di Siantar 
+Kedah Malaysia 
+tahun 2006 s/d 2011 
+11. Program Pascasarjana Prodi S3 Ilmu Sosial Universitas Merdeka 
+Malang tahun 2015 s/d 2018.  
+ 
+II. RIWAYAT PEKERJAAN 
+1. 
+Kepala Sub Bagian Umum Pada DPRD Tk. II Pidie 1985 s/d 1987 
+2. 
+Kepala Seksi Bina Mutu pada Dinas Perikanan Kotamadya Banda 
+Aceh 1988 s/d 1991 
+3. 
+Kepala Sub Bagian Tata Usaha (Kasubag TU) pada Dinas 
+Pertanian Tanaman Pangan Kota Banda Aceh 
+1991 s/d 2000 
+4. 
+Kepala Bidang (Kabid) Perekonomian pada Badan Pengawasan 
+Daerah (Bawasda) Kota Banda Aceh 2000 s/d 2004 
+5. 
+Kepala Sub Dinas (Kasubdin) Informasi pada Dinas Informasi 
+dan Komunikasi Kota Banda Aceh 2004 s/d 2008 
+6. 
+Staf ahli pada Dinas Perhubungan, Komunikasi dan Informasi 
+Dishubkominfo) Provinsi Aceh 2008 s/d 2012 
+7. 
+Kepala Bidang (Kabid) SDM pada Badan Dayah Provinsi Aceh 
+2012 s/d 2012 
+8. 
+Pensiun 2013 
+Metodologi Penelitian Sosial 
+ 
+134 
+ 
+III.  RIWAYAT PEKERJAAN KEWARTAWANAN 
+1. 
+Wartawan Harian Duta di Banda Aceh tahun 1975 s/d 1976 
+2. 
+Wartawan Harian Umum Bandubg Post di Banda Aceh 1977 s/d 
+1978 
+3. 
+Redaktur Pelaksana Surat Kabar Peristiwa di Banda Aceh 1978 
+s/d 1985 
+4. 
+Redaktur Surat Kabar Aceh Post 1998 s/d 1990 
+5. 
+Redaktur Surat Kabar Aceh Express di Banda Aceh 1990 s/d 1992 
+6. 
+Pemimpin Redaksi Tabloid Media Baiturrahman di Banda Aceh 
+1992 s/d 1994 
+7. 
+Pemimpin Umum Surat Kabar Mingguan Metro Peristiwa 2012 
+s/d sekarang 
+8. 
+Penulis 38 Judul Opini di Harian Waspada Medan 1990 s/d 1995 
+9. 
+Penulis 62 Judul Opini di Harian Umum Serambi Indonesia 2000 
+s/d 2004 
+IV. RIWAYAT ORGANISASI 
+1. 
+Wakil Ketua Pelajar Islam Indonesia (PII) Kota Madya Banda Aceh 
+1975 s/d 1976 
+2. 
+Ketua PSPI Kota Bandung di Bandung dari tahun 1977 s/d 1978 
+3. 
+Pengurus Senat Fakultas Teknik Universitas Syiah Kuala 1979 s/d 
+1981 
+4. 
+Wakil Ketua Senat STKIP Universitas Abulyatama 1983 s/d 1985 
+5. 
+Wakil Ketua Pemuda Panca Marga (PPM) Propinsi Aceh 1985 s/d 
+2000 
+ Metodologi Penelitian Sosial 
+ 
+ 
+135 
+6. 
+Wakil Sekretariat Jendral Pemuda Panca Marga (PPM) Pusat 2007 
+s/d 2017 
+7. 
+Ketua Ikatan Penulis dan Jurnalis Indonesia (IPHI) Prov. Aceh 
+2007 s/d 2011 
+8. 
+Wakil Ketua Ikatan Jurnalis Indonesia 2012 s/d sekarang 
+9. 
+Wakil Ketua Ikatan Persaudaraan Haji Indonesia (IPHI) Kota 
+Banda Aceh 2002 s/d 2008 
+10. Wakil Bendahara Ikatan Persaudaraan Haji Indonesia (IPHI) Kota 
+Banda Aceh 2009 s/d 2012 
+11. Wakil Sekretaris Palang Merah Indonesia (PMI) Prov. Aceh 2001 
+s/d 2006 
+12. Wakil Komandan (Wadan) Menwa Prov. Aceh 2005 s/d sekarang 
+13. Wakil Ketua Ikatan Alumni Menwa Propinsi Aceh 2012 s/d 
+sekarang 
+14. Ketua Ikatan Pemuda Indonesia (IPI) Propinsi Aceh 2013 s/d 
+sekarang 
+15. Wakil Ketua Ikatan Penyelenggara Perguruan Tinggi Propinsi 
+Aceh 2016 s/d sekarang 
+16. Ketua Kelas Aceh pascasarjana Prodi S3 Doktor Ilmu Sosial 
+Universitas Merdeka malang 2015 s/d 2018. 
+ 
+ 
+Metodologi Penelitian Sosial 
+ 
+136 
+ 

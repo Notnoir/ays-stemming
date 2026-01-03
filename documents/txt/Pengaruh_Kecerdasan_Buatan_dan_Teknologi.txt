@@ -1,0 +1,393 @@
+Jurnal Pendidikan West Science
+Vol. 01, No. 12, Desember 2023, pp. 851~858
+
+
+  Pengaruh Kecerdasan Buatan dan Teknologi Pendidikan terhadap
+  Peningkatan Efektivitas Proses Pembelajaran Mahasiswa di Jawa
+                              Timur
+                              Nanny Mayasari1, Rizki Dewantara2, Yocki Yuanti3
+                          1   Universitas Nusa Cendana dan nanny.mayasari@gmail.com
+   2   Institut Teknologi Bisnis Dan Kesehatan Bhakti Putra Bangsa Indonesia dan dewantararizki@ibisa.ac.id
+                           3 STIKes Mitra Ria Husada Jakarta dan yockiyuanti@gmail.com
+
+
+
+
+ Article Info                            ABSTRAK
+ Article history:                        Penelitian ini menyelidiki dampak kecerdasan buatan (AI) dan
+                                         teknologi pendidikan terhadap efektivitas proses pembelajaran siswa
+ Received Dec, 2023
+                                         di Jawa Timur. Analisis kuantitatif dilakukan dengan melibatkan 150
+ Revised Dec, 2023
+                                         peserta dari berbagai tingkat pendidikan. Statistik deskriptif, analisis
+ Accepted Dec, 2023
+                                         korelasi, dan pemodelan regresi digunakan untuk mengeksplorasi
+                                         hubungan antara frekuensi penggunaan AI dan teknologi pendidikan,
+ Kata Kunci:                             efektivitas yang dirasakan, dan faktor demografis. Hasilnya
+                                         menunjukkan adanya korelasi positif yang kuat antara frekuensi
+ Kecerdasan Buatan, Teknologi            penggunaan teknologi dan efektivitas yang dirasakan. Analisis regresi
+ Pendidikan,       Efektivitas,          mengidentifikasi frekuensi penggunaan AI dan teknologi pendidikan
+ Pembelajaran Mahasiswa, Jawa
+                                         sebagai prediktor yang signifikan terhadap peningkatan hasil belajar
+ Timur                                   siswa. Studi ini menyoroti manfaat potensial dari peningkatan
+                                         integrasi teknologi dan merekomendasikan perencanaan strategis
+                                         untuk implementasi yang efektif. Penelitian kualitatif lebih lanjut
+ Keywords:                               direkomendasikan untuk mengatasi tantangan dan memastikan akses
+ Artificial          Intelligence,       yang adil.
+ Educational         Technology,         ABSTRACT
+ Effectiveness, Student Learning,
+                                         This study investigated the impact of artificial intelligence (AI) and
+ East Java
+                                         education technology on the effectiveness of the student learning
+                                         process in East Java. Quantitative analysis was conducted involving
+                                         150 participants from different levels of education. Descriptive
+                                         statistics, correlation analysis and regression modeling were used to
+                                         explore the relationship between frequency of AI and educational
+                                         technology use, perceived effectiveness and demographic factors. The
+                                         results showed a strong positive correlation between frequency of
+                                         technology use and perceived effectiveness. Regression analysis
+                                         identified frequency of use of AI and educational technology as a
+                                         significant predictor of improved student learning outcomes. This
+                                         study highlights the potential benefits of increased technology
+                                         integration and recommends strategic planning for effective
+                                         implementation. Further qualitative research is recommended to
+                                         address challenges and ensure equitable access.
+                                                          This is an open access article under the CC BY-SA license.
+
+
+
+
+Journal homepage: https://wnj.westscience-press.com/index.php/jpdws/index
+Jurnal Pendidikan West Science                                                                852
+
+
+ Corresponding Author:
+
+ Name: Nanny Mayasari
+ Institution: Universitas Nusa Cendana
+ Email: nanny.mayasari@gmail.com
+
+
+
+    1. PENDAHULUAN
+        Integrasi kecerdasan buatan (AI) dan teknologi pendidikan mengubah paradigma
+pendidikan tradisional, menawarkan kemungkinan baru untuk pengalaman belajar yang
+dipersonalisasi dan adaptif. Evolusi teknologi ini terlihat jelas di berbagai bidang, termasuk
+pendidikan, perawatan medis, pertanian, logistik, dan transportasi. Penerapan AI dalam pendidikan
+memiliki potensi untuk merevolusi pembelajaran dan pengajaran dengan mendukung siswa secara
+real-time dan memberikan solusi yang efisien dan valid. Sistem AI dapat menganalisis kumpulan
+data yang besar, mendeteksi pola, dan memberikan rekomendasi yang dipersonalisasi untuk siswa.
+Integrasi teknologi AI yang berhasil dapat meningkatkan aksesibilitas, keterjangkauan, dan kualitas
+pendidikan di seluruh dunia. Inisiatif seperti proyek The Open Campus mencontohkan potensi
+penggunaan AI dalam menciptakan ekosistem pendidikan terbuka yang terpadu. Namun, adopsi
+teknologi pendidikan berbasis AI menghadapi tantangan terkait dengan penggabungan teknologi
+ini ke dalam budaya dan proses sekolah. Berbagai upaya sedang dilakukan untuk mengatasi
+tantangan ini dan memanfaatkan AI untuk personalisasi, penilaian, dan komunikasi dalam
+lingkungan Pendidikan (Firat, 2023; Liu & Baucham, 2023; Ritter & Koedinger, 2023).
+        Para pemangku kepentingan pendidikan di Jawa Timur semakin banyak mengadopsi alat
+berbasis AI dan teknologi pendidikan untuk meningkatkan metodologi pedagogi dan keterlibatan
+siswa (Elbourhamy et al., 2023; Frehlich, 2020). Intervensi teknologi ini, seperti sistem bimbingan
+belajar cerdas, lingkungan belajar virtual, dan analisis berbasis data, memiliki potensi untuk
+mengubah efektivitas proses pembelajaran siswa di wilayah tersebut (Khaerani et al., 2023). Namun,
+terdapat kurangnya pemahaman empiris mengenai dampak nyata dari intervensi ini terhadap hasil
+belajar siswa dalam konteks spesifik di Jawa Timur (Chen, 2023). Penelitian lebih lanjut diperlukan
+untuk mengeksplorasi efektivitas teknologi ini dalam meningkatkan hasil belajar siswa di Jawa
+Timur (Ahmadi et al., 2023).
+        Integrasi AI dan teknologi pendidikan memiliki potensi untuk berkontribusi pada
+peningkatan hasil belajar siswa di Jawa Timur. Dengan memanfaatkan teknologi AI secara efektif
+dan bertanggung jawab, para pendidik dan pembuat kebijakan dapat membuka kemungkinan-
+kemungkinan baru untuk meningkatkan pengalaman belajar mengajar, mendorong pengajaran
+yang dipersonalisasi, dan mendorong kemajuan pendidikan (Kumar et al., 2023). Penggunaan
+model AI dapat membantu lebih memahami dinamika pendidikan dan mendeteksi pola, yang
+mengarah pada peningkatan kegiatan penilaian dan peningkatan nilai pendidikan yang selaras
+dengan kebutuhan masyarakat (Zhang & Aslan, 2021). Metode AI dapat digunakan untuk
+mengevaluasi kinerja pendidikan di pendidikan dasar, mendukung pembuatan kebijakan publik
+dan alokasi sumber daya (de Souza Zanirato Maia et al., 2023). Selain itu, AI dapat berperan dalam
+pengembangan kompetensi dan pembelajaran kolaboratif, memvalidasi keberhasilan latihan
+pendidikan dan meningkatkan hasil kinerja (Mena-Guacas et al., 2023). Namun, kehati-hatian harus
+dilakukan, dan penelitian lebih lanjut diperlukan untuk sepenuhnya memahami dampak AI dan
+cara terbaik untuk menerapkan teknologi ini di ruang kelas. Penelitian ini berupaya menjembatani
+
+                                                         Vol. 01, No. 12, Desember 2023: pp. 851-858
+Jurnal Pendidikan West Science                                                               853
+
+
+kesenjangan dalam pengetahuan saat ini dengan menggunakan metode penelitian kuantitatif, yang
+bertujuan untuk memberikan wawasan berbasis bukti yang dapat menginformasikan praktik dan
+kebijakan pendidikan di Jawa Timur dan sekitarnya.
+
+
+    2. TINJAUAN PUSTAKA
+        2.1 Kecerdasan Buatan dalam Pendidikan
+             Kecerdasan buatan (AI) telah merevolusi pengalaman belajar yang dipersonalisasi
+        dengan menggunakan sistem bimbingan belajar yang cerdas untuk menyesuaikan konten
+        pendidikan dengan kebutuhan siswa secara individu, meningkatkan keterlibatan dan
+        pemahaman (Ahmed et al., 2023). Selain itu, AI telah mengotomatiskan tugas-tugas
+        administratif, sehingga pendidik dapat fokus pada pengajaran dan menciptakan
+        lingkungan belajar yang kondusif (Conati & Lallé, 2023). Otomatisasi ini telah
+        meningkatkan efisiensi dan alokasi sumber daya yang dioptimalkan di lembaga pendidikan
+        (Hutson & Ceballos, 2023). Sistem yang digerakkan oleh AI juga memberikan umpan balik
+        secara real-time kepada pendidik dan siswa melalui alat penilaian cerdas, yang
+        menganalisis kinerja siswa secara instan dan menawarkan umpan balik yang ditargetkan
+        untuk perbaikan (Ifenthaler & Schumacher, 2023). Umpan balik langsung ini telah dikaitkan
+        dengan peningkatan motivasi dan pemahaman yang lebih dalam tentang materi pelajaran
+        (Theophilou et al., 2023).
+        2.2 Teknologi Pendidikan dan Pembelajaran Siswa
+             Teknologi pendidikan, termasuk platform online dan sumber daya digital, telah
+        memperluas akses ke informasi dan mendemokratisasi pendidikan dengan mengurangi
+        hambatan geografis dan sosio-ekonomi (Firat, 2023). Teknologi ini telah menjembatani
+        kesenjangan pendidikan dan memberikan kesempatan belajar yang beragam (Nasiba, 2023).
+        Lingkungan belajar kolaboratif yang difasilitasi oleh teknologi pendidikan telah
+        meningkatkan kemampuan berpikir kritis dan pemecahan masalah (Bećirović, 2023). Alat
+        dan platform komunikasi telah mengubah komunikasi antara siswa, pendidik, dan institusi,
+        menumbuhkan rasa kebersamaan di ruang virtual (Frehlich, 2020). Komunikasi yang efektif
+        diakui sebagai komponen kunci dari lingkungan pembelajaran online yang sukses (Jha et
+        al., 2022).
+        2.3 Konteks Jawa Timur
+             Konteks Jawa Timur menghadirkan tantangan untuk adopsi AI dan teknologi
+        pendidikan secara luas karena keterbatasan infrastruktur, termasuk konektivitas internet
+        dan akses ke perangkat. Keterbatasan ini dapat menghambat akses yang adil terhadap
+        peluang pendidikan (Ritter & Koedinger, 2023). Program pelatihan guru sangat penting
+        untuk memastikan para pendidik dapat secara efektif memanfaatkan teknologi di dalam
+        kelas dan memanfaatkan potensinya secara maksimal (Mena-Guacas et al., 2023). Kesiapan
+        pendidik untuk menerima inovasi teknologi sangat penting untuk keberhasilan upaya
+        implementasi (Firat, 2023). Faktor sosioekonomi, seperti kesenjangan dalam akses terhadap
+        teknologi berdasarkan status ekonomi, dapat memperburuk ketidaksetaraan pendidikan
+        (Hutson & Ceballos, 2023). Memahami lanskap infrastruktur sangat penting untuk
+        merancang strategi untuk mengatasi tantangan ini dan memastikan akses yang adil
+        terhadap peluang pendidikan (Conati & Lallé, 2023). Untuk mengatasi kesenjangan ini,
+
+
+                                                        Vol. 01, No. 12, Desember 2023: pp. 851-858
+Jurnal Pendidikan West Science                                                                 854
+
+
+        diperlukan pemahaman yang mendalam tentang pengaruh sosial ekonomi yang berdampak
+        pada integrasi AI dan teknologi pendidikan di Jawa Timur.
+        2.4 Sintesis dan Kesenjangan dalam Literatur
+             Meskipun literatur yang ada menyoroti potensi transformatif dari AI dan teknologi
+        pendidikan, terdapat kesenjangan yang nyata dalam studi empiris yang meneliti dampak
+        spesifiknya dalam konteks Jawa Timur. Sintesis literatur menggarisbawahi perlunya
+        investigasi yang ditargetkan ke dalam pemanfaatan, tantangan, dan hasil yang terkait
+        dengan integrasi AI dan teknologi pendidikan dalam lanskap pendidikan yang unik di Jawa
+        Timur.
+
+
+    3. METODE PENELITIAN
+        Desain Penelitian
+        Desain penelitian kuantitatif diadopsi untuk penelitian ini untuk mengumpulkan dan
+menganalisis data numerik secara sistematis. Desain ini memungkinkan pengukuran variabel-
+variabel yang terkait dengan integrasi AI dan teknologi pendidikan serta dampaknya terhadap
+proses pembelajaran siswa. Penggunaan metode kuantitatif, khususnya survei dan analisis statistik,
+memfasilitasi pemeriksaan tren, pola, dan hubungan dalam data. Populasi penelitian ini terdiri dari
+siswa dari berbagai tingkat pendidikan di Jawa Timur, termasuk sekolah dasar, sekolah menengah,
+dan perguruan tinggi. Teknik pengambilan sampel acak berstrata akan digunakan untuk
+memastikan keterwakilan dari setiap tingkat pendidikan. Jumlah sampel ditetapkan sebanyak 150
+peserta, didistribusikan secara proporsional di seluruh strata untuk menangkap perspektif yang
+beragam dan representatif.
+
+        Instrumen Pengumpulan Data
+        Data akan dikumpulkan melalui instrumen survei terstruktur yang dirancang untuk
+mengumpulkan informasi tentang integrasi AI dan teknologi pendidikan, hasil belajar siswa, serta
+tantangan dan peluang yang dirasakan. Survei ini akan mencakup pertanyaan tertutup dan item
+skala Likert, yang memungkinkan peserta untuk memberikan tanggapan kuantitatif. Survei ini akan
+diuji terlebih dahulu untuk memastikan kejelasan dan keandalannya. Survei ini akan mencakup
+area-area utama berikut ini:
+
+        a.   Informasi Demografis: Mengumpulkan data tentang tingkat pendidikan, usia, jenis
+             kelamin, dan latar belakang sosial-ekonomi peserta untuk memahami keragaman
+             dalam sampel.
+        b. Integrasi AI dan Teknologi Pendidikan: Menilai sejauh mana AI dan teknologi
+             pendidikan diintegrasikan ke dalam institusi pendidikan di Jawa Timur.
+        c.   Hasil Pembelajaran Siswa: Mengukur peningkatan yang dirasakan dalam keterlibatan
+             siswa, kinerja akademik, dan pengalaman belajar secara keseluruhan yang dikaitkan
+             dengan integrasi AI dan teknologi pendidikan.
+
+        Analisa Data
+        Analisis data akan dilakukan dengan menggunakan Statistical Package for the Social
+Sciences (SPSS) versi 26. Teknik analisis berikut ini akan digunakan. Statistik deskriptif, termasuk
+rata-rata, median, dan standar deviasi, akan digunakan untuk meringkas fitur-fitur utama dari data.
+
+
+                                                          Vol. 01, No. 12, Desember 2023: pp. 851-858
+Jurnal Pendidikan West Science                                                                 855
+
+
+Analisis ini akan memberikan gambaran umum tentang demografi peserta, persepsi tentang AI dan
+teknologi pendidikan, serta hasil belajar siswa. Analisis regresi akan digunakan untuk
+mengeksplorasi hubungan antara variabel-variabel utama. Secara khusus, analisis ini akan
+memeriksa bagaimana integrasi AI dan teknologi pendidikan berhubungan dengan hasil belajar
+siswa, dengan mempertimbangkan faktor moderasi atau mediasi yang potensial.
+    4. HASIL DAN PEMBAHASAN
+        2.1 Demografi Sampel
+        Sampel mencakup peserta dari berbagai tingkat pendidikan, dengan 30% dari sekolah dasar,
+40% dari sekolah menengah, dan 30% dari perguruan tinggi. Distribusi usia peserta bervariasi,
+dengan 55% berada pada rentang usia 20-30 tahun, 30% pada rentang usia 31-40 tahun, 10% pada
+rentang usia 41-50 tahun, dan 5% pada usia 51 tahun ke atas. Distribusi jenis kelamin peserta relatif
+berimbang, dengan 48% peserta laki-laki dan 52% peserta perempuan. Peran profesional yang
+diwakili dalam sektor pendidikan meliputi 40% guru, 25% administrator, 15% ahli teknologi
+pendidikan, dan 20% pada peran lainnya.
+        Penelitian ini mengumpulkan tanggapan dari 150 peserta yang mewakili berbagai tingkat
+pendidikan di Jawa Timur. Statistik deskriptif dihitung untuk memberikan gambaran umum
+tentang variabel-variabel utama yang terkait dengan pemanfaatan kecerdasan buatan (AI) dan
+teknologi pendidikan. Distribusi jawaban dari para peserta mengenai frekuensi penggunaan AI dan
+teknologi pendidikan di lingkungan pendidikan mereka adalah sebagai berikut: 68% melaporkan
+penggunaan secara teratur, 22% melaporkan penggunaan sesekali, dan 10% melaporkan jarang atau
+tidak menggunakan. Angka-angka ini menunjukkan tren yang signifikan terhadap penggunaan AI
+dan teknologi pendidikan secara teratur di lembaga pendidikan yang disurvei.
+        Para peserta dalam survei ini memiliki persepsi yang sangat positif terhadap efektivitas AI
+dan teknologi pendidikan dalam meningkatkan hasil belajar siswa. Sebanyak 74% peserta memiliki
+persepsi positif, sementara 18% memiliki persepsi netral dan hanya 8% yang memiliki persepsi
+negatif. Hasil ini menunjukkan keyakinan yang kuat di antara para peserta bahwa AI dan teknologi
+pendidikan dapat secara signifikan meningkatkan proses pembelajaran siswa.
+
+        2.2 Analisis Korelasi
+        Analisis korelasi dilakukan untuk mengeksplorasi hubungan antar variabel, khususnya
+frekuensi penggunaan AI dan teknologi pendidikan serta efektivitas yang dirasakan dalam
+meningkatkan hasil belajar siswa. Analisis korelasi menunjukkan korelasi positif yang signifikan
+secara statistik (r = 0,764, p <0,01) antara frekuensi penggunaan AI dan teknologi pendidikan dan
+persepsi efektivitas. Hal ini menunjukkan hubungan positif yang kuat, yang menunjukkan bahwa
+dengan meningkatnya frekuensi penggunaan teknologi, maka akan ada peningkatan yang sesuai
+dalam efektivitas yang dirasakan dari alat-alat ini dalam meningkatkan proses pembelajaran siswa.
+
+        2.3 Analisis Regresi
+        Untuk mengidentifikasi prediktor peningkatan hasil belajar siswa, analisis regresi dilakukan
+dengan mempertimbangkan variabel-variabel seperti frekuensi penggunaan AI dan teknologi
+pendidikan, tantangan yang dihadapi, dan faktor demografis. Model regresi diterapkan untuk
+menilai kekuatan prediksi dari berbagai variabel. Hasilnya menunjukkan hal-hal berikut:
+
+
+
+
+                                                          Vol. 01, No. 12, Desember 2023: pp. 851-858
+Jurnal Pendidikan West Science                                                                   856
+
+
+         a.   Frekuensi Penggunaan AI dan Teknologi Pendidikan muncul sebagai prediktor yang
+              signifikan terhadap peningkatan hasil belajar siswa (β = 0,624, p < 0,05).
+
+        Tantangan yang dihadapi dan faktor demografis tidak menunjukkan kekuatan prediksi
+yang signifikan dalam analisis awal. Temuan ini menunjukkan bahwa dengan meningkatnya
+frekuensi penggunaan AI dan teknologi pendidikan, ada dampak positif yang sesuai pada hasil
+belajar siswa.
+
+        Pembahasan
+        Persepsi Positif dan Efektivitas
+        Persepsi positif dari para peserta mengenai efektivitas AI dan teknologi pendidikan sejalan
+dengan penelitian sebelumnya (Salas-Pilco et al., 2022; Soesanto et al., 2022). Analisis korelasi
+mendukung persepsi ini, menunjukkan hubungan positif yang kuat antara frekuensi penggunaan
+teknologi dan efektivitas yang dirasakan (Conati & Lallé, 2023). Temuan ini menggarisbawahi
+potensi AI dan teknologi pendidikan untuk memberikan dampak positif terhadap proses
+pembelajaran siswa (Ifenthaler & Schumacher, 2023; Weitz et al., 2021). Namun, penting untuk
+dicatat bahwa temuan ini khusus untuk konteks Jawa Timur.
+        Institusi pendidikan di Jawa Timur dapat meningkatkan hasil belajar siswa dengan
+mengintegrasikan AI dan teknologi pendidikan secara lebih efektif. Penggunaan teknologi, seperti
+TIK, telah terbukti memiliki berbagai keuntungan dalam mengajar anak-anak berkebutuhan khusus,
+termasuk meningkatkan minat, motivasi, dan partisipasi mereka dalam belajar (Setiawan & Efendi,
+2023). Selain itu, penerapan belajar dari rumah menggunakan platform online seperti Whatsapp
+Group, Zoom, dan Google Classroom telah memberikan keuntungan seperti efisiensi waktu dan
+tempat belajar yang fleksibel, meskipun terdapat tantangan terkait dengan keterbatasan akses
+internet dan perbedaan platform pembelajaran (Ristanto et al., 2022). Selain itu, evaluasi sektor
+pendidikan di Jawa Timur menggunakan Data Envelopment Analysis (DEA) telah mengidentifikasi
+ketidakefisienan teknis dan perlunya perbaikan di berbagai bidang seperti alokasi dana pendidikan
+dan tingkat kelanjutan sekolah (Apriyansyah et al., 2020). Temuan-temuan ini menyoroti pentingnya
+perencanaan strategis dan alokasi sumber daya untuk memfasilitasi implementasi teknologi
+pendidikan yang efektif di lembaga pendidikan Jawa Timur.
+        Studi ini tidak mengidentifikasi faktor demografis sebagai prediktor yang signifikan.
+Namun, investigasi yang lebih mendalam mengenai pengaruh sosial ekonomi direkomendasikan
+untuk memastikan akses dan manfaat yang adil. Mengatasi tantangan infrastruktur dan
+memberikan dukungan yang ditargetkan kepada para pendidik dapat mengurangi kesenjangan
+yang terkait dengan faktor sosial ekonomi.
+
+
+    5. KESIMPULAN
+        Studi ini memberikan wawasan yang berharga tentang interaksi antara AI, teknologi
+pendidikan, dan proses pembelajaran siswa di Jawa Timur. Persepsi yang sangat positif dan korelasi
+yang signifikan menggarisbawahi potensi teknologi untuk meningkatkan pendidikan. Prediktor
+yang teridentifikasi, yaitu frekuensi penggunaan teknologi, menekankan perlunya perencanaan
+strategis dan alokasi sumber daya untuk mengoptimalkan dampaknya. Mengatasi tantangan dan
+memastikan akses yang adil, terutama dalam konteks sosial ekonomi yang beragam, merupakan
+
+
+                                                            Vol. 01, No. 12, Desember 2023: pp. 851-858
+Jurnal Pendidikan West Science                                                                                857
+
+
+pertimbangan penting bagi para pembuat kebijakan dan pendidik. Temuan ini berkontribusi pada
+wacana yang sedang berlangsung tentang peran teknologi dalam pendidikan, yang menawarkan
+implikasi praktis untuk meningkatkan hasil pembelajaran siswa di Jawa Timur.
+
+
+DAFTAR PUSTAKA
+Ahmadi, F., Syahputra, H., Hardyanto, W., Kristanto, A., Pramono, S. E., Parinsi, M. T., Sugiarta, I., &
+       Sugihartono, I. (2023). Developing Mobile Learning Application Containing Basic Pedagogy Material as
+       the Supplement in Improving College Students’ Learning Outcome in Teacher Training Institutes of
+       Indonesia. European Journal of Educational Research, 12(1).
+Ahmed, M. I. B., Alotaibi, R. B., Al-Qahtani, R. A., Al-Qahtani, R. S., Al-Hetela, S. S., Al-Matar, K. A., Al-Saqer,
+       N. K., Rahman, A., Saraireh, L., & Youldash, M. (2023). Deep Learning Approach to Recyclable Products
+       Classification: Towards Sustainable Waste Management. Sustainability, 15(14), 11138.
+Apriyansyah, B., Hanoum, S., Prihananto, P., & Mukaromah, S. L. (2020). Efficiency evaluation of primary and
+       secondary education sector performance in East Java using data envelopment analysis. JURNAL SOSIAL
+       HUMANIORA (JSH), 13(2), 151–163.
+Bećirović, S. (2023). The Use of Open Educational Resources (OER) in Digital Pedagogy. In Digital Pedagogy: The
+       Use of Digital Technologies in Contemporary Education (pp. 69–81). Springer.
+Chen, C. (2023). Research on Online Teaching Emotion Detection based on Federated Learning. Proceedings of
+       the 2023 3rd International Conference on Bioinformatics and Intelligent Computing, 159–164.
+Conati, C., & Lallé, S. (2023). 8. Student modeling in open-ended learning environments. Handbook of Artificial
+       Intelligence in Education, 170–183.
+de Souza Zanirato Maia, J., Bueno, A. P. A., & Sato, J. R. (2023). Applications of Artificial Intelligence Models in
+       Educational Analytics and Decision Making: A Systematic Review. World, 4(2), 288–313.
+Elbourhamy, D. M., Najmi, A. H., & Elfeky, A. I. M. (2023). Students’ performance in interactive environments:
+       an intelligent model. PeerJ Computer Science, 9, e1348.
+Firat, M. (2023). Towards a Unified Open Education Ecosystem through Generative AI, Blockchain, DAO, MMLA and
+       NFT.
+Frehlich, C. (2020). Immersive learning: A practical guide to virtual reality’s superpowers in education. Rowman &
+       Littlefield Publishers.
+Hutson, J., & Ceballos, J. (2023). Rethinking education in the age of AI: the importance of developing durable
+       skills in the Industry 4.0. Journal of Information Economics, 1(2).
+Ifenthaler, D., & Schumacher, C. (2023). Reciprocal issues of artificial and human intelligence in education. In
+       Journal of Research on Technology in Education (Vol. 55, Issue 1, pp. 1–6). Taylor & Francis.
+Jha, M., Jha, S., Thakur, S., & Xu, J. (2022). Student Engagement and Leaning through Digital Educational
+       Technology. 2022 IEEE Asia-Pacific Conference on Computer Science and Data Engineering (CSDE), 1–6.
+Khaerani, N. S., Lintangsari, A. P., & Gayatri, P. (2023). EFL Students’ Learning Engagement in The Post
+       Pandemic Era. JEELS (Journal of English Education and Linguistics Studies), 10(1), 119–148.
+Kumar, D., Haque, A., Mishra, K., Islam, F., Mishra, B. K., & Ahmad, S. (2023). Exploring the transformative
+       role of artificial intelligence and metaverse in education: A comprehensive review. Metaverse Basic and
+       Applied Research, 2, 55.
+Liu, Y., & Baucham, M. (2023). AI Technology: Key to Successful Assessment. In Handbook of Research on
+       Redesigning Teaching, Learning, and Assessment in the Digital Era (pp. 304–325). IGI Global.
+Mena-Guacas, A. F., Rodríguez, J. A. U., Trujillo, D. M. S., Gómez-Galán, J., & López-Meneses, E. (2023).
+       Collaborative learning and skill development for educational growth of artificial intelligence: A
+       systematic review. Contemporary Educational Technology, 15(3), ep428.
+Nasiba, M. (2023). Innovating Higher Education by Using Education Technology and Expert Systems: Pathways
+       to Educational Innovation. International Journal of Social Science Research and Review, 6(6), 112–120.
+Ristanto, A. D., Ananda, C. F., & Pangestuty, F. W. (2022). Effect of Socio-Economic Characteristics and Cultural
+       Areas on the Educated Poor in East Java Province. Journal of International Conference Proceedings, 5(4), 150–
+       159.
+Ritter, S., & Koedinger, K. R. (2023). Large-scale commercialization of AI in school-based environments. In
+       Handbook of Artificial Intelligence in Education (pp. 524–536). Edward Elgar Publishing.
+Salas-Pilco, S. Z., Xiao, K., & Hu, X. (2022). Artificial intelligence and learning analytics in teacher education: A
+       systematic review. Education Sciences, 12(8), 569.
+
+                                                                    Vol. 01, No. 12, Desember 2023: pp. 851-858
+Jurnal Pendidikan West Science                                                                              858
+
+
+Setiawan, A., & Efendi, E. Y. (2023). Implementation of Information Communication Technology (ICT) as a Teaching
+      Aid for Children with Special Needs.
+Soesanto, R. H., Dirgantoro, K. P. S., & Priyantim, N. (2022). Indonesian Students’ Perceptions towards AI-Based
+      Learning in Mathematics. Journal on Mathematics Education, 13(3), 531–548.
+Theophilou, E., Koyutürk, C., Yavari, M., Bursic, S., Donabauer, G., Telari, A., Testa, A., Boiano, R., Hernandez-
+      Leo, D., & Ruskov, M. (2023). Learning to Prompt in the Classroom to Understand AI Limits: A pilot
+      study. International Conference of the Italian Association for Artificial Intelligence, 481–496.
+Weitz, K., Schlagowski, R., & André, E. (2021). Demystifying artificial intelligence for end-users: findings from
+      a participatory machine learning show. German Conference on Artificial Intelligence (Künstliche Intelligenz),
+      257–270.
+Zhang, K., & Aslan, A. B. (2021). AI technologies for education: Recent research & future directions. Computers
+      and Education: Artificial Intelligence, 2, 100025.
+
+
+
+
+                                                                  Vol. 01, No. 12, Desember 2023: pp. 851-858
+

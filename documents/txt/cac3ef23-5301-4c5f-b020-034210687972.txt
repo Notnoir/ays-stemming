@@ -1,0 +1,1250 @@
+1 
+ 
+Metodologi Penelitian Kuantitatif 
+Oleh Subagio Budi Prajitno, Dosen Komunikasi UIN SGD Bandung 
+___________________________________________________________________________ 
+ 
+Penelitian kuantitatif, menurut Robert Donmoyer (dalam Given, 2008: 713), adalah pendekatan-
+pendekatan terhadap kajian empiris untuk mengumpulkan, menganalisa, dan menampilkan data 
+dalam bentuk numerik daripada naratif.  
+ 
+Menurut Cooper & Schindler (2006: 229), riset kuantitatif mencoba melakukan pengukuran yang 
+akurat ter-hadap sesuatu.  
+ 
+Penelitian kuantitatif sering dipandang sebagai antitesis atau lawan dari penelitian kualitatif, 
+walau sebenarnya pembedaan kualitatif-kuantitatif tersebut agak menyesatkan. Donmoyer 
+beralasan, banyak peneliti kuantitatif tertarik mempelajari aspek-aspek kualitatif dari fenomena. 
+Mereka melakukan kuantifikasi gradasi kualitas menjadi skala-skala numerik yang 
+memungkinkan analisis statistik. 
+Pelabelan kuantitatif dan kualitataif juga menyesatkan karena para peneliti kualitatif tidak bisa 
+sama sekali menghindari kuantifikasi. Misalnya ketika mereka mengguna-kan istilah kadang-
+kadang, sering, jarang, atau tidak pernah, sebenarnya mereka telah melakukan semacam 
+kuantifikasi dalam bentuk yang kurang tepat.  
+ 
+Lebih jauh lagi, ada peneliti kualitatif yang bergerak melampaui bentuk kuantifikasi primitif 
+dengan menyebar-kan kuesioner dan melaporkan hasil penelitian dalam bentuk statistik 
+deskriptif. Data numerik ini dipakai dalam penelitian kualitatif sebagai bagian dari triangulasi 
+atas temuan-temuan kualitatif dan/atau untuk menentukan apakah hasil wawancara mendalam 
+konsisten dengan pandangan mereka yang tidak diwawancarai karena alasan lamanya waktu dan 
+banyaknya tenaga yang dikeluarkan. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+Kualitatif 
+Kuantitatif 
+Fokus riset 
+·  Pemahaman dan penjelasan 
+·   Penjabaran, penjelasan dan perkiraan 
+Keterlibatan 
+periset 
+·  Tinggi – periset adalah peserta atau 
+katalisator 
+·   Terbatas; dikontrol untuk mencegah 
+bias 
+Tujuan riset 
+·  Pemahaman mendalam: 
+pengembangan teori 
+·   Jelaskan atau perkirakan; 
+mengembangkan dan menguji teori 
+Desain 
+sampel 
+·  Nonprobabilitas, bertujuan 
+·   Probabilitas 
+Ukuran 
+sampel 
+·  Kecil 
+·   Besar 
+Desain riset 
+·  Dapat berkembang dan diubah saat 
+proyek berjalan 
+·  Sering menggunakan beberapa 
+metode secara bersamaan atau 
+berurutan 
+·  Konsistensi tidak begitu diharapkan 
+·  Melibatkan pendekatan longitudinal 
+·   Ditentukan sebelum pelaksanaan 
+proyek 
+·   Menggunakan metode tunggal atau 
+campuran 
+·   Konsistensi sangat penting 
+·   Menggunakan pendekatan lintas 
+bagian (cross-sectional) atau 
+longitudinal 
+Persiapan 
+peserta 
+·  Adanya pra-penugasan 
+·   Tidak ada persiapan yang dibutuhkan 
+untuk menghindari bias peserta 
+Jenis dan 
+persiapan 
+data 
+·  Deskripsi secara verbal atau 
+gambar 
+·  Diciutkan menjadi kode verbal (ka-
+dangkala dengan bantuan 
+komputer) 
+·   Penjabaran verbal 
+·   Diciutkan menjadi kode numerik untuk 
+analisis komputer 
+Analisis 
+data 
+·  Analisis manusia setelah 
+pengkodean oleh komputer atau 
+manual; terutama nonkuantitatif 
+·  Memaksa periset untuk melihat 
+kerangka kontekstual dari fenomena 
+yang sedang diamati – perbedaan 
+antara fakta dan kebijakan kurang 
+begitu jelas 
+·  Selalu dilakukan bersamaan 
+·   Analisis dengan komputer – metode 
+statistik dan matematik dominan 
+·   Analsis dapat dilaksanakan pada saat 
+proyek berjalan 
+·   Mempertahankan perbedaan yang 
+jelas antara fakta dan kebijakan 
+3 
+ 
+dengan pelaksanaan proyek 
+Gambaran 
+dan makna 
+·  Tingkat pemahaman yang lebih 
+dalam adalah normanya; ditentukan 
+oleh jenis dan kuantitas dari 
+pertanyaan respon-bebas 
+·  Partisipasi periset dalam 
+pengumpulan data memungkinkan 
+terbentuknya pemahaman yang 
+dapat langsung diuji selama proses 
+berjalan 
+·   Dibatasi oleh peluang untuk menggali 
+responden dan kualitas perangkat 
+pengumpul data orisinal 
+·   Pemahaman diperoleh setelah 
+terkumpulnya dan dimasukkannya data, 
+dengan kemampuan untuk 
+mewawancara ulang peserta yang 
+terbatas 
+Keterlibatan 
+sponsor 
+riset 
+·  Dapat berpartisipasi dengan 
+mengobservasi riset pada saat 
+dilakukan atau melalui rekaman 
+wawancara 
+·   Jarang sekali memiliki hubungan 
+langsung atau tidak langsung dengan 
+peserta 
+Perputaran 
+umpan 
+balik 
+·  Ukuran sampel yang lebih kecil 
+membuat pengumpulan data lebih 
+cepat sehingga perputarannya lebih 
+cepat 
+·  Wawasan berkembang saat riset 
+berjalan sehingga analisa data lebih 
+pendek 
+·   Sampel yang lebih besar 
+memperpanjang proses pengumpulan 
+data; metodologi Internet 
+memperpendek proses tetapi tidak 
+cocok bagi sebagian studi 
+·   Perkembangan pemahaman diperoleh 
+setelah terkumpulnya dan 
+dimasukkannya data, sehingga 
+memperpanjang proses riset; perangkat 
+lunak pewawancara memungkinkan 
+perhitungan respon sementara 
+pengumpulan data sedang berjalan 
+Keamanan 
+data 
+·  Lebih absolut karena menggunakan 
+fasilitas yang aksesnya dibatasi dan 
+ukuran sampel yang lebih kecil 
+·   Riset yang sedang berjalan sering 
+sekali diketahui oleh pesaing; pesaing 
+bisa memperoleh pemahaman dari 
+beberapa studi lapangan yang dapat 
+dilihat langsung 
+             
+Sebagian peneliti kualitatif berkeberatan dengan landasan filosofis konsep reliabilitas dan 
+validitas. Misalnya konsep triangulasi yang sering dianggap analog dengan konsep reliabilitas 
+karena triangulasi berupaya menggali sumber data berbeda, ternyata sering berbeda makna 
+dengan konsep reliabilitas.  
+ 
+ 
+4 
+ 
+Peneliti kualitatif yang berasumsi masing-masing orang berbeda konstruksi maknanya atas 
+kejadian yang sama, mustahil mengharapkan hasil wawancara yang konsisten antarindividu atau 
+antarkelompok walau mereka berasal dari organisasi yang sama. 
+ 
+Konsep validitas eksternal atau generalisabilitas (generalizability = keberlakuan secara umum) 
+dalam pendekatan kuantitatif tidak mungkin berlaku untuk studi satu kasus atau sekelompok 
+kecil kasus. Peneliti kalitataif yang menolak landasan filosofis konsep validitas eksternal, 
+mendasarkan penolakannya pada asumsi bahwa konteks itu idiosin-kratik (tidak biasa, unik) dan 
+selalu berubah.  
+ 
+Berdasarkan asumsi ini, tidak ada alasan untuk menerapkan konsep generalisabilitas karena 
+temuan-temuan penelitian tidak akan berlaku pada individu atau konteks berbeda. Para peneliti 
+kualitatif memilih istilah transferabilitas yang lebih psikologis daripada validitas eksternal atau 
+generalisabilitas.  
+ 
+Tranferablitas berasumsi  
+(a) semua temuan penelitian hanyalah sekumpulan hipotesis kerja tentang apa yang mungkin 
+terjadi ketika hal-hal serupa terjadi dalam konteks serupa dan  
+(b) hanya para pengguna hasil penelitian yang dapat menentukan apakah sebuah temuan 
+transferabel untuk situasi-situasi mereka. 
+ 
+Ciri khas pendekatan kuantitatif lainnya dalah validitas internal, maksudnya apa-kah instrumen 
+penelitian betul-betul mengukur apa yang seharusnya diukur. Validitas internal dapat dikaji 
+dengan beberapa cara:  
+(a) dengan mengorelasikan hasil pengukuran instrumen dengan hasil pengukuran instrumen lain 
+yang telah mantap mengukur fenomena yang sama (concurrent validity),  
+(b) dengan menentukan apakah hasil-hasil pengukuran memberikan prediksi tepat sebagaimana 
+diharapkan (predictive validity), atau  
+(c) dengan menentukan apakah kajian-kajian empiris mendukung atau gagal mendukung 
+hipotesis-hipotesis tentang konstruk teoritis yang dapat dioperasikan dan diukur oleh instrumen 
+(construct validity).  
+ 
+Sekali lagi, tidaklah masuk akal memaksakan analisis statistik dalam studi satu kasus atau studi 
+dengan kasus terbatas yang menjadikan peneliti sebagai instrumen utama. Para peneliti kualitatif 
+terpaksa menemukan prosedur seperti member checking yang analog dengan prosedur statistik 
+untuk mengkaji validitas konkuren, prediktif, dan konstruk. 
+ 
+Konsep validitas internal juga mendapat tantangan dari sebagian peneliti kualitatif. Para peneliti 
+kuantitatif dan kualitatif memang berbeda secara fundamental dalam memandang hakikat 
+fenomena sosial. Para pendukung pendekatan kuantitatif meyakini kausalitas variabel-variabel 
+fenomena sosial, sedangkan para pendukung pendekatan kualitatif tidak selalu demikian.  
+5 
+ 
+ 
+ 
+Para peneliti kuantitatif menjanjikan pengetahuan valid untuk memprediksikan dan mengontrol 
+kejadian-kejadian. Tidaklah meherankan apabila pendekatan kuantitatif sangat mengandalkan 
+desain (metode) penelitian ekperimental dan kuasi-eksperimental. 
+ 
+Eksperimentasi yang menerapkan kontrol ketat atas serangkaian variabel sangat sulit atau 
+mustahil dilakukan di dunia nyata, karena itu eksperimen sering dilakukan 
+dalam setting laboratorium.  
+ 
+Sayangnya hasil-hasil penelitian dalam laboratorium tidak selalu berlaku dalam konteks dunia 
+nyata. Kondisi ini mendorong Urie Bronfenbrenner, psikolog perkembangan, mengagas 
+konsep validitas ekologis.  
+ 
+Banyak peneliti kuantitatif mengoreksi kurangnya validitas ekologis dengan memilih desain atau 
+metode penelitian kuasi-eksperimental. Namun mereka harus menerima trade-off berupa 
+kurangnya kontrol atas variabel-variabel dan standardisasi treatments 
+daripada setting laboratorium (Donmoyer dalam Given, 2008: 715). 
+ 
+Lebih jauh Donmoyer menulis, salah seorang raksasa metodologi kuantitatif, Lee Cronbach yang 
+selama beberapa dekade memraktekkan desain eksperimental dan kuasi- eksperimental dan 
+meyakini kausalitas kehidupan sosial, pada tahun 1980an berpendapat lain.  
+ 
+Menurutnya, tindakan dalam dunia sosial itu terkonstruksi, bukan terakibatkan. Dia 
+mengindikasikan, mereka yang mengharapkan ilmu sosial dapat menghasilkan generalisasi 
+sebab-akibat secara definitif, bagai menunggu Godot, karakter yang ditunggu-tunggu tetapi tidak 
+pernah muncul dalam naskah drama ciptaan Samuel Beckett. 
+ 
+Pandangan Cronbach itu juga diadopsi oleh banyak peneliti kualitatif, termasuk pengusung 
+tradisi interaksionisme simbolik dan etnometodologi dalam sosiologi. Mereka yang terkena 
+sosialisasi tradisi-tradisi ini juga menolak penjelasan kausalitas (sebab-akibat).  
+ 
+Mereka berasumsi:  
+(a) manusia bertindak berdasarkan makna yang diatribusikan pada kejadian-kejadian,  
+(b) makna itu dikonstruksi dan selalu dikonstruksi ulang selama manusia berinteraksi.  
+ 
+Mengingat proses rekonstruksi konstan ini, para pengusung inter-aksionalisme simbolik dan 
+etnometodologi berargumen, tidaklah masuk akal untuk mem-perlakukan makna-makna yang 
+terkonstruksi secara sosial sebagai intervening variabel (variabel antara) dalam sebuah kerangka 
+penjelasan sebab-akibat. 
+6 
+ 
+ 
+ 
+Paparan di atas tidak dimaksudkan untuk mendeskreditkan pendekatan kuantitatif.  
+ 
+Pembandingan riset kualitatif dan kuantitatif yang lebih „netral‟, walau dalam konteks riset 
+bisnis,  disajikan oleh Cooper & Schindler (2006: 230). 
+ 
+Pembandingan pendekatan kuantitatif dan kualitatif juga dapat dilihat dari teori-teori yang 
+mereka hasilkan. Griffin (2011: 22) misalnya, memilah teori-teori komunikasi pada rentang 
+„objective‟ (kuantitatif) dan „interpretive‟ (kualitatif) worldview (pandangan dunia atau 
+paradigma). 
+ 
+Teori-teori yang diarsir di atas tergolong berparadigma „objektif‟ hasil metode-metode 
+kuantitatif. Salah satu contohnya adalah teori disonansi kognitif. Kognisi adalah cara 
+mengetahui, mempercayai, menilai, dan berpikir. Disonansi kognitif adalah perasaan tidak 
+nyaman akibat inkonsistensi sikap, pikiran, dan perilaku. 
+ 
+West & Turner (2010: 112-28) menjelaskan teori ini secara ringkas, pengalaman disonansi – 
+ketidakselarasan kepercayaan-kepercayaan dan tindakan-tindakan atau dua kepercayaan yang 
+tidak kompatibel – tentu tidak nyaman, dan orang sangat termotivasi untuk menghindarinya.  
+ 
+Ketika berusaha menghindari perasaan-perasaan disonansi, orang-orang akan mengabaikan 
+pandangan-pandangan yang berlawanan dengan pandangan mere-ka sendiri, mengubah 
+kepercayaan-kepercayaan supaya selaras dengan tindakan-tindakan mereka (atau sebaliknya), 
+dan/atau mencari dukungan setelah membuat sebuah keputusan yang sulit.  
+ 
+Cognitive dissonance theory (CDT) mempunyai empat asumsi yang mendasari-nya, yaitu  
+(1) manusia mendambakan konsistensi dalam kepercayaan, sikap, dan perilaku mereka;  
+(2) disonansi tercipta oleh inkonsistensi psikologis;  
+(3) disonansi adalah aversive state (penolakan psikologis)  yang mendorong orang untuk 
+melakukan tindakan-tindakan dengan dampak-dampak yang terukur;  
+(4) disonansi memotivasi upaya-upaya untuk mencapai konsonansi/keselarasan dan mengurangi 
+disonansi. Gambar di bawah ini menun-jukkan proses disonansi kognitif (ibid: 114). 
+ 
+Model CDT meliputi konsep-konsep dengan kausalitas yang jelas. Peneliti yang berminat 
+dapat menguji signifikansi hubungan antarkonsep itu. Hasil penelitiannya mungkin 
+menguatkan atau melemahkan teori ini.  
+ 
+Para teoritisi yang mengembangkan teori mereka dengan pendekatan kuantitatif, harus siap 
+menjalani proses falsifikasi dan berharap teorinya menjadi „hukum‟ sekokoh „hukum 
+kekekalan energi,‟ misalnya. 
+7 
+ 
+Pengetahuan, metode ilmiah, dan teori. 
+ 
+Manusia di mana pun dan kapan pun memiliki rasa ingin tahu. Perbedaan habitat, ras, jenis 
+kelamin, juga perkembangan kebudayaan – sedikit atau banyak – mempengaruhi jenis, kuantitas, 
+dan kualitas pengetahuan manusia, baik sebagai individu maupun sebagai komunitas.  
+ 
+Beragam pendapat menjelaskan jenis pengetahuan dan cara manusia mengem-bangkannya. 
+Tafsir (1990: 15) misalnya, menyajikan klasifikasi macam pengetahuan. 
+ 
+Charles Peirce yang pendapatnya dikutip oleh Fred N. Kerlinger dalam buku “Foundation of 
+Behavioral Research” (Avery, 2006: 168-69), menyebutkan empat cara mendasar untuk tahu.  
+ 
+Pertama, method of tenacity, yaitu ketika kita memegang teguh kepercayaan yang kita yakini 
+sebagai kebenaran tak terbantahkan.  
+ 
+Kedua, method of authority. Cara tahu semacam ini biasa dan banyak orang menerimanya, 
+misalnya kita percaya kepada profesor fisika untuk menghitung kecepatan dalam beragam 
+kondisi; kita sandarkan kebenaran pada sumber yang bereputasi baik di luar kita.  
+ 
+Ketiga, metode intuitif atau a priori method. Metode ini menggunakan fakta atau prinsip yang 
+biasa diterima sebagai penyebab sesuatu. Contoh, “Mereka belum makan seharian, mereka pasti 
+lapar” (Wehmeier, 2008: 64).  
+ 
+Metode ini merupakan perspektif filosofis yang percaya bahwa warga negara yang rasional dan 
+bebas, ketika boleh berdebat secara terbuka, secara alamiah akan menghasilkan kesimpulan yang 
+benar dan self-efident(terbukti dengan sendirinya). Konsep demokrasi partisipatoris dan “pasar 
+gagasan” (marketplace of ideas) adalah pandangan yang selaras dengan perspektif ini.  
+ 
+Keempat, metode ilmiah. Menurut Kerlinger, pendekatan ilmiah memiliki sifat yang tidak 
+dimiliki ketiga metode lainnya dalam mendapatkan pengetahuan, yaitu self-correction. Kerlinger 
+paling menghargai metode ilmiah karena sifat self-correction itu. Metode ilmiah memiliki 
+perangkat pemeriksaan  untuk pengendalian dan verifikasi kegiatan ilmuwan, serta 
+memungkinkan verifikasi independen oleh ilmuwan lain. 
+ 
+Metode-metode (penelitian) ilmiah dengan pendekatan kuantitatif, sebagaimana ilmu/sains 
+mempunyai tujuan dasar: menemukan/mengembangkan teori. Kerlinger (dalam Avery, 2006: 
+170) mendefinisikan teorisebagai  
+ 
+ 
+8 
+ 
+“...a set of interrelated constructs (concepts), definitions, and propositions that present a 
+systematic view of phenomena by specifying relations among variables, with the purpose of 
+explaining and predicting the phenomena.”  
+ 
+West & Turner (2007: 48) mengartikan teori sebagai sebuah sistem abstrak dari konsep-konsep 
+dan hubungan-hubungan mereka yang membantu kita memahami fenomena. Kedua rumusan ini 
+berbeda dengan konsep teori dari pendekatan kualitatif.  
+ 
+Denzin & Lincoln (2009: 355) menyatakan, teori terdiri dari berbagai keterkaitan „masuk akal‟ 
+yang terjadi di antara „konsep-konsep‟ dan „serangkaian konsep.‟ Masuk akalnya sebuah teori 
+diperkuat melalui penelitian yang berkelanjutan.  
+ 
+Lantas Denzin & Lincoln mengutip pendapat Stein & Urdang (1981) tentang teori, “Sederet 
+proposisi umum yang padu yang digunakan (untuk sementara) sebagai prinsip untuk 
+menjelaskan sekelompok fenomena.” 
+ 
+Perbedaan definisi teori dari dua pendekatan yang berbeda itu berimplikasi pada perbedaan 
+proses penelitian dalam masing-masing pendekatan. Skema berikut ini mewakili pendekatan 
+kuantitatif dalam menjelaskan proses penelitian yang berpangkal atau berujung pada teori.  
+ 
+Grounded theorysebagai salah satu metode dalam pendekatan kualitatif, tidak mengikuti siklus 
+penelitian seperti skema di bawah ini. 
+ 
+ 
+ 
+ 
+ 
+9 
+ 
+Istilah “metodologi” sering dipertukarkan dengan istilah “metode” atau “desain” penelitian. Para 
+peneliti atau penulis yang menggunakan kata “desain penelitian” biasa menggunakan kata 
+“metode” yang dikhususkan untuk metode pengumpulan data.  
+ 
+Menurut de Vaus (2009: 9), desain riset adalah struktur logika penelitian, fungsinya menjamin 
+bukti-bukti yang terkumpul dapat menjawab pertanyaan penelitian semeyakinkan mungkin. 
+Apabila mengacu pada Oxford Advanced Learner’s Dictionary, edisi-7 (Wehmeier, 2008: 963), 
+“method” dimaknai: a particular way of doing something, sedangkan “methodology” :  a set of 
+methods and principles used to perform a particular activity.  
+ 
+Penulis menggunakan istilah “metode” penelitian yang sama atau mirip artinya dengan 
+“metodologi/desain” penelitian. 
+ 
+Metode-metode penelitian (ilmiah), selain berbeda karena landasan filosofisnya masing-masing, 
+mereka juga berbeda karena tujuan penggunaannya. Metode-metode penelitian dapat 
+dimanfaatkan untuk beragam keperluan atau orientasi.  
+ 
+Tujuan dasar penelitian adalah pengembangan teori, baik grand, mid-range, maupun narrow 
+theory. Grand theory berupaya menjelaskan segala hal dari satu fenomena. Mid-range 
+theory bermaksud menjelaskan aspek tertentu dari satu fenomena, sedangkan narrow 
+theory berusaha menjelaskan aspek yang sangat terbatas dari sebuah fenomena. Selain itu, teori 
+dengan tiga tingkat abstraksi tadi mempunyai komponen dan tujuan (West & Turner, 2007: 49-
+51). 
+ 
+Komponen teori adalah konsep-konsep dan hubungan-hubungan. Konsep-konsep adalah kata-
+kata atau istilah-istilah yang menandai bagian-bagian terpenting dari suatu teori. Contohnya 
+konsep cohesiveness(Groupthink), dissonance (Cognitive Dissonance Theory), self (Symbolic 
+Interaction Theory), dan scene (Dramatism).  
+ 
+Ada dua jenis konsep, yaitu konsep nominal (tidak langsung teramati) dan konsep ril (teramati). 
+Sementara hubungan-hubungan adalah cara-cara konsep-konsep dalam suatu teori 
+terkombinasikan. Misalnya model proses komunikasi ada yang menampilkan hubungan linear, 
+ada juga yang menunjukkan hubungan interaktif atau dua arah. 
+ 
+Teori mempunyai empat tujuan. Menurut West & Turner (2007: 51), teori mencakup tujuan 
+eksplanasi, pemahaman, prediksi, dan perubahan sosial. Namun tidak semua teori berhasil atau 
+bermaksud mencapai keempat tujuan tersebut.  
+ 
+ 
+10 
+ 
+Wood (2004: 32-38) memberi penjelasan yang agak berbeda. Menurut Wood, pondasi sebuah 
+teori adalah deskripsi, yaitu sebuah proses penggunaan simbol-simbol untuk merepresentasikan 
+fenomena.  
+ 
+Sebelum kita mengetahui bagaimana sesuatu bekerja, pertama-tama kita harus 
+mendeskripsikannya. Jadi, tugas pertama dalam pengembangan sebuah teori adalah 
+mengidentifikasi fitur-fitur dari beberapa fenomena dan mendeskripsikan aneka variasi dalam 
+fitur-fitur itu. 
+ 
+Tujuan kedua dari teori menurut Wood adalah eksplanasi, yaitu suatu upaya mengklarifikasi 
+bagaimana dan mengapa sesuatu bekerja. Setelah mendeskripsikan fitur-fitur atau bagian-bagian 
+fenomena, seorang teoris bertanya bagaimana komponen-komponen itu berinteraksi dan 
+bekerjasama. Contohnya, seorang ahli ekologi mungkin menjelaskan bagaimana pembangunan 
+komersial menyebabkan kerusakan pada rawa.  
+ 
+Ahli genetika boleh jadi menjelaskan efek obat tertentu terhadap struktur kromosom dalam fetus 
+yang sedang tumbuh. Ahli komunikasi dapat menjelaskan bagaimana komunikasi bekerja: 
+mengapa para juri (di pengadilan Amerika Serikat) terpengaruh oleh cerita bagus? Mengapa 
+ajakan si fulan kepada saya untuk ikut bermain Farm Field dalam FaceBookberhasil atau gagal? 
+ 
+Tujuan ketiga dari teori adalah memungkinkan kita untuk memahami dan/atau memprediksi dan 
+mengendalikan apa yang akan terjadi. Prediksimelibatkan proyeksi tentang apa yang akan 
+terjadi pada suatu fenomena dalam kondisi-kondisi tertentu atau akibat terpaan stimuli tertentu.  
+ 
+Kontrol adalalah penggunaan serangkaian eksplanasi dan prediksi untuk mengatur dinamika 
+suatu fenomena. Para humanis kurang tertarik pada prediksi dan kontrol, mereka 
+mementingkan pemahaman atas fenomena. 
+ 
+Tujuan keempat dari teori adalah reformasiatau upaya aktif demi perubahan sosial yang positif. 
+Tujuan ini terutama mengemuka di lingkungan para pendukung teori-teori kritis seperti eksponen 
+Mazhab Frankfurt atau kaum feminis. Para ilmuwan lainnya merasa tidak bertanggung jawab 
+atau tidak berhak mengubah perilaku sosial. 
+ 
+Persepsi tentang dan sikap terhadap tujuan-tujuan teori, selain orientasi penelitian dasar-terapan-
+evaluasi, menentukan pilihan metode/desain penelitian. Berikut penulis sajikan beberapa jenis 
+metode penelitian berpendekatan kuantitatif. 
+ 
+Jenis-jenis metode penelitian 
+Banyak penulis buku metode penelitian (kuantitatif) berbeda pandangan dalam menjelaskan 
+jenis-jenis metode penelitian. Misalnya de Vaus tidak menyertakan metode historikal, deskriptif, 
+dan korelasional sebagaimana disepakati oleh Isaac & Michael dan Rakhmat.  
+11 
+ 
+ 
+ 
+Boleh jadi de Vaus menganggap analisis korelasional hanya sebagai alat statistik dalam metode 
+atau desain penelitian.  
+ 
+Rakhmat tidak menyertakan metode longitudinal dan cross-sectional yang oleh Isaac & Michael 
+digolongkan sebagai contoh dalam metode developmental. Analisis isi (seperti ducumentary 
+analyses, anecdotal records, critical incident reports) digolongkan kedalam metode deskriptif 
+oleh Isaac & Michael. 
+ 
+Sebelum agak merinci penjelasan beberapa metode/desain penelitian, penulis merasa perlu 
+mengangkat pandangan de Vaus (2009: 1-3) tentang dua tipe fundamental pertanyaan penelitian 
+para periset sosial. Pertama, “apa yang terjadi?” (riset deskriptif) dan kedua, “mengapa sesuatu 
+terjadi?” (riset eksplanatoris). 
+ 
+Riset deskriptif dianggap sepele oleh sebagian orang karena dinilai hanya memberi „mere 
+description‟ (gambaran sepele) tentang objek penelitian.  
+ 
+Menurut de Vaus, deskripsi yang baik sangat bermanfaat dalam segenap upaya riset yang 
+mendasari pengetahuan kita tentang bentuk dan sifat masyarakat. Riset deskriptif mencakup 
+banyak riset yang disponsori pemerintah termasuk sensus penduduk, pengumpulan indikator-
+indikator sosial dan informasi ekonomi seperti pola-pola belanja rumah tangga, kajian-kajian 
+pemanfaatan waktu, statistik kejahatan dan ketenagakerjaan/pengangguran. 
+ 
+Deskripsi bisa abstrak atau konkret. Deskripsi konkret misalnya perubahan profil umur dari 
+populasi, bauran gender di tempat kerja, atau bauran etnik suatu komunitas. Deskripsi abstrak 
+contohnya peningkatan/penurunan tingkat ketidakadilan sosial, tingkat sekularitas masyarakat, 
+atau berapa banyak kemiskinan dalam komunitas tertentu. 
+ 
+Deskripsi yang tepat sangat bermanfaat dalam menetapkan kebijakan perubahan sosial atau 
+pembangunan. Deskripsi yang baik juga dapat memprovokasi pertanyaan „mengapa‟ dalam 
+penelitian eksplanatoris, misalnya deskripsi tentang makin lebarnya kesenjangan sosial 
+merangsang pertanyaan mengapa hal ini terjadi. 
+ 
+Namun de Vaus mengingatkan, deskripsi dapat tergelincir menjadi pengumpulan fakta yang 
+kurang bermakna. C.W. Mills (1959) seperti dikutip oleh de Vaus, menyebut kesalahan itu 
+sebagai „abstracted empirism‟ (empirisisme terabstaksi).  
+ 
+Banyak contoh survey dan studi kasus yang tidak fokus dan karenanya hanya menyajikan 
+informasi trivial (biasa-biasa saja, „ecek-ecek‟). Kegagalan penelitian deskriptif macam ini tidak 
+mampu memprovokasi pertanyaan „mengapa‟ atau menyediakan dasar bagi generalisasi. Tentu 
+12 
+ 
+kesalahan penelitian deskriptif seperti ini harus dipandang sebagai kesalahan peneliti, bukan 
+keburukan intrinsik penelitian deskriptif. 
+ 
+Riset eksplanatoris berfokus pada pertanyaan „mengapa‟, misalnya mengapa di Kabupaten 
+Indramayu sering dan banyak terjadi perceraian. Deskripsi tingkat perceraian di satu kabupaten 
+dan perbandingan kecenderungan perceraian antarkabupaten adalah satu hal, sedangkan 
+pengembangan penjelasan tentang mengapa tingkat perceraian begitu tinggi atau tingkat 
+perceraian di satu kabupaten lebih tinggi daripada kabupaten lain adalah hal lain. Menjawab 
+pertanyaan „mengapa‟ melibatkan pengembangan penjelasan kausal. 
+ 
+Penjelasan kausal beranggapan bahwa fenomena Y (seperti tingkat pendapatan) dipengaruhi oleh 
+faktor X (seperti gender). Kompleksitas hubungan kausalnya ada tiga macam sebagaimana 
+digambarkan oleh de Vaus: 
+ 
+a) hubungan kausal langsung 
+b) hubungan kausal tidak langsung: sebuah rantai kausal 
+c) sebuah model lebih rumit dari hubungan-hubungan kausal langsung dan tidak langsung 
+ 
+Kausalitas (hubungan sebab-akibat) tidak selalu ditemukan dalam penelitian. Dua variabel, dua 
+faktor, atau dua kejadian boleh jadi berlangsung secara kebetulan, bukan yang satu menyebabkan 
+yang lainnya.  
+ 
+Contoh, tingkat percereraian cenderung naik sebagaimana tingkat kriminalitas. Tetapi, bukan 
+berarti kecenderungan peningkatan perceraikan mengakibatkan peningkatan kriminalitas. Kedua 
+hal itu lebih mungkin sama-sama disebabkan oleh gejala sosial lain, yaitu pemerataan 
+kemiskinan. 
+ 
+Setelah membahas dua sifat penelitian, deskriptif dan eksplanatoris, sekarang mari kita 
+bahas jenis-jenis metode penelitian. 
+            
+Metode Historikal 
+Metode historikal bertujuan merekonstruksi masa lalu secara akurat dan objektif, sering dalam 
+kaitannya dengan tenability (daya tahan) sebuah hipotesis.  
+ 
+Contohnya, studi rekonstruksi pengajaran ejaan di Amerika Serikat selama lima puluh tahun 
+terakhir; menguji hipotesis bahwa Francis Bacon adalah penulis sesungguhnya dari karya-karya 
+William Shakespeare (Isacc & Michael, 1982: 42-43). 
+ 
+Wikipedia (2012b) mengacu karya Torsten Thurén “Källkritik” (Stockholm: Almqvist & 
+Wiksell, 1997), menyajikan prinsip-prinsip utama (core principles) kritisisme sumber (source 
+13 
+ 
+criticism) yang diformulasikan oleh dua sejarawan Skandinavia, yaitu Olden-Jørgensen (1998) 
+dan Thurén (1997) sebagai berikut: 
+ 
+1)        Sumber-sumber manusia dapat berupa relik seperti sidik jari, bisa juga narasi 
+seperti  pernyataan atau selembar surat. Relik adalah sumber yang lebih kredibel daripada 
+narasi. 
+2)        Sumber apapun mungkin dipalsukan atau diselewengkan. Semakin kuat indikasi-
+indikasi keaslian sumber, semakin andal sumber itu. 
+3)        Semakin dekat seorang sumber ke kejadian yang hendak dideskripsikan, semakin 
+dipercaya orang itu untuk memberikan deskripsi historis akurat tentang apa yang 
+sebenarnya terjadi. 
+4)        Sumber primer lebih andal daripada sumber sekunder yang lebih andal daripada 
+sumber tersier, dan seterusnya. 
+5)        Apabila sejumlah sumber independen mengandung pesan yang sama, kredibilitas 
+pesannya makin tinggi. 
+6)        Kecenderungan suatu sumber adalah motivasinya untuk menyediakan sejenis bias. 
+Kecenderungan-kecenderungan ini harus ditekan atau dilengkapi dengan motivasi-
+motivasi yang berlawanan. 
+7)        Jika terbukti saksi atau sumber tidak berkepentingan langsung dalam pembiasan 
+maka kredibilitas pesan meningkat. 
+ 
+Prinsip-prinsip kritisisme sumber itu dapat melandasi tujuh langkah prosedur untuk kritisisme 
+sumber dalam sejarah di bawah ini.  
+ 
+Rangkaian prosedur berikut ditawarkan oleh Bernheim (1889) dan Langlois & Seignobos (1898) 
+yang dikutip oleh Martha Howell & Walter Prevenier dalam “An Introduction to historical 
+method,” Ithaca: Cornel University Press, 2001 (Wikipedia, 2012b): 
+ 
+1. If the sources all agree about an event, historians can consider the event proved. 
+2. However, majority does not rule; even if most sources relate events in one way, that version 
+will not prevail unless it passes the test of critical textual analysis. 
+3. The source whose account can be confirmed by reference to outside authorities in some of its 
+parts can be trusted in its entirety if it is impossible similarly to confirm the entire text. 
+4. When two sources disagree on a particular point, the historian will prefer the source with 
+most "authority"—that is the source created by the expert or by the eyewitness. 
+5. Eyewitnesses are, in general, to be preferred especially in circumstances where the ordinary 
+observer could have accurately reported what transpired and, more specifically, when they 
+deal with facts known by most contemporaries. 
+14 
+ 
+6. If two independently created sources agree on a matter, the reliability of each is measurably 
+enhanced. 
+7. When two sources disagree and there is no other means of evaluation, then historians take 
+the source which seems to accord best with common sense. 
+ 
+Barangkali metode historikal, sebagaimana ilmu sejarah dinilai paling „soft‟ dibandingkan 
+dengan metode atau sains lainnya karena melibatkan banyak kesaksian dan penafsiran untuk 
+merekonstruksi fenomena masa lalu. Penilaian miring semacam ini tidak akan diberikan oleh 
+para peneliti yang menghargai verstehen dalam mengungkap fakta sejarah atau fenomena sosial. 
+ 
+Verstehen diasosiasikan dengan Max Weber yang anti-positivisme. Istilah ini dipakai sejak akhir 
+abad ke-19 di Inggris dan Jerman dengan pengertian: kajian interpretif atau partisipatif atas 
+fenomena sosial. Kemudian maknanya berkembang menjadi sebuah proses interpretif sistematis 
+dari seorang pengamat luar untuk memahami orang-arang dalam kebudayaan mereka. 
+ 
+Langkah-langkah penelitian historikal dijelaskan oleh Isaac & Michael (1982: 45) menjadi lima 
+langkah sebagai berikut: 
+ 
+1)        Tentukan masalah, lalu putuskan apakah metode historikal cocok untuk masalah yang 
+telah ditetntukan, apakah data terkait (pertinent) tersedia? 
+2)        Nyatakan tujuan penelitian, dan jika mungkin, nyatakan juga hipotesis yang akan 
+mengarahkan dan menentukan fokus penelitian. 
+3)        Kumpulkan data; jangan lupa membedakan sumber-sumber primer dan sekunder. Salah satu 
+keterampilan penting dalam penelitian historikal adalah mencatat. Alat bantu berupa kartu kecil 
+berukuran 3x4 atau 4x6 cm2 berisi satu informasi dan ditandai per topik akan mudah ditata dan 
+disimpan. 
+4)        Evaluasi data, terapkan kritisisme internal dan eksternal. 
+5)        Laporkan temuan-temuan, termasuk satu pernyataan tentang masalah, sebuah review atas 
+material (artefak) sumber data, sebuah pernyataan tentang asumsi-asumsi yang melandasi 
+penelitian, hipotesis-hipotesis dasar, dan metode-metode uji hipotesis, temuan-temuan yang 
+didapat, tafsiran-tafsiran dan kesimpulan, dan sebuah daftar pustaka (bibliografi). 
+ 
+ 
+Metode historikal dalam perspektif penelitian kuantitatif dapat tergolong penelitian deskriptif 
+jika hanya menjelaskan satu variabel. Namun apabila metode historikal ini dipakai untuk 
+mencari hubungan kausal dua variabel atau lebih maka penelitiannya tergolong eksplanatoris.  
+ 
+ 
+Sebetulnya de Vaus, sebagaimana diperbandingkan dalam tabel-6 di atas, tidak menyebut 
+metode historikal, begitu pula metode deskriptif dalam klasifikasi metode-metode penelitian. 
+Berikut ini penulis sajikan pembahasan penelitian deskriptif menurut Isaac & Michael (ibid.: 46). 
+15 
+ 
+ 
+ 
+Metode deskriptif 
+Tujuan penelitian deskriptif adalah mendeskripsikan secara sistematis fakta dan sifat-sifat dari 
+populasi atau area of interest tertentu, secara faktual dan akurat.  
+ 
+ 
+Contoh penelitian deskriptif antara lain sebuah survei opini publik tentang sikap pemilih sebelum 
+pemilu/pilkada berlangsung, survei kepada masyarakat untuk mengetahui kebutuhan pendidikan 
+vokasional, kajian tentang uraian kerja semua jabatan dalam organisasi tertentu atau laporan 
+tentang nilai ebtanas/ujian di sekolah-sekolah sewilayah. 
+ 
+ 
+Isaac & Michael menjelaskan dua karakteristik penelitian deskriptif. Pertama, penelitian ini 
+digunakan dalam pengertian literal, yaitu mendeskripsikan situasi-situasi atau kejadian-kejadian.  
+ 
+ 
+Penelitian ini merupakan akumulasi basis data yang hanya bersifat deskriptif; tidak bermaksud 
+menjelaskan hubungan, menguji hipotesis, membuat prediksi, atau mengungkap makna-makna 
+dan implikasi-implikasi, walau penelitian-penelitian bertujuan semacam ini dapat dapat 
+mencakup (incorporate) metode deskriptif.  
+ 
+ 
+Namun demikian para peneliti tidak sepakat tentang “penelitian deskriptif” dan mereka sering 
+memperluas makna istilah ini sehingga meliputi segenap bentuk penelitian kecuali penelitian 
+historikal dan eksperimental. Survey studies atau metode survey sering dipakai dalam konteks 
+yang lebih luas ini. 
+ 
+ 
+Kedua, metode deskriptif dalam pengertian survey studies mempunyai beberapa tujuan, yaitu: 
+ 
+1)        mengumpulkan informasi faktual yang rinci untuk mendeskripsikan fenomena, 
+2)        mengidentifikasi masalah-masalah atau menjelaskan (justify) kondisi-kondisi dan praktek-
+praktek yang sedang terjadi, 
+3)        melakukan perbandingan dan evaluasi, 
+4)        mengetahui apa yang dilakukan orang lain terhadap masalah dan situasi serupa, lalu belajar 
+dari pengalaman mereka untuk membuat keputusan dan perencanaan masa depan. 
+ 
+Memperhatikan tujuan-tujuan metode deskriptif sebagaimana dipaparkan oleh Isaac & Michael 
+di atas, sekilas tidak ada perbedaan substantif dengan penelitian yang bersifat deskriptif seperti 
+yang dimaksudkan oleh de Vaus.  
+16 
+ 
+ 
+Namun cara mereka mengklasifikasikan konsep jenis metode dan sifat penelitian menunjukkan 
+perbedaan paradigmatis. Perbedaan ini dipertegas dengan penjelasan penelitian korelasional oleh 
+Isaac & Michael yang oleh de Vaus (ibid.: 95-96) hanya dipandang sebagai cara atau alat 
+statistik untuk mengetahui derajat asosiasi antarvariabel. Asosiasi macam ini dapat ditampilkan 
+dengan memakai ringkasan statistik seperti koefisien korelasi, atau dengan tabulasi silang dan 
+grafik. 
+ 
+ 
+Berdasarkan kesadaran tentang perbedaan paradigmatis itu, penjelasan tentang jenis-jenis metode 
+penelitian tetap mengacu pada pendapat Isaac & Michael. Perspektif de Vaus sengaja 
+disandingkan untuk memberi contoh perbedaan pendapat. 
+ 
+ 
+Sebelum melangkah ke penjelasan tentang metode penelitian developmental, berikut ini adalah 
+langkah-langkah penelitian deskriptif menurut Isaac & Michael: 
+ 
+1)        Menentukan tujuan-tujuan penelitian dengan istilah-istilah yang spesifik dan jelas. Fakta 
+dan sifat apa saja yang ingin diungkap? 
+2)        Merancang pendekatan. Bagaimana data akan dikumpulkan? Bagaimana para subjek dipilih 
+untuk menjamin keterwakilan populasi yang akan dideskripsikan? Instrumen dan teknik 
+observasi apa saja yang tersedia atau perlu dikembangkan? Apakah metoda pengumpulan data 
+perlu diuji di lapangan dan para pengumpul data perlu dilatih? 
+3)        Mengumpulkan data. 
+4)        Melaporkan hasil penelitian. 
+ 
+ 
+Metode developmental 
+Metode penelitian ini bertujuan menyelidiki pola-pola dan urut-urutan (sequences) pertumbuhan 
+dan/atau perubahan sebagai fungsi dari waktu.  
+ 
+ 
+Contoh penelitiannya antara lain studi-studi pertumbuhan longitudinal yang secara langsung 
+mengukur sifat (nature) dan tingkat (rate) perubahan-perubahan dalam satu sampel dari anak-
+anak yang sama pada tingkatan (stages) perkembangan yang berbeda; studi-studi 
+pertumbuhan cross-sectional yang secara tidak langsung mengukur sifat dan tingkat perubahan-
+perubahan yang sama dengan mengambil sampel anak-anak yang berbeda dari tingkatan (levels) 
+umur yang representatif; atau studi-studi kecenderungan (trend) yang dirancang untuk 
+menentukan pola-pola perubahan masa lalu dalam rangka meramalkan pola-pola kondisi masa 
+depan. 
+ 
+17 
+ 
+Perbedaan utama antara penelitian longitudinal dan cross-sectionaladalah dimensi waktu. 
+Menurut de Vaus (2009: 170), desain penelitian cross-sectional memiliki tiga ciri distingtif, yaitu 
+tidak berdimensi waktu; bergantung pada perbedaan-perbedaan yang ada daripada perubahan 
+akibat intervensi (dalam eksperimen); dan kelompok-kelompok didasarkan pada perbedaan-
+perbedaan yang ada daripada pengelompokan acak. Ciri ketiga ini diilustrasikan oleh de Vaus 
+(ibid.: 173) dengan gambar di bawah ini. 
+ 
+ 
+Isaac & Michael (ibid.: 46) menjelaskan karakteristik penelitian developmentalyang mencakup 
+metoda lingitudinal, cross-sectional, dan studi trend sebagai berikut: 
+ 
+1)        Penelitian developmental berfokus pada studi variabel-variabel dan perkembangan 
+mereka selama bulanan atau tahunan. Penelitian ini menanyakan pola pertumbuhan apa saja yang 
+terjadi, bagaimana tingkat (rate) pertumbuhannya, arahnya, urutannya, dan faktor-faktor saling 
+terkait yang mempengaruhi sifat-sifat ini. 
+ 
+2)        Masalah sampling dalam metode longitudinal menjadi rumit karena sedikitnya subjek 
+yang berperanserta bertahun-tahun. 
+ 
+3)        Penelitian cross-sectional biasanya melibatkan lebih banyak subjek, namun memberi 
+deskripsi lebih sedikit faktor-faktor pertumbuhan daripada penelitian longitudinal. 
+ 
+ 
+Langkah-langkah penelitian developmental menurut Isaac & Michael sebagai berikut: 
+1)        Tetapkan masalah atau nyatakan tujuan-tujuannya. 
+2)        Kaji ulang literatur untuk mendapatkan acuan dari informasi yang tersedia dan untuk 
+membandingkan metode-metode penelitian termasuk instrumen-instrumen dan teknik-teknik 
+pengumpulan data yang tersedia. 
+3)        Rancang pendekatannya. 
+4)        Kumpulkan data. 
+5)        Evaluasi data dan laporkan hasilnya. 
+ 
+ 
+Studi Kasus 
+Tujuan studi kasus adalah mengkaji secara intensif latar belakang, status terkini, dan interaksi 
+unit-unit sosial (individu, kelompok, lembaga, atau komunitas) dengan lingkungannya.  
+ 
+ 
+Menurut Isaac & Michael (ibid.: 48), studi karus merupakan investigasi mendalam atas unit 
+sosial tertentu yang menghasilkan sebuah gambaran lengkap dan tertata baik dari unit sosial 
+tersebut. Cakupan gambaran itu tergantung pada tujuan-tujuan penelitiannya.  
+18 
+ 
+ 
+ 
+Studi kasus dapat mengkaji keseluruhan siklus kehidupan atau hanya satu segmen terpilih; bisa 
+berkonsentrasi pada faktor-faktor spesifik atau mengkaji totalitas elemen-elemen atau kejadian-
+kejadian.  
+ 
+ 
+Berbeda dengan survei yang bermaksud mengkaji sedikit variabel pada sejumlah besar sampel 
+dari populasi unit-unit, studi kasus bermaksud mengkaji sedikit unit dengan cakupan variabel 
+dan kondisi dalam jumlah besar. 
+ 
+ 
+Sifat eksploratif studi kasus itu berguna memberi latar belakang informatif dalam rencana 
+investigasi utama ilmu-ilmu sosial. Berkat sifat intensifnya, studi kasus dapat mengungkap 
+variabel-variabel, proses-proses, dan interaksi-interaksi penting yang patut mendapat perhatian 
+ekstensif.  
+ 
+ 
+Studi kasus bisa menemukan landasan baru dan sering menjadi sumber hipotesis-hipotesis yang 
+berguna untuk studi lanjutan. Data studi kasus menyediakan anekdot-anekdot bermanfaat dan 
+contoh-contoh untuk mengilustrasikan temuan-temuan statistik yang lebih umum. 
+ 
+ 
+Selain manfaat atau kekuatan di atas, studi kasus juga memiliki kelemahan. Fokusnya yang 
+sempit pada sedikit unit, membatasi keterwakilan (reperesentativeness) studi kasus.  
+ 
+ 
+Generalisasi yang valid untuk populasi asal unit-unit ini hanya bisa diperoleh setelah penelitian 
+lanjutan selesai. Penelitian lanjutan ini berfokus pada hipotesis-hipotesis spesifik dan 
+menggunakan metoda sampling yang tepat. Kelemahan lainnya adalah kerentanan terhadap bias-
+bias subjektif.  
+ 
+ 
+Kasus dipilih mungkin karena dramatis, bukannya bersifat khas; atau karena kasusnya cocok 
+dengan prakonsepsi peneliti. Tafsiran subjektif mempengaruhi hasil penelitian; hal ini terjadi 
+karena penilaian-penilaian selektif peneliti menentukan aliran data, atau menentukan tinggi 
+rendahnya signifikansi data, atau penempatan data pada satu konteks daripada konteks lainnya. 
+ 
+ 
+Belum ada inventarisasi beragam tipe studi kasus, begitu menurut Yin (1989) dalam “Case Study 
+Research: Design and Methods” sebagaimana dikutip oleh de Vaus (ibid: 228).  
+19 
+ 
+ 
+ 
+Namun menurut de Vaus, elemen-elemen studi kasus di bawah ini dapat membantu 
+mengkerangkakan ragam studi kasus: 
+1)        deskriptif atau eksplanatoris 
+2)        menguji atau mengembangkan teori 
+3)        kasus tunggal atau jamak 
+4)        unit analisis yang – meminjam istilah Yin – „holistik‟ (cases as a whole) atau „embedded‟ 
+(cases that consist of various levels of components) 
+5)        studi kasus paralel atau sekuensial 
+6)        retrospektif (memerlukan rekonstruksi sejarah kasus) atau prospektif (melacak perubahan 
+mulai saat ini ke depan). 
+ 
+Langkah-langkah studi kasus menurut Isaac & Michael (ibid.: 48-49) adalah sebagai berikut: 
+ 
+1)        Nyatakan tujuan-tujuannya. Apa unit studinya? Sifat-sifat, hubungan-hubungan, dan 
+proses-proses apa saja yang akan mengarahkan penelitian? 
+2)        Rancang pendekatannya. Bagaimana unit-unit akan dipilih? Sumber data apa saja yang 
+tersedia? Metoda pengumpulan data mana yang akan dipakai? 
+3)        Kumpulkan data. 
+4)        Susun informasi untuk merekonstruksi unit studi secara koheren dan terintegrasi dengan baik. 
+5)        Laporkan hasilnya dan diskusikan signifikansinya. 
+ 
+ 
+Metode kausal-komparatif atau ‘ex post facto’ 
+Metode kausal-komparatif bertujuan menginvestigasi kemungkinan hubungan sebab dan akibat 
+dengan cara mengamati akibat-akibat yang ada, lalu melacak faktor-faktor kausal yang 
+memungkinkannya.  
+ 
+ 
+Metode ini kontras dengan metode eksperimental yang mengumpulkan data saat ini dalam 
+kondisi-kondisi terkendali. Contoh tujuan penelitian kausal-komparatif antara lain 
+mengidentifikasi faktor-faktor yang menandai orang-orang dengan tingkat kecelakaan tinggi atau 
+rendah, dengan menggunakan data dari arsip perusahaan asuransi.  
+ 
+ 
+Contoh lainnya, menentukan atribut-atribut guru-guru efektif, misalkan berdasarkan evaluasi-
+evalusai kinerja mereka dan data lain dalam arsip personal masing-masing; lantas arsip-arsip 
+guru selama 10 tahun terakhir dikaji untuk dibandingkan datanya dengan jumlah kehadiran 
+sekolah musim panas atau dengan tiap faktor lainnya 
+(Isaac & Michael, ibid.: 50). 
+20 
+ 
+ 
+ 
+Isaac & Michael menjelaskan karakteristik utama penelitian kausal-komparatif adalah sifatnya 
+yang “ex post facto.” Artinya, data dikumpulkan setelah seluruh kejadian (yang diteliti) 
+berlangsung. Kemudian peneliti memilih satu atau lebih dampak (variabel terikat) dan mengkaji 
+data masa lalu untuk mencari sebab-sebab, hubungan-hubungan, dan makna-makna mereka.  
+ 
+ 
+Metode eksperimental melibatkan satu kelompok eksperimental dan satu kelompok kontrol. 
+Beberapa perlakuan (treatment) “A” diberikan kepada kelompok eksperimental, dan hasil 
+pengamatan “B” diamati. Kelompok kontrol tidak dikenai “A” dan kondisi mereka dibandingkan 
+dengan kelompok eksperimen untuk mengetahui dampak “A” mungkin menghasilkan “B.” 
+Proses ini dibalik oleh peneliti yang menggunakan metode kausal-komparatif. Peneliti 
+mengamati “B” sebagai hasil yang telah ada dan mencari ke belakang beberapa sebab yang 
+mungkin (kejadian-kejadian bertipe “A”) yang terkait dengan “B.” 
+ 
+ 
+Metode penelitian ini setidaknya mempunyai tiga kekuatan. Pertama, metode ini cocok dalam 
+banyak keadaan yang tidak memungkinkan eksperimentasi karena:  
+(a) tidak mungkin memilih, mengendalikan, dan memanipulasi faktor-faktor yang diperlukan 
+untuk mengkaji secara langsung hubungan-hubungan sebab-akibat,  
+(b) kendali atas semua variasi kecuali satu variabel terikat sangat tidak realistis dan artifisial 
+sehingga mencegah interaksi normal dengan variabel-variabel berpengaruh lainnya,  
+(c) kendali-kendali laboratoris menjadi tidak praktis, mahal, atau mengandung kontroversi etika. 
+Kedua, metode kausal-komparatif menghasilkan informasi bermanfaat tentang sifat (nature) 
+fenomena: apa yang terjadi dengan sesuatu, dalam kondisi apa saja, dalam urutan dan pola mana 
+saja, dsb.  
+ 
+ 
+Ketiga, perbaikan-perbaikan teknik, metode-metode statistik, dan desain-desain dengan fitur-
+fitur kendali parsial pada tahun-tahun terakhir, menjadikan metode ini lebih dapat dipertahankan. 
+ 
+ 
+Namun demikian, metode kausal-komparatif memiliki beberapa kelemahan sebagai berikut: 
+1)        Kelemahan utama desain ex post facto mana pun adalah kurangnya kontrol terhadap variabel-
+variabel bebas. 
+2)        Sulitnya memastikan faktor kausatif yang relevan betul-betul termasuk dalam banyak faktor 
+dalam studi ini. 
+3)        Komplikasi berupa tiadanya satu faktor penyebab satu hasil (outcome). Satu outcomeyang 
+dikaji merupakan akibat dari kombinasi dan interaksi faktor-faktor secara bersama dalam 
+kondisi-kondisi tertentu. 
+21 
+ 
+4)        Satu fenomena mungkin bukan hanya merupakan hasil beragam sebab, melainkan juga dapat 
+mempunyai satu sebab dari satu bagian fenomena itu dan bagian lainnya mempunyai sebab 
+berbeda. 
+5)        Ketika ditemukan suatu hubungan antara dua variabel, mungkin sulit menentukan mana 
+penyebab dan mana akibat. 
+6)        Kenyataan bahwa dua atau lebih faktor saling terkait tidak otomatis menunjukkan hubungan 
+sebab-akibat. Mungkin semua faktor itu terkait dengan faktor tambahan yang tidak dikenali atau 
+teramati. 
+7)        Menggolongkan subjek kedalam kelompok-kelompok dikotomis (misal “Achievers” dan 
+“Nonachievers”) untuk tujuan pembandingan, menimbulkan ketidaknyamanan atau kekhawatiran 
+dan masalah lainnya. Kategori-kategori seperti itu tidak jelas, berubah-ubah, dan sementara. 
+Penelitian-penelitian semacam ini sering gagal menghasilkan temuan-temuan yang berguna. 
+8)        Studi-studi komparatif dalam situasi-situasi alamiah tidak memungkinkan seleksi terkendali 
+terhadap subjek-subjek. Sangat sulit menempatkan kelompok-kelompok subjek yang mirip 
+dalam segala hal kecuali terpaan satu variabel terhadap mereka. 
+ 
+ 
+Tanpa mengabaikan kelemahan-kelemahan di atas, Isaac & Michael (ibid.: 51) menjelaskan 
+langkah-langkah penelitian kausal-komparatif sebagai berikut: 
+1)        Rumuskan masalah penelitian. 
+2)        Surveilah literatur terkait. 
+3)        Tetapkan hipotesis-hiposis. 
+4)        Daftarlah asumsi-asumsi yang mendasari hipotesis-hipotesis dan prosedur-prosedur. 
+5)        Rancanglah pendekatannya: (a) pilihlah subjek-subjek dan bahan-bahan sumber sepatutnya, 
+(b) pilih atau kembangkan teknik-teknik pengumpulan data, (c) tetapkan kategori-kategori untuk 
+mengklasifikasikan data; kategori-kategori ini tidak boleh ambigu, cocok untuk tujuan studi, dan 
+mampu mengungkap kemiripan-kemiripan atau hubungan-hubungan yang signifikan. 
+6)        Validasi teknik-teknik pengumpulan data. 
+7)        Deskripsikan, analisis, dan tafsirkan temuan-temuan kedalam istilah-istilah yang jelas dan 
+tepat. 
+ 
+ 
+Metode (true) eksperimental 
+Metode eksperimental bertujuan menginvestigasi kemungkinan hubungan sebab-akibat dengan 
+menerapkan satu atau lebih perlakuan terhadap satu atau lebih kelompok eksperimental dan 
+membandingkan hasilnya dengan keadaan satu atau lebih kelompok kontrol yang tidak dikenai 
+perlakuan (Isaac & Michael, ibid.: 52).  
+ 
+ 
+Metode ini menuntut manajemen ketat atas variabel-variabel dan kondisi-kondisi eksperimental, 
+baik melalui manipulasi terkendali langsung atau melalui pengacakan/randomisasi. 
+22 
+ 
+ 
+ 
+Metode ini berkonsentrasi pada pengendalian keragaman (variance). Tujuannya adalah  
+(a) memaksimalkan keragaman variabel yang berasosiasi dengan hipotesis-hipotesis penelitian,  
+(b) meminimalkan keragaman variabel yang tidak dikehendaki dan bukan merupakan objek 
+studi, namun dapat mempengaruhi hasil penelitian,  
+(c) meminimalkan kesalahan (error) atau variasi acak, termasuk kesalahan pengukuran. Solusi 
+terbaiknya adalah seleksi acak subjek-subjek, penempatan acak subjek kedalam kelompok, dan 
+penerapan acak perlakuan-perlakuan eksperimental kepada kelompok-kelompok. 
+ 
+ 
+Validitas internal adalah  prasyarat (sine qua non) desain penelitian dan tujuan pertama 
+metodologi eksperimental. Apakah manipulasi eksperimental dalam penelitian ini betul-betul 
+membuat sebuah perbedaan?  
+ 
+ 
+Tujuan kedua metodologi ekperimental adalah validitas eksternal. Seberapa representatif 
+temuan-temuannya dan dapatkah hasil-hasilnya digeneralisasikan untuk keadaan-keadaan dan 
+subjek-subjek yang mirip. 
+ 
+ 
+Desain eksperimental klasik menjaga semua variabel tetap konstan kecuali satu variabel dengan 
+perlakuan tunggal yang sengaja dimanipulasi atau dibiarkan berubah.  
+ 
+ 
+Kemajuan-kemajuan dalam metodologi ini seperti desain-desain faktorial dan analisis keragaman 
+memungkinkan peneliti memanipulasi lebih dari satu variabel atau bervariasi secara bersamaan 
+dalam lebih dari satu kelompok eksperimental. Hal ini memungkinkan determinasi simultan dari  
+(a) efek-efek variabel-variabel terikat,  
+(b) variasi berasosiasi dengan variabel-variabel classificatory (control, background, organismic; 
+disebut begitu karena variabel-variabel ini perlu dikendalikan, dibuat konstan, atau diacak agar 
+efek-efek mereka ternetralkan, dibatalkan, atau disepadankan untuk semua kondisi),  
+(c) interaksi kombinasi-kombinasi terpilih dari variabel-variabel terikat dan/atau classificatory. 
+ 
+ 
+Pendekatan eksperimental memang paling kuat karena kendalinya terhadap variabel-variabel 
+yang relevan, tetapi juga  paling restriktif dan artifisial. Inilah kelemahan utama dalam 
+penerapannya yang melibatkan subjek-subjek manusia dalam situasi-situasi dunia nyata.  
+ 
+ 
+23 
+ 
+Manusia sering bertindak berbeda apabila perilaku mereka dibatasi secara artifisial, 
+dimanipulasi, atau diterpa observasi dan evaluasi sistematis. 
+ 
+ 
+Langkah-langkah penelitian eksperimental menurut Isaac & Michael (ibid.: 53) adalah sebagai 
+berikut: 
+1)        Survei literatur terkait masalah penelitian. 
+2)        Identifikasi dan rumuskan masalah. 
+3)        Formulasikan satu hipotesis masalah, deduksikan konsekuensi-konsekuensinya, dan 
+definisikan istilah-istilah dan variabel-variabel dasar. 
+4)        Buatlah rencana eksperimental:  
+(a) kenali semua variabel noneksperimental yang dapat mengkontaminasi eksperimen, dan 
+tentukan bagaimana mengendalikan mereka,  
+(b) pilih satu desain penelitian,  
+(c) pilih sampel untuk mewakili populasi, tempatkan subjek-subjek kedalam kelompok-
+kelompok, dan kenakan/arahkan (assign) perlakuan-perlakuan eksperimnetal kepada kelompok-
+kelompok,  
+(d) pilih atau buat dan validasi instrumen-instrumen untuk mengukur hasil ekperimen,  
+(e) rencanakan (outline) prosedur-prosedur pengumpulan data, dan kalau mungkin mencoba 
+instrumen untuk menyempurnakan instrumen-instrumen atau desain penelitian,  
+(f) nyatakan hipotesis statistik atau nol. 
+ 
+5)        Lakukan eksperimen-eksperimen. 
+6)        Kurangi/saring data kasar sehingga menghasilkan penilaian terbaik atas efek yang dianggap 
+terjadi. 
+7)        Terapkan test signifikansi sepatutnya untuk meyakinkan orang tentang hasil-hasil penelitian. 
+ 
+ 
+Sebetulnya Isaac & Michael juga menjelaskan metode penelitian korelasional, kuasi 
+eksperimental, dan riset aksi. Metode analisis isi juga telah banyak dikupas oleh penulis lain. 
+Namun tulisan ini hanya bermaksud memberi gambaran sekilas tentang perspektif kuantitaif 
+dalam sebagian metode penelitian. Mari kita lanjutkan pembahasan ke komponen penting dalam 
+desain penelitian kuantitatif, yaitu statistika. 
+ 
+ 
+Statistika dalam penelitian kuantitatif 
+Statistika (statistics) berbeda dengan statistik. Statistik adalah ringkasan data berbentuk angka, 
+sedangkan statistika adalah ilmu yang mempelajari cara pengumpulan, 
+pengolahan/pengelompokan, penyajian, dan analisis data serta cara pengambilan kesimpulan 
+dengan memperhitungkan unsur ketidakpastian berdasarkan konsep probabilitas (Supranto, 
+2008: 12).  
+24 
+ 
+ 
+ 
+Supranto juga mengutip definisi dari buku “Statistical Theory in Research“ karya Anderson & 
+Bancrof, “Statistika adalah ilmu dan seni pengembangan dan penerapan metode yang paling 
+efektif sehingga kemungkinan kesalahan dalam kesimpulan dan estimasi dapat diperkirakan 
+dengan menggunakan penalaran induktif berdasarkan matematika probabilitas.”  
+ 
+ 
+Wikipedia memberikan definisi yang lebih sederhana: statistika adalah ilmu tentang 
+pengumpulan, pengorganisasian, analisis, dan penafsiran data. 
+ 
+ 
+Wikipedia (2012a) menjelaskan sejarah statistika dengan mengutip Simon Singh dalam buku 
+“The code book: the science of secrecy from ancient Egypt to quantum cryptography” (New 
+York: Anchor Books, 2000) dan tulisan Ibrahim A. Al-Kadi, “The origins of cryptology: The 
+Arab contributions” dalam Cryptologia edisi 16(2) hlm. 97-126.  
+ 
+ 
+Menurut Ibrahim Al-Kadi, tulisan tertua tentang statistika terdapat dalam buku abad ke-9 karya 
+Al-Kindi (801-873 M) berjudul “Manuscript on Deciphering Cryptographic Messages.” Al-
+Kindi dalam bukunya itu menjelaskan bagaimana menggunakan statistika dan analisis frekuensi 
+untuk membongkar kode pesan-pesan terenkripsi. Ibrahim Al-Kadi menandai kelahiran statistika 
+dan analisis kriptografis (cryptanalysis) dengan terbitnya buku Al-Kindi ini. 
+ 
+ 
+Selain Al-Kadi, sebagaimana dijelaskan oleh Walter Willcox (1938) dengan artikel "The 
+Founder of Statistics" dalam  Review of the International Statistical Institute edisi 5(4):321–
+328 (JSTOR 1400906), sebagian sarjana menandai kelahiran statistika pada tahun 1663 dengan 
+terbitnya “Natural and Political Observations upon the Bills of Mortality” karya John Graunt.  
+ 
+ 
+Penerapan awal pemikiran statistik berlangsung seputar kebutuhan negara-negara (bagian) untuk 
+melandaskan kebijakan mereka pada data demografis dan ekonomis. Cakupan disiplin ilmu 
+statistika melebar pada awal abad ke-19 meliputi pengumpulan dan analisis data secara umum. 
+Kini statistika dipakai secara luas dalam pemerintahan, bisnis, serta ilmu alam dan sosial. 
+ 
+ 
+Metode-metode statistik dapat digunakan untuk merangkum/meringkas atau mendeskripsikan 
+sekumpulan data; inilah yang disebut statistik deskriptif. Statistik deskriptif berguna dalam 
+riset, ketika mengkomunikasikan hasil-hasil eksperimen.  
+25 
+ 
+ 
+ 
+Selain itu, pola-pola dalam data dapat dimodelkan sedemikian rupa sehingga dapat menjelaskan 
+keacakan (randomness) dan ketidakpastian (uncertainty) dalam observasi, dan kemudian 
+digunakan untuk menggambarkan inferensi-inferensi tentang proses atau populasi yang diteliti; 
+inilah yang disebut statistik inferensial. 
+ 
+ 
+Inferensi adalah salah satu bagian penting dalam pengembangan ilmu karena inferensi 
+menyediakan rata-rata (mean) untuk menggambarkan kesimpulan-kesimpulan dari data yang 
+dipengaruhi oleh variasi acak.  
+ 
+ 
+Kesimpulan-kesimpulan juga diuji untuk membuktikan lebih lanjut proposisi-proposisi yang 
+sedang diteliti; ini merupakan bagian dari metoda ilmiah. Statistik deskriptif dan analisis data 
+baru bermaksud menyediakan lebih banyak informasi dan kebenaran proposisi. 
+ 
+ 
+Masih berkaitan dengan hubungan antara statistika dengan metode ilmiah, Supranto (2008: 13) 
+menyatakan, statistika menyediakan metode pengumpulan, pengolahan, penyajian data, metode 
+analisis, dan pengujian hipotesis, serta metode perkiraan/ramalan interval untuk keperluan riset. 
+Kemudian Supranto mengutip Encyclopedia Americana, jilid ke-25 (1971) yang membahas 
+statistik sebagai berikut: 
+ 
+ 
+... penggunaan statistik deskriptif secara murni sangat terbatas; statistik analitis pada umumnya 
+lebih menantang para peneliti, dan sedang berkembang dengan cepat. Lebih jauh lagi, masalah-
+masalah modern dalam pembuatan kebijakan di banyak bidang dan riset ilmiah memerlukan 
+informasi dan prosedur yang diturunkan dari statistik analitis. ... metode statistik merupakan 
+pranata peralatan dan teknik yang tersedia untuk pengembangan riset, atau kerja operasional 
+dalam ilmu fisika, biologi, dan sosial serta penerapannya. Metode statistik ini memberikan 
+sarana untuk mendapatkan pengetahuan baru dalam bidang masalah substantif dan metode itu 
+sendiri bukan berfungsi sebagai pranata pengetahuan substantif. Karena fungsi ini, metode 
+statistik merupakan bagian dari metode ilmiah yang umum ... . 
+ 
+ 
+ 
+ 
+Memilih metode analisis statistik yang tepat pada dasarnya melibatkan serangkaian pertanyaan 
+sebagai berikut (de Vaus, ibid.: 109): 
+26 
+ 
+ 
+1)        Apa jenis sampelnya: probabilitas atau non-probabilitas? 
+2)        Tingkat pengukuran mana yang dipakai untuk variabel outcome (terikat)-nya: nominal, 
+ordinal, atau interval? 
+3)        Berapa kelompok yang dibandingkan: satu (dibandingkan dengan standar yang diketahui), 
+dua, atau ≥ 3? 
+4)        Bagaimana orang-orang dipilih untuk tiap kelompok: apakah sampel-sampel (kelompok-
+kelompok) independen ataukah mereka dipasangkan dengan cara tertentu? 
+5)        Bagaimana outcome variable (terikat) terdistribusi dalam populasi: normal, tidak normal, atau 
+tidak dapat mengasumsikan normalitas? 
+6)        Apakah kelompok-kelompok memiliki kemiripan keragaman (variance) pada variabel 
+terikatnya: equal variance atau unequal variance? 
+7)        Perbandingan kelompok mana yang diperlukan: central tendency, variability / shape, proporsi, 
+atau asosiasi? 
+8)        Bagaimana perbandingan antarkelompok akan ditampilkan: tabular, grafis, menggunakan 
+statistik ringkasan, atau gabungan? 
+9)        Berapa banyak variabel bebasnya: satu atau ≥ 2? 
+10)    Mana yang diutamakan, deskripsi atau inferensi: menggambarkan pola-pola dalam sampel, 
+generalisasi dari sampel, atau keduanya? 
+ 
+ 
+Tidak semua pertanyaan ini cocok untuk segala situasi. Kecocokannya tergantung pada 
+bagaimana pertanyaan lebih awal dijawab. Misalnya, jika Anda tidak mempunyai sampel 
+probabilitas, maka Anda tidak dapat menggunakan inferensi statistik dan terbatas pada deskripsi. 
+Barangkali pilihan-pilihan itu akan menjadi jelas melalui contoh penggunaan statistik dalam 
+eksperimen di bawah ini. 
+ 
+ 
+Contoh penelitian kuantitatif 
+Eksperimen berikut ini dilakukan oleh Dewi (2005) sebagai bagian dari tesis pada Program 
+Pasca Sarjana Departemen Ilmu Komunikasi, FISIP Universitas Indonesia. Judul tesisnya, Efek 
+imbauan takut dan kecemasan terhadap peran serta karyawan dalam program pasca strategic 
+partner (kasus JAS airport services). 
+ 
+ 
+Eksperimen ini bertujuan mengetahui hubungan sebab akibat dari imbauan takut (fear appeal) 
+dan kecemasan (anxiety) serta efek interaksi di antara keduanya. Penelitian ini dilakukan dengan 
+memanipulasi variabel eksperimen yaitu kelompok imbauan takut yang kuat (strong fear appeal) 
+dan imbauan takut yang lemah (weak fear appeal) dan membandingkannya dengan kelompok 
+kontrol yang tidak dimanipulasi. 
+27 
+ 
+ 
+ 
+Dewi menggabungkan tiga teori untuk landasan hipotesisnya. Pertama, teori Rogers tentang 
+penyusunan komponen-komponen pesan (Protection Motivation Theory, PMT). Kedua, teori 
+Leventhal (Cognitive Processing Theory) tentang tahapan-tahapan proses pengolahan pesan 
+(Elaboration Likelihood Model, ELM). Ketiga, teori Fishben dan Ajzen (Theory of Reasoned 
+Action, TRA) tentang teknik pengembangan pesan. 
+ 
+ 
+Dewi mengajukan tiga hipotesis:  
+(1) imbauan takut akan berpengaruh terhadap peran serta karyawan dalam program strategic 
+partner,  
+(2) kecemasan akan berpengaruh terhadap peran serta karyawan dalam program strategic 
+partner,  
+(3) terdapat perbedaan peran serta antara kelompok yang terkena perlakuan imbauan takut yang 
+kuat dan imbauan takut yang lemah antara responden yang memiliki kecemasan tinggi dan 
+kecemasan rendah. 
+ 
+ 
+Berdasarkan hasil uji varians (two-way ANOVA), ketiga hipotesis nol ditolak. Artinya, imbauan 
+takut yang kuat dan imbauan takut yang lemah, serta kecemasan rendah dan kecemasan tinggi 
+berpengaruh dalam peningkatan peran serta karyawan dalam program pasca strategic partner.  
+ 
+ 
+Tingkat perubahan terbesar ada pada responden yang mendapat perlakuan imbauan takut yang 
+kuat untuk responden dengan tingkat kecemasan rendah.  
+ 
+ 
+Data penelitian menunjukkan, responden dengan kecemasan rendah memiliki pengetahuan awal 
+lebih tinggi sehingga secara kognitif mereka lebih mudah terkena pesan persuasi. Kesimpulan ini 
+dihasilkan dari rangkaian kegiatan penelitian dengan rancangan eksperimen (Dewi, 2005: 52).* 
+ 
+ 
+Daftar Pustaka 
+Avery, Robert K. 2006. “Quantitative methods in broadcast history” dalam Methods of    
+historical analysis in electronic media / Donald G. Godfrey (editor). New Jersey:            
+Lawrence Erlbaum Associates. 
+ 
+Cooper, Donald R. dan Pamela S. Schindler. 2006. Metode riset bisnis, vol. 1, edisi 9         
+(Business research methods, 9th edition); Budijanto, Didik Djunaedi, Damos    Sihombing, 
+penerjemah. Jakarta: Media Global Edukasi. 
+28 
+ 
+ 
+ 
+Denzin, Norman K. & Yvonna S. Lincoln. 2009 (1997). Handbook of qualitative   research; 
+Dariyatno, Badrus Samsul Fata, Abi dan John Rinaldi, penerjemah.       Yogyakarta: Pustaka 
+Pelajar. 
+ 
+de Vaus, David. 2009 (2001). Research design in social research. London: Sage. 
+ 
+Dewi, Trisia Megawati Kusuma. 2005. Efek imbauan takut dan kecemasan terhadap       peran 
+serta karyawan dalam program pasca strategic partner (kasus JAS airport             services), 
+tesis. Jakarta: Program Pasca Sarjana, Departemen Ilmu Komunikasi,           FISIP Universitas 
+Indonesia. 
+ 
+Given, Lisa M. (editor). 2008. The Sage encyclopedia of qualitative research methods.     
+Thousand Oaks: Sage. 
+ 
+Griffin, Emory A. 2011. A first look at communication theory, edisi ke-8. New York:       
+McGraw Hill. 
+ 
+Isaac, Stephen dan William B. Michael. 1982. Handbook in research and evaluation: for 
+            education and behavioral sciences, edisi ke-2, cet. ke-2. San Diego: Edits Publishers. 
+ 
+Miller, Delbert C. 1991. Handbook of research design and social measurement. Newbury 
+          Park: Sage. 
+ 
+Muhadjir, Noeng. 1991. Metodologi penelitian kualitatif, cetakan ke-3. Yogyakarta: Rake 
+            Sarasin. 
+ 
+Rakhmat, Jalaluddin. 1989. Metode penelitian komunikasi: dilengkapi contoh analisis     
+statistik. Bandung: Remadja karya. 
+ 
+Supranto, J. 2008. Statistik: teori dan aplikasi, edisi ke-7, jilid 1. Jakarta: Erlangga 
+ 
+Tafsir, Ahmad. 1990. Filsafat umum: akal dan hati sejak Thales sampai James. Bandung: 
+Remaja Rosdakarya. 
+ 
+Wehmeier, Sally (chief editor). 2008. Oxford Advanced Learner’s Dictionary of Current 
+            English – AS Hornby, edisi-7. New York: Oxford University Press. 
+ 
+ 
+29 
+ 
+West, Richard & Lynn H. Turner. 2007. Introducing communication theory: analysis and 
+          application, edisi ke-3, edisi internasional. New York: McGraw-Hill. 
+ 
+West, Richard & Lynn H. Turner. 2010. Introducing communication theory: analysis and 
+          application, edisi ke-4. New York: McGraw-Hill. 
+ 
+Wikipedia. 2012a. Statistics, diakses dari situs http://en.wikipedia.org/wiki/Statistics pada 
+            tanggal 25 Mei 2012, 11:12 WIB. 
+---------- . 2012b. Historical method (redirected from Scientific history), diakses dari situs 
+            http://en.wikipedia.org/wiki/Scientific_history pada 4 Juni 2012, 13: 34 WIB. 
+ 
+Wood, Julia T. 2004. Communication theories in action: an introduction. Belmont, CA: 
+Wadsworth. 
+ 
+ 
+* Dipublikasikan http://komunikasi.uinsgd.ac.id 

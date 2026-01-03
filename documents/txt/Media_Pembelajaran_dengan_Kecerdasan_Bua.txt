@@ -1,0 +1,537 @@
+Jurnal Sains Sosio Humaniora
+Volume 4 Nomor 2 Desember 2020
+
+P-ISSN: 2580-1244
+E-ISSN: 2580-2305
+
+Media Pembelajaran dengan Kecerdasan Buatan dalam Pembelajaran
+Bahasa Inggris Generasi-Z
+Ni Luh Putu Ning Septyarini Putri Astawa1, Putu Trisna Hady Permana2
+Sistem Informasi, STMIK Primakara, Indonesia1
+Teknik Informatika, STMIK Primakara, Indonesia2
+Email corresponding author: ningseptyarini@ymail.com
+ABSTRAK
+Penelitian ini bertujuan untuk mengembangkan sebuah purwa-rupa media pembelajaran Bahasa
+Inggris berbasis kecerdasan buatan untuk siswa kelas VIII SMPN 5 Mengwi, Bali. Adapun konten
+materi yang ditentukan dalam penelitian ini adalah teks deskripsi hewan endemik Indonesia. Penelitian
+ini menggunakan desain Research and Development ADDIE. Dalam model ADDIE terdiri 5 tahapan
+penelitian yang dilakukan, diantaranya tahap Analisis (Analysis), Desain (Design), Pengembangan
+(Development), Implementasi (Implementation), dan Evaluasi (Evaluation). Namun, peneliti hanya
+melaksanakan penelitian ini sampai dengan tahapan pengembangan mengingat terbatasnya waktu
+yang tersedia. Data penelitian diperoleh dari hasil kuesioner, interview, dan validasi ahli materi dan
+media. Pada observasi awal ditemukan bahwa 96.1% siswa berumur 13-15 tahun di Kabupaten Badung
+terbiasa dengan penggunaan teknologi dalam kehidupan sehari-hari. Hal ini menunjukan kedekatan
+mereka sebagai generasi Z terhadap penerapan teknologi dalam segala aspek kehidupan mereka,
+termasuk dalam proses belajar-mengajar. Oleh karena itu, dirasa perlu untuk peneliti mengembangkan
+sebuah media pembelajaran berbasis teknologi yang dapat mendukung guru dalam mengajar siswa
+yang juga adalah generasi z. Teknologi kecerdasan buatan digunakan dalam penelitian ini dengan
+melihat penelitian sebelumnya yang mengungkapkan keuntungan yang dapat diperoleh dalam
+pengimplementasiannya di dalam kelas. Di akhir pembelajaran, dari segi materi ditemukan bahwa
+purwa-rupa dari media pembelajaran yang dirancang memiliki kualitas yang sangat baik dengan nilai
+84. Penelitian ini pula dinilai dapat menciptakan purwa-rupa yang memiliki kualitas sangat baik dari
+segi media dengan total nilai akhir 85.
+Kata Kunci: Generasi-Z, Hewan Endemik Indonesia , Kecerdasan Buatan
+
+PENDAHULUAN
+Generasi-Z atau yang biasa juga disebut dengan generasi digital native adalah
+generasi yang terlahir di antara tahun 1996 sampai dengan 2009 atau tepatnya saat
+telah tersedianya teknologi di kehidupan kita (Rastati, 2018). Para generasi-z juga
+disebut dengan generasi digital natives karena kemampuan dan kesiapannya dalam
+menggunakan perangkat teknologi. Tapscott (2013) menyatakan bahwa para generasi
+digital natives dapat menggunakan teknologi sama alaminya seperti bernafas. Mereka
+melakukan banyak hal melalui teknologi, seperti mencari sumber belajar untuk tugas
+sekolah, bersosial media, bermain game, hingga sekedar mencari informasi di internet.
+Hal tersebut juga didukung oleh hasil pre-observasi yang telah dilakukan oleh peneliti
+
+LPPM Universitas Jambi
+
+Halaman | 756
+
+Jurnal Sains Sosio Humaniora
+Volume 4 Nomor 2 Desember 2020
+
+P-ISSN: 2580-1244
+E-ISSN: 2580-2305
+
+yang dimana ditemukan bahwa 96.1% dari 203 orang siswa berumur 13-15 tahun di
+Kabupaten Badung Bali menyatakan kesiapan dan kedekatan mereka dengan
+penggunaan teknologi dalam kehidupannya sehari-hari. Sesuai dengan paham
+kemampuan belajar abad 21, teknologi memiliki peranan yang amat penting dalam
+proses belajar mengajar (Henriksen, Mishra, & Fisser, 2016). Hal tersebut menjadi
+sebuah tantangan tersendiri bagi guru masa kini. Guru harus mampu menjawab
+tantangan tersebut dengan cara mampu memahami dan menyediakan media
+pembelajaran berbasis teknologi agar sesuai dengan kebutuhan dan minat siswa
+generasi-z.
+Salah satu teknologi yang dipercaya memiliki potensi yang sangat baik
+kedepannya di dalam dunia pendidikan adalah teknologi kecerdasan buatan
+(Chassignol dkk., 2018). Menurut Ma dkk. (2014), kecerdasan buatan adalah sebuah
+sistem yang dikembangkan untuk dapat mampu melakukan tugas-tugas selayaknya
+manusia, seperti persepsi visual, pengenalan suara, pengambil keputusan, dan
+terjemahan antar bahasa. Terdapat beberapa studi yang sudah dilaksanakan mengenai
+kecerdasan buatan dalam dunia pendidikan. Terdapat beberapa jenis kecerdasan
+buatan yang diaplikasikan di dunia pendidikan, salah satunya adalah dual teacher
+classroom. Dual teacher classroom adalah keadaan dimana terdapat dua guru di
+dalam kelas, yaitu guru kelas pada umumnya dan guru berbasis kecerdasan buatan
+(Deloitte, 2019). Guru berbasis kecerdasan buatan bertugas untuk membantu proses
+belajar mengajar. Berbeda dengan guru konvensional, guru berbasis kecerdasan
+buatan dipercaya dapat memberikan asistensi kepada siswa terhadap pembelajaran
+secara efisien (Fahimirad & Kotamjani, 2018). Keberadaan sistem cerdas ini
+diharapkan dapat memberikan bantuan kepada guru untuk menjawab pertanyaanpertanyaan siswa sembari tetap fokus terhadap hal yang bersifat prinsipil seperti
+memikirkan metode pengajaran yang akan digunakan di kelas berikutnya.
+Penggunaan sistem kecerdasan buatan di dalam proses pembelajaran juga
+dipercaya dapat meningkatkan kemampuan siswa dalam melakukan proses
+pembelajaran yang mandiri. Murphy (2019) menyatakan bahwa dengan
+menggunakan sistem kecerdasan pada pendidikan, dapat membuat siswa untuk
+melakukan kegiatan belajar yang aktif dan mandiri. Hal ini sesuai dengan konsep
+pendidikan abad 21 yang berfokus pada peran siswa di dalam pembelajaran. Oleh
+karena manfaat yang dapat diperoleh, peneliti memutuskan untuk menggunakan
+kecerdasan buatan dalam studi kali ini.
+Dalam penelitian ini, peneliti berfokus pada perancangan sebuah purwa-rupa
+media pembelajaran berbasis kecerdasan buatan yang dapat memfasilitasi siswa
+dalam belajar Bahasa Inggris. Adapun tema atau topik dipilih berdasarkan saran dari
+guru Bahasa Inggris kelas VIII SMPN 5 Mengwi. Tema yang dipilih adalah teks
+deskriptif dengan topik hewan endemik Indonesia. Hewan endemik adalah hewan
+yang hidup disuatu daerah yang dimana tidak dapat ditemukan di wilayah lain
+LPPM Universitas Jambi
+
+Halaman | 757
+
+Jurnal Sains Sosio Humaniora
+Volume 4 Nomor 2 Desember 2020
+
+P-ISSN: 2580-1244
+E-ISSN: 2580-2305
+
+(Aristides, Purnomo, & Samekto, 2016). Topik ini dipilih berdasarkan pertimbangan
+antara guru dan peneliti dengan tujuannya untuk mengembangkan potensi daerah
+yang dimiliki di Indonesia. Purwarupa dari media pembelajaran berbasis kecerdasan
+buatan ini diharapkan mampu memberikan pengalaman belajar Bahasa Inggris yang
+berbeda secara mandiri kepada siswa kelas VIII SMPN 5 Mengwi.
+METODE PENELITIAN
+Peneliti menggunakan metode Penelitian dan Pengembangan ADDIE. ADDIE adalah
+sebuah singkatan dari Analysis (analisis), Design (desain), Development
+(pengembangan), Implementation (implementasi), dan Evaluation (evaluasi). Dalam
+pelaksanaannya, penelitian ini dilakukan hingga tahapan pengembangan
+dikarenakan terbatasnya waktu. Panduan wawancara, kuesioner, serta lembar
+validasi ahli digunakan dalam penelitian ini. Terdapat dua ahli yang melakukan
+validasi terhadap purwarupa ini, yaitu ahli materi pembelajaran dan ahli media.
+Penelitian ini berfokus untuk mengembangkan sebuah media pembelajaran berbasis
+kecerdasan buatan dengan menggunakan hewan endemik Indonesia sebagai topik
+materinya. Terdapat 5 jenis hewan endemik yang digunakan dalam penelitian ini,
+diantaranya Komodo, Bekantan, Cendrawasih, Curik Bali, dan Maleo. Untuk
+mengetahui kebutuhan serta kesiapan siswa Sekolah Menengah Pertama yang
+berumur diantara 13-15 tahun, peneliti melakukan sebuah observasi awal dengan
+memberikan kuesioner untuk siswa di Kabupaten Badung, Provinsi Bali. Validasi ahli
+dianalisis menggunakan metode kualitatif dan kuantitatif. Angket validasi ahli
+dilakukan menggunakan sebuah kuesioner yang diisi oleh para ahli menggunakan
+skala Likert. Selain itu, para ahli juga memberikan masukan terhadap produk yang
+dikembangkan sehingga dapat menciptakan hasil yang lebih baik dari segi materi
+maupun dari segi media. Dalam proses validasi oleh para ahli, data dihitung
+menggunakan rubrik penilaian. Pada akhirnya, data tersebut dapat menunjukan
+apakah produk dikategorikan buruk, kurang baik, sedang, baik, atau sangat baik.
+TEMUAN DAN PEMBAHASAN
+Tujuan penelitian ini adalah menciptakan sebuah purwa-rupa produk media
+pembelajaran berbasis kecerdasan buatan yang memuat penjelasan/deskripsi fauna
+endemik Indonesia baik secara tertulis maupun oral untuk siswa kelas VIII SMPN 5
+Mengwi. Dalam pengimplementasiannya, penelitian ini menggunakan metode
+penelitian dan pengembangan ADDIE, yang dimana dilaksanakan hingga dengan
+tahap development. Pada tahap awal, dilakukan proses observasi kepada 203 siswa
+berumur 13-15 tahun di wilayah Kabupaten Badung untuk mengetahui tingkat
+penggunaan teknologi siswa. Data menunjukkan bahwa 96.1% siswa menyatakan
+LPPM Universitas Jambi
+
+Halaman | 758
+
+Jurnal Sains Sosio Humaniora
+Volume 4 Nomor 2 Desember 2020
+
+P-ISSN: 2580-1244
+E-ISSN: 2580-2305
+
+kesiapannya dalam menggunakan teknologi dalam kehidupan sehari-hari. Namun
+sayang penggunaan teknologi dalam kehidupan siswa masih belum maksimal. Hal ini
+ditunjukan dari data yang diperoleh bahwa kegiatan yang paling sering dilakukan
+oleh siswa dengan teknologi internet adalah bersosial media. Oleh karena itu, kami
+merancang sebuah purwarupa yang dimana siswa dapat dimanfaatkan oleh siswa
+sebagai media pembelajaran Bahasa Inggris.
+Pembuatan blueprint adalah hal selanjutnya yang dilakukan oleh para peneliti.
+Blueprint dirancang bersama dengan guru Bahasa Inggris dengan beracuan pada
+silabus yang digunakan di sekolah. Selanjutnya, blueprint ini digunakan sebagai dasar
+perancangan purwarupa produk penelitian. Produk penelitian ini dikembangkan oleh
+peneliti dengan bantuan dari sebuah tim programmers. Produk ini dikembangkan
+menggunakan sistem operasi Android. Terdapat 5 jenis fauna endemik Indonesia
+yang digunakan sebagai isian materi dalam media pembelajaran ini, yaitu Komodo,
+Bekantan, Cendrawasih, Maleo, dan curik Bali. Oleh karena itu, peneliti memilih nama
+AIClopedia untuk produk ini yang dimana berasal dari kata AI (Artificial
+Intelligence/Kecerdasan Buatan) dan Encyclopedia (Ensiklopedia). Dalam proses
+pengembangan program, waktu selama 3 bulan yang dibantu oleh tim programmers.
+Selanjutnya, untuk meningkatkan kualitas dari produk yang dikembangkan,
+peneliti melakukan proses validasi ahli materi dan media. Terdapat 18 pertanyaan
+yang digunakan dalam masing-masing kuesioner validasi ahli. Kuesioner validasi ahli
+materi dan media menggunakan skala Likert. Dalam melakukan proses
+pengkategorian, peneliti menggunakan rubrik hasil penilaian validasi ahli, sebagai
+berikut:
+Tabel 1. Rubrik Penilaian Validasi Ahli
+Nilai
+
+Kategori
+
+75.7 – 90
+
+Sangat Baik
+
+61.3 - 75.6
+
+Baik
+
+46.9 - 61.2
+
+Sedang
+
+32.5 - 46.8
+
+Kurang Baik
+
+18 - 32.4
+
+Buruk
+
+Validasi ahli pertama yang dilakukan adalah validasi ahli materi yang
+kemudian dilanjutkan oleh validasi ahli media. Validasi ahli materi dilakukan untuk
+mengetahui kualitas produk yang sedang dikembangkan dari segi materi
+pembelajaran. Sedangkan validasi ahli media dilakukan untuk mengetahui kualitas
+dari tampilan serta fungsional arsitektur sistem dari produk yang sedang
+dikembangkan. Berdasarkan data yang diperoleh pada validasi ahli pertama, produk
+LPPM Universitas Jambi
+
+Halaman | 759
+
+Jurnal Sains Sosio Humaniora
+Volume 4 Nomor 2 Desember 2020
+
+P-ISSN: 2580-1244
+E-ISSN: 2580-2305
+
+dikategorikan sebagai produk yang sangat baik dari segi materi (77) dan juga media
+(78). Namun, data qualitative menunjukkan bahwa terdapat beberapa hal yang harus
+diperbaiki. Dari segi material, terdapat beberapa tata bahasa dalam kalimat yang
+harus diperbaiki. Disisi lain, dari segi media perlu adanya penyempurnaan seperti
+perbaikan di fungsi deteksi gambar yang tidak sesuai dengan deskripsi. Oleh karena
+itu, dilakukan proses revisi yang dilanjutkan dengan proses uji validasi kedua.
+Tabel 2. Hasil Validasi Ahli Sebelum & Sesudah revisi
+
+Ahli Materi
+Ahli Media
+
+Sebelum Revisi
+
+Setelah Revisi
+
+77
+(Sangat Baik)
+78
+(Sangat Baik)
+
+84
+(Sangat Baik)
+85
+(Sangat Baik)
+
+Pengujian validasi ahli materi dan media dilakukan kembali setelah proses
+revisi dilakukan berdasarkan masukkan yang diberikan oleh para ahli. Seperti yang
+tertulis pada tabel 2, terdapat perubahan yang signifikan terhadap nilai yang
+diperoleh pada uji validasi, yaitu 84 pada uji validasi materi serta 85 pada uji validasi
+media. Sehingga produk yang diciptakan dapat dinilai sebagai produk yang memiliki
+kualitas sangat baik dari segi materi maupun media.
+Pembahasan
+Artificial intelligence atau kecerdasan buatan dari segi pengimplementasiannya di
+dunia pendidikan adalah sebuah sistem yang dirancang sedemikian rupa agar dapat
+membantu proses belajar mengajar (Holmes, Bialik, & Fadel, 2019). Dengan
+dilakuikannya penelitian ini, diharapkan hasil produk dari penelitian dan
+pengembangannya dapat mengasah kemampuan siswa dalam melakukan proses
+pembelajaran mandiri (Haryanto, 2019; Kelly & Heffernan, 2015; Murphy, 2019; Shin,
+2018). Dalam sistem kecerdasan buatan, terdapat fungsi dimana sistem ini dapat
+digunakan sebagai tempat dimana siswa mempelajari materi pelajaran (Baker &
+Smith, 2019). Siswa dapat mengakses pembelajaran dimanapun dan kapanpun saat
+mereka membutuhkan. Dalam produk ini juga terdapat petunjuk yang jelas tentang
+materi dan cara penggunaan sehingga siswa dapat melakukan pembelajaran secara
+mandiri.
+Keerthiwansha (2018) dalam penelitiannya menemukan bahwa penggunaan
+sistem kecerdasan buatan dapat menciptakan proses belajar-mengajar yang lebih
+efektif. Dengan sistem kecerdasan buatan, performa guru dapat terdukung dengan
+baik karena adanya sistem yang dapat mengasistensi proses mengajar siswa. Guru
+dapat lebih berfokus kepada hal-hal fundamental lainnya seperti merancang
+
+LPPM Universitas Jambi
+
+Halaman | 760
+
+Jurnal Sains Sosio Humaniora
+Volume 4 Nomor 2 Desember 2020
+
+P-ISSN: 2580-1244
+E-ISSN: 2580-2305
+
+pembelajaran dan metode pendekatan atau pengajaran yang akan diimplementasikan
+saat mengajar. Siswa dalam hal ini tidak perlu menunggu waktu bertemu langsung
+dengan guru untuk mendapatkan jawaban tertentu dari pertanyaan yang mereka
+miliki. Hal ini dikatakan dapat meningkatkan angka kepuasan siswa dalam belajar
+karena siswa mendapatkan respon yang cepat atas pertanyaan-pertanyaan yang
+dimilikinya (Klutka, Ackerly, & Magda, 2018).
+Selain itu Keerthiwansha (2018) juga menyatakan bahwa dengan adanya peran
+teknologi kecerdasan buatan di dalam proses pembelajaran akan menciptakan
+pembelajaran yang lebih aktif. Hal ini dikarenakan oleh pusat pembelajaran yang
+berada sepenuhnya pada siswa. Siswa melakukan kegiatan belajar atas niatan serta
+kebutuhan sendiri. Selain aktif, pembelajaran juga akan lebih menarik dengan adanya
+sistem kecerdasan buatan (Chassignol, 2018). Hal ini diakibatkan oleh adanya
+pengalaman berbeda yang dirasakan siswa saat menggunakan produk yang diteliti
+saat ini di dalam proses pembelajaran. Jika sebelumnya proses pengajaran dilakukan
+oleh guru dengan cara tradisional, sekarang proses pembelajaran akan dilakukan
+dengan cara baru menggunakan guru artificial/buatan. Berdasarkan dari studi literatur
+tersebut, dirasa perlu untuk melakukan penelitian yang dimana mengembangkan
+tentang sebuah media pembelajaran berbasis kecerdasan buatan.
+Penelitian ini bertujuan untuk merancang sebuah media pembelajaran berbasis
+kecerdasan buatan yang dimana diharapkan mampu mendukung proses belajar
+deskriptif Bahasa Inggris siswa kelas VIII di SMPN 5 Mengwi. Produk ini diciptakan
+dalam bentuk aplikasi mobile yang dimana dapat diakses menggunakan sistem
+operasi Android. Pada tahap awal penelitian dilakukan observasi terhadap kesiapan
+siswa SMP di Badung dalam penggunaan teknologi. Ditemukan bahwa 195 (96.1%)
+dari 203 orang siswa menyatakan kesiapan serta kedekatan mereka dengan
+penggunaan teknologi dalam kehidupannya sehari-hari. Bahkan ditemukan juga
+bahwa 178 orang diantaranya sudah memiliki ponsel cerdas pribadi. Hal ini didukung
+oleh hasil survey penggunaan TIK yang dilakukan oleh Kominfo (2017) menyatakan
+bahwa 82.63% siswa SMP di Indonesia terbiasa menggunakan teknologi dan internet
+terutama dalam hal penggunaan sosial media. Hal serupa juga ditemukan oleh Ofcom
+(2018), yang menyatakan bahwa 99% anak berumur 12-15 tahun melakukan kegiatan
+daring dengan menghabiskan waktu sebanyak 20,5 jam per minggunya. Berdasarkan
+data tersebut, peneliti memutuskan untuk melakukan pengembangan dalam media
+pembelajaran berbasis kecerdasan buatan.
+Penelitian ini tidak lepas dari peran serta guru Bahasa Inggris kelas VIII SMPN
+5 Mengwi. Seperti yang telah diungkap sebelumnya, pada tahapan analisis guru
+mengisi daftar dari materi yang ingin ditampilkan dalam media pembelajaran yang
+dimana didesain menjadi sebuah blueprint materi. Hal ini dilakukan untuk
+memastikan materi yang disajikan sesuai dengan target kompetensi dan capaian
+siswa. Dari daftar yang diberikan, disimpulkan bahwa materi yang dipilih adalah
+LPPM Universitas Jambi
+
+Halaman | 761
+
+Jurnal Sains Sosio Humaniora
+Volume 4 Nomor 2 Desember 2020
+
+P-ISSN: 2580-1244
+E-ISSN: 2580-2305
+
+bertujuan untuk mengajarkan siswa tentang teks deskriptif yang dimana
+menampilkan tentang hewan endemik Indonesia. Dikarenakan oleh keterbatasan
+waktu, dalam penelitian ini dipilih 5 jenis hewan endemik Indonesia. Adapun hewan
+endemik yang dipilih adalah Cendrawasih, Maleo, Komodo, Bekantan, dan Curik Bali.
+Hewan-hewan ini merupakan prioritas konservasi nasional Kementerian Lingkungan
+Hidup dan Kementerian Perencanaan Pembangunan Nasional/Badan Perencanaan
+Pembangunan Nasional Indonesia (Widjaja, 2014). Berdasarkan paparan tersebut,
+peneliti memutuskan untuk menamai media pembelajaran berbasis kecerdasan
+buatan ini dengan AIClopedia. AIClopedia berasal dari kata AI atau Artificial
+Intelligence (Kecerdasan Buatan) dan Encyclopedia (Ensiklopedia). AIClopedia
+dirancang dengan tujuan untuk dapat menjadi media pembelajaran Bahasa Inggris
+siswa yang dimana dapat menampilkan informasi mengenai hewan endemik
+Indonesia baik secara tulisan maupun oral. Diharapkan siswa dapat menggunakan
+media pembelajaran ini bukan hanya untuk meningkatkan pengetahuannya terhadap
+teks deskriptif dan hewan endemik Indonesia, namun juga kemampuannya dalam hal
+reading dan listening.
+Setelah melakukan proses desain blueprint material, dilakukan proses validasi
+ahli materi. Hal ini dilakukan dalam tujuannya untuk memastikan kualitas materi baik
+yang berbentuk tulisan maupun suara yang terdapat dalam media pembelajaran
+AIClopedia. Dalam hasil nilai kuantitatif para ahli media, ditemukan bahwa kualitas
+materi dikategorikan memiliki kualitas yang sangat baik dengan nilai 77. Selain
+menilai secara kuantitatif dengan skala Likert, para ahli materi juga secara kualitatif
+memberikan masukkan dan komentar terhadap produk. Secara kualitatif, dapat
+disimpulkan bahwa masih terdapat kesalahan dalam isian materi dari segi tata bahasa,
+pemilihan kata, serta pronunciation dalam materi yang berbentuk suara. Oleh sebab
+itu, meskipun produk sudah dinyatakan memiliki konten materi yang sangat baik
+namun perlu dilakukan revisi untuk menyempurnakan hasil akhirnya.
+Setelah melakukan proses revisi, peneliti kembali melakukan proses penilaian
+validasi ahli materi. Hal ini dilakukan untuk mengetahui apakah sudah ada
+peningkatan yang terjadi setelah dilakukan revisi. Dari data yang diperoleh, terjadi
+peningkatan secara kuantitatif dengan nilai perolehan 84. Dari angka tersebut dapat
+dikategorikan bahwa materi memiliki kualitas yang sangat baik. Selanjutnya secara
+kualitatif, sudah tidak ada komentar dan saran dari para ahli baik dalam segi materi
+berbentuk tulisan atau suara. Contoh dari revisi yang diberikan oleh para ahli materi
+dapat dilihat pada Gambar 1.
+
+LPPM Universitas Jambi
+
+Halaman | 762
+
+Jurnal Sains Sosio Humaniora
+Volume 4 Nomor 2 Desember 2020
+
+P-ISSN: 2580-1244
+E-ISSN: 2580-2305
+
+Gambar 1. Blueprint desain untuk materi
+Dalam proses pengembangan atau pemrograman AIClopedia, peneliti dibantu
+oleh tim dari programmers. AIClopedia beroperasi dengan menggunakan teknologi
+pengenalan benda dalam sistem kecerdasan buatan. Produk purwa-rupa ini
+diharapkan dapat mampu membantu guru serta siswa dalam proses belajar mengajar
+dengan menyediakan informasi deskriptif tentang hewan endemik Indonesia baik
+secara tertulis maupun oral dalam Bahasa Inggris dan Bahasa Indonesia. AIClopedia
+dirancang untuk dapat mendeteksi hewan endemik Indonesia yang telah terdata baik
+dalam bentuk gambar maupun benda bergerak. Sehingga AIClopedia dapat
+digunakan dimanapun baik di dalam ruangan maupun saat melakukan kegiatan di
+luar ruangan.
+Validasi ahli kedua yang dilakukan adalah validasi ahli media TIK. Hal ini
+dilakukan dengan tujuan untuk mengetahui kualitas produk dari segi media. Sama
+LPPM Universitas Jambi
+
+Halaman | 763
+
+Jurnal Sains Sosio Humaniora
+Volume 4 Nomor 2 Desember 2020
+
+P-ISSN: 2580-1244
+E-ISSN: 2580-2305
+
+dengan validasi ahli materi, validasi ahli media dilakukan dalam 2 jenis yaitu
+kuantitatif dan kualitatif. Data kuantitatif diperoleh dari kuesioner yang dinilai
+menggunakan skala Likert. Sedangkan secara kuantitatif, terdapat saran serta
+komentar yang dimana menjadi bahan masukkan dan perbaikan bagi peneliti.
+Berdasarkan hasil dari validasi ahli ditemukan bahwa kualitas media TIK yang
+dirancang sudah dapat dikategorikan sebagai media yang memiliki kualitas yang
+sangat baik dengan nilai 78. Namun sayang, secara kualitatif masih ada hal yang perlu
+diperbaiki oleh para peneliti, contohnya perlu penambahan nama produk
+dan memasukan data email/media sosial siswa dalam halaman login. Sehingga perlu
+dilakukan proses revisi terhadap produk yang telah dirancang yang dimana dibantu
+oleh tim programmers.
+Setelah proses revisi dilakukan, penilaian validasi ahli media TIK kembali
+dilakukan. Hal ini bertujuan untuk mengetahui peningkatan nilai secara
+kuantitatif dan kualitatif dari produk. Secara kuantitatif, data validasi menunjukkan
+angka 85 yang dimana produk dapat dikategorikan memiliki kualitas yang sangat baik
+dari segi media. Dari segi kualitatif, sudah tidak ditemukan lagi masukkan atau
+komentar dari para ahli. Untuk contoh dari revisi yang diberikan dapat dilihat pada
+Gambar 2 dan Gambar 3.
+
+Gambar 2. Tampilan Media Sebelum Revisi
+
+LPPM Universitas Jambi
+
+Halaman | 764
+
+Jurnal Sains Sosio Humaniora
+Volume 4 Nomor 2 Desember 2020
+
+P-ISSN: 2580-1244
+E-ISSN: 2580-2305
+
+Gambar 3. Tampilan Media Setelah Revisi
+KESIMPULAN DAN SARAN
+Kesimpulan
+Penelitian ini menggunakan metode ADDIE yang dimana bertujuan untuk
+mengembangan sebuah produk purwa-rupa media pembelajaran Bahasa Inggris
+berbasis kecerdasan buatan untuk siswa kelas VIII SMPN 5 Mengwi. Produk yang
+diciptakan diberi nama dengan AIClopedia. Produk ini diharapkan mampu
+digunakan sebagai media pembelajaran berbasis kecerdasan buatan yang dalam
+pengimplementasiannya dapat memberikan informasi deskriptif hewan endemik
+Indonesia dengan menampilkan dwi-bahasa yaitu Bahasa Indonesia dan Bahasa
+Inggris baik dalam bentuk lisan maupun oral.
+Pada akhir studi, dilakukan proses penilaian validasi ahli. Adapun validasi ahli
+yang dilakukan adalah dari segi ahli materi pembelajaran dan ahli media TIK. Adapun
+tujuan dari kedua validasi ahli tersebut dilakukan adalah untuk mengetahui kualitas
+dari produk yang dikembangkanl. Data akhir yang diperoleh menyatakan bahwa
+produk yang dirancang dapat dikategorikan sebagai produk dengan kualitas sangat
+baik. Adapun angka perolehan akhirnya adalah ahli materi pembelajaran 84, serta ahli
+media TIK 85.
+
+LPPM Universitas Jambi
+
+Halaman | 765
+
+Jurnal Sains Sosio Humaniora
+Volume 4 Nomor 2 Desember 2020
+
+P-ISSN: 2580-1244
+E-ISSN: 2580-2305
+
+Saran
+Penelitian ini jauh dari kata sempurna dan butuh banyak perkembangan lain yang
+dapat dilanjutkan pada penelitian berikutnya. Sebab oleh terbatasnya waktu yang
+dimiliki oleh para peneliti, penelitian dilakukan hanya sampai dengan tahap
+pengembangan. Oleh karena itu, penelitian di masa yang akan datang dapat
+melanjutkan penelitian hingga tahapan evaluasi. Selanjutnya, oleh karena
+keterbatasan waktu pula AIClopedia memuat informasi hewan endemik Indonesia
+yang jumlahnya sangat terbatas. Diharapkan penelitian selanjutnya dapat
+menambahkan jumlah hewan endemik Indonesia yang dapat direkognisi dengan
+menggunakan teknologi kecerdasan buatan. Subjek dari penelitian kedepannya juga
+butuh untuk diperluas karena pada studi ini peneliti hanya terfokus pada
+pengembangan media pembelajaran untuk siswa kelas VIII SMPN 5 Mengwi.
+UCAPAN TERIMA KASIH
+Peneliti mengucapkan terima kasih kepada Kementerian Riset dan Teknologi/Badan
+Riset dan Inovasi Nasional Republik Indonesia yang telah mendukung penelitian ini
+melalui program Penelitian Dosen Pemula tahun 2020. Mereka juga sangat berterima
+kasih atas komitmen guru serta partisipan lain yang terlibat dalam penelitian ini.
+DAFTAR PUSTAKA
+Aristides, Y., Purnomo, A., & Samekto, F. A. (2016). Perlindungan Satwa Langka di
+Indonesia dari Perspektif Convention on International Trade in Endangered
+Species of Flora and Fauna (Cites). Diponegoro Law Journal, 5(4), 1-17.
+Baker, T., & Smith, L. (2019). Educ-AI-tion rebooted? Exploring the future of artificial
+intelligence in schools and colleges. Retrieved from Nesta Foundation website:
+https://media.nesta.org.uk/documents/Future_of_AI_and_education_v5_WEB.
+pdf
+Chassignol, M., Khoroshavin, A., Klimova, A., & Bilyatdinova, A. (2018). Artificial
+Intelligence trends in education: a narrative overview. Procedia Computer
+Science, 136, 16-24.
+Deloitte. (2019). Global development of AI-based education. China: Deloitte
+Fahimirad, M., & Kotamjani, S. S. (2018). A Review on Application of Artificial
+Intelligence in Teaching and Learning in Educational Contexts. International
+Journal of Learning and Development, 8(4), 106-118.
+Haryanto, E., & Ali, R. M. (2019, January). Students’ Attitudes towards the Use of
+Artificial Intelligence SIRI in EFL Learning at One Public University. In
+International Seminar and Annual Meeting BKS-PTN Wilayah Barat (Vol. 1, No.
+1).
+LPPM Universitas Jambi
+
+Halaman | 766
+
+Jurnal Sains Sosio Humaniora
+Volume 4 Nomor 2 Desember 2020
+
+P-ISSN: 2580-1244
+E-ISSN: 2580-2305
+
+Henriksen, D., Mishra, P., & Fisser, P. (2016). Infusing creativity and technology in 21st
+century education: A systemic view for change. Educational Technology &
+Society, 19(3), 27-37.
+Holmes, W., Bialik, M., & Fadel, C. (2019). Artificial intelligence in education. Boston:
+Center for Curriculum Redesign.
+Ma, W., Adesope, O. O., Nesbit, J. C., & Liu, Q. (2014). Intelligent tutoring systems and
+learning outcomes: A meta-analysis. Journal of educational psychology, 106(4),
+901.
+Keerthiwansha, N. B. S. (2018). Artificial Intelligence Education (AIEd) in English as a
+Second Language (ESL) Classroom in Sri Lanka. Artificial Intelligence, 6(1), 3136.
+Kelly, K., & Heffernan, N. (2015, June). Developing Self-regulated Learners Through
+an Intelligent Tutoring System. In International Conference on Artificial
+Intelligence in Education (pp. 840-843). Springer, Cham.
+Klutka, J., Ackerly, N., & Magda, A. J. (2018). Artificial Intelligence in Higher
+Education. Current Uses and Future Applications. Louisville. Learning house.
+Kominfo, K. (2017). Survey penggunaan TIK 2017 serta implikasinya terhadap aspek
+sosial budaya masyarakat. Pusat Penelitian dan Pengembangan Aplikasi
+Informatika dan Informasi dan Komunikasi Publik, Kominfo RI.
+Murphy, R. F. (2019). Artificial Intelligence Applications to Support K-12 Teachers and
+Teaching: A Review of Promising Applications, Opportunities, and Challenges.
+Perspective. RAND Corporation.
+Ofcom. (2018). Children and Parents: Media Use and Attitudes. London, UK: Office of
+Communication.
+Rastati, R. (2018). Media Literasi Bagi Digital Natives: Perspektif Generasi Z di Jakarta.
+Kwangsan, 6(1).
+Shin, M. H. (2018). How to use artificial intelligence in the English language learning
+classroom. Indian Journal of Public Health Research & Development, 9(9), 557561: self efficiacy.
+Tapscott, Don. (2013). Grown Up Digital: Yang Muda Yang Merubah Dunia. Jakarta:
+Gramedia Pustaka Utama .
+Widjaja, E. A., Rahayuningsih, Y., Rahajoe, J. S., Ubaidillah, R., Maryanto, I., Walujo,
+E. B., and Semiadi, G. (2014). Status Kekinian Keanekaragaman Hayati Indonesia
+(1st Edition). Jakarta: LIPI Press.
+
+LPPM Universitas Jambi
+
+Halaman | 767
+
+

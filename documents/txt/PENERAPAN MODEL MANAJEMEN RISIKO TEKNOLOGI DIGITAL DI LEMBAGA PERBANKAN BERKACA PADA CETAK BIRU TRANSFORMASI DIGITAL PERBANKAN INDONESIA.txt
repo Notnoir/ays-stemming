@@ -1,0 +1,1449 @@
+PENERAPAN MODEL MANAJEMEN RISIKO TEKNOLOGI DIGITAL DI LEMBAGA PERBANKAN BERKACA PADA CETAK BIRU
+
+TRANSFORMASI DIGITAL PERBANKAN INDONESIA
+
+PENERAPAN MODEL MANAJEMEN
+
+RISIKO TEKNOLOGI DIGITAL
+
+DI LEMBAGA PERBANKAN
+
+BERKACA PADA CETAK BIRU
+
+TRANSFORMASI DIGITAL
+
+
+
+
+
+PERBANKAN INDONESIA
+
+
+Oleh : Yohanes Ngamal
+
+
+Email: yohanesngamal05@gmail.com
+
+
+
+
+
+Maximus Ali Perajaka
+
+
+Email: maxperajaka@gmail.com
+
+Abstrak :
+
+pelanggan mereka, dan tempat mereka di pasar. Di Indonesia, Artikel ini membahas mengenai tren pemanfaatan sesungguhnya Otoritas Jasa Keuangan (OJK) telah membuat teknologi digital di industri perbankan yang terjadi di dunia cetak biru dan peta jalan (road map) yang membantu industri secara khusus di Indonesia. Studi ini menemukan bahwa perbankan menerapkan digitalisasi dan mengembangkan pemanfaatan teknologi digital (digitalisasi) telah membuat manajemen risiko digital secara tepat sasar dan berdaya guna.
+
+ekosistem keuangan global berubah dengan cepat. Hal ini tejadi Kata kunci : bank, teknologi digital, digitalisasi, cetak biru karena demand (kebutuhan) masyarakat untuk mendapat transformasi digital, OJK. manajemen risiko digital jasa layanan akan digital terus bertambah. Hal ini membuka peluang bagi industri perbankan untuk meningkatkan jumlah 1 PENDAHULIAN
+
+nasabahnya dan meningkatkan keuntungannya. Namun, pada 1.1 Latar belakang sisi lain terdapat sejumlah saluran di mana lembaga perbankan Sejak 2010, sekitar 200 bank di dunia yang bersiap untuk
+
+berpotensi mengalami potensi kerugian karena kejahatan siber perubahan jangka panjang, bernisiatif mengadopsi teknologi
+
+akan terus meningkat.
+
+digital. Dari jumlah tersebut, 46 berada di Asia Pasifik.1 Kala itu Oleh karena itu penulis menyarankan supaya lembaga mereka percaya bahwa sepuluh tahun ke depan, manajemen perbankan terus berupaya menemukan kembali fungsi
+
+manajemen risiko mereka, terutama melalui pengembangan 1 Surung Sinamo “How new digital banks can bring banking to the edge” dalam https:/ /www. thejakartapost. com/ academia, edisi Jumat, manajemen risiko digital, untuk melindungi diri mereka sendiri, 03 September 3, 2021
+
+
+
+
+
+59
+
+
+PENERAPAN MODEL MANAJEMEN RISIKO TEKNOLOGI DIGITAL DI LEMBAGA PERBANKAN BERKACA PADA CETAK BIRU
+
+
+
+
+
+TRANSFORMASI DIGITAL PERBANKAN INDONESIA
+
+
+risiko perbankan akan tunduk pada transformasi yang tidak dari 4 (empat) aspek yang kemudian mendorong perubahan diperkirakan sebelumnya, dan mereka akan menghadapi risiko lanskap perbankan masa depan sebagai berikut:4
+
+yang baru sama sekali.
+
+Pertama, perubahan ekspektasi konsumen akan
+
+Perkembangan teknologi informasi yang cepat telah produk dan layanan perbankan. Secara umum, seiring membawa kehidupan masyarakat dunia memasuki era baru
+
+berkembangnya teknologi informasi, ekspektasi konsumen
+
+yang sering disebut era revolusi industri 4.0. Era ini ditandai akan suatu produk dan layanan telah mengarah pada
+
+dengan berkembangnya berbagai inovasi teknologi seperti produk dan layanan yang mudah dan aman, personal, tidak Internet of Things (IoT), Cloud Computing, Artificial Intelligence tertinggal tren, dan konsumen memiliki kemudahan untuk
+
+(AI), Syber Security, Additive Manufacturing, System Integration membandingkan kualitas berbagai produk dan layanan.
+
+dan Machine Learning.2
+
+Kedua, pemanfaatan data untuk peningkatan kualitas
+
+Pada 2020, ketika berbagai sektor ekonomi dan produk dan layanan ( data enhanced product and services).
+
+bisnis dilumpuhkan oleh pandemi COVID-19, kalangan Pemanfaatan data dalam volume besar atau dikenal sebagai perbankan berpikir bahwa pada tahun 2025 atau lima big data mampu memberikan informasi yang kemudian tahun ke depannya, fungsi risiko di bank kemungkinan besar
+
+dapat dimanfaatkan perbankan untuk menciptakan banyak
+
+akan berbeda secara fundamental dari sebelumnya. Sebab, peluang dan memunculkan kategori bisnis baru.
+
+diperkirakan bahwa pada 2025 lebih dari setengah orang di
+
+Ketiga, kemunculan kemitraan baru dengan
+
+dunia, termasuk di Asia Tenggara akan beralih ke neobanks big companies dan start-up. Perkembangan teknologi atau bank digital. Oleh karena itu industri perbankan harus menyebabkan terbentuknya ekosistem baru yang bersifat
+
+bergerak cepat dalam mengadopsi teknologi digital agar digital dengan Bank menjadi salah satu pemain dalam segera berevolusi menjadi bank digital dengan risiko yang ekosistem tersebut. Kemitraan Bank dengan pemain dalam minimal.3
+
+ekosistem digital seperti fintech dan bigtech mampu
+
+Pandemi Covid-19 telah memaksa perubahan perilaku memberikan peluang bagi Bank untuk mendapatkan dan orientasi masyarakat dari sebelumnya physical konsumen baru, memanfaatkan inovasi mitra, dan economy menjadi ke arah virtual economy. Kondisi ini memperoleh akses data untuk pengembangan produk dan menimbulkan blessing berupa percepatan dan menjadi layanan Bank.
+
+momentum perubahan pada berbagai aspek kehidupan
+
+Keempat, perubahan model operasional menjadi
+
+masyarakat secara menyeluruh dan menciptakan digital model bisnis digital. Perkembangan teknologi informasi behaviour, termasuk perilaku dalam bertransaksi keuangan.
+
+disertai dengan perubahan perilaku konsumen memaksa
+
+Pergeseran perilaku dan orientasi masyarakat ke arah virtual Bank untuk segera melakukan transformasi digital. bagi economy, tentunya melahirkan ekspektasi dan kebutuhan Bank, transformasi menjadi fully digital bank menghadirkan yang berbeda dari sebelumnya. Pada titik ini, Bank dipaksa model bisnis yang efisien dan efektif, yang diharapkan untuk melakukan akselerasi transformasi digital, melakukan
+
+akan meningkatkan penetrasi dan jangkauan Bank kepada
+
+inovasi yang luar biasa, bekerja lebih efektif, lebih efisien, seluruh lapisan masyarakat sehingga pada akhirnya dan lebih produktif agar dapat memenuhi ekspektasi mendorong peningkatan profitabilitas, inklusivitas, dan dan kebutuhan nasabah di tengah persaingan bisnis yang mempertahankan eksistensi bisnis di tengah semakin semakin ketat.
+
+ketatnya kompetisi di sektor jasa keuangan.
+
+Pemanfaatan berbagai teknologi tersebut di bidang
+
+Penerapan teknologi digital akan membedakan satu
+
+layanan keuangan telah membawa perubahan yang signifikan bank dengan para pesaingnya. Teknologi yang tepat tidak pada industri perbankan. Perubahan tersebut dapat terlihat
+
+hanya akan meningkatkan kecepatan dan keandalan layanan,
+
+tetapi juga menjamin keamanan data. Paling tidak, hal itu
+
+2 Gramedia, “Pengertian Revolusi Industri 4.0: Jenis, Dampak dan Contoh Penerapannya,” dalam www.gramedia.com.
+
+4 OJK, “Cetak Biru Transformasi Digital Perbankan pdf.” dalam 3 Ibid
+
+www.ojk.go.id
+
+
+
+
+
+60
+
+
+PENERAPAN MODEL MANAJEMEN RISIKO TEKNOLOGI DIGITAL DI LEMBAGA PERBANKAN BERKACA PADA CETAK BIRU
+
+
+
+
+
+TRANSFORMASI DIGITAL PERBANKAN INDONESIA
+
+
+akan menentukan kemampuan bank dalam menghadirkan
+
+Untuk meraih tujuan yang diharapkan pemegang
+
+pengalaman aplikasi digital kelas dunia. Namun, fungsi saham dan memenuhi janji kepada publik menjadi lebih manajemen risiko bank yang mengadopsi teknologi digital dari sekadar bank, setiap bank mengembangkan apa yang akan memiliki karakter yang berbeda dari fungsi manajemen
+
+disebut Enterprise Risk Management (ERM) yaitu suatu risiko pada bank konvensional.
+
+unit atau divisi yang bertanggung jawab atas pembentukan
+
+Dalam artikel ini, penulis memfokuskan perhatian pada pengawasan risiko, pemantauan dan pelaporan yang
+
+“Penerapan Model Manajemen Risko Teknologi Digital di mendorong integrasi risiko.6
+
+Lembaga Perbankan Berkaca pada Cetak Biru Transformasi
+
+Kebijakan ERM Bank dan amandemennya mensyaratkan
+
+Digital Perbankan Indonesia.”
+
+persetujuan dewan. Divisi Manajemen Risiko bertanggung
+
+jawab atas penegakan Kebijakan risiko Bank dengan terus
+
+
+
+
+
+1.2 Rumusan Masalah
+
+
+memantau risiko, untuk mengidentifikasi dan mengukur
+
+Bertolak dari gambaran di atas, pertanyaan pokok yang risiko yang signifikan eksposur dan bertindak atas eksposur dapat diajukan adalah sebagai berikut:
+
+tersebut jika diperlukan.
+
+Pertama, bagaimana tren penerapan teknologi digital di
+
+Toleransi risiko bank secara keseluruhan ditetapkan dalam
+
+lembaga perbankan di Indonesia?
+
+konteks kekuatan pendapatan, modal dan model bisnis yang
+
+Kedua, bagaimana fungsi manajemen risiko, khususnya terdiversifikasi. Struktur organisasi dan strategi bisnis, pada sisi manajemen risiko teknologi digital di indusri perbakan?
+
+lain, selaras dengan filosofi manajemen risiko.
+
+Untuk maksud tersebut Bank menggunakan review berkala
+
+
+
+
+
+1.3 Tujuan Penulisan
+
+
+atas limit eksposur risiko dan pengendalian risiko serta self-Artikel ini ditulis untuk beberapa tujuan sebagai berikut:
+
+assessmen tuntuk memposisikan diri terhadap skenario yang Pertama, memberikan gambaran tentang tren merugikan. Ini adalah alat yang sangat berharga yang digunakan pemanfaatan teknologi digital di industri perbankan yang Bank memprediksi dan berhasil mengelola resesi lokal dan berpengauh pada perubahan manajen risiko perbankan.
+
+global yang terus berlanjut untuk mempengaruhi ekonomi
+
+Kedua, mengidentifikasi fungsi manajemen risiko makro. ERM mengidentifikasi peluang, menilai risiko yang perbankan, khusunya dalam manajemen risiko pemanfaatan
+
+melekat pada peluang ini dan secara aktif mengelola risiko ini teknologi digital.
+
+dengan cara yang hemat biaya.
+
+Ketiga, menggambarkan strategi manajemen risiko
+
+teknologi digital di industri perbankan yang selaras dengan 2.1.2 Jenis­jenis risiko perbankan Cetak Biru Transformasi Digital Perbankan Indonesia
+
+Sering dikatakan bahwa keuntungan adalah hadiah
+
+untuk keberhasilan menanggung risiko. Dan, hal itu sangat
+
+
+
+
+
+2. Tinjauan Pustaka
+
+
+berlaku di industri perbankan. Bank secara harfiah terkena
+
+
+
+
+
+2.1 Manajemen risiko perbankan
+
+
+berbagai jenis risiko. Seorang bankir yang sukses adalah
+
+
+
+
+
+2.1.1 Pengertian
+
+
+bankir yang dapat mengurangi risiko ini dan menciptakan
+
+Pada hakekatnya risiko dalam konteks perbankan adalah
+
+keuntungan yang signifikan bagi pemegang saham secara suatu kejadian potensial, baik yang dapat diperkirakan konsisten. Mitigasi risiko dimulai dengan terlebih dahulu maupun yang tidak dapat diperkirakan yang berdampak mengidentifikasi risiko dengan benar, mengapa risiko itu negatif terhadap pendapatan dan permodalan bank. Risiko muncul dan kerusakan apa yang dapat ditimbulkannya.
+
+juga dapat dianggap sebagai kendala dalam pencapaian
+
+Secara umum dikenal bahwa bank memiliki beberapa
+
+suatu tujuan.5
+
+jenis risiko utama sebagai berikut:7
+
+5 Riandi, “Manajemen Risiko pada Industri Bank (Perbankan)”
+
+6 IFBGInstitutue, “ Enterprise Risk Management (ERM),” www.
+
+dalam www.ibf.proxsisgroup.com, diakses pada 09 Maret
+
+ibf.proxsisgroup.com, diakses pada 09 Maret 2022.
+
+2022.
+
+7 Riandi, Op.Cit.
+
+
+
+
+
+61
+
+
+PENERAPAN MODEL MANAJEMEN RISIKO TEKNOLOGI DIGITAL DI LEMBAGA PERBANKAN BERKACA PADA CETAK BIRU
+
+
+
+
+
+TRANSFORMASI DIGITAL PERBANKAN INDONESIA
+
+
+Risiko Kredit: Risiko kredit adalah risiko yang
+
+Risiko Reputasi: Reputasi merupakan aset tidak
+
+timbul dari kemungkinan tidak terbayarnya pinjaman berwujud yang sangat penting dalam bisnis perbankan.
+
+oleh peminjam. Meskipun risiko kredit sebagian besar Bank seperti JP Morgan bank, Chase bank, Citibank, Bank of didefinisikan sebagai risiko tidak menerima pembayaran, America atau di tingkat nasional Bank BCA, Bank BRI, Bank bank juga memasukkan risiko keterlambatan pembayaran Mandiri dll semuanya telah berkecimpung dalam bisnis ini dalam kategori ini.
+
+selama ratusan tahun dan memiliki reputasi yang luar biasa.
+
+Risiko Pasar: Bank menghadapi risiko pasar dalam Reputasi ini memungkinkan mereka menghasilkan lebih berbagai bentuk. Misalnya jika mereka memegang ekuitas banyak bisnis dengan lebih menguntungkan.
+
+dalam jumlah besar maka mereka terkena risiko ekuitas.
+
+Risiko Sistemik: Risiko sistemik muncul karena
+
+Juga, bank menurut definisi harus menahan valuta asing fakta bahwa sistem keuangan adalah satu jaringan yang yang mengekspos mereka ke risiko Forex. Demikian pula rumit dan terhubung. Oleh karena itu, kegagalan satu bank bank meminjamkan terhadap komoditas seperti emas, memiliki kemungkinan menyebabkan kegagalan banyak perak dan real estate yang menghadapkan mereka pada bank lain juga. Hal ini karena bank merupakan counterparty risiko komoditas juga.
+
+satu sama lain dalam banyak transaksi. Oleh karena itu,
+
+Risiko Operasional: Terjadi sebagai akibat dari jika satu bank gagal, peristiwa risiko kredit untuk bank lain kegagalan proses bisnis dalam kegiatan bank sehari-hari. menjadi kenyataan.
+
+Contoh risiko operasional akan mencakup pembayaran
+
+Risiko Digital: Selain berbagai risiko keuangan,
+
+yang dikreditkan ke akun yang salah atau mengeksekusi terdapat beberapa risiko perbankan non-keuangan.
+
+pesanan yang salah saat bertransaksi di pasar. Tak satu pun Risiko teknologi adalah salah satunya. Ini termasuk risiko dari departemen di bank yang kebal dari risiko operasional.
+
+keamanan siber, risiko ketidakpatuhan terhadap peraturan
+
+Moral Hazard: Bailout bank baru-baru ini oleh perlindungan data, dan risiko sistem lama. Sementara bank banyak negara telah menciptakan jenis risiko lain yang mengembangkan rencana menyeluruh untuk menangani disebut moral hazard. Risiko ini tidak dihadapi oleh bank risiko keuangan, mereka mungkin tidak menyadari risiko atau pemegang sahamnya. Sebaliknya, risiko ini dihadapi teknologi. Bank mungkin menghadapi beberapa tantangan oleh pembayar pajak di negara tempat bank beroperasi. ketika mereka mencoba untuk memitigasi risiko teknologi8
+
+Bank sudah terbiasa mengambil risiko berlebihan. Jika
+
+Saptarshi Ganguly, Holger Harreis, Ben Margolis, and
+
+risiko mereka terbayar, mereka dapat mempertahankan Kayvaun Rowshankish (2020) mengatakan bahwa dalam pengembaliannya. Namun jika risikonya menjadi bumerang, beberapa tahun terakhir, seiring dengan kemajuan teknologi maka kerugian ditanggung oleh wajib pajak dalam bentuk digital, digitalisasi telah tertanam kuat dalam strategi dana talangan.
+
+perbankan, karena hampir semua bisnis dan aktivitas
+
+Risiko Likuiditas:Risiko likuiditas adalah jenis risiko telah dijadwalkan untuk transformasi digital. Keuntungan lain yang melekat dalam bisnis perbankan. Risiko likuiditas signifikan dari digitalisasi, sehubungan dengan pengalaman adalah risiko bahwa bank tidak akan dapat memenuhi pelanggan, pendapatan, dan biaya, menjadi semakin menarik.
+
+kewajibannya jika deposan datang untuk menarik uangnya. Momentum untuk mengadopsi teknologi dan model Risiko ini melekat dalam sistem perbankan cadangan operasi baru yang diperlukan untuk menangkap manfaat fraksional
+
+ini terus meningkat. Namun, pemanfaatan teknologi digital
+
+Resiko Bisnis: Industri perbankan saat ini sangat berpotensi menimbulkan risiko.9
+
+maju dan terdiversifikasi. Bank saat ini memiliki berbagai Mereka juga mengemukakan bahwa manajemen
+
+macam strategi yang harus mereka pilih. Setelah strategi risiko di bank mulai berubah secara substansial selama tersebut dipilih, bank perlu memfokuskan sumber daya
+
+mereka untuk mencapai tujuan strategis mereka dalam 8 TIBC, “How to Address Banking Risk in a Digital World,” dalam www.tibco.com, diakses pada 12 Maret 2022.
+
+jangka panjang.
+
+9 Ibid.
+
+
+
+
+
+62
+
+
+PENERAPAN MODEL MANAJEMEN RISIKO TEKNOLOGI DIGITAL DI LEMBAGA PERBANKAN BERKACA PADA CETAK BIRU
+
+
+
+
+
+TRANSFORMASI DIGITAL PERBANKAN INDONESIA
+
+
+sepuluh tahun terakhir. Menurut mereka manajemen bahwa transformasi digital dianggap sebagai faktor risiko nonfinansial menjadi lebih penting karena standar pendorong yang menawarkan solusi atas tantangan yang kepatuhan dan perilaku diperketat, dan tren pemanfaatan dihadapi perbankan saat ini. Inti dari praktik transformasi teknologi digital yang terus menguat secara cepat. Mereka digital, seperti kepemimpinan, tren digital, keterampilan bahkan menyatakan bahwa meskipun tidak memiliki bola transformasi digital, strategi digital, penerapan teknologi kristal ajaib yang akan memberi tahu kita seperti apa digital, dan pendekatan yang berpusat pada pelanggan, fungsi risiko bank nantinya seperti pada tahun 2025 dan dipandang sebagai pengaruh yang dibawa ke tingkat seterusnya, atau krisis keuangan atau perubahan teknologi kematangan digital.12
+
+seperti apa yang dapat mengganggu manajemen risiko bank,
+
+Penulis dan komentator Keuangan Chris Skinner (2017)
+
+kami percaya bahwa tren pemanfaatan teknologi digital menyatakan bahwa industri perbankan dibangun dalam kemungkinan besar akan mengubah secara fundamental revolusi industri, dan difokuskan pada distribusi fisik kertas manajemen risiko bank selama sepuluh tahun ke depan.10
+
+di lokasi yang terlokalisasi jaringan bangunan dan manusia.
+
+Perbankan tradisional mencakup layanan perbankan klasik
+
+2.2 Tren Digitalisasi di Industri Perbankan
+
+(pinjaman, deposito, pembayaran) untuk klien individu dan
+
+
+
+
+
+2.2.1 Apa itu digitalisasi perbankan
+
+
+korporat, serta perbankan investasi. Model perbankan
+
+Menurut Gartner (2020),11 digitalisasi mewakili digital tergantung pada tingkat kematangan digital lembaga peningkatan model bisnis yang ada, penciptaan pendapatan perbankan, tingkat penerapan teknologi informasi dalam baru, dan peluang nilai tambah dengan bantuan teknologi aktivitasnya.Namun sekarang kita berada dalam revolusi digital. Ini dapat dipahami sebagai masalah kompleks yang digital di mana semuanya menjadi distribusi data pada suatu mencakup beberapa bidang-bidang seperti (i) pergeseran jaringan global yang berfokus pada perangkat lunak dan pemikiran, (ii) perubahan kepemimpinan, (iii) adopsi server, dan bank memiliki fisik ini yang mengunci mereka teknologi, (iv) digitalisasi sumber daya, dan (v) penerimaan ke dalam cara lama melakukan hal-hal. Mereka mencoba inovasi.
+
+untuk keluar darinya, tetapi sulit karena itu perubahan
+
+Seperti yang terlihat dari klasifikasi sebelumnya, istilah mendasar dari struktur bank.13
+
+“digitalisasi” (digitalisation) harus dibedakan dari istilah Tren yang diidentifikasi dalam prioritas nasabah
+
+hampir serupa, “digitisasi” (digitisation). Yang pertama perbankan mencerminkan kecenderungan saat ini dalam lebih membahas dampak teknologi digital pada organisasi, ekonomi digital yang muncul dan transisi ke industri sedangkan yang kedua mewakili pergeseran dari solusi teknologi baru – Industri 4.0, serta perubahan motivasi analog ke yang digital. Digitalisasi adalah pembaruan konsumen – untuk lebih mementingkan kecepatan, organisasi melalui teknologi informasi dan komunikasi baru.
+
+kenyamanan, dan aksesibilitas layanan keuangan . Perbankan
+
+Menurut Matt et al.(2015), transformasi digital adalah digital modern dikembangkan di dua bidang utama.
+
+masalah kompleks yang berlangsung dalam kerangka kerja
+
+Area pertama menyangkut fakta bahwa bank
+
+yang mencakup (i) perubahan dalam penciptaan nilai, (ii)
+
+menerapkan layanan digital secara paralel dengan layanan
+
+perubahan struktural, dan (iii) penggunaan teknologi dan offline; mengembangkan dan meluncurkan aplikasi seluler aspek keuangan. Tidak mengherankan bahwa transformasi mereka; memberikan kemampuan untuk mengelola akun digital tampaknya terhalang oleh serangkaian kendala pribadi melalui smartphone, PC, dan perangkat lainnya.
+
+yang dapat menghambat atau bahkan meruntuhkan 12 Matt, C.; Hess, T.; Benlian, A. Digital Transformation Strategies.
+
+seluruh proses transformasi. Namun, tak bisa dipungkiri
+
+Bus. Inf. Syst. Eng. 2015, 57, 339–343
+
+13 Statistica, “European Banking Sector A Statistica Dossier On 10 Ibid
+
+The Current Banking Sector and Meeting The Demands Of A
+
+11 Gartner, “Gartner IT Glossary—Digitization. 2020” dalam https://
+
+Digital Future,” https://senat.me/wp-content/uploads/study_
+
+www.gartner.com/en/information-technology/ glossary/digiti-
+
+id59063_european-banking-sector.pdf hal.5., diakses pada 13
+
+zation. Diakses, pada 12 Maret 2022.
+
+Maret 2022.
+
+
+
+
+
+63
+
+
+PENERAPAN MODEL MANAJEMEN RISIKO TEKNOLOGI DIGITAL DI LEMBAGA PERBANKAN BERKACA PADA CETAK BIRU
+
+
+
+
+
+TRANSFORMASI DIGITAL PERBANKAN INDONESIA
+
+
+Bidang digitalisasi lainnya di bidang perbankan adalah neo-
+
+pergerakan dana di rekeningnya dan penggunaan
+
+bank, yang sepenuhnya beroperasi secara online tanpa
+
+layanan keuangan;
+
+pembentukan unit fisik bank.
+
+• menggunakan berbagai jenis kontrol biometrik (sidik
+
+Baik bagi bank maupun konsumen jasa keuangan, transisi
+
+jari, pemindaian retina, dll.) untuk mengakses layanan
+
+ke perbankan digital memerlukan beberapa aspek yang
+
+keuangan digital;
+
+harus dipertimbangkan untuk memastikan berfungsinya • digitalisasi lengkap proses, termasuk identifikasi klien, secara efektif. Persyaratan dasar untuk operasi perbankan
+
+komunikasi antara bank dan klien, kesimpulan kontrak,
+
+digital yang aman dan stabil bagi bank adalah:14
+
+transaksi, dll.;
+
+• pembentukan model bisnis yang komprehensif yang • personalisasi layanan: pembuatan dompet digital dan berbeda dari model bisnis perbankan tradisional dan
+
+penerbitan kartu elektronik dengan batas kredit yang
+
+memperhitungkan kemungkinan kerja multichannel
+
+ditentukan berdasarkan analisis otomatis terhadap
+
+dengan klien (offline melalui cabang bank, online melalui
+
+perilaku pelanggan;
+
+aplikasi bank, online melalui aplikasi lain dan jejaring • keunggulan layanan mobile banking: sebagian besar sosial, dll);
+
+nasabah menggunakan layanan perbankan digital melalui
+
+• infrastruktur TI yang fleksibel yang memungkinkan
+
+smartphone;
+
+untuk memodifikasi dan melengkapi lingkungan layanan • akses ke layanan FinTech, termasuk dukungan peer-to-perbankan digital tanpa risiko dan biaya tambahan;
+
+peer lending dan crowdfunding.
+
+• memastikan keamanan data dan memelihara sistem
+
+Perbankan digital menyiratkan bahwa bank dalam
+
+yang andal untuk melindungi informasi mengenai data strukturnya mengembangkan divisi FinTech sendiri atau pribadi nasabah bank, transaksi, dll;
+
+menggunakan investigasi sektor FinTech yang ada untuk
+
+• persyaratan teknis untuk gudang data yang menyediakan layanan digital tertentu atau memasukkan memungkinkan sejumlah besar data disimpan dan elemen FinTech individual ke dalam aplikasinya. Dengan diproses dengan cepat;
+
+demikian, tidak seperti perbankan tradisional, pada
+
+• penggunaan teknologi Big Data dan teknologi analitik tingkat ini, tingkat interaksi antara bank dan perusahaan lainnya yang menyediakan penelitian mengenai fitur FinTech sebagai entitas independen di pasar jasa keuangan perilaku pelanggan, data yang diperoleh dari platform terbentuk. Pada tingkat integrasi ini, bank dan perusahaan online besar, dll., dalam proses pengambilan keputusan FinTech bermitra dan menyediakan layanan keuangan manajerial dan pengembangan produk baru;
+
+melalui platform digital bersama. Kemitraan ini memiliki
+
+• penggunaan teknologi kecerdasan buatan untuk interaksi manfaat bagi setiap peserta. Misalnya, bank menggunakan cepat dengan klien, membentuk profil pelanggan (riwayat FinTech untuk mengembangkan perbankan digital, kredit, penghindaran risiko, fitur perilaku) dan menyediakan memanfaatkan teknologi informasi baru, dan perusahaan atas dasar penawaran individu layanan keuangan, serta FinTech menggunakan bank untuk meningkatkan jumlah respons cepat terhadap informasi baru.
+
+konsumen produk mereka, mengurangi risiko, memperoleh
+
+• Dalam hal kontra jasa keuangan konsumer, persyaratan pembiayaan, dan banyak lagi.16
+
+untuk perbankan digital adalah:15
+
+• memperoleh pengalaman lengkap untuk menggunakan 2.2.2 Tren digitalisasi perbankan di dunia layanan keuangan: untuk memberikan gambaran
+
+Era digital telah membawa sektor keuangan menendang
+
+yang lengkap dan interaktif kepada klien mengenai dan berteriak ke era modern. Meskipun teknologi dan 14 Cherowbrier, J. (2018). European banking sector. A statistical partisipasi pelanggan lambat untuk menangkap, hal-dossier on the current banking sector and meeting the dehal akhirnya mungkin membuat kemajuan. Selanjutnya,
+
+mands of a digital future. Statista. Retrieved from https://
+
+senat.me/wp. diakses pada 13 Maret 2022.
+
+teknologi digital memungkikan lahirnya Open X Banking, 15 Ibid
+
+16 Ibid.
+
+
+
+
+
+64
+
+
+PENERAPAN MODEL MANAJEMEN RISIKO TEKNOLOGI DIGITAL DI LEMBAGA PERBANKAN BERKACA PADA CETAK BIRU
+
+
+
+
+
+TRANSFORMASI DIGITAL PERBANKAN INDONESIA
+
+
+yaitu sistem perbankan terbuka didasarkan pada berbagai layanan perbankan digital bagi konsumen jauh kemampuan bank untuk melibatkan ekosistem perantara lebih penting daripada keberadaan fisik subdivisinya. Meski, non-perbankan dan pihak ketiga (misalnya perusahaan sebetulnya, antara 2010 dan 2018, perusahaan FinTech FinTech) dalam penyediaan layanan perbankan dan untuk di Eropa telah melihat potensi teknologi digital karena berinteraksi dengan mereka melalui teknologi seperti mereka telah mampu meraup hampir 92 miliar dolar AS
+
+aplikasi pemrograman antarmuka atau application karena mendayagunakan teknologi digital.
+
+programming interfaces (API). Open X Banking mengandalkan F. Norrestad (2022) menyebutkan bahwa kecepatan
+
+kemampuan teknologi bank untuk mengontrol data dan bank digital, mobile-first dan berbasis aplikasi telah menciptakan lingkungan kolaboratif untuk mengembangkan
+
+berhasil menarik pelanggan secara mengesankan. Pada
+
+dan memberikan layanan perbankan melalui kemitraan bulan Desember 2017, NeoBank yang berbasis di London, dengan perusahaan keuangan dan non-keuangan, Revolut, dilaporkan menjadi yang pertama yang menerapkan menyediakan penciptaan produk baru dan lebih baik untuk sistem digital. Pada Februari 2018, jumlah nasabah Revolut, pengguna perbankan
+
+telah berubah menjadi sekitar 1,5 juta pelanggan, dan pada
+
+Memang, hingga dewasa ini, beberapa lembaga 2020 telah menjadi 12 juta pelanggan. Pertumbuhan serupa perbankan mempertahankan cara berbisnis yang paling terlihat dengan N26 yang berbasis di Berlin, Jerman.19
+
+tradisional dan hampir tidak menggunakan teknologi
+
+Secara global, penggunaan online dan mobile banking
+
+digital sebagai alat untuk memperluas layanan perbankan terus berkembang. Pada 2018, di seluruh Uni Eropa terdapat dan menarik pelanggan. Pada saat yang sama, mereka juga 141 juta orang menggunakan perbankan online secara memahami kebutuhan untuk berubah dan beradaptasi teratur. Diperkirakan akan terus meningkat antara tahun dengan tantangan baru pasar dan kebutuhan pelanggan 2020 dan 2024, dengan pasar Asia sebagai yang terbesar.
+
+telah memberikan transisi banyak lembaga perbankan ke Pada tahun 2020, Timur Jauh dan China telah menyumbang perbankan digital dan terbuka.17
+
+lebih dari 800 juta pengguna perbankan online aktif. Angka
+
+Jadi, saat ini ada tiga model bank yang hidup berdampingan
+
+ini diperkirakan akan mencapai hampir satu miliar pada
+
+- perbankan tradisional, digital, dan terbuka. Perbankan tahun 2024. Pada tahun 2020, sebanyak 1,9 miliar orang di tradisional diwakili di negara-negara di mana perkembangan seluruh dunia secara aktif menggunakan layanan perbankan FinTech rendah dan tidak ada permintaan untuk layanan online dengan jumlah tersebut diperkirakan mencapai 2,5
+
+digital di antara konsumen, yaitu, negara-negara ini terutama miliar pada tahun 202420.
+
+negara-negara berkembang dengan ekonomi rendah. Pada
+
+saat yang sama, analisis statistik menunjukkan bahwa ada 2.2.3 Tren digitalisasi perbankan di Indonesia tingkat permintaan perbankan digital yang tinggi atau
+
+Sementara menurut Otoritas Jasa Keuangan (OJK)
+
+koeksistensi bentuk perbankan tradisional dan digital dalam perkembangan layanan perbankan digital didorong oleh dimensi global. Di antara tiga negara Eropa yang diambil hal-hal sebagai berikut: 1). adanya perkembangan teknologi untuk analisis (Inggris, Jerman dan Prancis), hanya di Prancis, informasi yang pesat; 2). perubahan gaya hidup masyarakat konsumen lebih memilih kehadiran fisik bank daripada sesuai perkembangan teknologi informasi; 3). adanya layanan digital. Pada saat yang sama, perlu dicatat bahwa kebutuhan masyarakat terhadap layanan perbankan yang setidaknya 57 persen konsumen memberikan jawaban efektif, efisien, dapat diakses dari manapun dan kapanpun, positif tentang pentingnya perbankan digital di semua negara komprehensif, serta mudah; 4). kompetisi industri
+
+yang dipertimbangkan dan rata-rata di dunia.18
+
+19 F. Norrestad, “Number of customers at selected disruptor Menurut survei konsumen perbankan yang dilakukan
+
+banks worldwide 2020,” dalam www.statista.com, diakses
+
+pada tahun 2016 di 32 negara, diketahui bahwa memiliki
+
+pada 14 Maret 2022.
+
+20 F. Norrestad, “Online banking users worldwide in 2020 with 17 Ibid
+
+forecasts to 2024, by region,” dalam www.statista.com, diakses 18 Ibid
+
+pada 14 Maret 2022.
+
+
+
+
+
+65
+
+
+PENERAPAN MODEL MANAJEMEN RISIKO TEKNOLOGI DIGITAL DI LEMBAGA PERBANKAN BERKACA PADA CETAK BIRU
+
+
+
+
+
+TRANSFORMASI DIGITAL PERBANKAN INDONESIA
+
+
+perbankan untuk memberikan layanan sesuai dengan
+
+Kedua, konsumen bisa memperoleh layanan secara
+
+kebutuhan masyarakat; dan 5). kebutuhan perbankan efisien selama 24 jam. Jika membutuhkan layanan keuangan, terhadap operasional yang efisien dan terintegrasi.21
+
+Anda tidak perlu menunggu bank tersebut buka dan tidak
+
+Kehadiran bank digital dalam ekosistem keuangan perlu antre lama.
+
+Indonesia ditandai dengan peluncuran platform bank digital
+
+Ketiga, biaya admin lebih murah. Bisnis model perbankan
+
+‘Jenius’ besutan PT Bank BTPN Tbk. (BTPN) pada 2017. digital ternyata turut mempengaruhi biaya operasional Langkah BTPN hingga tahun ini diikuti oleh sejumlah bank bank tersebut. Hal ini juga turut mempengaruhi biaya umum lain di Indonesia seperti Wooke, aplikasi bank administrasi yang dibebankan ke nasabah. Dengan sistem digital di Indonesia yang dikembangkan oleh Bank Bukopin; digital maka biaya operasional menjadi lebih rendah, Digibank, produk bank digital milik Bank DBS; dan TMRW, sehingga biaya admin bank juga menjadi lebih rendah anak usaha Bank UOB Indonesia yang diluncurkan pada dibandingkan bank konvensional.23
+
+2020 lalu.
+
+Selanjutnya, sepanjang tahun 2021, sejumlah bank 3. Pembahasan seperti PT Bank Jago Tbk. resmi meluncurkan aplikasi Jago 3.1 Cetak Biru Transformasi Digital Perbankan pada 15 April 2021
+
+
+
+
+
+Indonesia
+
+
+Bank Neo Commerce ini meluncur sejak Maret 2021
+
+Untuk merespon perubahan substansial dan strutktural
+
+di App Store dan Google Play Store. Aplikasi neobank di industri perbankan sebagai dampak dari penerapan menghadirkan berbagai fitur dengan tampilan yang user-teknologi digital (digitalisasi), Otoritas Jasa Kuangan (OJK) friendly, mulai dari Tabungan Neo WOW, Deposito Neo Indonesia menyusun antara lain Master Plan Sektor Jasa WOW, hingga Neo Jurnal.
+
+Keuangan Indonesia 2021- 2025 (MPSJKI) Pilar 3 serta
+
+Selanjutnya, PT Bank MNC Internasional Tbk resmi Roadmap Pengembangan Perbankan Indonesia 2020-2025
+
+meluncurkan aplikasi layanan perbankan digital bernama (RP2I) Pilar 2 yang telah mengarahkan perbankan untuk MotionBanking pada 3 Juni 2021. Lalu, menyusul, PT Bank melakukan akselerasi transformasi digital.24
+
+Central Asia Tbk. meluncurkan bank digital bernama blu,
+
+Salah satu pilar yang menjadi arah kebijakan adalah
+
+yang resmi meluncur pada 2 Juli 2021. Aplikasi besutan PT akselerasi tranformasi digital perbankan. Pilar ini dijabarkan BCA Digital ini hadir sebagai ekosistem bank digital tanpa lebih lanjut melalui ‘Cetak Biru Transformasi Digital kantor cabang (branchless) serta dapat diakses dari mana Perbankan’. Cetak Biru Transformasi Digital Perbankan saja dan kapan saja.
+
+disusun dengan mengedepankan prinsip keseimbangan
+
+Terakhir, PT Bank KEB Hana Indonesia (Bank Hana) antara inovasi digital perbankan dan aspek prudensial bekerja sama dengan LINE Corporation resmi meluncurkan
+
+untuk menjaga kinerja perbankan dalam kondisi sehat
+
+LINE Bank by Hana Bank atau LINE Bank pada 10 Juni (prudent, safe, and sound banking). Selain itu, Cetak Biru 2021 dan sudah bisa diunduh di Play Store dan App Store.
+
+ini turut mengusung prinsip technology neutral, yaitu tidak Per 15 Juni 2021, OJK menyatakan bahwa Indonesia mengatur aspek teknis terkait teknologi.25
+
+memiliki 14 bank digital, tujuh sudah beroperasi, dan tujuh Cetak Biru Transformasi Digital Perbankan berisikan
+
+sisanya sedang mempersiapkan diri.22
+
+rancangan kebijakan OJK untuk mendorong percepatan
+
+Layanan bank digital membawa beberapa keuntungan, transformasi digital perbankan di Indonesia. Cetak Biru seperti berikut:
+
+ini diharapkan menjadi landasan dalam mengembangkan
+
+Pertama, Layanan keuangan inklusif Bank digital digitalisasi pada perbankan nasional sehingga lebih resilien, memberikan layanan keuangan yang inklusif atau berdaya saing, dan kontributif.
+
+menyeluruh. Artinya, bank digital bisa menjangkau
+
+Cetak Biru Transformasi Digital Perbankan akan
+
+masyarakat dari semua kalangan termasuk kelompok yang memberikan acuan yang lebih konkret akan digitalisasi belum menggunakan bank konvensional.
+
+perbankan ke depan dalam rangka akselerasi transformasi
+
+
+
+
+
+66
+
+
+PENERAPAN MODEL MANAJEMEN RISIKO TEKNOLOGI DIGITAL DI LEMBAGA PERBANKAN BERKACA PADA CETAK BIRU
+
+
+
+
+
+TRANSFORMASI DIGITAL PERBANKAN INDONESIA
+
+
+digital, sekaligus merupakan respon kebijakan untuk itu, perbankan perlu memenuhi 7 (tujuh) prinsip dalam memitigasi berbagai tantangan dan risiko dari transformasi mengumpulkan dan memproses data konsumen, yaitu 1) digital perbankan. Implementasi Cetak Biru ini diharapkan absah, adil, dan transparan, 2) tujuan khusus, 3) minimalisasi dapat mendorong perbankan nasional lebih memiliki daya data, 4) akuntabilitas, 5) integritas dan rahasia, 6) tahan (resilience), berdaya saing, dan kontributif.
+
+pembatasan penyimpanan konsumen yakni, dan 7) akurat.
+
+Menurut OJK hal yang cukup penting diperhatikan
+
+Tata kelola data pada Bank pada prinsipnya adalah suatu
+
+dalam akselerasi transformasi digital adalah adopsi teknologi inisiatif strategi bisnis. Proses tata kelola data mencakup informasi perlu diikuti dengan inisiatif penerapan tata kelola people, process, dan technology yang diperlukan untuk dan manajemen risiko teknologi informasi yang memadai.
+
+memastikan bahwa pengelolaan data sesuai dengan tujuan
+
+Cetak Biru Transformasi Digital Perbankan berisikan yang dimaksudkan Untuk mencapai tujuan tata kelola data 5 (lima) elemen utama yaitu data, teknologi, manajemen serta mendapatkan manfaat yang optimal dari program tata risiko, kolaborasi, dan tatanan institusi pada industri kelola data, Bank perlu memperhatikan 8 (delapan) prinsip perbankan. Kelima elemen tersebut merupakan langkah dalam tata kelola data yaitu 1) integrity, 2) transparency, strategis untuk mendorong perbankan dalam menciptakan 3) stewardship, 4) checks-and-balances, 5) auditability, 6) inovasi produk dan layanan keuangan yang dapat memenuhi
+
+accountability, 7) standardization, dan 8) change management.
+
+ekspektasi konsumen dan berorientasi pada kebutuhan
+
+konsumen ( customer centric orientation).
+
+2). Tekonologi27
+
+Teknologi terus mengalami perubahan seiring dengan
+
+1). Data26
+
+perkembangan inovasi yang sedemikian pesat. Hal ini
+
+Di era digital, data menjadi satu jenis kekayaan baru yang menyebabkan fokus pada suatu teknologi tertentu akan jauh lebih berharga daripada emas atau minyak. Dengan menjadi hal yang cepat usang. Namun demikian, sejumlah berkembangnya pemanfaatan teknologi informasi, maka aspek yang sangat mempengaruhi pemilihan, pemanfaatan, pengumpulan, pemrosesan, dan pemindahan data akan dan pengelolaan teknologi cenderung tidak banyak semakin mudah dilakukan. Pertukaran data akan semakin mengalami perubahan sehingga perlu diimplementasi marak dilakukan seiring perkembangan open banking dengan secara baik. Aspek tersebut meliputi tata kelola teknologi memanfaatkan teknologi API. Namun demikian, perbankan informasi, arsitektur teknologi informasi, dan prinsip adopsi perlu berhati-hati terhadap data nasabah yang dimilikinya. teknologi informasi. Tata kelola teknologi informasi akan Sejumlah elemen krusial terkait data yaitu pelindungan memberikan keselarasan strategi bisnis dan investasi TI data, pengaturan pertukaran data (data transfer), dan tata agar dapat menciptakan nilai bisnis dari investasi tersebut.
+
+kelola data pada perbankan menjadi hal-hal yang penting.
+
+Sistem tata Kelola TI mengacu kepada tata kelola TI
+
+Implementasi yang baik atas elemen-elemen tersebut akan sesuai kerangka COBIT 2019 yang dikeluarkan oleh ISACA meningkatkan kepercayaan masyarakat kepada perbankan di dan mengusung 6 (enam) prinsip yaitu 1) Provide Stakeholder era digital. Pelindungan yang memadai atas data akan mampu Value; 2) Holistic Approach; 3) Dynamic Governance System; 4) memberikan kepercayaan nasabah untuk menyediakan data Governance Distinct from Management; 5) Tailored to Enterprise mereka guna berbagai kepentingan yang lebih besar tanpa Need; dan 6) End-to-End Governance System.
+
+disalahgunakan atau melanggar hak-hak pribadi.
+
+Kebijakan pelindungan data, pengaturan pertukaran 3). Manajemen Risiko28
+
+data, dan tata kelola data pada perbankan merupakan aspek
+
+Pemanfaatan dan penggunaan teknologi informasi perlu
+
+penting yang diperlukan dalam meningkatkan kepercayaan didukung oleh penerapan manajemen risiko yang efektif masyarakat terhadap layanan perbankan digital. Di samping
+
+untuk memitigasi berbagai potensi risiko termasuk risiko
+
+26 Ibid. hal. 22-24
+
+27 Ibid 26-28
+
+28 Ibid hal. 32
+
+
+
+
+
+67
+
+
+PENERAPAN MODEL MANAJEMEN RISIKO TEKNOLOGI DIGITAL DI LEMBAGA PERBANKAN BERKACA PADA CETAK BIRU
+
+
+
+
+
+TRANSFORMASI DIGITAL PERBANKAN INDONESIA
+
+
+alih daya dan risiko keamanan siber.
+
+5). Tatanan Institusi30
+
+Teknologi informasi merupakan aset yang berharga bagi
+
+Perubahan yang terjadi seiring dengan transformasi digital
+
+Bank sehingga pengelolaannya bukan hanya merupakan perlu diikuti dengan kesiapan tatanan institusi Bank. Tatanan tanggung jawab unit kerja penyelenggara teknologi informasi institusi tersebut meliputi antara lain pendanaan dan investasi, namun juga seluruh pihak yang menggunakan. Penerapan kepemimpinan, desain organisasi, budaya digital, dan talenta manajemen risiko harus dilakukan secara terintegrasi dalam
+
+sumber daya manusia. Transformasi digital di sektor perbankan setiap tahapan penggunaan TI sejak proses perencanaan, tentunya perlu didukung oleh kemampuan Bank dalam pengadaan, pengembangan, operasional, pemeliharaan memelihara sumber pendanaan dan melakukan investasi di hingga penghentian dan penghapusan sumber daya TI. bidang teknologi informasi. Penyediaan infrastruktur teknologi Proses manajemen risiko terkait teknologi informasi informasi untuk mendukung transformasi digital tentunya mencakup 1) identify risk, 2) manage risk, 3) mitigate risk, memerlukan investasi yang tidak sedikit.
+
+dan 4) optimize risk – monitoring dan review. Hal ini akan
+
+Bank harus melakukan keputusan investasi yang tepat
+
+dibahas secara khusus pada sub topik berikut.
+
+dengan mempertimbangkan aspek-aspek yang terkait
+
+agar investasi yang dilakukan memberikan manfaat dan
+
+4). Kemitraan atau Kolabirasi29
+
+keuntungan bagi proses bisnis Bank ke depannya, serta
+
+Perkembangan teknologi menyebabkan terbentuknya didukung oleh komitmen penuh dari jajaran pengurus ekosistem baru yang bersifat digital dengan Bank menjadi Bank. Untuk itu, Bank dapat memperhatikan investasi salah satu pemain dalam ekosistem tersebut. Kemitraan yang menghasilkan nilai tinggi (high-value investment) atau kolaborasi Bank dengan pemain dalam ekosistem dan menyeimbangkan kembali investasi teknologi dan digital seperti institusi Bank, institusi keuangan non-bank, mengukur nilai bisnis dari investasi tersebut institusi non keuangan seperti perusahaan teknologi
+
+Dalam rangka transformasi digital perbankan, Bank harus
+
+finansial atau fintech serta bigtech mampu memberikan memiliki kepemimpinan digital ( digital leadership) yang diartikan peluang bagi Bank untuk mendapatkan konsumen baru, sebagai kepemimpinan strategis yang dapat memanfaatkan aset memanfaatkan inovasi mitra, dan memperoleh akses data digital perusahaan untuk mencapai tujuan organisasi. Menurut untuk pengembangan produk dan layanan Bank. Kolaborasi
+
+riset Capgemini (2018), digital leadership merupakan kombinasi Bank dengan institusi lain dapat berbentuk platform sharing dari pengembangan kapasitas digital ( digital capabilities) (super-app), atau kerjasama antara Bank dengan institusi dan kapasitas kepemimpinan ( leadership capabilities). Digital lain berupa infrastructure sharing dalam Kelompok Usaha capabilities meliputi kemampuan dalam penggunaan teknologi Bank atau kerjasama distribusi layanan dan produk.
+
+untuk mengubah proses bisnis Bank antara lain dalam
+
+Selanjutnya, bentuk kerja sama dengan institusi keuangan hal interaksi Bank dengan nasabah ( customer experience), dan non-keuangan dibedakan menjadi sharing service dan pengembangan talenta dan organisasi ( talent and organization), distribusi produk serta layanan. Salah satu bentuk sharing operasionalisasi proses internal ( operations), dan perumusan service yang dapat dilakukan melalui infrastructure sharing model bisnis ( business model innovation). Sementara leadership bagi Kelompok Usaha Bank (KUB) yang bertujuan untuk capabilities meliputi kemampuan untuk menggerakkan dan mendorong efisiensi operasional. Sinergi Bank Berbadan memimpin transformasi digital dalam hal teknologi dan bisnis, Hukum Indonesia (BHI) (sebagai perusahaan induk atau visi dan tujuan, pemberdayaan tenaga kerja, tata kelola, serta pelaksana perusahaan induk) dengan Bank BHI yang tergabung
+
+budaya dan keterlibatan.
+
+dalam KUB dapat dalam bentuk pemanfaatan infrastruktur
+
+teknologi seperti aplikasi, data center, atau data recovery center.
+
+6). Konsumen31
+
+Di samping customer centric orientation services, Bank 30 Ibid hal.42-43
+
+29 Ibid hal. 37-38
+
+31 Ibid hal. 46
+
+
+
+
+
+68
+
+
+
+
+PENERAPAN MODEL MANAJEMEN RISIKO TEKNOLOGI DIGITAL DI LEMBAGA PERBANKAN BERKACA PADA CETAK BIRU
+
+
+
+
+
+TRANSFORMASI DIGITAL PERBANKAN INDONESIA
+
+
+juga perlu memperhatikan ketersediaan layanan perbankan
+
+perusahaan yang memanfaatkan teknologi informasi
+
+bagi seluruh lapisan masyarakat.
+
+dengan tujuan untuk dapat mengelola risiko-risiko yang
+
+Transformasi digital bertujuan untuk memberikan berhubungan dengan perusahaan tersebut.
+
+produk dan layanan yang sesuai dengan kebutuhan
+
+Teknologi informasi merupakan aset yang berharga bagi
+
+konsumen atau mencapai customer centric orientation Bank sehingga pengelolaannya bukan hanya merupakan services. Mengacu kepada kerangka digital maturity TM tanggung jawab unit kerja penyelenggara teknologi informasi Forum, tingkat kematangan digitalisasi organisasi pada namun juga seluruh pihak yang menggunakan. Penerapan aspek customer diukur dari 4 (empat) hal, yaitu (i) customer manajemen risiko harus dilakukan secara terintegrasi dalam engagement adalah suatu keterikatan atau ketergantungan setiap tahapan penggunaan TI sejak proses perencanaan, konsumen terhadap layanan perbankan digital; (ii) customer pengadaan, pengembangan, operasional, pemeliharaan experience adalah suatu indikator kesuksesan layanan yang hingga penghentian dan penghapusan sumber daya TI.
+
+diberikan oleh perusahaan; (iii) customer insight merupakan cara Bank mampu memahami tentang perilaku, preferensi, 3.2.2 Proses Proses manajemen risiko terkait dan kebutuhan konsumen dengan memanfaatkan data
+
+
+
+
+
+teknologi informasi
+
+
+konsumen; dan (iv) customer trust and perception adalah Proses manajemen risiko terkait teknologi informasi
+
+kepercayaan ( trust) dan persepsi ( perception) konsumen mencakup 1) identify risk, 2) manage risk, 3) mitigate risk, terhadap layanan perbankan digital. Bank perlu memastikan
+
+dan 4) optimize risk – monitoring dan review.
+
+bahwa layanan perbankan secara digital dapat diakses oleh
+
+seluruh lapisan masyarakat dalam rangka meningkatkan
+
+inklusi keuangan, termasuk bagi kaum disabilitas yang
+
+berpotensi termarginalkan akibat perkembangan teknologi
+
+3.2
+
+Manajen Risko Teknologi Digital di
+
+Lembaga Perbankan
+
+
+
+
+
+3.2.1 Pengertian
+
+
+Pemanfataan teknologi informasi membawa suatu risiko
+
+tersendiri bagi perbankan. Beberapa risiko yang biasanya
+
+muncul pada saat penggunaan teknologi informasi yaitu adanya serangan siber yang dapat mengganggu kinerja dari teknologi informasi, serangan cracker /hacker yang dapat mengacaukan sistem bahkan sampai mencuri data rahasia suatu perusahaan, kesalahan dan kerusakan sistem pendukung seperti jaringan
+
+listrik putus, dan lain sebagainya.
+
+Gambar: Proses Manajemen Risiko Teknologi
+
+Untuk itu, perbankan perlu menerapkan secara efektif
+
+
+
+
+
+Informasi
+
+
+manajemen risiko teknologi informasi guna memitigasi
+
+Sumber: KPMG (2019)/ Cetak Biru Transformasi Digital Perbankan, Hal 33.
+
+berbagai risiko tersebut. Sejalan dengan ini, perbankan
+
+Cetak Biru Transformasi Digital Perbankan menyebutkan
+
+perlu juga menerapkan keamanan siber secara memadai. dalam melakukan kegiatan penyerahan pekerjaan kepada Selain itu, perbankan juga perlu menerapkan manajemen pihak lain (alih daya/ outsourcing) khususnya di bidang alih daya ( outsourcing) yang baik dalam hal menggunakan Teknologi Informasi (TI), Bank menghadapi berbagai pihak ketiga untuk menyediakan teknologi informasi.
+
+risiko yang dapat timbul seperti risiko strategis, risiko
+
+Manajemen Risiko Teknologi Informasi adalah operasional, risiko regulasi dan kepatuhan, risiko reputasi, penerapan dari prinsip-prinsip manajemen risiko terhadap dan risiko konsentrasi.
+
+
+
+
+
+69
+
+
+PENERAPAN MODEL MANAJEMEN RISIKO TEKNOLOGI DIGITAL DI LEMBAGA PERBANKAN BERKACA PADA CETAK BIRU
+
+
+
+
+
+TRANSFORMASI DIGITAL PERBANKAN INDONESIA
+
+
+Untuk meminimalisir berbagai potensi risiko tersebut, di sektor perbankan di seluruh belahan dunia, termasuk di Bank perlu menerapkan manajemen risiko terhadap Indonesia.34
+
+kegiatan alih daya terutama dengan memperhatikan secara
+
+Teguh Arifiyadi, Plt. Direktur Pengendalian Aplikasi
+
+seksama prinsip alih daya serta proses dan tahapan alih Informatika Kementerian Komunikasi dan Informatika daya dengan baik. Bank dapat melakukan kegiatan alih daya menyampaikan bahwa seiring dengan peningkatan secara optimal dengan tetap memenuhi prinsip kehati-peunggunaan internet semenjak merebaknya pandemi
+
+hatian dan manajemen risiko yang memadai.
+
+Covid-10 pada awal Maret 2020, tingkakan fraud atau
+
+Cyber security management memberikan gambaran kejahatan cyber termasuk di sektor perbankan meningkat.
+
+dan panduan bagi Bank dalam mengelola risiko siber yang Menurut dia ada 5.000 laporan pengaduan tindakan merujuk pada standar dan best practices internasional penipuan (fraud) yang masuk ke website Kemkominfo antara lain National Institute of Standards and Technology setiap minggunya. Bahkan, sejak Maret 2020 hingga saat ini (NIST) Framework for Improving Cyber Secucity, NIST total pengaduan yang kami terima hampir 200.000 laporan Risk Management Framework, ISO 27001 – Information fraud dengan media yang paling banyak digunakan adalah Security Management Standard, ISO 27032 – Guidelines for Whatsapp dan Instagram.35
+
+Cybersecurity, dan Financial Stability Board Cyber Incident AKP Jeffrey Bram, Kasubnit 4 Subdit 2 Ditipidsiber
+
+Response and Recovery Toolkits.
+
+Bareskrim Polri menyebutkan bahwa sepanjang tahun 2017
+
+Kerangka manajemen risiko keamanan siber terdiri hingga 2020 tercatat ada 16.845 laporan tindak pidana dari 4 (empat) pilar yang saling berkesinambungan yang penipuan siber yang masuk ke Direktorat Tindak Pidana telah disesuaikan dengan ketentuan terkait penerapan Siber (Ditipidsiber) Polri.36
+
+manajemen risiko Bank Umum agar dapat diintegrasikan
+
+Model manajemen risiko sebagaimana direkmendasikan
+
+ke dalam aspek profil risiko Bank. Ke empat pilar tersebut OJK melalui Cetak Biru Transformasi Digital Perbankan yaitu governance (tata kelola); strategy proses manajemen ternyata belum dijadikan rujukan oleh sejumlah bank di risiko keamanan siber (identification, protection, vigilance, Indonesia. Bank CIMB Niaga misalnya masih menggunakan resilience, serta information system); dan internal control model konvensional dengan menerapkan kebijakan/
+
+system.32
+
+kerangka kerja Enterprise Wide Risk Management (EWRM) untuk mengelola risiko secara terintegrasi melalui
+
+3.2.4 Pelaksanaan M Cyber Security Exercise
+
+penyelarasan risk appetite dengan strategi bisnis. CIMB
+
+Pelaksanaan Cyber Security Exercise dapat dilakukan Niaga hanya menjadikan manajemen risiko siber sebagai secara berkala sesuai dengan kebutuhan dan profil risiko bagian yang integral dari aktivitas operasional dan proses siber Bank. Selain implementasi kerangka keamanan pengambilan keputusan dalam upaya pencapaian tujuan-siber dimaksud, diperlukan juga sistem cyber reporting tujuan bisnis. Penerapan manajemen risiko dilakukan yang memadai. Hal ini bertujuan untuk dapat mendukung secara aktif dengan tujuan untuk memaksimalkan nilai penguatan ketahanan siber dengan memberikan gambaran tambah bagi pemegang saham, mengelola modal secara mengenai insiden dan ancaman siber yang terjadi kepada komprehensif dan menjaga agar permodalan tetap berada otoritas, antara lain terdiri atas laporan insiden siber dan pada tingkat yang kuat, serta memastikan profitabilitas dan laporan status keamanan siber Bank.33
+
+pertumbuhan bisnis yang berkelanjutan.37
+
+Selama beberapa tahun terakhir ancaman insiden dan
+
+Bagi CIMB Niaga, teknologi dan manajemen data yang
+
+serangan siber telah menjadi isu yang penting di sektor 34 Webinar “Tantangan dan Strategi Mengatasi Kejahatan jasa keuangan, termasuk di sektor perbankan, tercermin
+
+Siber” dalam www.cnbcindonesia.com, Kamis, 7, Oktober
+
+2021.
+
+dari jumlah insiden dan serangan siber yang cukup tinggi 35 Ibid 32 Ibid hal.35
+
+36 Ibid
+
+33 Ibid Hal. 36.
+
+37 CIMB Niga, “Ringkasan Kebijakan Manajemen Risiko CIMB
+
+Niaga, Juni 2020 ” dalam investor.cimbniaga.co.id.
+
+
+
+
+
+70
+
+
+PENERAPAN MODEL MANAJEMEN RISIKO TEKNOLOGI DIGITAL DI LEMBAGA PERBANKAN BERKACA PADA CETAK BIRU
+
+
+
+
+
+TRANSFORMASI DIGITAL PERBANKAN INDONESIA
+
+
+memadai merupakan pendukung aktivitas manajemen
+
+
+Mereka juga membantu menciptakan infrastruktur data
+
+risiko. Dalam rangka meningkatkan efektivitas proses
+
+yang memungkinkan perusahaan menghabiskan lebih
+
+pengukuran risiko, Bank harus memiliki sistem informasi
+
+banyak waktu untuk menganalisis data mereka daripada
+
+yang menyediakan laporan dan data secara akurat dan tepat
+
+mengelolanya.
+
+waktu untuk mendukung pengambilan keputusan oleh • Munculnya Risiko Baru: Bank menghadapi jenis manajemen. Sistem informasi harus dapat menghasilkan
+
+risiko teknologi baru. Salah satu contohnya adalah risiko
+
+laporan yang digunakan untuk pemantauan risiko secara
+
+model, yang berkembang dari ketergantungan organisasi
+
+berkelanjutan guna mendeteksi dan mengkoreksi
+
+pada model bisnis. Risiko dunia maya meningkat saat
+
+penyimpangan terhadap kebijakan dan prosedur secara
+
+bank online dan menyediakan layanan mereka melalui
+
+lebih cepat agar dapat mengurangi potensi terjadinya
+
+API pihak ketiga. Peretasan dan penipuan perbankan
+
+terjadinya loss event.38
+
+meningkat, dan fungsi risiko harus dirancang untuk
+
+memperhitungkan jenis risiko baru ini.
+
+3.2.5 Apa Tren Utama dalam Manajemen
+
+Tren keamanan menunjukkan bahwa fungsi risiko
+
+Risiko Digitalasi Perbankan?
+
+perbankan masa depan harus berkinerja tinggi. Mereka
+
+Fungsi manajemen risiko bank telah banyak berubah harus mampu menangani berbagai risiko dan juga mematuhi dalam dekade terakhir. Meskipun sulit untuk memprediksi peraturan yang selalu berubah. Fungsi risiko juga harus bagaimana hal itu akan terus berubah, ada beberapa tren beradaptasi dengan ekonomi global yang berubah dengan utama yang akan menentukan manajemen risiko di masa cepat.
+
+depan sebagai berikut39:
+
+Hanya fungsi risiko yang sepenuhnya terdigitalisasi
+
+• Peraturan yang Berubah Dengan Cepat: dengan atribut berikut yang dapat mempersiapkan organi-Peraturan perbankan semakin ketat setiap tahun. Setiap
+
+sasi keuangan untuk tantangan masa depan:
+
+negara memiliki seperangkat peraturannya sendiri • Evaluasi risiko otomatis dan pengambilan keputusan yang berubah sesuai dengan lingkungan ekonomi. • Pemanfaatan model analitik tingkat lanjut Aktivitas lembaga keuangan dan hubungannya dengan • Integrasi dengan model tata kelola data yang efisien pelanggan berada di bawah pengawasan ketat. Karena • Ketergantungan pada model ilmu data cerdas sifat peraturan yang selalu berubah, lembaga keuangan
+
+Sementara OJK menawarkan delapan prinsip alih daya
+
+mencari fungsi manajemen risiko yang lebih fleksibel.
+
+teknologi informasi meliputi 1) governance, 2) due diligence,
+
+• Bangkitnya Fintech dan Harapan Pelanggan 3) contractual requirement, 4) information security, 5) yang tinggi: Dengan masuknya teknologi canggih monitoring and control, 6) Business Continuity Plan, 7) access ke dalam sektor perbankan, nasabah mengharapkan and audit rights, dan 8) exit strategies.40
+
+layanan yang lebih cepat dan lebih baik. Ada persaingan
+
+Menurut OJK, erkembangan digitalisasi di sektor
+
+besar di sektor perbankan untuk memenuhi kebutuhan
+
+perbankan meningkatkan timbulnya risiko terhadap
+
+dan tuntutan pelanggan yang berubah. Perbankan dan keamanan siber bagi Bank. Maraknya serangan siber telah aplikasi online membuka sumber risiko baru bagi bank.
+
+mendorong kebutuhan untuk meningkatkan ketahanan
+
+• Teknologi dan Analisis yang Berkembang: siber ( cyber resilience) melalui penguatan keamanan siber Fungsi risiko masa depan harus memanfaatkan ( cyber security). Mengacu pada standar internasional dan kemajuan teknologi seperti data besar (big data) , best practices dari berbagai negara, disusun framework pembelajaran mesin, kecerdasan buatan, dan analitik penguatan kerangka keamanan siber sektor perbankan yang ditingkatkan. Teknologi ini memungkinkan fungsi yang terdiri atas Cyber Security Management, Cyber Security risiko untuk membuat keputusan yang lebih baik. Exercise, dan Cyber Security Reporting.41
+
+38 Ibid, Hal.16.
+
+40 OJK, Op.Cit.
+
+39 TIBC, Op.Cit.
+
+41 Ibid
+
+
+
+
+
+71
+
+
+PENERAPAN MODEL MANAJEMEN RISIKO TEKNOLOGI DIGITAL DI LEMBAGA PERBANKAN BERKACA PADA CETAK BIRU
+
+
+
+
+
+TRANSFORMASI DIGITAL PERBANKAN INDONESIA
+
+
+Masalah manajemen risiko perbankan digital yang paling
+
+Teguh Arifiyadi, Plt. Direktur Pengendalian Aplikasi
+
+mendesak dibagi menjadi dua kategori yaitu tantangan dan
+
+Informatika Kementerian Komunikasi dan Informatika
+
+cara untuk mengatasi. Tantangan yang umum dijumpai menyampaikan bahwa seiring dengan peningkatan
+
+adalah42:
+
+peunggunaan internet semenjak merebaknya pandemi
+
+• Budaya perusahaan yang ketinggalan Covid-10 pada awal Maret 2020, tingkakan fraud zaman: Proses dan perspektif yang mengakar dapat
+
+atau kejahatan cyber termasuk di sektor perbankan
+
+menahan transformasi digital. Mempromosikan budaya
+
+meningkat. Menurut dia ada 5.000 laporan pengaduan
+
+yang lebih berpikiran maju harus dimulai dari atas dan
+
+tindakan penipuan (fraud) yang masuk ke website
+
+mengalir ke bawah agar seluruh institusi menerima
+
+Kemkominfo setiap minggunya.
+
+perubahan.
+
+Bahkan, sejak Maret 2020 hingga saat ini total pengaduan
+
+• Keengganan untuk berubah: KPMG mencatat yang kami terima hampir 200.000 laporan fraud dengan bahwa, “Eksekutif dan profesional saat ini akan menjadi media yang paling banyak digunakan adalah Whatsapp orang yang cepat percaya atau mereka akan menghambat
+
+dan Instagram.44 AKP Jeffrey Bram, Kasubnit 4 Subdit 2
+
+kemajuan Anda.” Yang penting adalah mengidentifikasi Ditipidsiber Bareskrim Polri menyebutkan bahwa sepanjang kategori sebelumnya dan memberdayakan mereka tahun 2017 hingga 2020 tercatat ada 16.845 laporan tindak untuk memimpin transformasi digital Anda.
+
+pidana penipuan siber yang masuk ke Direktorat Tindak
+
+• Kurangnya kepemimpinan pemikiran yang Pidana Siber (Ditipidsiber) Polri. Modus kejahatan siber yang inovatif: Dibutuhkan pemikiran yang benar-benar terjadi di sektor perbankan meliputi hacking (peretasan), out-of-the-box untuk bersaing secara digital dengan skimming (penyalinan informasi), defacing (penggantian bank-bank besar dan perusahaan fintech yang sedang atau modifikasi laman web), phishing (pengelabuan), BEC
+
+berkembang.
+
+(business email compromise), dan social engineering
+
+• Keyakinan yang salah arah: Buang semua (rekayasa sosial). Business Email Comprise (BEC) juga dikenal anggapan bahwa aplikasi mobile banking adalah sebagai Email Account Compromise atau EAO Fraud adalah satu-satunya komponen dari strategi digital, atau penipuan yang menargetkan para manajer keuangan sebuah bahwa digital pertama berarti personalisasi tidak lagi perusahaan untuk melakukan pembayaran transfer secara diperlukan. Operasi back-end dan proses internal harus legal dengan menyamar sebagai petinggi perusahaan, rekan sepenuhnya mendukung lingkungan digital yang secara kerja, ataupun vendor. Sementara berdasarkan laporan yang efektif mengidentifikasi dan memenuhi kebutuhan masuk, social engineering (rekayasa sosial) menjadi modus pelanggan individu berdasarkan tindakan dan perilaku yang paling sering digunakan sepanjang tahun ini. Rekayasa mereka.
+
+sosial biasanya terjadi saat korban kurang waspada hingga
+
+• Kejahatan ciber yang meningkat: Tantangan terpedaya memberikan data-data pribadinya seperti PIN
+
+yang nyata dalam menajemen risiko transformasi atau password sehingga pelaku kejahatan bisa mengakses digital perbankan adalah peningkatan kejahatan akun dan mengambil alih dana nasabah di bank.
+
+siber (cyber crime). Selama beberapa tahun terakhir Pemakalah dalam webinar “Tantangan dan Strategi
+
+ancaman insiden dan serangan siber telah menjadi Mengatasi Kejahatan Siber” mengusulkan sejumlah cara isu yang penting di sektor jasa keuangan, termasuk di untuk mengatasinya berbagai tantangan yang disebutkan di sektor perbankan, tercermin dari jumlah insiden dan atas. Di antaranya adalah:45
+
+serangan siber yang cukup tinggi di sektor perbankan • Meningkatkan kepatuhan digital dan di seluruh belahan dunia, termasuk di Indonesia.43
+
+keamanan siber. Artinya, bank yang beroperasi
+
+di lingkungan digital tetap harus mematuhi semua
+
+42 Webinar “Tantangan dan Strategi Mengatasi Kejahatan Siber”
+
+dalam www.cnbcindonesia.com, Kamis, 7, Oktober 2021.
+
+44 Ibid
+
+43 Ibid.
+
+45 Ibid.
+
+
+
+
+
+72
+
+
+PENERAPAN MODEL MANAJEMEN RISIKO TEKNOLOGI DIGITAL DI LEMBAGA PERBANKAN BERKACA PADA CETAK BIRU
+
+
+
+
+
+TRANSFORMASI DIGITAL PERBANKAN INDONESIA
+
+
+undang-undang dan peraturan yang berlaku. Ini
+
+mengenai keamanan perbankan semakin optimal, Jenius
+
+termasuk memberikan perhatian khusus pada proses
+
+juga memperkenalkan laman www.jenius.com/pages/
+
+digital unik yang tercakup dalam aturan khusus, seperti
+
+jeniusaman yang berisikan informasi keamanan digital
+
+menandatangani dokumen secara elektronik sesuai
+
+terkini.46
+
+dengan Undang-Undang Siber yang berlaku.
+
+• Manajemen risiko pihak ketiga; Oleh karena 4. Penutup kebutuhan, banyak bank mengalihdayakan semua atau
+
+Berdasarkan pembahasan di atas dapat disimpulkan
+
+sebagian dari strategi digital mereka ke fintech dan bahwa: vendor pihak ketiga lainnya. Namun institusi pada • Pemanfaatan teknologi digital membuat ekosistem akhirnya tetap bertanggung jawab atas semua fungsi,
+
+keuangan global berubah dengan cepat,
+
+baik yang dilakukan secara internal maupun eksternal. • Tren dan demand (kebutuhan) masyarakat untuk Program manajemen vendor yang kuat adalah kunci
+
+mendapat jasa layanan akan digital terus bertamah.
+
+untuk memastikan bahwa tidak ada penyedia pihak
+
+Hal ini membuka peluang bagi indstri perbankan untuk
+
+ketiga yang tidak memenuhi syarat yang dipekerjakan.
+
+meningkatkan jumlah nasabahnya dan meningkatkan
+
+Penyedia harus memahami persyaratan peraturan yang
+
+keuntungannya.
+
+berlaku, dapat mematuhinya dan menjamin kepatuhan.
+
+• Namun, pada sisi lain terdapat sejumlah saluran di
+
+• Waspada pada penipuan dan pencurian
+
+mana lembaga perbakan berpotensi mengalami potensi
+
+identitas: Lebih banyak perbankan tanpa interaksi
+
+kerugian karena kejahatan siber akan terus meningkat.
+
+tatap muka dapat meningkatkan risiko penipuan • Oleh karena itu penulis menyarankan bahwa: identitas sintetis, pencurian identitas tradisional, dan • Lembaga perbankan harus menemukan kembali pengambilalihan akun. Bank dapat mengatasi tantangan
+
+fungsi manajemen risiko mereka, terutama melalui
+
+ini dengan meninjau dan memperkuat Undang-Undang
+
+pengembangan manajemen risiko digital, untuk
+
+Rahasia Bank/anti pencucian uang.
+
+melindungi diri mereka sendiri, pelanggan mereka, dan
+
+• Meningkatkan kesadaran: Irwan Tisnabudi,
+
+tempat mereka di pasar.
+
+Digital Banking Head Bank BTPN mengatakan bahwa • Manajemen risiko digital yang dikembangkan oleh salah cara untuk melakukan berbagai security
+
+lembaga perbankan harus melibatkan pengembangan
+
+awareness baik secara bisnis maupun berkolaborasi
+
+sistematis atas delapan prinsip alih daya teknologi
+
+dengan institusi bank dan nonbank dalam kampanye
+
+informasi sebagaimana direkemondasikan oleh OJK
+
+kolaboratif Datamu Rahasiamu serta berpartisipasi
+
+yaitu 1) governance, 2) due diligence, 3) contractual dalam forum diskusi FKDKP yang dilaksanakan antar
+
+requirement, 4 ) information security, 5) monitoring and lembaga Direktur Kepatuhan dalam lingkungan
+
+control, 6 ) Business Continuity Plan, 7) access and audit perbankan Indonesia. Agar pemahaman masyarakat
+
+rights, dan 8) exit strategies.
+
+46 Ibid
+
+
+
+
+
+73
+
+
+PENERAPAN MODEL MANAJEMEN RISIKO TEKNOLOGI DIGITAL DI LEMBAGA PERBANKAN BERKACA PADA CETAK BIRU
+
+
+
+
+
+TRANSFORMASI DIGITAL PERBANKAN INDONESIA
+
+
+Daftar Pustaka:
+
+
+Cherowbrier, J. (2018). European banking sector. A OJK, “Panduan Penyelenggaraan Digital Branch oleh Bank statistical dossier on the current banking sector and
+
+Umum, Jakarta, 19 Desember 2016 pdf” dalam www.
+
+meeting the demands of a digital future. Statista.
+
+ojk.go.id.
+
+Retrieved from https://senat.me/wp.
+
+Riandi, “Manajemen Risiko pada Industri Bank (Perbankan)”
+
+CIMB Niga, “Ringkasan Kebijakan Manajemen Risiko CIMB
+
+dalam www.ibf.proxsisgroup.com, diakses pada 09
+
+Niaga, Juni 2020 ” dalam investor.cimbniaga.co.id.
+
+Maret 2022.
+
+F. Norrestad, “Number of customers at selected disruptor Statistica, “European Banking Sector A Statistica Dossier banks worldwide 2020,” dalam www.statista.com..
+
+On The Current Banking Sector and Meeting The
+
+F. Norrestad, “Online banking users worldwide in 2020 with
+
+Demands Of A Digital Future,” https://senat.me/wp-
+
+forecasts to 2024, by region,” dalam www.statista.com.
+
+content/uploads/study_id59063_european-banking-
+
+Gramedia, “Pengertian Revolusi Industri 4.0: Jenis, Dampak
+
+sector.pdf hal.5
+
+dan Contoh Penerapannya,” dalam www.gramedia.com.
+
+Siti Nur Aeni, “Daftar Bank Digital di Indonesia’ dalam
+
+IFBGInstitutue, “ Enterprise Risk Management (ERM),”
+
+Katadata.co.id.
+
+www.ibf.proxsisgroup.com.
+
+Surung Sinamo “How new digital banks can bring banking
+
+Gartner, “Gartner IT Glossary—Digitization. 2020” dalam to the edge” dalam https:/ /www. thejakartapost. com/
+
+https://www.gartner.com/en/information -technology/
+
+academia, edisi Jumat, 03 September 3, 2021
+
+glossary/digitization.
+
+TIBC, “How to Address Banking Risk in a Digital World,”
+
+Luky Maulana Firmansya, “ Infografik: Inilah 14 bank digital dalam www.tibco.com, diakses pada 12 Maret 2022.
+
+Indonesia, versi OJK,” dalam lokadata.id.
+
+Webinar “Tantangan dan Strategi Mengatasi Kejahatan
+
+OJK, “Cetak Biru Transformasi Digital Perbankan pdf.,”
+
+Siber” dalam www.cnbcindonesia.com, Kamis, 7,
+
+dalam www.ojk.go.id, 26 Oktober 2021
+
+Oktober 2021.
+
+
+
+
+
+74
+
+
+
+
+

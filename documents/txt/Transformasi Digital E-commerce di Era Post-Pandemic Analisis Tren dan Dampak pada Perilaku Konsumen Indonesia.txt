@@ -1,0 +1,528 @@
+IKN: Jurnal Informatika dan Kesehatan 
+Volume 2, Nomor 2, Agustus 2025 
+Available Online at https://jurnal.unw.ac.id/index.php/IKN 
+108 
+Transformasi Digital E - Commerce di Era Post - Pandemic: Analisis 
+Tren dan Dampak pada Perilaku Konsumen Indonesia 
+Ratna Sari Handayani 1 , Gizka Alysah Diva 2 , Eko Nur Hermansyah 3 , Ari Siswati 4 
+1 , 2 Teknik Informatika, Universitas Ngudi Waluyo, Semarang, Indonesia 
+3,4 Universitas Ngudi Waluyo, Semarang, Indonesia 
+Email Penulis Korespondensi: sarihandayani1620@gmail.com 
+ABSTRAK 
+Pandemi Covid - 19 adalah tantang kemanusian global terbesar yang pernah dihadapi 
+dunia. Pandemi Covid - 19 telah membawa perubahan yang signifikan pada berbagai aspek 
+kehidupan, termasuk pola kon sumsi masyarakat, khususnya dalam perilaku belanja. 
+Penelitian ini bertujuan untuk menganalisis perubahan perilaku belanja online konsumen 
+ritel di Indonesia pasca - pandemi Covid - 19, sekaligus mengidentifikasi potensi 
+keberlanjutan transformasi digital dala m sektor ritel. Pembatasan sosial selama pandemi 
+mendorong konsumen untuk beralih dari metode belanja tradisional ( offline ) ke belanja 
+online , terutama dalam pembelian kebutuhan esensial seperti makanan, barang kebutuhan 
+sehari - hari, dan produk fashion . Pe rgeseran ini tidak hanya memengaruhi konsumen, 
+tetapi juga pelaku usaha kecil dan menengah, termasuk warung makan, toko kelontong, 
+dan toko serba ada, yang mulai memanfaatkan platform digital untuk bertahan di tengah 
+tantangan ekonomi. Penelitian ini mengg unakan pendekatan kualitatif dan kuantitatif 
+untuk mengeksplorasi perilaku konsumen, melibatkan survei, wawancara, serta analisis 
+data transaksi online dari berbagai platform e - commerce. Hasil penelitian menunjukkan 
+adanya perubahan signifikan dalam prefer ensi konsumen, di mana faktor kenyamanan, 
+efisiensi waktu, dan kemudahan akses menjadi alasan utama meningkatnya popularitas 
+belanja online. Selain itu, transformasi digital dalam sektor ritel dipercepat oleh kemajuan 
+teknologi dan adaptasi konsumen terhad ap sistem pembayaran digital yang lebih aman 
+dan praktis. Temuan penelitian ini mengungkapkan bahwa kebiasaan belanja online yang 
+terbentuk selama pandemi kemungkinan besar akan terus berlanjut, bahkan setelah 
+pandemi berakhir. Hal ini menunjukkan potensi besar e - commerce sebagai elemen 
+penting dalam ekosistem ritel masa depan. Penelitian ini juga memberikan rekomendasi 
+bagi konsumen dan pelaku usaha untuk terus menyesuaikan diri dengan perkembangan 
+teknologi digital, serta memanfaatkan peluang baru yang di tawarkan oleh transformasi 
+digital. Implikasi dari penelitian ini mencakup pentingnya kolaborasi antara pemerintah, 
+pelaku bisnis, dan penyedia platform digital untuk mendukung ekosistem ritel yang lebih 
+inklusif dan efisien. Transformasi digital tidak han ya menjadi solusi adaptasi jangka 
+pendek, tetapi juga menjadi fondasi untuk menciptakan model bisnis yang berkelanjutan 
+di masa depan. Dengan demikian, belanja online diperkirakan akan menjadi komponen 
+utama dalam perkembangan sektor ritel Indonesia, seiri ng dengan semakin besarnya 
+adopsi teknologi digital oleh masyarakat. 
+Kata Kunci: Perilaku Konsumen, Belanja Online; Transformasi Digital; Trend E - 
+Commerce; Covid - 19 
+ABSTRACT 
+The Covid - 19 pandemic is the biggest global humanitarian challenge the world has ever 
+faced. The Covid - 19 pandemic has brought significant changes to various aspects of life,
+
+--- Page 2 ---
+
+IKN: Jurnal Informatika dan Kesehatan 
+Volume 2, Nomor 2, Agustus 2025 
+Available Online at https://jurnal.unw.ac.id/index.php/IKN 
+109 
+including people's consumption patterns, especially in shopping behavior. This study 
+aims to analyze changes in online shopping behavior of retail consumers in I ndonesia 
+post - Covid - 19 pandemic, while identifying the potential for sustainable digital 
+transformation in the retail sector. Social restrictions during the pandemic have 
+encouraged consumers to shift from traditional (offline) shopping methods to online 
+s hopping, especially in purchasing essential needs such as food, daily necessities, and 
+fashion products. This shift has not only affected consumers, but also small and medium 
+business actors, including food stalls, grocery stores, and convenience stores, w hich have 
+begun to utilize digital platforms to survive the economic challenges. This study uses 
+qualitative and quantitative approaches to explore consumer behavior, involving surveys, 
+interviews, and analysis of online transaction data from various e - com merce platforms. 
+The results of the study show significant changes in consumer preferences, where 
+convenience, time efficiency, and ease of access are the main reasons for the increasing 
+popularity of online shopping. In addition, digital transformation in the retail sector is 
+accelerated by technological advances and consumer adaptation to safer and more 
+practical digital payment systems. The findings of this study reveal that online shopping 
+habits formed during the pandemic are likely to continue even af ter the pandemic ends. 
+This shows the great potential of e - commerce as an important element in the future retail 
+ecosystem. This study also provides recommendations for consumers and businesses to 
+continue to adapt to the development of digital technology, and take advantage of new 
+opportunities offered by digital transformation. The implications of this study include the 
+importance of collaboration between the government, business actors, and digital 
+platform providers to support a more inclusive and effic ient retail ecosystem. Digital 
+transformation is not only a short - term adaptation solution, but also a foundation for 
+creating sustainable business models in the future. Thus, online shopping is expected to 
+become a major component in the development of th e Indonesian retail sector, along with 
+the increasing adoption of digital technology by the community. 
+Keywords: Consumer Behavior, Online Shopping, Digital Transformation, E - Commerce 
+Trends, Covid - 19 
+PENDAHULUAN 
+Pandemi Covid - 19 di Indonesia secara resmi dinyatakan berakhir berdasarkan 
+Keputusan Presiden Republik Indonesia Nomor 17 Tahun 2023. Dalam keputusan 
+tersebut, status pandemi Covid - 19 diubah menjadi endemi mulai 21 Juni 2023. Menteri 
+Teknologi Informasi dan Komunikasi, Johnny G. Plate, menyatakan bahwa pandemi ini 
+telah mempercepat perubahan perilaku konsumen menuju digitalisasi . 
+Selama pandemi, pemer intah menerapkan sejumlah kebijakan darurat, termasuk 
+Pembatasan Sosial Berskala Besar (PSBB). Kebijakan ini mewajibkan masyarakat untuk 
+tetap di rumah dan bekerja dari rumah ( work from home ) sebagai respons terhadap 
+penyebaran virus Corona SARS - CoV - 2. Vir us ini dapat menyebabkan gangguan 
+pernapasan dan pneumonia serta menular melalui percikan batuk, bersin, atau kontak 
+dengan individu yang terinfeksi. Tujuan utama PSBB adalah membatasi kegiatan yang 
+melibatkan kerumunan guna menghambat penyebaran virus. 
+Ak ibat pembatasan tersebut, masyarakat tidak lagi dapat berbelanja secara 
+langsung seperti sebelumnya dan mulai beralih ke belanja online. Belanja online 
+memungkinkan konsumen untuk membeli barang atau jasa melalui internet tanpa harus 
+bertatap muka dengan p enjual. Sistem ini menawarkan kemudahan, seperti akses belanja
+
+--- Page 3 ---
+
+IKN: Jurnal Informatika dan Kesehatan 
+Volume 2, Nomor 2, Agustus 2025 
+Available Online at https://jurnal.unw.ac.id/index.php/IKN 
+110 
+selama 24 jam dan pilihan produk yang beragam, dengan pembayaran yang dapat 
+dilakukan melalui transfer bank. 
+Selain memenuhi kebutuhan sehari - hari, belanja online juga menjadi sarana 
+konsumen u ntuk mendapatkan barang dari toko online. Proses ini melibatkan pemesanan 
+produk melalui internet dan pembayaran melalui transfer bank, platform elektronik, atau 
+sistem pembayaran tunai saat pengiriman ( Cash on Delivery ) (Deni, 2020). 
+Penelitian terkait p erubahan perilaku konsumen dalam belanja online, khususnya 
+untuk produk retail pasca pandemi, masih terbatas. Oleh karena itu, penelitian ini 
+bertujuan untuk menganalisis dan mendiskusikan perilaku konsumen ritel setelah 
+pandemi Covid - 19 di Indonesia, term asuk potensi keberlanjutan tren ini. Fokus penelitian 
+akan mencakup retail tradisional seperti warung makan, minimarket, toko kelontong, dan 
+toko fashion (Deni,2020) 
+Pembahasan serupa telah dibahas pada penilitian terdahulu. Pertama dari jurnal 
+yang beruju dul “Tren E - Commerce Pada Era Pandemi Covid - 19” karya (Syamsidarti 
+Laming, 2021). Topik penelitian pada jurnal ini yaitu penelitian tentang e - commerce pada 
+masa pandemic covid - 19 menggunakan metode literatur khususnya jurnal yang dapat 
+diakses secara onlin e. Kedua dari jurnal yang berjudul “Peran E - Commerce Sebagai 
+Solusi di Masa Pandemi Covid - 19” karya (Annisa Lusyani Zahra, Ahmad Ihza Ananda, 
+Aisha Safa Asy’ ari, 2021). Topik penelitian yang dibahas pada jurnal ini sama dengan 
+judul jurnal tersebut yaitu bagaimana peran e - commerce pada masa pandemic. Ketiga 
+yaitu berasal dari jurnal berjudul “Peran E - Commerce di Masa Pandemi Covid - 19” karya 
+(Asih Handayanti, Dea Sukma Agachi, Winda Fadillah, 2022). Topik penelitiannya 
+terkait penggunaan platfrom e - commerce yang melejit diera pandemic. Kempat dari 
+jurnal berjudul “Analisis Perilaku Konsumen terhadap Keputusan Pembelian E - 
+Commerce Shoope Selama Pandemi Covid - 19” (Yohana Helena, Novita Sari, 2021). 
+Topik yang dibahas yaitu mengetahui variable perbedaan individ u, lingkungan, dan 
+psikologis terhadap keputusan Pembelian di Shoope. Kelima dari jurnal yang berjudul 
+“E - Commerce, Solusi di Tengah Pandemi COVID - 19” (Nurlela, 2021). Topik yang 
+dibahas dalan jurnal tersebut yaitu perubahan perilaku secara umum konsumen d an 
+produsen dalam bisnis e - commerce disaat covid - 19 melanda. 
+Lanskap pasar bisnis telah bertransformasi dari persaingan fisik menjadi 
+persaingan berbasis digital karena permintaan Revolusi Industri Keempat (Fourth 
+Industrial Revolution, 4IR) dan hadirnya teknologi baru dan canggih (Koe & Sakir, 2020); 
+sebuah fenomena yang disebut sebagai digitalisasi. Bisnis dan ekonomi sekarang 
+bergantung pada teknologi untuk bertahan dan berkembang. 
+berkembang karena digitalisasi ini (Mthembu et al., 2018). 
+Digitalisasi adalah proses mengintegrasikan dan menggunakan teknologi digital 
+(juga dikenal sebagai teknologi informasi dan komunikasi - Telnologi (Pollitzer, 2018)) 
+untuk meningkatkan model bisnis dan menciptakan peluang baru untuk memproduksi 
+barang dan jasa serta m enambah nilai (Gurau, 2021). Teknologi telah meningkatkan 
+banyak aspek di berbagai industri termasuk pengurangan produksi dan biaya tenaga kerja 
+di industri manufaktur (Rafikov & Ansary, 2020) dan peningkatan produktivitas dan 
+efisiensi operasional di bida ng pertanian (Andreoni et al., 2021) yang meningkatkan 
+bisnis secara keseluruhan keberlanjutan bisnis secara keseluruhan (Chauhan et al., 2021). 
+Bisnis mengalami kesulitan dalam beradaptasi dengan teknologi, seperti 
+tantangan dalam implementasi dan integra si infrastruktur TI, perubahan dari persaingan 
+pasar tradisional ke persaingan pasar berbasis digital, keterbatasan sumber daya keuangan, 
+dan ketidakpastian apakah perubahan ini akan membawa keuntungan (Kiel et al., 2021).
+
+--- Page 4 ---
+
+IKN: Jurnal Informatika dan Kesehatan 
+Volume 2, Nomor 2, Agustus 2025 
+Available Online at https://jurnal.unw.ac.id/index.php/IKN 
+111 
+akan membawa keuntungan (Kiel et al., 2017). Selain itu, terlepas dari kemajuan TIK 
+(teknologi), Murthy dkk. (2021) berpendapat bahwa digitalisasi telah menciptakan 
+ketimpangan antara negara maju dan negara berkembang.Sehingga ekonomi digital 
+mengalami perkembangan yang tidak merata karen a saat ini didominasi oleh negara maju. 
+E - commerce dikatakan sebagai teknologi yang dapat membantu negara 
+berkembang untuk melompati negara negara maju dengan meningkatkan produk 
+domestik bruto (PDB) nasional 
+(PDB) (Kabir et al., 2020). E - commerce didefin isikan oleh Koe dan Sakir (2020) sebagai 
+melakukan transaksi bisnis dalam bentuk digital atau menggunakan internet. E - commerce 
+memberikan peluang bagi bisnis untuk tumbuh dan berkembang (Koe & Sakir, 2020). 
+METODOLOGI PENELITIAN 
+Tahapan penelitian ini men ggunakan metode Systematic Literatur Review (SLR) 
+untuk mengindentifikasi, menganalisis dan mendiskusikan perilaku konsumen ritel 
+setelah pandemi Covid - 19 di Indonesia, termasuk potensi keberlanjutan trend ini. 
+Pendekatan ini memungkinkan diskusi yang komp rehensif dan terstruktur tentang 
+dampak pandemi COVID - 19 pada sektor e - commerce. 
+Langkah - langkah penelitian diawali dengan perencanaan dan penentuan fokus 
+penelitian, di mana tujuan penelitian dirumuskan dan diarahkan pada empat aspek utama: 
+perubahan perilaku konsumen selama pandemi, strategi adaptasi operator e - commerce, 
+dampak pandemi pada pertumbuhan e - commerce, dan tantangan dalam perdagangan 
+elektronik. Fokus ini bertujuan untuk mengembangkan kerangka konseptual yang 
+menghubungkan fenome na pandemi dengan pengembangan e - commerce. Selanjutnya, 
+literatur dikumpulkan dari jurnal ilmiah melalui basis data seperti Google Scholar, 
+ScienceDirect, JSTOR, dan Springer, dengan menggunakan kata kunci yang relevan. 
+Sumber tambahan termasuk laman web s eperti "cnnindonesia.com" (2022), 
+"blogs.worldbank.org" (2021), dan lainnya, serta beberapa buku terkait. Literatur yang 
+terkumpul kemudian diseleksi berdasarkan kriteria relevansi, validitas temporal, 
+kredibilitas sumber, dan kelengkapan data, dengan foku s pada literatur yang menyediakan 
+data empiris dan analisis mendalam tentang e - commerce selama pandemi. 
+Setelah itu, literatur dianalisis dengan menggunakan pendekatan tematik, yang 
+mencakup identifikasi tema utama, perbandingan data, dan kontekstualisasi informasi. 
+Sebagai contoh, data mengenai lonjakan permintaan barang kebutuhan pokok dan 
+tantangan logistik diintegrasikan baik secara global maupun lokal untuk memberikan 
+gambaran yang komprehensif. Sintesis informasi dilakukan dengan menggabungkan data 
+ku antitatif dan kualitatif, mengidentifikasi tantangan dan peluang, serta memprediksi 
+keberlanjutan e - commerce setelah pandemi. Untuk memastikan keandalan informasi, 
+data diverifikasi melalui cross - referensi antara berbagai sumber, seperti membandingkan 
+lapo ran dari UNCTAD dengan Statista. Kesimpulan kemudian disusun berdasarkan 
+analisis dan sintesis tersebut, menyoroti peningkatan pesat transaksi e - commerce, peran 
+teknologi digital, serta tantangan yang perlu diatasi untuk memastikan pertumbuhan e - 
+commerce y ang inklusif. 
+Berikut adalah tabel yang merangkum langkah - langkah metode penelitian yang 
+telah dijelaskan sebelumnya. Tabel ini memberikan gambaran sistematis dan ringkas 
+mengenai proses penelitian:
+
+--- Page 5 ---
+
+IKN: Jurnal Informatika dan Kesehatan 
+Volume 2, Nomor 2, Agustus 2025 
+Available Online at https://jurnal.unw.ac.id/index.php/IKN 
+112 
+Tabel 1. Metode Penelitian 
+Langkah Penelitian Deskripsi 
+Perencanaan dan Penentuan Fokus Menentukan tujuan dan fokus penelitian, 
+meliputi perubahan perilaku konsumen 
+selama pandemi, strategi adaptasi e - 
+commerce, dampak pandemi terhadap 
+pertumbuhan e - commerce, serta tantangan 
+di bidang perdagangan elektronik. 
+Pencarian dan Pengumpulan Li teratur Mengumpulkan referensi dari jurnal 
+ilmiah (Google Scholar, ScienceDirect, 
+JSTOR, Springer) dan laman web 
+terpercaya seperti “cnnindonesia.com” 
+dan “unctad.org” untuk mendukung 
+penelitian. 
+Pemilihan Literatur Menyaring literatur berdasarkan relevansi, 
+validitas temporal (2019 - 2024), 
+kredibilitas sumber, serta kelengkapan 
+data yang menyajikan analisis empiris 
+atau statistik terkait e - commerce selama 
+pandemi. 
+Analisis Literatur Menganalisis tema utama, 
+membandingkan data dari berba gai 
+sumber, serta mengintegrasikan data 
+global dan lokal untuk memberikan 
+gambaran komprehensif mengenai 
+perkembangan e - commerce selama 
+pandemi. 
+Sintesis Informasi Menggabungkan data kuantitatif dan 
+kualitatif, mengidentifikasi tantangan dan 
+peluang, serta memprediksi keberlanjutan 
+e - commerce pascapandemi. 
+Validasi dan Cross - Referensi Memastikan keandalan data dengan 
+membandingkan informasi dari berbagai 
+sumber, seperti UNCTAD dan Statista, 
+untuk menghindari bias atau 
+ketidakcocokan data. 
+Pe nyusunan Kesimpulan Menghasilkan pemahaman mendalam 
+tentang dampak pandemi pada e - 
+commerce, mencakup peningkatan 
+transaksi, peran teknologi digital, serta 
+tantangan untuk memastikan 
+pertumbuhan yang inklusif. 
+HASIL DAN PEMBAHAS AAN 
+Perubahan Bisnis dari Model Konvensional ke Model Online 
+Para pemilik dan pelaku usaha, terkhususnya yang bergerak di sektor usaha kecil 
+dan UMKM, sangat bergantung pada metode penjualan langsung atau yang lebih dikenal 
+dengan istilah direct selling . M etode ini terbukti ampuh membantu sektor ini tetap
+
+--- Page 6 ---
+
+IKN: Jurnal Informatika dan Kesehatan 
+Volume 2, Nomor 2, Agustus 2025 
+Available Online at https://jurnal.unw.ac.id/index.php/IKN 
+113 
+bertahan, termasuk saat terjadi krisis ekonomi pada tahun 1998. Namun, seiring 
+berjalannya waktu, para pelaku usaha yang masih menggunakan sistem konvensional 
+mulai kehilangan pelanggan karena tidak mampu mengikuti perkembangan dan tuntutan 
+zaman. Proses peralihan usaha dari sistem konvensional ke platform daring memang 
+sudah dimulai sejak internet semakin mudah diakses di Indonesia, namun transformasi 
+ini tidak terjadi begitu saja. Banyak perangkat dan fas ilitas yang mesti disiapkan guna 
+memastikan layanan yang diberikan tetap berkualitas meski dilakukan secara virtual. 
+Pelaku usaha kini diharuskan mempunyai sebuah akun media sosial atau 
+bergabung dengan platform e - commerce sebagai langkah awal untuk memud ahkan 
+pelanggan menjelajahi produk, melihat katalog, dan melakukan kegiatan pemesanan 
+secara online (Rofiq et al, 2020). Selain itu, penting bagi pelaku usaha untuk menjaga dan 
+mengelola toko online ataupun juga situs web sebaik – baiknya agar kinerja toko selalu 
+optimal. Untuk memperkuat pada sistem layanan yang dilakukan secara online, dapat 
+ditambahkan layanan pengiriman barang. Transformasi pemasaran digital memerlukan 
+dukungan mitra bisnis, untuk itu membangun hubungan baik dengan mitra menjadi 
+penting . 
+Transformasi sistem pemasaran serta transaksi tersebut juga sejatinya disesuaikan 
+dengan pola pikir masyarakat serta perubahan gaya hidup. Para produsen harus 
+memanfaatkan tren ini dengan baik agar dapat secara konsisten memberikan konten dan 
+informasi terkini mengenai produk yang dijualnya. Tujuannya adalah untuk 
+mempertahankan pelanggan yang lama serta menarik pelanggan yang baru. Iklan daring 
+yang melibatkan influencer bisa menjadi salah satu cara efektif untuk meningkatkan 
+kepercayaan konsumen terhad ap toko daring. 
+Selain itu, para pelaku usaha perlu melakukan riset pada pasar secara berkala agar 
+dapat sesuai dengan perkembangan usaha dengan lingkungan yang disekitar. Pandemi 
+Covid - 19 ini menjadi fenomena yang perlu dicermati oleh para pelaku usaha, karena 
+membuka peluang besar untuk kemajuan usaha daring. Covid - 19 juga salah satu faktor 
+eksternal peyebab menurunnya aktivitas usaha konvensional (luring) dan mendorong 
+peningkatan aktivitas usaha melalui platform daring (Taufik dan Ayuningtyas : 2020). 
+Oleh karena itu, dapat ditarik kesimpulan Bahwa perubahan sistem transaksi ini harus 
+dapat diterima oleh semua pihak sesuai dengan perkembangan zaman, terutama bagi 
+pelaku usaha kecil dan UMKM yang ingin bertahan menghadapi berbagai tantangan 
+akibat pandem i. 
+Signifikansi E - commerce bagi pelaku ekonomi 
+Untuk para pelaku bisnis, E - commerce merupakan sebuah platform jual beli yang 
+menekan biaya dan waktu. Ini dapat terjadi dikarenakan kegiatan operasionalnya lebih 
+fleksibel jika dibandingkan toko offline yang dibatasi dengan jam operasional tertentu. 
+E - commerce juga berfungsi sebagai alternatif untuk meningkatkan performa penjualan, 
+memperluas jangkauan pasar, serta memasarkan produk tanpa dibatasi oleh jarak dan 
+waktu. E - commerce juga menjadi pen ghubung antara konsumen dengan produsen, 
+sehingga memberikan feedback yang bermanfaat untuk peningkatan kualitas produk. 
+Bisnis ini juga tidak perlu lokasi fisik khusus seperti bisnis offline, sehingga para pelaku 
+bisnis tidak perlu mengeluarkan biaya sewa yang tinggi, karena bisnis dapat dijalankan 
+dari mana saja. 
+E - commerce menawarkan kemudahan bagi konsumen karena mereka tidak perlu 
+lagi mengunjungi toko fisik, hal ini dapat menghemat biaya operasional dan waktu yang 
+cukup signifikan hanya untuk berbelan ja. Platform ini juga memungkinkan konsumen
+
+--- Page 7 ---
+
+IKN: Jurnal Informatika dan Kesehatan 
+Volume 2, Nomor 2, Agustus 2025 
+Available Online at https://jurnal.unw.ac.id/index.php/IKN 
+114 
+untuk berkomunikasi langsung dengan para penjual secara online untuk menanyakan 
+detail dari produk. E - commerce juga berpotensi risiko bagi konsumen, seperti produk 
+dengan merek yang tidak jelas, barang tidak sesu ai gambar yang dipajang, atau bahkan 
+penipuan seperti barang yang tidak pernah dikirim (Sudaryono dkk, 2020). 
+Perkembangan E - commerce di masa pandemi 
+Pandemi Covid - 19 telah mendorong perubahan besar pada E - commerce dengan 
+dampak yang dirasakan di seluruh dunia. Penelitian Bhatti et al. (2020) menunjukkan 
+bahwa 52% konsumen menghindari belanja fisik selama pandemi, terutama di area padat, 
+dan 36% dari mereka tidak akan belanja langsung hingga mendapatkan vaksin Covid - 19. 
+Akibatnya, penjualan melalui E - commerce melonjak karena masyarakat lebih memilih 
+tinggal di rumah dan menjaga jarak sosial. Keunggulan teknologi, seperti aplikasi digital 
+berbasis E - commerce, berperan penting dalam menjaga kelangsungan dan kualitas usaha 
+selama dan setelah pandemi. K ebiasaan baru yang terbentuk selama pandemi 
+memerlukan waktu untuk kembali normal, sehingga pelaku usaha harus merumuskan 
+strategi untuk bertahan. Ketidaksiapan dalam menghadapi perubahan dapat menghambat 
+transformasi digital dan membahayakan keberlangsung an usaha. E - commerce 
+diperkirakan akan mendominasi pasar yang lebih besar, mendorong lebih banyak bisnis 
+untuk bergabung dengan platform digital guna memperluas jangkauan mereka (Mohamad 
+et al., 2020). 
+Pandemi Covid - 19 mempercepat perkembangan E - commerce y ang sudah 
+menjadi kebutuhan dunia digital. Bank Indonesia mencatatkan peningkatan transaksi di 
+E - commerce yang hampir dua kali lipat, yang dari 80 juta transaksi pada tahun 2019 
+menjadi 140 juta transaksi pada tahun 2020 (CNN.com). Di Indonesia, ada empat 
+platform E - commerce besar yang mendominasi, yaitu Shopee, Tokopedia, Bukalapak, 
+dan Lazada. Shopee, yang berasal dari Singapura, menjadi platform dengan pangsa pasar 
+terbesar di Asia Tenggara. Sejak didirikan pada 2015, Shopee berhasil menarik pengguna 
+den gan cepat, bahkan mengalahkan pesaing - pesaing sebelumnya. Kemudahan akses ke 
+barang, bahkan dari luar negeri, dan harga yang lebih murah dibandingkan metode 
+pembelian tradisional membuat platform digital ini semakin diminati. Selama pandemi, 
+jumlah penggun a platform digital meningkat pesat, hingga mencapai 38,3%. Hal ini juga 
+mendorong banyak bisnis digital untuk menggandeng brand ambassador terkenal guna 
+menarik lebih banyak konsumen. 
+Persaingan E - commerce di Indonesia semakin ketat karena meningkatnya 
+ket ergantungan masyarakat pada platform digital selama pandemi. Hal ini menjadi 
+peluang besar bagi pengelola platform dan pelaku usaha untuk memanfaatkan pasar. 
+Peningkatan pengguna E - commerce didorong oleh promosi menarik seperti bebas ongkos 
+kirim dan cashb ack, yang menguntungkan baik konsumen maupun penjual. Konsumen 
+hemat biaya perjalanan, sementara penjual dapat memperkenalkan produk tanpa interaksi 
+fisik. Keuntungan ini mendukung pertumbuhan E - commerce di Indonesia, yang didorong 
+oleh jumlah penduduk bes ar dan kebiasaan konsumtif. Pandemi juga membuka peluang 
+bagi bisnis Bisnis berbasis internet seperti hiburan online, pengiriman makanan, belanja 
+daring, pendidikan online, dan pekerjaan jarak jauh, berkembang pesat (Donthu dan 
+Gustafsson, 2020). . 
+Signifik ansi E - commerce Terhadap Industri Usaha di Masa Resesi Ekonomi 
+Kemajuan teknologi 4.0 sangat mempngaruhi perkembangan layanan platform 
+digital. Inovasi yang diterapkan oleh pelaku bisnis daring menjadi kunci utama untuk
+
+--- Page 8 ---
+
+IKN: Jurnal Informatika dan Kesehatan 
+Volume 2, Nomor 2, Agustus 2025 
+Available Online at https://jurnal.unw.ac.id/index.php/IKN 
+115 
+bersaing di pasar yang semakin komp etitif. Berbagai inovasi yang dikembangkan turut 
+membantu memecahkan masalah dan memenuhi kebutuhan masyarakat. Bisnis daring 
+memegang peranan penting dalam memperkuat juga meningkatkan kualitas 
+perekonomian masyarakat dengan dukungan teknologi. 
+Dengan aks es teknologi yang semakin mudah, layanan digital, terutama e - 
+commerce, memberikan kemudahan bagi masyarakat . E - commerce mendukung 
+transformasi digital di sektor bisnis, dengan prinsip efektivitas dan efisiensi sebagai kunci 
+untuk meningkatkan layanan perda gangan. Perubahan paradigma dalam berbisnis ini 
+sejalan dengan perubahan perilaku konsumen, membuat pendekatan digital menjadi 
+esensial bagi bisnis yang ingin bertahan dalam perekonomian yang terus berkembang. 
+Pandemi yang membatasi interaksi fisik telah m emberi peluang bagi penyedia 
+layanan E - commerce untuk berinovasi dan menawarkan layanan yang relevan. Banyak 
+platform E - commerce meluncurkan produk dan layanan baru agar tetap beroperasi, 
+menjadikan E - commerce satu - satunya sektor yang berkembang pesat, sem entara sektor 
+lain kesulitan atau bahkan tutup selama masa lockdown . Penelitian oleh Donthu dan 
+Gustafsson (2020) menunjukkan bahwa, “ Konsekuensi lain dari lockdown adalah 
+peningkatan ekstrem dalam penggunaan internet dan media sosial. ” Penelitian 
+m enunjukk an bahwa perubahan minat masyarakat ke platform digital adalah dampak dari 
+kebijakan pembatasan interaksi selama pandemi. Dengan kata lain, E - commerce dan 
+platform digital lainnya mampu mendukung interaksi yang terbatas. “ Sebagai perwujudan 
+ekonomi digital , E - commerce juga berkontribusi pada PDB Indonesia dalam skala makro. ” 
+Ekonomi digital menciptakan peluang kerja baru yang dapat mendukung 
+kemandirian berusaha. Semakin banyak masyarakat yang beradaptasi dengan teknologi, 
+semakin besar pula potensi kemandi rian ekonomi di Indonesia. Hal ini memungkinkan 
+Indonesia bukan hanya menjadi pasar, tetapi juga menjadi produsen yang memasarkan 
+produk mereka sendiri. Oleh karena itu, pemerintah perlu mendorong pertumbuhan 
+pelaku usaha yang memanfaatkan platform digital , sehingga pasar online di Indonesia 
+dapat berkembang dan dikelola oleh masyarakat Indonesia sendiri (Oven & Hicintuka, 
+2020). 
+Meskipun demikian, E - commerce tetap menjadi pilihan utama yang mampu 
+bertahan, terutama selama pandemi Covid - 19. Resesi tentu aka n berdampak pada hampir 
+semua sektor usaha, termasuk E - commerce. Namun, pandemi Covid - 19 justru 
+meningkatkan minat konsumen terhadap platform E - commerce karena masyarakat 
+merasa lebih aman dan menjaga kesehatannya dengan bertransaksi secara online, 
+dibandi ngkan dengan sistem tradisional yang membutuhkan interaksi langsung dengan 
+pengecer (Tran, 2020). 
+Pelaku usaha kecil dan UMKM yang sebelumnya bergantung pada interaksi 
+langsung kini perlu beradaptasi dengan memanfaatkan E - commerce untuk memasarkan 
+produk m ereka. Transformasi ini penting untuk menciptakan keseimbangan antara 
+konsumen dan produsen di tingkat lokal, terutama di tengah resesi yang dapat diperburuk 
+oleh penurunan konsumsi masyarakat, yang berisiko menurunkan omzet penjualan 
+mereka ( “ Donthu dan G ustafsson, 2020 ” ). 
+Keseimbangan antara produksi, ekonomi, dan daya beli masyarakat adalah kunci 
+pertumbuhan ekonomi. Penurunan daya beli dapat memperburuk pertumbuhan ekonomi 
+dan menyebabkan negara terjebak dalam resesi. Oleh karena itu, konsumsi masyaraka t 
+sangat berpengaruh terhadap perekonomian, dan upaya untuk meningkatkan daya beli 
+diperlukan agar ekonomi tidak stagnan. Pemanfaatan E - commerce dengan promosi yang 
+menarik perlu dipertahankan dan ditingkatkan untuk mendorong belanja online, terutama
+
+--- Page 9 ---
+
+IKN: Jurnal Informatika dan Kesehatan 
+Volume 2, Nomor 2, Agustus 2025 
+Available Online at https://jurnal.unw.ac.id/index.php/IKN 
+116 
+saat toko offline sepi. Hal ini penting untuk menjaga keseimbangan antara produksi dan 
+konsumsi, menghindari penumpukan barang yang dapat mengganggu siklus produksi. 
+Tanpa distribusi barang yang lancar, bisa terjadi PHK massal, pengangguran, dan 
+peningkatan kem iskinan. 
+E - commerce memainkan peran krusial dalam siklus ekonomi, terutama dalam 
+mendukung kelangsungan usaha. Platform ini memungkinkan pertukaran informasi 
+bisnis, pengelolaan jaringan, dan transaksi, serta membantu UMKM bertahan di tengah 
+resesi ekonomi . E - commerce juga memudahkan konsumen dalam mempertahankan daya 
+beli dengan mengurangi biaya, serta menciptakan hubungan yang efisien antara pelaku 
+usaha dan konsumen. 
+Perubahan paradigma pasar di Indonesia harus diadaptasi dengan baik agar dapat 
+menguntungkan semua pihak. Pemerintah perlu menyediakan kerangka hukum yang jelas 
+untuk menghindari pelanggaran dan penipuan. E - commerce memberikan kesempatan 
+bagi Indonesia untuk tidak hanya menjadi pasar, tetapi juga menjadi penjual, 
+memperkenalkan produ k Indonesia ke pasar internasional, dan meningkatkan ekspor 
+setelah penurunan akibat pandemi. 
+KESIMPULAN 
+Kesimpulan dari artikel ini menyoroti bahwa pandemi COVID - 19 telah 
+menyebabkan perubahan besar dalam perilaku konsumen dan pola bisnis, terutama dala m 
+sektor e - commerce di Indonesia. Pembatasan sosial selama pandemi memicu peralihan 
+signifikan dari belanja offline ke online. Faktor - faktor seperti kemudahan akses, efisiensi 
+waktu, kenyamanan, dan keamanan dalam transaksi menjadi alasan utama konsumen 
+le bih memilih platform e - commerce. Perubahan ini tidak hanya memengaruhi konsumen, 
+tetapi juga pelaku usaha kecil dan menengah yang mulai memanfaatkan teknologi digital 
+untuk bertahan dan bahkan berkembang di tengah tantangan ekonomi. 
+Transformasi digital d alam sektor e - commerce didorong oleh adopsi teknologi 
+modern, seperti sistem pembayaran elektronik yang lebih aman dan praktis. Ini membuka 
+peluang besar bagi pelaku usaha untuk memperluas jangkauan pasar mereka tanpa 
+dibatasi oleh geografis dan waktu. Nam un, perubahan ini juga menghadirkan tantangan, 
+seperti kesenjangan infrastruktur digital, terutama di negara berkembang seperti 
+Indonesia, serta kebutuhan untuk memastikan keamanan data dan kepercayaan konsumen 
+terhadap platform daring. 
+Artikel ini juga me nekankan pentingnya kolaborasi antara pemerintah, pelaku 
+bisnis, dan penyedia platform digital untuk membangun ekosistem ritel yang inklusif, 
+efisien, dan berkelanjutan. Dukungan dalam bentuk regulasi, infrastruktur digital, dan 
+edukasi masyarakat menjadi kunci untuk mengatasi berbagai hambatan yang ada. 
+Kebiasaan belanja online yang terbentuk selama pandemi menunjukkan potensi besar 
+untuk menjadi pola konsumsi permanen di masa depan, terutama dengan meningkatnya 
+adopsi teknologi digital oleh masyarakat. 
+Ol eh karena itu, e - commerce telah menjadi komponen vital dalam ekosistem 
+ekonomi digital. Selain sebagai solusi adaptasi jangka pendek selama pandemi, e - 
+commerce juga berfungsi sebagai fondasi untuk pertumbuhan dan keberlanjutan bisnis di 
+masa depan. Transfo rmasi digital yang terus berjalan diharapkan dapat membuka peluang 
+baru bagi pelaku usaha dan meningkatkan daya saing ekonomi Indonesia di kancah global.
+
+--- Page 10 ---
+
+IKN: Jurnal Informatika dan Kesehatan 
+Volume 2, Nomor 2, Agustus 2025 
+Available Online at https://jurnal.unw.ac.id/index.php/IKN 
+117 
+DAFTAR PUSTAKA 
+Badan Pusat Statistik, Statistik E - commerce 2019, diakses pada 20 Oktober 2020 pada 
+laman https://www.bps.go.id 
+Badan Pusat Statistik, 2020 diakses pada 20 Oktober 2020 pada laman https://bps.go.id 
+Bhatti, Anam., Hamza Akram, Hafiz Muhammad Basit, dkk, E - commerce trends during 
+COVID - 19 Pandemic, International Journal of Futur e Generation Communication 
+and Networking, Vol. 13, No. 2, 1449 - 1452 
+CNN Indonesia, 2020. Transaksi E - Cmmerce Naik Nyaris Dua Kali Lipat Saat Pandemi, 
+diakses pada 21 Oktober 2020 pada laman 
+https://m.cnnindonesia.com/ekonomi/2020102193353 - 92 - 5612342/tra nsaksi - e - 
+commerce - naik - nyaris - dua - kali - lipat - saat pandemi 
+Damuri, Yose Rizal dan Fajar B Hirawan, 2020. Mengukur Dampak COVID - 19 pada 
+Pertumbuhan Ekonomi dan Perdagangan Indonesia 2020. CSIS Commentaries 
+DMRU - 015. 
+Databoks.katadata.co.id, 2020. Peta Pers aingan E - commerce Indonesia Pada Kuartal II 
+2020, diakses 21 Oktober 2020 pada laman 
+https://databoks.katadata.co.id/datapublish/2020/01/21/ peta persaingan - e - 
+commerce - Indonesia - pada - kuartal - ii - 2020 
+Databoks.katadata.co.id. diakses pada 21 Oktober 2020 pa da laman 
+https://databoks.katadata.co.id/datapublish/2020/10/08/ konsumen - beralih - beli - 
+produk - non - makanan - di - e - commercesaat - pandemi - Covid - 19 
+Donthu, Noveen dan Anders GUstafsson, 2020. Effects of COVID - 19 on 
+business and research, Journal of Business Res earch, ; 117: 284 – 289 
+Kompas.com. Bappenas Prediksi Pengangguran Tahun ini Capai 11 Juta orang. 27 
+Agustus 2020. Diakses 19 Oktober 2020 di laman 
+https://money.kompas.com/read/2020/08/27/190600626/bapp enas - prediksi - 
+jumlah - pengangguran - tahun - ini - capai - 11 - j uta orang 
+Mohammad, Abdul Hadi., Anis Athirah Hamzah., dan Romana Ramli, E commerce 
+Beyond the Pandemic Coronavirus: Click and Collect Food Ordering, IOP 
+Conference Series: Materials Science and Enginering, 1 - 7 
+Oven, Helen dan Melissa Hicintuka, 2020. Co vid - 19 : How does it affect international E - 
+commerce firms?, (Tesis Linnaeus University Swede, 
+Rofiq, et al, 2020. Transformasi Bisnis Kreatif Micro Enterpreneur Dalam 
+Mempertahankan Omset Di Masa Covid - 19 , Seminar Nasional Manajemen, 
+Ekonomi Dan Akuntas i Fakultas Ekonomi Dan Bisnis Unp Kediri, 489 - 497 
+Sudaryono, Efana Rahwanto, dan Ratna Komala, 2020. E - commerce Dorong 
+Perekonomian Indonesia Selama Pandemi Covid - 19 Sebagai Enterpreneur 
+Modern Dan Pengaruhnya Terhadap Bisnis Ofline, Jurnal Manajemen Dan Bisnis 
+(Jumanis) Vol:02 No : 01 Sukirno, S, 2006. Makroekonomi Teori Pengantar. 
+Jakarta: Raja Grafindo Persada. 
+Tan, Lobel Trong Thuy, 2020. Managing the effectiveness of E - commerce platforms in 
+a pandemic, Journal of Retailing and Consumer Services , 1 - 9 
+https://doi.org/10.1016/j.jretconser.2020.102287 
+Taufik dan Eka V Ayuningtyas, 2020. Dampak Pandemi Covid - 19 Terhadap Bisnis Dan 
+Eksistensi Platform Online, Jurnal Pengembangan Wiraswasta , Vol. 22 No. 01, 
+21 - 32 
+Pandey,K. Singh,N.(2023).”International Jour nal For Research” Jurnal:Trends in E - 
+commerce:Pont Covid - 19 Pandemic,vol.11 .

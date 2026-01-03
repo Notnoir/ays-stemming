@@ -1,0 +1,367 @@
+                      Tarling: Journal of Language Education
+                                   Vol. 7, No. 1, Juni 2023
+                  http://ejournal.uinsaizu.ac.id/index.php/tarling/index
+
+
+
+     Submitted      : 01-05-2023                Accepted      : 21-05-2023
+     Revised        : 10-05-2023                Published     : 30-06-2023
+
+
+       Penerapan Kecerdasan Buatan sebagai Media
+       Pembelajaran Bahasa Arab di Era Society 5.0
+
+           Aidah Novianti Putri1*, Moh. Abdul Kholiq Hasan1
+         1
+          UIN Raden Mas Said Surakarta, Central Java, Indonesia
+                       *
+                         noviaaidah@gmail.com
+
+
+                                           Abstract
+This study aims to determine what is artificial intelligence (AI) and analyze
+several types of application of artificial intelligence as a learning medium in the
+era of society 5.0. Along with the increasing needs of the community for foreign
+languages, there is also an increase in the orientation to learn Arabic, which
+orientation begins to penetrate the realm of professionalism and economics.
+So that learning Arabic becomes one of the important agendas in the world of
+Education. However, learning Arabic in Indonesia still faces various obstacles
+and challenges in the era of society 5.0. This research is library research with
+qualitative descriptive approach. Data sources are books, journals, papers, and
+articles. Data collection techniques are done with documentation techniques.
+Data analysis used is content analysis. As for the results of the study, there are
+several applications of AI that are used as supporters or Arabic learning media
+in the era of society 5.0, including: Intelligent Tutoring System, Voice Assistant,
+Personalized Learning, Virtual Mentor, Smart Content, Automatic Assessment,
+and Educational Games.
+
+Keywords: Artificial Intelligence; Learning Media; Arabic; Era Society 5.0
+
+
+
+
+   https://doi.org/10.24090/tarling.v7i1.8501                                   69
+Aidah Novianti Putri, Moh. Abdul Kholiq Hasan
+
+
+A. PENDAHULUAN
+     Bahasa Arab merupakan bahasa yang memiliki nilai strategis dan
+historis bagi umat Islam di seluruh dunia. Bahasa Arab tidak hanya menjadi
+bahasa Al-Qur’an dan hadis, tetapi juga menjadi bahasa ilmu pengetahuan
+dan kebudayaan yang melahirkan banyak karya-karya monumental. Selain
+itu, di era saat ini dengan seiring meningkatnya kebutuhan masyarakat akan
+bahasa asing berdampak pula pada meningkatnya orientasi mempelajari
+bahasa Arab. Hal ini terjadi karena orientasi tersebut mulai merambah
+ranah profesionalisme dan ekonomis (Jamil dan Agung, 2021). Oleh karena
+itu, pembelajaran bahasa Arab menjadi salah satu agenda penting dalam
+dunia pendidikan. Namun, pembelajaran bahasa Arab di Indonesia masih
+menghadapi berbagai kendala dan tantangan, seperti kurangnya sumber
+daya manusia yang berkualitas, metode yang kurang variatif dan menarik,
+media yang terbatas dan ketinggalan zaman, serta lingkungan yang kurang
+kondusif bagi pengembangan kemampuan berbahasa. Akibatnya, hasil
+pembelajaran bahasa Arab masih jauh dari harapan dan tujuan.
+   Sebagai upaya mengatasi kendala-kendala dalam pembelajaran
+bahasa Arab diatas salah satu yang perlu diadakan inovasi adalah media
+pembelajaran bahasa Arab. Media pembelajaran adalah bahan, alat atau
+segala sumber daya yang digunakan dalam proses penyampaian informasi
+guru kepada peserta didik.baik berbentuk fisik ataupun piranti lunak
+sehingga dapat merangsang perhatian, minat, pikiran dan perasaan (Arip
+Nurahman dan Pandu Pribadi, 2022). Sehingga media pembelajaran
+bahasa Arab adalah bahan, alat, atau segala sumber daya baik fisik maupun
+perangkat lunak yang dapat merangsang perhatian, minat, pikiran, dan
+perhatian peserta didik dalam proses pembelajaran bahasa Arab. Penerapan
+media dalam pembelajaran Arab harus mengikuti sesuai dengan zaman dan
+kemajuan IPTEK. Hal ini bertujuan agar peserta didik dapat menangkap
+dan memahami materu yang disampaikan serta dapat mengatasi kendala-
+kendala dalam pembelajaran.
+70      TARLING, Vol. 7, No. 1, Juni 2023       E-ISSN : 2614-4271 P-ISSN : 2599-1302
+    Penerapan Kecerdasan Buatan sebagai Media Pembelajaran Bahasa Arab di Era Society 5.0
+
+
+          Di era Society 5.0 dengan perkembangan IPTEK yang semakin
+      maju, pembelajaran bahasa Arab dituntut untuk beradaptasi dengan
+      perkembangan teknologi dan kebutuhan masyarakat yang semakin
+      kompleks dan dinamis. Society 5.0 adalah era di mana manusia dan mesin
+      dapat berkolaborasi secara harmonis dengan menggunakan kecerdasan
+      buatan (Artificial Intelligence/AI) sebagai alat bantu (RS Raveina, 2022).
+      Kecerdasan buatan dapat membantu meningkatkan kualitas dan efektivitas
+      pembelajaran bahasa Arab dengan cara menyediakan media yang interaktif,
+      variatif, dan menarik, serta memberikan umpan balik yang cepat dan akurat
+      kepada siswa. Selain itu, pembelajaran bahasa Arab di era society 5.0 yang
+      memanfaatkan internet of things (IoT) memungkinkan siswa untuk belajar
+      bahasa Arab kapan saja dan di mana saja dengan menggunakan perangkat
+      elektronik yang terhubung dengan internet (Syagif, 2022).
+          Berdasarkan uraian di atas, dapat diketahui bahwa kecerdasan buatan
+      (AI) memiliki potensi yang besar untuk menjadi media pembelajaran
+      bahasa Arab di era society 5.0. Namun, penerapan kecerdasan buatan (AI)
+      sebagai media pembelajaran bahasa Arab masih kurang diketahui oleh
+      siswa dan guru. Oleh karena itu, penelitian ini bertujuan untuk mengetahui
+      apa itu kecerdasan buatan (Artificial Intelligence/AI) dan menganalisis
+      beberapa ragam penerapan kecerdasan buatan sebagai media pembelajaran
+      di era society 5.0.
+
+
+      B. METODE
+         Penelitian ini merupakan library research yang mana obyek
+      penelitiannya ialah data kepustakaan (Evanirosa dkk., 2022). Pendekatan
+      yang digunakan adalah pendekatan deskriptif kualitatif. Pendekatan
+      deskriptif kualitatif yaitu analisis data yang dilakukan secara terstruktur
+      dengan cara mengumpulkan data, mengelola data kemudian menyajikan
+      data observasi agar pembaca mudah memperoleh gambaran mengenai
+
+E-ISSN : 2614-4271 P-ISSN : 2599-1302              TARLING, Vol. 7, No. 1, Juni 2023   71
+Aidah Novianti Putri, Moh. Abdul Kholiq Hasan
+
+
+objek yang diteliti dalam bentuk kata-kata dan bahasa dalam bentuk laporan
+ilmiah.
+    Sumber data penelitian ini adalah buku, jurnal, makalah, dan artikel
+yang terkait dengan pembehasan. Adapun teknik pengumpulan data
+dilakukan dengan teknik dokumentasi. Analisa data dalam studi pustaka
+(library research) ini adalah analisis konten (content analysis) yaitu metode
+analisis yang membahas data secara mendalam dengan mengambil inti dari
+gagasan yang tertuang dalam berbagai macam literasi kemudian ditarik
+kesimpulan (Evanirosa dkk., 2022).
+
+
+C. PEMBAHASAN
+    Kecerdasan buatan (Artificial Intelegent) adalah salah satu cabang
+ilmu komputer yang memiliki kemampuan antara lain mesin pintar (smart
+machine) untuk memecahkan persoalan yang rumit dengan cara yang
+lebih tepat, mengerjakan pekerjaan seperti dan sebaik manusia yang dalam
+kerjanya dapat diarahkan sesuai keperluan manusia (Pasaribu & Widjaja,
+2022). Menurut pendapat lain, kecerdasan buatan adalah sistem yang
+dikembangkan dan di inovasi dalam bidang penelitian yang dimodelkan
+pada mesin, komputer, dan artefak lain yang mungkin memiliki kecerdasan
+yang sama atau lebih baik daripada manusia, kemampuan beradaptasi, dan
+niat, yang menampilkan pengambilan keputusan, kognisi, dan pembelajaran
+(Manongga dkk., 2022).
+   Di era society 5.0, kecerdasan buatan (AI) telah digunakan dalam
+kehidupan, salah satunya dalam bidang pendidikan. Penggunaan kecerdasan
+buatan dalam bidang pendidikan adalah sebagai media dan pendukung
+pembelajaran. Dengan penggunaan kecerdasan buatan sebagai media
+pembelajaran dapat membantu guru, pendidik, maupun mentor dalam
+menyampaikan pembelajaran kepada peserta didik dan menjadikan peserta
+
+
+72      TARLING, Vol. 7, No. 1, Juni 2023        E-ISSN : 2614-4271 P-ISSN : 2599-1302
+    Penerapan Kecerdasan Buatan sebagai Media Pembelajaran Bahasa Arab di Era Society 5.0
+
+
+      didik dapat lebih mudah untuk memahami pembelajaran. Dengan demikian
+      penggunaan kecerdasan dapat pula diterapkan dalam pembelajaran bahasa
+      termasuk pembelajaran bahasa Arab.
+          Berdasarkan hasil penelitian yang dilakukan dengan metode kualitatif,
+      didapatkan berupa informasi yang ditemui dengan memanfaatkan kajian
+      literatur yang bersumber dari jurnal, artikel, atau makalah diketahui
+      bahwa pada era society 5.0 saat ini ada beberapa penerapan Artificial
+      Intelligence yang dapat mendukung pembelajaran bahasa Arab sebagai
+      media pembelajaran, yaitu diantaranya Intelligent Tutoring System (ITS),
+      Voice Assistant, Personalizied Leraning, Virtual Mentor, Smart Content,
+      Automatic Assessment, dan Game Edukasi.
+      1.      Intelligent Tutoring System (ITS)
+          Intelligent Tutoring System (ITS) atau lebih dikenal dengan Sistem
+      Pembelajaran Cerdas (SPC) adalah suatu aplikasi yang di dalamnya
+      memiliki kecerdasan buatan khusus di bidang pembelajaran. ITS adalah
+      sistem pengajaran berbasis komputer yang berisi informasi tentang pelajar,
+      dan berperan menyesuaikan kandungan serta strategi pengajaran mengikuti
+      kesesuaian pelajar. Ong dan Ramachandran mengatakan bahwa tugas utama
+      ITS bertujuan untuk melaksanakan kaidah pembelajaran secara satu ke satu
+      di antara pendidik dengan peserta didik. ITS ini mecoba menyerupai cara
+      manusia dalam memberikan pengajaran dan tanya jawab bagi pengguna.
+      ITS ini dapat memberikan materi pembelajaran berupa materi geometri dan
+      digital, pembelajaran hukum nun sukun atau tanwin, serta dapat digunakan
+      untuk pembelajaran lingkaran pada SMP kelas VIII.
+          Salah satu aplikasi SPC yang telah tercipta adalah Smartpilot yang
+      dapat digunakan untuk membantu mengembangkan perangkat kursus
+      berbasis komputer. Pembelajaran yang diberikan Smartpilot ini bersifat
+      interaktif karena dapat memberikan respon (feedback) antara penngguna
+      dengan program. Selain itu Smartpilot bisa digunakan untuk meningkatkan
+
+E-ISSN : 2614-4271 P-ISSN : 2599-1302              TARLING, Vol. 7, No. 1, Juni 2023   73
+Aidah Novianti Putri, Moh. Abdul Kholiq Hasan
+
+
+potensi peserta didik dalam menyelesaikan persoalan dan membuat peserta
+didik lebih aktif lagi saat belajar diluar kelas. Komponen yang terkandung
+dalam Smartpilot adalah sisem pakar (Expert-System) dan Backus-Naur
+Form (BNF). Sisem pakar (Expert-System) berfungsi untuk mengolah
+basis pengetahuan sistem dan memberikan penyelesaian persoalan kepada
+siswa sebagai pengguna. Sedangkan Backus-Naur Form (BNF) digunakan
+untuk mengoreksi kesalahan teks masukan dan membagi antara label dan
+statement serta membuat pohon ekspresi sehingga smartpilot ini dapat
+melakukan tanya jawab antara intruktur dan pengguna.
+2.    Voice Assisntant
+    Voice assistant adalah asisten digital yang hanya mengandalakan
+pengenalan suara atau audio, juga natural language processing (NLP)
+untuk mengerjakan perintah yang diperintahkan oleh pengguna. Voice
+assistant ini memungkinkan para pengguna khususnya para siswa dalam
+mencari materi, referensi, soal, jurnal/artikel, bahkan buku digital sekalipun.
+Beberapa aplikasi yang merupakan penerapan dari Voice Assistant adalah
+Google Assistant (Google), Siri (Apple), dan Cortana.
+a.    Google Assistant
+    Google Assistant adalah media yang mengandalakan audio atau
+suara dalam memberikan informasi yang dibutuhkan pengguna sehingga
+pengguna tidak harus mengetik kata kunci atau keyword. Informasi yang
+dapat dicari pada Google Assistant berupa musik video, perkiraan cuaca,
+berita terbaru, petunjuk arah, lalu lintas dan masih banyak lagi informasi
+lainnya. Pemanfaatan Google Assisten pada smartphone ini lebih efektif
+dan lebih mudah dalam pemenuhan kebutuhan informasi.
+b.    Siri (Apple)
+    Siri merupakan aplikasi yang dikembangkan oleh perusahan ternama
+salah satunya yaitu Apple. Berdasarkan fungsinya, Siri ini diterbitkan
+sejak Oktobr 2011. Banyak sekali peran Siri yaitu untuk memanggil orang,
+
+74      TARLING, Vol. 7, No. 1, Juni 2023         E-ISSN : 2614-4271 P-ISSN : 2599-1302
+    Penerapan Kecerdasan Buatan sebagai Media Pembelajaran Bahasa Arab di Era Society 5.0
+
+      mengirim pesan, menjadwalkan agenda, peluncur aplikasi atau game,
+      memutar musik, menjawab pertanyaan, mengingatkan agenda hingga
+      memperkirakan cuaca.
+      c.      Cortana
+          Cortana merupakan teknologi yang tercipta dengan meniru dari fitu-
+      fitur unggul seperti Google Now dan Siri. Pada prinsip kerjanya, Cortana
+      ini layaknya asisten pribdi karena teknologi ini dapat diperintahkan untuk
+      mencatat jadwal rapat, melakukan pencarian hal tertentu, memutar musik
+      atau menelepon seseorang. Salah satu pendukung dari fitur ini yaitu Bing
+      yang akan membuat kinerja Cortana ini semakin pintar. Selain itu, Cortana
+      juga bisa diajak bercanda karena kita bisa menanyakan hal apapun mulai
+      dari yang bersifat pribadi sampai pertanyaan yang konyol sekalipun dan
+      Cortana dapat menjawabnya dengan jawaban yang tak terduga.
+      3.      Personalized Learning
+          Personalized Learning merupakan sebuah solusi untuk keterbatasannya
+      e-learning saat ini dalam pembelajaran. Pada prinsipnnya, Personalized
+      Learning ini dapat menyediakan bahan belajar dengan kesulitannya yang
+      sama sesuai kemampuan pengguna, dan keterampilannya serta menyajikan
+      materi belajar sesuai dengan gaya belajar pengguna. Sistem Personalized
+      Learning dapat menyesuaikan tampilan agar sesuai dengan variasi yang
+      berbeda sehingga karakteristik pengguna akan lebih efektif dalam proses
+      pembelajran. Beberapa contoh aplikasi yang dapt digunakan adalah
+      Duolingo, Ruang Guru, Zenius, dan lain sebagainya.
+      4.      Virtual Mentor
+          Salah satu fitur kecerdasan buatan yang saat ini banyak digunakan
+      di berbagai bidang pembentukan platform teknologi, terutama di bidang
+      berbasis online, adalah kemampuan mentor virtual. Mentoring adalah
+      proses dimana orang yang berpengetahuan (mentor) membantu orang
+      yang kurang berpengetahuan (mentee) mencapai tujuan pembelajaran
+
+
+E-ISSN : 2614-4271 P-ISSN : 2599-1302              TARLING, Vol. 7, No. 1, Juni 2023   75
+Aidah Novianti Putri, Moh. Abdul Kholiq Hasan
+
+
+mereka. Kecerdasan buatan dapat memberikan umpan balik pada kegiatan
+belajar siswa dan latihan soal, serta membuat rekomendasi materi yang
+perlu ditinjau. Contoh: guru atau tutor. Virtual Mentor adalah lingkungan
+e-learning yang terintegrasi dengan multimedia dengan penekanan pada
+interaksi, personalisasi, dan kecerdasan.
+5.     Smart Content
+     Smart Content adalah teknologi kecerdasan buatan untuk berbagi dan
+mencari konten digital yang membuat konten dan materi buku pemrograman
+lebih mudah dan lebih cepat.. Contoh umum penerapan teknologi ini banyak
+ditemukan di perpustakaan digital saat ini, baik di sekolah, universitas,
+maupun perpustakaan umum. Artificial Intelligence dapat dengan cepat
+menemukan dan mengkategorikan buku yang anda cari dengan cara yang
+terorganisir. Smart Content adalah kumpulan materi pembelajaran, mulai
+dari buku teks digital hingga antarmuka yang dapat disesuaikan dengan
+kebutuhan kita (Ismawati & Ramadhanti, 2022).
+6.     Automatic Assessment
+    Saat ini AI banyak digunakan untuk keperluan asesmen dan koreksi soal
+otomatis secara online. Penggunaan fitur seperti ini memudahkan guru dan
+tutor menyiapkan dan mengadakan kuis maupun ulangan secara mudah dan
+praktis. Guru dan tutor tidak perlu lagi harus membuat soal dan mengoreksi
+soal secara manual. Sistem AI akan bekerja sendiri sesuai instruksi yang
+sudah diprogramkan dan bisa belajar sesuai dengan kebiasaan yang
+dilakukan pengguna atau siswa. Bahkan AI akan memberikan rekomendasi
+materi yang perlu dipelajari kembali dan lainnya berdasarkan hasil yang
+sudah Anda peroleh.
+7.     Game Edukasi.
+   Game edukasi adalah game yang didesain untuk belajar, tapi tetap bisa
+menawarkan bermain dan bersenang-senang. Game edukasi adalah semua
+bentuk permainan yang dibuat, untuk memberikan pengalaman pendidikan
+
+76      TARLING, Vol. 7, No. 1, Juni 2023       E-ISSN : 2614-4271 P-ISSN : 2599-1302
+    Penerapan Kecerdasan Buatan sebagai Media Pembelajaran Bahasa Arab di Era Society 5.0
+
+
+      atau pengalaman belajar melalui permainan yang diberi muatan pendidikan
+      (Nurhamim dkk., 2022).
+
+
+      D. KESIMPULAN
+           Kecerdasan buatan (Artificial Intelegent) adalah adalah sistem yang
+      dikembangkan dan di inovasi dalam bidang penelitian yang dimodelkan
+      pada mesin, komputer, dan artefak lain yang mungkin memiliki kecerdasan
+      yang sama atau lebih baik daripada manusia untuk memecahkan persoalan
+      yang rumit, memiliki kemampuan beradaptasi, dan niat, yang menampilkan
+      pengambilan keputusan, kognisi, dan pembelajaran serta dalam kerjanya
+      diarahkan sesuai keperluan manusia. Adapun penerapan kecerdasan buatan
+      (Artificial Intelligence/AI) sebagai media pembelajaran bahasa Arab di era
+      society 5,0 seperti saat ini sangat bermanfaat dalam mendukung proses
+      pembelajaran. Karena kecerdasan buatan ini dapat mengatasi keterbatasan
+      manusia sebagai pengajar atau tutor dalam proses pembelajaran.
+          Dari penelitian yang berbasis kualitiaf dengan memanfaatkan kajian
+      literatur dari buku, jurnal, dan artikel dapat dianalisis bahwa ada beberapa
+      penerapan AI yang dapat dimanfaatkan sebagai pendukung atau media
+      pembelajaran bahasa Arab di era society 5.0, yaitu diantaranya: Intelligent
+      Tutoring System (ITS), Voice Assistant, Personalized Learning, Virtual
+      Mentor, Smart Content, Automatic Assessment, dan Game Edukasi. Dengan
+      dilakukannya penelitian ini diharapkan dapat membantu pendidik maupun
+      peserta didik dalam menemukan alternatif media pembelajaran bahasa
+      Arab serta menjadi khazanah bagi penelitian selanjutnya.
+
+
+
+
+E-ISSN : 2614-4271 P-ISSN : 2599-1302              TARLING, Vol. 7, No. 1, Juni 2023   77
+Aidah Novianti Putri, Moh. Abdul Kholiq Hasan
+
+
+DAFTAR PUSTAKA
+Arip Nurahman, & Pandu Pribadi. (2022). Pemanfaatan Kecerdasan Buatan
+     pada Media Pembelajaran Berbantuan Google Assistant. Jurnal
+     Genesis Indonesia, 1(01), 24–32.
+Evanirosa, Bagenda, C., Hasnawati, Annova, F., Azizah, K., & Nursaeni.
+     (2022). Metode Penelitian Kepustakaan (Library Research) (Z.
+     Naim, Ed.). Bandung: Penerbit Media Sains Indonesia.
+Ismawati, N. A., & Ramadhanti, S. (2022). PENERAPAN ARTIFICAL
+     INTELLIGENCE DALAM MENDUKUG PEMBELAJARAN DI
+     ERA DIGITAL. PROSIDING SEMINAR NASIONAL BATCH 1,
+     158–166.
+Jamil, H., & Agung, N. (2021). Blended Learning Dalam Pembelajaran
+      Bahasa Arab Di Era Society 5.0: Problematika dan Solusinya. Al-
+      Waraqah: Jurnal Pendidikan Bahasa Arab, IAIN Bone, Sulawesi
+      Selatan, Indonesia., 2(1), 32–40.
+Manongga, D., Rahardja, U., Sembiring, I., Lutfiani, N., & Yadila, A. B.
+    (2022). Dampak Kecerdasan Buatan Bagi Pendidikan. ABDI Jurnal,
+    3(2), 40–55.
+Nurhamim, Jumhana, N., & Mubarok, R. H. (2022). RAGAM MEDIA
+     PEMBELAJARAN BAHASA ARAB BERBASIS ICT (M. A. Yaqin,
+     Ed.; 2022 ed.). Yogyakarta: CV.Istana Agency. www.istanaagency.
+     com
+Pasaribu, M., & Widjaja, A. (2022). Artificial Intelegence: Perspektif
+      Manajemen Strategis (N. Yasmine, Ed.). Jakarta: Kepustakaan
+      Populer Gramedia.
+RS Raveina, S. (2022, Juni 11). Inovasi Pembelajaran Bahasa Arab di Era
+    Industri 5.0. . Kompasiana.com. https://www.kompasiana.com/rvn2
+    52708/626eb9acbb44860e9a0a6bf2/inovasi-pembelajaran-bahasa-
+    arab-di-era-industri-5-0
+
+78      TARLING, Vol. 7, No. 1, Juni 2023       E-ISSN : 2614-4271 P-ISSN : 2599-1302
+    Penerapan Kecerdasan Buatan sebagai Media Pembelajaran Bahasa Arab di Era Society 5.0
+
+
+      Syagif, A. (2022). PARADIGMA PEMBELAJARAN BAHASA ARAB DI
+           ERA SOCIETY 5.0. FiTUA: Jurnal Studi Islam, 3(2), 134–144.
+
+
+
+
+E-ISSN : 2614-4271 P-ISSN : 2599-1302              TARLING, Vol. 7, No. 1, Juni 2023   79
+Aidah Novianti Putri, Moh. Abdul Kholiq Hasan
+
+
+
+
+80      TARLING, Vol. 7, No. 1, Juni 2023       E-ISSN : 2614-4271 P-ISSN : 2599-1302
+

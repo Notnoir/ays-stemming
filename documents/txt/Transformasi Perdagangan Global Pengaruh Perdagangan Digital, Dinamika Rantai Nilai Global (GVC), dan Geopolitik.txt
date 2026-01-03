@@ -1,0 +1,623 @@
+                                    AL-IQTISHOD: Jurnal Pemikiran dan Penelitian Ekonomi Islam
+                                                       E-ISSN: 2745-8512 P-ISSN: 2407-6600
+                                                 Volume 12 Issue 2 Juli 2024 | Page: 237-252
+                                          DOI: https://doi.org/10.37812/aliqtishod.v12i2.1581
+
+
+   Transformasi Perdagangan Global: Pengaruh Perdagangan Digital, Dinamika
+                  Rantai Nilai Global (GVC), dan Geopolitik
+Muhammad Izzul Fahmi
+Universitas Islam Negeri Sunan Ampel, Surabaya, Indonesia
+fahmiizoel99@gmail.com
+
+Ahmad Ardian Zuheri
+Universitas Islam Negeri Sunan Ampel, Surabaya, Indonesia
+ahmadardianzuheri@gmail.com
+
+Nur Kholis
+Universitas Islam Negeri Sunan Ampel, Surabaya, Indonesia
+nurkholis@uinsa.ac.id
+
+                       Received: June 13, 2024, Revised: July 11, 2024
+                    Accepted: August 19, 2024 Published: August 21, 2024
+
+Abstract: This research examines how global trade has evolved amidst technological
+advancements and complex geopolitical dynamics, focusing on digital trade, Global Value Chains
+(GVCs), and geopolitical shifts. The main question raised is: how do these three factors interact
+and reshape global trade? The background of this issue is based on the observation that while
+technology continues to drive global economic integration, geopolitical tensions and GVC
+dynamics often create new challenges for trade stability. This study positions itself within an
+analytical framework that combines a review of recent literature with a qualitative approach to
+explore the relationship between digital trade, GVCs, and geopolitics. This approach is used to
+address how these three factors influence the current structure and patterns of global trade. The
+discussion results show that digital trade has significantly transformed the way goods and services
+are traded, while GVC dynamics and geopolitical changes present new challenges, particularly
+concerning protectionist policies and international conflicts. The study concludes that although
+digital trade drives efficiency, the stability of global trade remains heavily influenced by
+geopolitical factors and GVC dynamics. The main contribution of this article is to provide
+comprehensive insights into how the interaction between technology, GVCs, and geopolitics
+shapes the future of global trade, offering new perspectives that can serve as references for
+policymakers and academics.
+Keywords: Global Trade, Digital Trade, Geopolitics and Global Value Chains (GVCs)
+
+Abstrak: Penelitian ini mengkaji bagaimana perdagangan global telah berkembang di tengah
+kemajuan teknologi dan dinamika geopolitik yang kompleks, dengan fokus pada perdagangan
+digital, rantai nilai global (Global Value Chains atau GVC), dan perubahan geopolitik.
+Pertanyaan utama yang diangkat adalah: bagaimana tiga faktor ini saling mempengaruhi dan
+membentuk ulang perdagangan global? Latar belakang masalah ini didasarkan pada pengamatan
+bahwa sementara teknologi terus mendorong integrasi ekonomi global, ketegangan geopolitik dan
+dinamika GVC sering kali menciptakan tantangan baru bagi stabilitas perdagangan. Penelitian ini
+menempatkan diri dalam kerangka analisis yang menggabungkan studi literatur terkini dengan
+pendekatan kualitatif untuk mengeksplorasi hubungan antara perdagangan digital, GVC, dan
+geopolitik. Pendekatan ini digunakan untuk menjawab pertanyaan bagaimana ketiga faktor
+tersebut mempengaruhi struktur dan pola perdagangan global saat ini. Hasil diskusi menunjukkan
+bahwa perdagangan digital telah secara signifikan mengubah cara produk dan jasa
+diperdagangkan, sementara dinamika GVC dan perubahan geopolitik memberikan tantangan
+baru, terutama terkait dengan kebijakan proteksionis dan konflik internasional. Penelitian ini
+menyimpulkan bahwa meskipun perdagangan digital mendorong efisiensi, stabilitas perdagangan
+global tetap sangat dipengaruhi oleh faktor-faktor geopolitik dan dinamika GVC. Kontribusi
+utama dari artikel ini adalah memberikan wawasan yang komprehensif tentang bagaimana
+interaksi antara teknologi, GVC, dan geopolitik membentuk masa depan perdagangan global,
+serta menawarkan perspektif baru yang dapat menjadi referensi bagi pembuat kebijakan dan
+akademisi.
+Kata Kunci: Perdagangan Global, Perdagangan Digital, Geopolitik dan Rantai Nilai Global
+(GVC)
+                                                                             Muhammad Izzul Fahmi,
+                                                                              Ahmad Ardian Zuheri,
+                                                                                       Nur Kholis
+A. Pendahuluan
+        Perdagangan global telah menjadi tulang punggung dalam perkembangan peradaban
+manusia sepanjang sejarah. Langkah-langkah penting dalam evolusi perdagangan global
+menyoroti interaksi yang luas antara berbagai budaya dan wilayah. Mulai dari zaman kuno
+sekitar 60.000 tahun yang lalu, globalisasi telah membentuk jalur perdagangan yang
+menghubungkan Eropa, Afrika Utara, Asia Tengah, dan Timur Jauh melalui jaringan
+seperti Jalur Sutra. Ekspansi perdagangan Arab pada abad ke-7 Masehi mempercepat
+pertukaran internasional, dengan perdagangan rempah-rempah menjadi salah satu fokus
+utama. Pada abad ke-13, rempah-rempah dan sutra dari Timur Jauh mengalir ke Eropa,
+membawa kekayaan budaya dan komoditas yang berharga. Rempah-rempah Asia tidak
+hanya digunakan sebagai bumbu, tetapi juga memiliki peran penting dalam obat-obatan
+pada masa tersebut.1
+        Era modern menyaksikan gelombang globalisasi perdagangan yang naik-turun seiring
+dengan perubahan politik dan ekonomi global. Dari periode stabilitas perdagangan hingga
+pasang-surutnya selama perang dunia, perdagangan global terus berkembang, didorong oleh
+perkembangan teknologi dan dinamika politik yang berkembang. Sebagai sebuah fenomena
+yang terus berubah, perdagangan global tetap menjadi motor penggerak bagi pertumbuhan
+ekonomi dan interaksi antarbudaya di seluruh dunia.
+        Perdagangan global dipengaruhi oleh sejumlah faktor yang kompleks dan saling
+terkait. Kebutuhan akan barang dan jasa yang tidak dapat diproduksi secara efisien secara
+domestik mendorong negara-negara untuk melakukan perdagangan internasional,
+sementara perbedaan dalam sumber daya alam antar negara memicu adanya perdagangan
+untuk memanfaatkan keunggulan komparatif. Selain itu, kebijakan ekonomi dan politik
+suatu negara, bersama dengan fenomena globalisasi, turut membentuk lanskap perdagangan
+global. Faktor-faktor seperti perbedaan kualitas sumber daya manusia, stabilitas politik,
+
+
+
+
+1
+    Irfan T Harja, Metakuasa Perdagangan Global (Indie Book Corner, 2019).
+
+Volume. 12/No. 2/Juli 2024 Al-Iqtishod |237
+    Transformasi Perdagangan Global …
+dan kondisi perekonomian juga memainkan peran penting dalam menentukan arah
+perdagangan internasional.2
+       Teknologi telah memainkan peran penting dalam meningkatkan efisiensi dan
+kemudahan dalam perdagangan global, contohnya, penggunaan teknologi informasi telah
+memungkinkan transaksi perdagangan yang lebih cepat dan lebih efektif.3 Dalam
+revitalisasi ruang, teknologi informasi memiliki peran dalam mengubah paradigma
+arsitektur menjadi lebih baik yang memiliki fungsi yang lebih dinamis, berkelanjutan, dan
+sesuai dengan kebutuhan yang diinginkan. Rekayasa ulang proses bisnis juga memilki peran
+penting dalam meningkatkan efisiensi dan efektivitas, terutama dalam pengadaan barang
+dan jasa. Peran teknologi dalam pendidikan sains juga sangat penting, seperti
+pengembangan media pembelajaran berbasis Android untuk memahaman materi
+gelombang cahaya. Analisis kompetensi penggunaan e-learning, kesiapan, dan penggunaan
+teknologi digital mahasiswa juga menunjukkan peran teknologi dalam meningkatkan
+literasi digital dan integrasi komputer di lingkungan pendidikan tinggi. Tantangan sekolah
+dan peran guru dalam mewujudkan pembelajaran bahasa yang efektif di era 4.0 menuju
+masyarakat 5.0 juga menunjukkan peran teknologi dalam meningkatkan kemampuan guru
+dalam mengajar.
+       Perdagangan global memiliki dampak yang signifikan terhadap masyarakat, baik secara
+positif maupun negatif. Dampak positifnya dapat dilihat dalam peningkatan kemakmuran,
+karena perdagangan global dapat membuka peluang bagi masyarakat untuk mengakses
+produk dan jasa yang lebih luas dan beragam. Hal ini dapat meningkatkan kualitas hidup
+masyarakat dan memberikan mereka lebih banyak pilihan untuk memenuhi kebutuhan
+mereka. Namun, dampak negatifnya dapat dilihat dalam ancaman terhadap pekerjaan lokal.
+Dengan adanya perdagangan global, beberapa perusahaan dapat memilih untuk mengimpor
+
+2
+  Mustika Prabaningrum Kusumawati, Ahmad Khairun Hamrany, and Ariyati Rahman, “Kepatuhan Wajib
+Pajak Penyedia Platform Marketplace E-Commerce Sebagai Pemungut Pajak Pertambahan Nilai
+Perdagangan Melalui Sistem Elektronik,” Kosmik Hukum 31, no. 3 (2021): 203,
+https://doi.org/10.30595/kosmikhukum.v21i3.9175.
+3
+  Bagus Mulyawan Delya and Manatap Dolok Lauro, “E-Commerce Blessed Party Dengan Sistem
+Rekomendasi Apriori Dan Collaborative Filtering,” Jurnal Ilmu Komputer Dan Sistem Informasi 8, no. 1
+(2024): 29–37, https://doi.org/10.24912/computatio.v8i1.17130.
+
+                                            238| Al-Iqtishod Volume. 12/ No. 2/Juli 2024
+                                                                 Muhammad Izzul Fahmi,
+                                                                  Ahmad Ardian Zuheri,
+                                                                            Nur Kholis
+produk dari negara lain yang lebih murah, sehingga dapat mengancam pekerjaan lokal. Hal
+ini dapat menyebabkan penurunan kualitas hidup masyarakat dan meningkatkan tingkat
+kemiskinan. Selain itu, perdagangan global juga dapat memiliki dampak pada budaya dan
+lingkungan. Dengan adanya perdagangan global, beberapa budaya dapat terancam oleh
+pengaruh budaya lain yang lebih dominan. Hal ini dapat menyebabkan hilangnya identitas
+budaya dan nilai-nilai yang unik. Dalam hal lingkungan, perdagangan global dapat
+memiliki dampak pada polusi dan kerusakan lingkungan. Dengan adanya perdagangan
+global, beberapa produk dapat diproduksi dengan cara yang tidak ramah lingkungan,
+sehingga dapat menyebabkan polusi dan kerusakan lingkungan.
+     Basis penelitian terdahulu yang digunakan oleh peneliti adalah penelitian berjudul
+"Analisis dari Dampak ….. E-Commerce Pada Rantai Pasok Logistik"4 yang berfokus
+pada bagaimana adopsi e-commerce mempengaruhi rantai pasok logistik. Penelitian ini
+menggunakan pendekatan kualitatif untuk mengeksplorasi perubahan yang terjadi dalam
+manajemen persediaan, distribusi, transportasi, dan pengelolaan informasi sebagai akibat
+dari penerapan e-commerce. Temuan utama dari penelitian ini mencakup dampak e-
+commerce terhadap pola permintaan pelanggan, percepatan siklus pesanan, dan perluasan
+jangkauan geografis. Penelitian tersebut juga menggarisbawahi perlunya strategi inovatif
+seperti otomatisasi dan kemitraan dengan penyedia logistik eksternal.
+     Sementara itu, penelitian yang dilakukan penulis mencoba menjangkau cakupan yang
+lebih luas, yakni tidak hanya mengkaji pengaruh e-commerce terhadap rantai pasok logistik
+tetapi juga memasukkan analisis mengenai perdagangan digital secara umum, dinamika
+rantai nilai global (GVC), dan dampak geopolitik terhadap perdagangan global. Dengan
+menggunakan pendekatan kualitatif dan mengumpulkan data dari studi literatur dan
+dokumen terkini.
+
+
+
+
+4
+ Pamungkas B P et al., “Analisis Dari Dampak Yang Terlihat Pada Perkembangan E-Commerce Di Era
+Digitalisasi Dan Rantai Pasok Logistik,” Jurnal Ilmiah Wahana Pendidikan 9, no. 15 (August 5, 2023):
+616–21, https://doi.org/10.5281/zenodo.8218081.
+
+Volume. 12/No. 2/Juli 2024 Al-Iqtishod |239
+    Transformasi Perdagangan Global …
+       Penelitian ini bertujuan untuk menyelidiki tiga aspek utama dalam tren perdagangan
+global saat ini: perdagangan digital seperti e-commerce, platform digital, dan arus data;
+dinamika rantai nilai global (GVC) dan implikasinya terhadap pola perdagangan; serta
+dinamika geopolitik dan dampaknya terhadap perdagangan global. Dalam era di mana
+teknologi terus berkembang dengan cepat dan ketegangan geopolitik semakin kompleks,
+pemahaman mendalam tentang tren-tren ini menjadi krusial bagi pengambilan keputusan
+yang tepat dalam mengelola perdagangan global.5 Diharapkan bahwa penelitian ini dapat
+memberikan analisis yang mendalam tentang perkembangan perdagangan digital,
+mengungkap hubungan antara rantai nilai global dan strategi perdagangan negara, serta
+menyediakan wawasan tentang bagaimana dinamika geopolitik memengaruhi arus
+perdagangan internasional. Dengan demikian, hasil penelitian ini diharapkan dapat
+memberikan kontribusi yang signifikan dalam memahami dan merespons perubahan-
+perubahan penting dalam lanskap perdagangan global saat ini.
+
+
+B.     Kajian Pustaka
+1. Perdagangan global
+          Perdagangan global memang menjadi salah satu instrumen utama untuk
+meningkatkan pertumbuhan ekonomi suatu negara. Secara tradisional, perdagangan terjadi
+karena adanya perbedaan dalam kelangkaan sumber daya di antara negara-negara tersebut.
+Era globalisasi yang kita alami saat ini memperkuat kebutuhan akan pertukaran lintas
+negara dalam berbagai aspek seperti industri, tenaga kerja, barang, jasa, dan lainnya. 6
+          Perdagangan global merupakan aktivitas ekonomi di mana penduduk suatu negara
+melakukan pertukaran barang dan jasa dengan penduduk negara lain berdasarkan
+kesepakatan bersama. Menurut Huala Adolf, perdagangan internasional dapat diartikan
+
+
+5
+  Keun Lee, Marina Szapiro, and Zhuqing Mao, “From Global Value Chains (GVC) to Innovation Systems
+for Local Value Chains and Knowledge Creation,” The European Journal of Development Research 30
+(2018): 424–41, https://doi.org/10.1057/s41287-017-0111-6.
+6
+  Hesty Nurul Utami and Sulistyodewi Nur Wiyono, “Manfaat Yang Diharapkan Dari Model Perdagangan
+Digital Produk Pangan: Perspektif Pelaku Agribisnis,” Jurnal Agristan 5, no. 1 (2023): 61–73,
+https://doi.org/10.37058/agristan.v5i1.6999.
+
+                                           240| Al-Iqtishod Volume. 12/ No. 2/Juli 2024
+                                                               Muhammad Izzul Fahmi,
+                                                                Ahmad Ardian Zuheri,
+                                                                          Nur Kholis
+sebagai proses tukar-menukar atau jual-beli yang terjadi antar negara dengan tujuan
+memperoleh keuntungan tertentu. Banyak negara di seluruh dunia mengandalkan
+perdagangan internasional sebagai salah satu faktor penting untuk meningkatkan
+pendapatan negara (PDB). Secara teoritis, perdagangan internasional memberikan beberapa
+keuntungan, salah satunya adalah keuntungan dari adanya pertukaran. Dengan adanya
+perdagangan, suatu negara memiliki kesempatan untuk memproduksi barang atau jasa lebih
+dari permintaan dalam negeri dan kemudian mengekspor kelebihan penawaran tersebut ke
+pasar internasional. Hal ini memungkinkan negara untuk memanfaatkan keunggulan
+komparatifnya dan meningkatkan efisiensi ekonomi dengan fokus pada produksi barang
+dan jasa di mana mereka memiliki keunggulan relatif.7 Dalam jangka panjang adanya
+keterbukaan perdagangan dapat berdampak pada pengurangan tingkat kemiskinan dan
+dalam jangka pendek dapat mengurangi ketimpangan pendapatan di Indonesia. Maka dari
+itu, selain sebagai sarana untuk memenuhi kebutuhan akan barang dan jasa dalam negeri,
+perdagangan internasional juga berdampak baik pada perekonomian melalui penambahan
+cadangan devisa negara.8
+         Pada era Merkantilis terdapat beberapa teori yang menjelaskan perdagangan global,
+salah satunya adalah teori komparatif (comparative advantage). Teori ini menyatakan
+bahwa suatu negara akan memproduksi barang yang merupakan spesialisasi atau
+keunggulan relatif mereka, sementara akan membeli barang dari luar negeri yang bukan
+merupakan spesialisasi dalam negeri. Berdasarkan Hukum Keunggulan Komparatif, suatu
+negara akan mendapatkan keuntungan jika mereka memanfaatkan tenaga kerja dan sumber
+daya yang dimilikinya untuk memproduksi barang yang merupakan spesialisasi atau
+keahlian mereka. Dalam konteks ini, jika suatu negara memaksimalkan produksi dari apa
+yang mereka mampu, maka hasilnya akan maksimal, bahkan bisa melebihi kebutuhan
+
+7
+  Arief Darmawan, Lili Adi Wibowo, and Adhie Surachman, “Penerapan Rantai Nilai Global Sebagai
+Strategi Peningkatan Ekspor Produk Kopi,” Coopetition : Jurnal Ilmiah Manajemen 12, no. 1 (2021): 9–16,
+https://doi.org/10.32670/coopetition.v12i1.277.
+8
+  Abdurrahman Mulachela, Khairur Rizki, and Y.A. Wahyudin, “Analisis Perkembangan Industri Game Di
+Indonesia Melalui Pendekatan Rantai Nilai Global ( Global Value Chain,” Indonesian Journal of Global
+Discourse (IJGD) 2, no. 2 (2020): 32–51, https://doi.org/10.29303/ijgd.v2i2.17.
+
+Volume. 12/No. 2/Juli 2024 Al-Iqtishod |241
+Transformasi Perdagangan Global …
+dalam negeri, dan kelebihan produksi tersebut dapat dijual kepada negara lain dalam
+bentuk barang atau jasa yang tidak dapat diproduksi secara optimal oleh negara tersebut.
+2. Dinamika rantai nilai global
+        Global Value Chains (GVC) didefinisikan sebagai rangkaian tahapan dalam
+produksi suatu barang atau jasa yang dijual kepada konsumen, di mana setiap tahapannya
+melibatkan peningkatan nilai (value) dan terdiri dari minimal dua tahap produksi yang
+dilakukan di negara yang berbeda. Untuk dapat dikategorikan sebagai partisipan dalam
+GVC, suatu negara harus terlibat dalam setidaknya satu tahap dalam rantai nilai tersebut.
+Perdagangan melalui Global Value Chains (GVC) memang memiliki perbedaan signifikan
+dengan perdagangan tradisional. Pada perdagangan tradisional, transaksi hanya melibatkan
+dua negara, yaitu eksportir dan importir, sehingga mudah untuk mengukur nilai
+perdagangan. Namun, dalam perdagangan GVC, barang melewati perbatasan negara
+beberapa kali selama proses produksi, membuatnya lebih sulit untuk mengukur
+perdagangan secara tepat. Studi kasus seperti iPhone memberikan gambaran yang jelas
+tentang kompleksitas perdagangan dalam konteks GVC. Misalnya, jika hanya dihitung
+menggunakan data ekspor dan impor tradisional, terlihat defisit neraca perdagangan di sisi
+Amerika Serikat. Namun, ketika dilihat berdasarkan nilai tambah atau GVC, defisit
+tersebut jauh lebih kecil karena banyak komponen iPhone yang diimpor dari negara lain
+seperti Jepang, Jerman, dan lainnya.
+        Keterbatasan dalam pemetaan perdagangan dengan nilai tambah atau GVC
+mendorong penggunaan data input-output multicountry, meskipun masih banyak
+kekurangannya. Konsep spesialisasi vertikal dikembangkan melalui studi lanjutan, seperti
+pada kasus ekspor Tiongkok, yang menggunakan matriks input-output untuk membagi
+sektor yang memproses barang ekspor dan keseluruhan perekonomian. Hasilnya
+menunjukkan bahwa konten impor yang terkandung dalam ekspor Tiongkok lebih besar
+daripada yang dihitung dengan menggunakan konsep spesialisasi vertikal.
+        Studi empiris yang menggunakan data Global Trade Analysis Project (GTAP)
+menunjukkan bahwa dengan menggunakan perhitungan perdagangan nilai tambah, defisit
+
+
+                                        242| Al-Iqtishod Volume. 12/ No. 2/Juli 2024
+                                                            Muhammad Izzul Fahmi,
+                                                               Ahmad Ardian Zuheri,
+                                                                         Nur Kholis
+neraca perdagangan antara Amerika Serikat dan Tiongkok dapat turun sekitar 30-40%
+dibandingkan dengan perhitungan menggunakan data perdagangan tradisional. Penelitian
+ini menjadi dasar bagi para peneliti dalam melakukan studi empiris tentang GVC. Metode
+dekomposisi gross exports menjadi empat sumber perhitungan nilai tambah, yaitu domestic
+value added absorbed abroad, domestic value added first exported then returned home,
+foreign value added, dan pure double counted terms. Keempat sumber tersebut kemudian
+dianalisis lebih lanjut berdasarkan mekanisme perdagangannya. Metode KWW (Koopman,
+Wang, dan Wei) menjadi fondasi bagi pengembangan database input-output antar negara
+oleh badan internasional dan universitas. Contohnya adalah World Input-Output Database
+(WIOD) oleh Universitas Groningen, Trade in Value Added database (TiVA) oleh
+Organisasi untuk Kerjasama Ekonomi dan Pembangunan (OECD), serta Eora global
+supply chain database oleh Universitas Sydney. Ketiga sumber data tersebut kini banyak
+digunakan oleh para peneliti untuk melakukan penelitian empiris terkait GVC.9
+3. Geopolitik
+         Definisi geografi politik mencakup studi tentang hubungan antara kehidupan
+politik dan aktivitas politik dengan kondisi alam suatu negara. Hal ini melibatkan analisis
+tentang negara sebagai entitas politik dalam konteks lingkungan alamnya. Geografi politik
+juga memperhatikan hubungan antar negara, baik faktor internal maupun eksternal,
+termasuk faktor geografis dalam hubungan internasional. Objek dari studi geografi politik
+adalah analisis dan hubungan antar negara serta adaptasi terhadap kondisi lingkungan di
+dalam negara tersebut. Dengan demikian, geografi politik dapat diartikan sebagai
+interpretasi geografis dari hubungan internasional dan dinamika politik antar negara.
+Rudolf Kjellén, seorang ilmuwan politik Swedia, dianggap sebagai pencetus konsep
+geopolitik yang pertama kali. Penggunaan konsep geopolitik menyebar di Eropa antara
+Perang Dunia I dan Perang Dunia II, dan terus digunakan hingga saat ini. Meskipun
+terdapat variasi dalam penggunaan istilah tersebut, geopolitik tetap menjadi bagian penting
+
+9
+ Lee, Szapiro, and Mao, “From Global Value Chains (GVC) to Innovation Systems for Local Value Chains
+and Knowledge Creation.”
+
+Volume. 12/No. 2/Juli 2024 Al-Iqtishod |243
+ Transformasi Perdagangan Global …
+dalam kajian politik internasional dan sering digunakan sebagai sinonim yang bebas dengan
+tidak ada aturan yang mengatur penggunaannya.10
+        Indonesia merupakan negara kepulauan atau sekarang yang disebut sebagai negara
+maritim, Dan memiliki laut yang luas serta pantai yang panjang dan menjadikan negara
+terbesar di dunia sebagi negara kepulauan.11 Negara ini juga memiliki posisi geografis yang
+unik sekaligus menjadikannya strategis. Hal ini dapat dilihat dari letak Indonesia yang
+berada di antara dua samudera dan dua benua sekaligus memiliki perairan yang menjadi
+salah satu urat nadi perdagangan internasional. Posisi ini menempatkan Indonesia
+berbatasan laut dan darat secara langsung dengan sepuluh negara di kawasan. Keadaan ini
+menjadikan Indonesia rentan terhadap sengketa perbatasan dan ancaman keamanan yang
+menyebabkan instabilitas dalam negeri dan di kawasan. Geopolitik menjadi hakikat dalam
+menjelaskan persatuan dan kesatuan suatu wilayah. Wilayah NKRI sudah menjadi satu
+berdasarkan Bhineka Tunggal Ika (BKI) yaitu untuk kesetaraan, keadilan dan kebersamaan
+serta kepentingan nasional. Namun hingga saat ini persatuan dan keutuhan wilayah
+terancam oleh berbagai gerakan dari dalam negara, salah satunya gerakan separatis baik
+yang sudah memiliki kekuatan bersenjata ataupun yang masih dalam bentuk wacana. 12
+4. Transformasi perdagangan global
+        Transformasi Perdagangan Global (TPG) dapat dijabarkan sebagai perubahan
+yang terjadi dalam sistem perdagangan global, yang dipengaruhi oleh berbagai faktor,
+termasuk globalisasi, teknologi informasi, dan kapitalisme. TPG membawa dampak pada
+perubahan struktur ekonomi, meningkatkan persaingan sumber daya manusia, dan
+meningkatkan kebutuhan akan keahlian, keterampilan, dan keprofesionalan yang tinggi.
+Dalam konteks pendidikan, TPG mempengaruhi perilaku masyarakat pendidikan di
+perguruan tinggi, memerlukan mindset, emotional ground, dan motivational roots yang
+lebih adaptif dan inovatif untuk menghadapi tantangan global.
+
+10
+   Muhammad Badaruddin, “Signifikansi Energi Dalam Dinamika Geopolitik Di Timur Tengah,” 2020.
+11
+   Muhammad Badry Muntasyir, Made Panji, and Teguh Santoso, “Southeast Asia’s Geopolitical Dynamics
+In Responding To The Emergence Of AUKUS,” Jurnal Ilmu Hubungan Internasional LINO 2, no. 1
+(2022): 34–43.
+12
+   Muntasyir, Panji, and Santoso.
+
+                                            244| Al-Iqtishod Volume. 12/ No. 2/Juli 2024
+                                                                         Muhammad Izzul Fahmi,
+                                                                          Ahmad Ardian Zuheri,
+                                                                                   Nur Kholis
+5. Tren terkini dalam perdagangan global
+           Dalam era globalisasi yang semakin dinamis, beberapa tren terkini dalam
+perdagangan global telah menjadi perhatian utama. Pertama, penggunaan teknologi
+informasi dalam pendidikan telah meningkat pesat, memberikan akses yang lebih luas dan
+mudah terhadap sumber belajar dan meningkatkan motivasi siswa dalam belajar.
+Selanjutnya, inovasi produk keuangan syariah menandai pertumbuhan pesat dalam dunia
+keuangan Islam, dengan teknologi seperti blockchain dan fintech memberikan solusi etis
+dan inklusif di pasar global.13 Di samping itu, keunggulan komparatif produk halal dalam
+perdagangan internasional semakin memperluas pasar, terutama di Indonesia yang memiliki
+potensi ekonomi besar. Namun, tren perdagangan satwa liar mempercepat kepunahan
+keanekaragaman hayati, sementara industri halal di perdagangan global terus berkembang,
+baik di negara Muslim maupun non-Muslim. Dengan demikian, komitmen untuk
+mengembangkan teknologi informasi dan produk keuangan syariah menjadi krusial dalam
+meningkatkan kemajuan ekonomi dan sosial di tengah dinamika perdagangan global yang
+terus berubah.
+
+C. Metode Penelitian
+       Metode penelitian ini mengadopsi pendekatan kualitatif yang berfokus pada
+pengumpulan dan analisis data dari berbagai sumber terkini, termasuk jurnal akademis
+periode 2019-2024 dan berita terbaru terkait perdagangan global. Data kualitatif
+diperoleh melalui tinjauan literatur dari jurnal-jurnal terbaru yang mencakup topik e-
+commerce, rantai nilai global, dan geopolitik perdagangan. Selain itu, analisis berita terbaru
+dan laporan terkini juga digunakan untuk memperoleh pemahaman yang menyeluruh
+tentang tren perdagangan global yang sedang berkembang. Setelah data terkumpul,
+dilakukan analisis tematis untuk mengidentifikasi pola-pola umum, tren, dan isu-isu kunci
+dalam literatur akademis dan berita terkini. Penekanan diberikan pada pemahaman
+
+
+13
+     Eri Yanti Nasution and Tika Indria, “Tren Belanja Online Pada Social Commerce,” Jurnal AKMAMI
+(Akuntansi Manajemen Ekonomi 3, no. 3 (2023): 655.
+
+Volume. 12/No. 2/Juli 2024 Al-Iqtishod |245
+Transformasi Perdagangan Global …
+perspektif multi-sisi dan kompleksitas fenomena perdagangan global dalam konteks
+perkembangan terkini. Kesimpulan dari analisis data kualitatif disusun untuk merangkum
+temuan utama, implikasi praktis, serta rekomendasi kebijakan yang relevan bagi
+pengambilan keputusan di tingkat nasional dan internasional. Diharapkan bahwa
+pendekatan ini akan memberikan pemahaman yang komprehensif tentang dinamika
+perdagangan global saat ini dan memberikan pandangan yang berharga untuk pengambilan
+keputusan dan pembuatan kebijakan di masa mendatang.
+
+D. Hasil dan Pembahasan
+1. Transformasi perdagangan: E-commerce, platform digital, dan arus data
+           Perdagangan digital, yang meliputi e-commerce, platform digital, dan arus data,
+telah menjadi bagian integral dari kehidupan sehari-hari di Indonesia. Dalam beberapa
+tahun terakhir, perdagangan online telah meningkatkan keuntungan finansial, menciptakan
+lapangan kerja, memberikan manfaat bagi pembeli, dan meningkatkan kesetaraan sosial.
+Namun, legal liability memastikan perilaku yang bertanggung jawab dari aktor-aktor untuk
+melindungi nilai-nilai dasar, meningkatkan kepercayaan transparansi, dan memastikan
+keadilan, serta menjaga pasar tetap terbuka dan tidak diskriminatif untuk mendorong
+ekonomi berbasis data.14
+           Studi lainnya menemukan bahwa perubahan kebiasaan konsumsi di era digital
+dipengaruhi oleh e-commerce dan kemudahan transaksi di Indonesia. Hasil penelitian
+menunjukkan bahwa terdapat korelasi yang kuat dan menguntungkan antara Kemudahan
+Transaksi dan Pola Konsumsi, serta antara E-commerce dan Pola Konsumsi. Perubahan
+dalam pola pembelian konsumen Indonesia sebagian besar disebabkan oleh semakin
+populernya perdagangan digital dan pengalaman transaksi yang lebih baik.
+           Selain itu, penelitian juga menunjukkan bahwa pelatihan digital marketing pada
+platform e-commerce dapat meningkatkan produktifitas UMKM kuliner Jawara Depok
+melalui peningkatan penjualan. Dalam implementasi pelatihan digital marketing pada
+
+
+14
+     Nasution and Indria.
+
+                                         246| Al-Iqtishod Volume. 12/ No. 2/Juli 2024
+                                                        Muhammad Izzul Fahmi,
+                                                          Ahmad Ardian Zuheri,
+                                                                   Nur Kholis
+platform e-commerce membutuhkan kesiapan sumber daya manusia yang mempunyai
+pengetahuan dan ketrampilan dalam pengelolaan e-commerce serta sarana prasarana berupa
+perangkat/gadget serta paket data (jaringan Wi-Fi).
+        E-commerce juga telah membawa dampak pada kepatuhan wajib pajak penyedia
+platform marketplace e-commerce sebagai pemungut pajak pertambahan nilai perdagangan
+melalui sistem elektronik. Studi ini menemukan bahwa tingkat kepatuhan perusahaan yang
+menyediakan platform marketplace e-commerce terbagi menjadi dua tingkat: 1) tingkat
+kepatuhan berdasarkan pemotongan, penyetoran, dan pelaporan yang terkait dengan pajak
+perusahaan itu sendiri, dan 2) tingkat kepatuhan berdasarkan niat sukarela untuk
+mendaftar sebagai pemungut PPN PMSE.
+        Dalam beberapa tahun terakhir, e-commerce telah meningkatkan keuntungan
+finansial, menciptakan lapangan kerja, memberikan manfaat bagi pembeli, dan
+meningkatkan kesetaraan sosial. Namun, legal liability memastikan perilaku yang
+bertanggung jawab dari aktor-aktor untuk melindungi nilai-nilai dasar, meningkatkan
+kepercayaan transparansi, dan memastikan keadilan, serta menjaga pasar tetap terbuka dan
+tidak diskriminatif untuk mendorong ekonomi berbasis data.
+2. Rantai nilai global dan implikasinya terhadap pola perdagangan global
+        Rantai nilai global atau Global Value Chain (GVC) telah menjadi subjek
+perdebatan yang meningkat dalam beberapa tahun terakhir, terutama dalam konteks
+hubungan antara nilai tukar dan ekspor. Studi terbaru telah menunjukkan bahwa GVC
+dapat mempengaruhi elastisitas ekspor terhadap perubahan nilai tukar efektif riil (REER)
+di beberapa negara ASEAN. Dalam beberapa kasus, GVC telah dianggap sebagai sumber
+melemahnya hubungana antara nilai tukar dan ekspor, terutama di Indonesia dan Malaysia,
+di mana integrasi ke GVC telah menurunkan elastisitas ekspor terhadap perubahan REER
+sekitar 70% hingga 89%.15
+
+
+15
+  Defy Oktaviani and Nagentra Shrestha, “Exchange Rates Elasticity of Exports in ASEAN: The
+Role of Global Value Chains,” Buletin Ilmiah Litbang Perdagangan 1, no. 15 (2021): 1–26,
+https://doi.org/10.30908/bilp.v15i1.538.
+
+Volume. 12/No. 2/Juli 2024 Al-Iqtishod |247
+Transformasi Perdagangan Global …
+        GVC juga telah menjadi subjek perdebatan dalam konteks investasi asing dan
+perdagangan global. Pem berlakuan larangan kegiatan untuk mengontrol penyebaran
+Covid-19 telah memberikan tekanan yang sangat besar terhadap perdagangan dan investasi
+internasional, dengan prediksi jatuhnya perdagangan global sebesar 13-32% dan
+Penanaman Modal Asing (PMA) yang terpuruk lebih dalam dengan estimasi antara 30 dan
+40%. Dalam konteks ini, GVC tengah diatur ulang guna mengurangi ketergantungan
+kepada Cina, dengan Asia Tenggara yang relatif tidak menarik bagi investor asing karena
+kondisi regulasi yang sangat rumit.
+        Dalam konteks yang lebih luas, GVC telah menjadi subjek perdebatan dalam
+konteks keamanan dan stabilitas global. Tinjauan literatur terbaru telah mengkaji dampak
+perang Rusia-Ukraina terhadap perdagangan internasional dan stabilitas ekonomi global,
+serta mengidentifikasi temuan-temuan utama dan kesenjangan penelitian. Dalam konteks
+ini, GVC telah dianggap sebagai salah satu faktor yang mempengaruhi stabilitas global,
+terutama dalam hal gangguan rantai pasokan pangan dan energi yang dapat menimbulkan
+tantangan terhadap ketahanan dan ketersediaan pangan.
+        Dalam konteks yang lebih spesifik, GVC telah menjadi subjek perdebatan dalam
+konteks kejahatan perdagangan anak di bawah umur. Tekanan ekonomi disertai dengan
+realitas sosial yang terjadi dalam masyarakat dan pemerintah, serta luasnya sarana
+transportasi, berkembangnya ilmu pengetahuan dan teknologi, dan komunikasi, telah
+dianggap sebagai faktor-faktor penyebab terjadinya kejahatan perdagangan anak.
+        Dalam konteks yang lebih budaya, GVC telah menjadi subjek perdebatan dalam
+konteks simbol persatuan bagi masyarakat setempat. Penelitian terbaru telah mengkaji
+sejarah Pura Tegal Suci, bentuk, struktur, proses upacara, keyakinan, nilai, dan sikap
+masyarakat tentang Pura Tegal Suci yang menampakkan keunikan jika dibandingkan
+dengan pura-pura umumnya di Bali. Dalam konteks ini, GVC telah dianggap sebagai salah
+satu faktor yang mempengaruhi simbol persatuan bagi masyarakat setempat, terutama
+dalam hal hubungan dagang sejak jaman Bali Kuno yang membawa para pedagang muslim
+Cina, Bugis, dan Bajo.
+
+
+                                       248| Al-Iqtishod Volume. 12/ No. 2/Juli 2024
+                                                            Muhammad Izzul Fahmi,
+                                                              Ahmad Ardian Zuheri,
+                                                                        Nur Kholis
+        Dalam kesimpulan, GVC telah menjadi subjek perdebatan yang sangat luas dan
+kompleks dalam berbagai konteks, termasuk hubungan antara nilai tukar dan ekspor,
+investasi asing dan perdagangan global, keamanan dan stabilitas global, kejahatan
+perdagangan anak di bawah umur, dan simbol persatuan bagi masyarakat setempat. Dalam
+beberapa kasus, GVC telah dianggap sebagai sumber melemahnya hubungan antara nilai
+tukar dan ekspor, serta sebagai salah satu faktor yang mempengaruhi stabilitas global dan
+simbol persatuan bagi masyarakat setempat.
+3. Dinamika geopolitik dan dampaknya terhadap perdagangan global
+        Dinamika geopolitik dan dampaknya terhadap perdagangan global adalah topik
+yang sangat relevan dan kompleks. Geopolitik, yang berfokus pada interaksi antara
+politik dan geografi, mempengaruhi dinamika perdagangan global dengan cara yang
+signifikan. Berikut adalah beberapa contoh bagaimana geopolitik mempengaruhi
+perdagangan global:
+    1. Konflik dan Perang: Konflik dan perang dapat mengganggu jalur perdagangan,
+        menghambat aliran barang dan jasa, serta meningkatkan biaya logistik.
+        Contohnya, Perang di Ukraina telah mengganggu jalur perdagangan Eropa-
+        Rusia dan meningkatkan biaya logistik.
+    2. Kebijakan Ekonomi: Kebijakan ekonomi suatu negara dapat mempengaruhi
+        perdagangan global. Contohnya, kebijakan proteksionisme AS telah
+        meningkatkan tarif dan mengganggu perdagangan internasional.
+    3. Hubungan       Diplomatik:    Hubungan    diplomatik   antara   negara   dapat
+        mempengaruhi perdagangan global. Contohnya, perjanjian perdagangan antara
+        AS dan China telah meningkatkan perdagangan antara dua negara.
+    4. Krisis Ekonomi: Krisis ekonomi dapat mempengaruhi perdagangan global.
+        Contohnya, Krisis Ekonomi 2008 telah mengganggu perdagangan global dan
+        meningkatkan biaya kredit.
+    5. Pengaruh Teknologi: Pengaruh teknologi, seperti e-commerce dan blockchain,
+        dapat mempengaruhi perdagangan global dengan cara yang signifikan.
+
+Volume. 12/No. 2/Juli 2024 Al-Iqtishod |249
+Transformasi Perdagangan Global …
+       Contohnya, e-commerce telah meningkatkan akses ke pasar global dan
+       mengurangi biaya logistik.
+   6. Pengaruh Lingkungan: Pengaruh lingkungan, seperti perubahan iklim dan
+       konservasi sumber daya alam, dapat mempengaruhi perdagangan global.
+       Contohnya, perubahan iklim telah meningkatkan biaya logistik dan
+       mengganggu jalur perdagangan.
+   7. Pengaruh Demografi: Pengaruh demografi, seperti pertumbuhan penduduk dan
+       perubahan struktur usia, dapat mempengaruhi perdagangan global. Contohnya,
+       pertumbuhan penduduk di Asia telah meningkatkan permintaan akan produk
+       konsumen dan meningkatkan perdagangan global.
+   8. Pengaruh Politik: Pengaruh politik, seperti perubahan pemerintahan dan
+       kebijakan, dapat mempengaruhi perdagangan global. Contohnya, perubahan
+       pemerintahan di AS telah meningkatkan kebijakan proteksionisme dan
+       mengganggu perdagangan global.
+   9. Dalam sintesis, dinamika geopolitik mempengaruhi perdagangan global dengan
+       cara yang kompleks dan dinamis. Perubahan geopolitik dapat meningkatkan
+       biaya logistik, mengganggu jalur perdagangan, dan mengurangi akses ke pasar
+       global. Oleh karena itu, analisis geopolitik sangat penting dalam memahami
+       dinamika perdagangan global dan mengembangkan strategi yang efektif untuk
+       meningkatkan perdagangan global.
+
+E. Simpulan
+
+Penelitian ini mengkaji berbagai aspek perdagangan global, termasuk peran e-commerce,
+rantai nilai global (Global Value Chains/GVC), dan dinamika geopolitik terhadap
+perubahan pola perdagangan internasional. Temuan utama menunjukkan bahwa
+transformasi digital, terutama melalui e-commerce, telah mengubah pola konsumsi dan
+produksi di Indonesia, serta mendorong kepatuhan pajak di kalangan penyedia platform
+marketplace. Selain itu, integrasi dalam GVC secara signifikan mempengaruhi elastisitas
+ekspor terhadap nilai tukar di negara-negara ASEAN, dengan GVC mengurangi
+
+                                       250| Al-Iqtishod Volume. 12/ No. 2/Juli 2024
+                                                                 Muhammad Izzul Fahmi,
+                                                                   Ahmad Ardian Zuheri,
+                                                                              Nur Kholis
+sensitivitas ekspor terhadap fluktuasi nilai tukar. Pada aspek geopolitik, penelitian ini
+menemukan bahwa dinamika politik internasional, seperti konflik dan kebijakan
+proteksionisme, memainkan peran penting dalam mengganggu jalur perdagangan global
+dan meningkatkan biaya logistik. Geopolitik juga berpengaruh dalam stabilitas global dan
+keamanan, yang berdampak langsung pada perdagangan internasional. Secara keseluruhan,
+penelitian ini menyimpulkan bahwa interaksi antara teknologi digital, rantai nilai global,
+dan dinamika geopolitik memengaruhi struktur dan pola perdagangan global secara
+kompleks dan dinamis. Hal ini menggarisbawahi pentingnya pemahaman mendalam
+tentang faktor-faktor tersebut untuk mengembangkan strategi perdagangan yang efektif di
+tingkat nasional dan internasional.
+
+F.   Daftar Pustaka
+Badaruddin, Muhammad. “Signifikansi Energi Dalam Dinamika Geopolitik Di Timur
+          Tengah,” 2020.
+Darmawan, Arief, Lili Adi Wibowo, and Adhie Surachman. “Penerapan Rantai Nilai
+          Global Sebagai Strategi Peningkatan Ekspor Produk Kopi.” Coopetition : Jurnal
+          Ilmiah       Manajemen         12,      no.      1       (2021):       9–16.
+          https://doi.org/10.32670/coopetition.v12i1.277.
+Delya, Bagus Mulyawan, and Manatap Dolok Lauro. “E-Commerce Blessed Party Dengan
+          Sistem Rekomendasi Apriori Dan Collaborative Filtering.” Jurnal Ilmu
+          Komputer Dan Sistem Informasi 8, no. 1 (2024): 29–37.
+          https://doi.org/10.24912/computatio.v8i1.17130.
+Harja, Irfan T. Metakuasa Perdagangan Global. Indie Book Corner, 2019.
+Kusumawati, Mustika Prabaningrum, Ahmad Khairun Hamrany, and Ariyati Rahman.
+          “Kepatuhan Wajib Pajak Penyedia Platform Marketplace E-Commerce Sebagai
+          Pemungut Pajak Pertambahan Nilai Perdagangan Melalui Sistem Elektronik.”
+          Kosmik         Hukum          31,      no.       3        (2021):       203.
+          https://doi.org/10.30595/kosmikhukum.v21i3.9175.
+Lee, Keun, Marina Szapiro, and Zhuqing Mao. “From Global Value Chains (GVC) to
+          Innovation Systems for Local Value Chains and Knowledge Creation.” The
+          European Journal of Development Research 30 (2018): 424–41.
+          https://doi.org/10.1057/s41287-017-0111-6.
+Mulachela, Abdurrahman, Khairur Rizki, and Y.A. Wahyudin. “Analisis Perkembangan
+          Industri Game Di Indonesia Melalui Pendekatan Rantai Nilai Global ( Global
+          Value Chain.” Indonesian Journal of Global Discourse (IJGD) 2, no. 2 (2020):
+          32–51. https://doi.org/10.29303/ijgd.v2i2.17.
+
+Volume. 12/No. 2/Juli 2024 Al-Iqtishod |251
+Transformasi Perdagangan Global …
+Muntasyir, Muhammad Badry, Made Panji, and Teguh Santoso. “Southeast Asia’s
+         Geopolitical Dynamics In Responding To The Emergence Of AUKUS.” Jurnal
+         Ilmu Hubungan Internasional LINO 2, no. 1 (2022): 34–43.
+Nasution, Eri Yanti, and Tika Indria. “Tren Belanja Online Pada Social Commerce.”
+         Jurnal AKMAMI (Akuntansi Manajemen Ekonomi 3, no. 3 (2023): 655.
+Oktaviani, Defy, and Nagentra Shrestha. “Exchange Rates Elasticity of Exports in
+         ASEAN: The Role of Global Value Chains.” Buletin Ilmiah Litbang
+         Perdagangan           1,       no.         15        (2021):       1–26.
+         https://doi.org/10.30908/bilp.v15i1.538.
+Pamungkas B P, Yamanda S C, Permana B, Hendrawan B, and Sahara S. “Analisis Dari
+         Dampak Yang Terlihat Pada Perkembangan E-Commerce Di Era Digitalisasi
+         Dan Rantai Pasok Logistik.” Jurnal Ilmiah Wahana Pendidikan 9, no. 15
+         (August 5, 2023): 616–21. https://doi.org/10.5281/zenodo.8218081.
+Utami, Hesty Nurul, and Sulistyodewi Nur Wiyono. “Manfaat Yang Diharapkan Dari
+         Model Perdagangan Digital Produk Pangan: Perspektif Pelaku Agribisnis.”
+         Jurnal       Agristan      5,       no.       1       (2023):     61–73.
+         https://doi.org/10.37058/agristan.v5i1.6999.
+
+
+
+
+                                    252| Al-Iqtishod Volume. 12/ No. 2/Juli 2024
+

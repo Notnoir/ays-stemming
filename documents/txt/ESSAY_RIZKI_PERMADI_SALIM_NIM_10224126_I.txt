@@ -1,0 +1,102 @@
+ESSAY
+Dosen pengampu: Puji Imam Muttaqien, S.Kom. M.Si
+
+KECERDASAN BUATAN (ARTIFICIAL INTELLIGENCE)
+
+BAB I
+Pendahuluan
+1. Latar Belakang
+Kecerdasan buatan (AI) merupakan teknologi yang memungkinkan mesin untuk meniru
+kecerdasan manusia melalui pembelajaran, penalaran, dan pemecahan masalah.
+Perkembangan AI telah mengubah berbagai aspek kehidupan manusia, dari cara
+berkomunikasi hingga cara bekerja.
+Pada awal abad ke-21, Artificial Intelligence (kecerdasan buatan) telah menjadi bidang
+penelitian yang penting di semua bidang seperti teknik (engineering), sains, pendidikan,
+kedokteran, bisnis, keuangan, ekonomi, akuntansi, hukum, pasar saham, dan lain-lain. Dalam
+jangka panjang, sistem AI yang terus dikembangkan oleh manusia memungkinkan
+mendesain ulang kecerdasan di dalam sebuah sistem komputer yang efisien untuk
+membangun dunia modern. Menurut Dartmouth John McCarthy pada tahun 1956, Artificial
+Intelligence merupakan istilah yang mengacu pada perangkat keras atau perangkat lunak
+yang menunjukkan kecerdasan mesin terutama pada program komputer. Salah satu bagian
+dari Artificial Intelligence adalah Deep Learning. Deep Learning merupakan replikasi dari
+struktur dasar jaringan neuron otak manusia di komputer (Neural Networks) yang dapat
+mendeteksi objek, mengenal suara, dan pengembangan pemrosesan bahasa alami yang
+memungkinkan untuk membangun konsep kompleks dari konsep yang sederhana [2].
+
+Pengenalan suara (voice recognition) juga dapat diterapkan dalam mendiagnosis kesalahan
+yang terjadi pada sebuah poros linier dengan menganalisa getaran pada sebuah mesin.
+
+BAB II
+PEMBAHASAN
+I.
+
+Definisi Kecerdasan Buatan
+Kecerdasan buatan (Artificial Intelligence) adalah Bagian dari ilmu komputer yang
+mempelajari bagaimana membuat mesin (komputer) dapat melakukan pekerjaan seperti dan
+sebaik yang dilakukan oleh manusia bahkan bisa lebih baik daripada yang dilakukan
+manusia. 1 Menurut John McCarthy, 1956, AI: Untuk mengetahui dan memodelkan proses –
+proses berpikir manusia dan mendesain mesin agar dapat menirukan perilaku manusia.
+Cerdas memiliki pengetahuan dan pengalaman, penalaran (bagaimana membuat keputusan
+& mengambil tindakan), moral yang baik. Agar mesin bisa cerdas (bertindak seperti & sebaik
+manusia) maka harus diberi bekal pengetahuan & mempunyai kemampuan untuk menalar.
+2 bagian utama yg dibutuhkan untuk aplikasi kecerdasan buatan : 1) basis pengetahuan
+(knowledge base): berisi fakta-fakta, teori, pemikiran & hubungan antara satu dengan
+lainnya. 2) motor inferensi (inference engine) : kemampuan menarik kesimpulan berdasarkan
+pengetahuan
+
+II.
+
+Beda Kecerdasan Buatan & Kecerdasan Alami
+
+1. Kelebihan kecerdasan buatan:
+a) Lebih bersifat permanen. Kecerdasan alami bisa berubah karena sifat manusia pelupa.
+Kecerdasan buatan tidak berubah selama sistem komputer & program tidak
+mengubahnya.
+b) Lebih mudah diduplikasi & disebarkan. Mentransfer pengetahuan manusia dari 1 orang
+ke orang lain membutuhkan proses yang sangat lama & keahlian tidak akan pernah dapat
+
+diduplikasi dengan lengkap.Jadi jika pengetahuan terletak pada 1 Andri Kristanto,
+Kecerdasan Buatan (Yogyakarta: Graha Ilmu, 2004). 2 suatu sistem komputer,
+pengetahuan tersebut dapat disalin dari komputer tersebut & dapat dipindahkan dengan
+mudah ke komputer yang lain.
+c) Lebih murah. Menyediakan layanan komputer akan lebih mudah & murah dibandingkan
+mendatangkan seseorang untuk mengerjakan sejumlah pekerjaan dalam jangka waktu
+yang sangat lama.
+d) Bersifat konsisten dan teliti karena kecerdasan buatan adalah bagian dari teknologi
+komputer sedangkan kecerdasan alami senantiasa berubah-ubah
+
+e) Dapat didokumentasi.Keputusan yang dibuat komputer dapat didokumentasi dengan
+mudah dengan cara melacak setiap aktivitas dari sistem tersebut. Kecerdasan alami
+sangat sulit untuk direproduksi. 6) Dapat mengerjakan beberapa task lebih cepat dan lebih
+baik dibanding manusia
+2. Kelebihan kecerdasan alami:
+a) Kreatif: manusia memiliki kemampuan untuk menambah pengetahuan, sedangkan pada
+kecerdasan buatan untuk menambah pengetahuan harus dilakukan melalui sistem yang
+dibangun.
+b) Memungkinkan orang untuk menggunakan pengalaman atau pembelajaran secara
+langsung. Sedangkan pada kecerdasan buatan harus mendapat masukan berupa inputinput simbolik.
+c) Pemikiran manusia dapat digunakan secara luas, sedangkan kecerdasan buatan sangat
+terbatas.
+
+BAB III
+PENUTUP
+1. Kesimpulan
+AI telah menjadi teknologi transformatif yang memberikan manfaat signifikan bagi
+masyarakat. Meski demikian, pengembangan AI harus memperhatikan aspek etika dan
+keamanan untuk memastikan teknologi ini memberikan dampak positif. AI telah menjadi
+teknologi transformatif yang memberikan manfaat signifikan bagi masyarakat. Meski
+demikian, pengembangan AI harus memperhatikan aspek etika dan keamanan untuk
+memastikan teknologi ini memberikan dampak positif.
+2. Saran
+a. Pengembangan regulasi yang komprehensif untuk mengatur implementasi
+b. AI Peningkatan literasi digital masyarakat terkait AI
+c. Investasi dalam penelitian dan pengembangan AI yang bertanggung jawab
+
+DAFTAR PUSTAKA
+Russell, S., & Norvig, P. (2020). Artificial Intelligence: A Modern Approach (4th ed.).
+Pearson.
+Tegmark, M. (2017). Life 3.0: Being Human in the Age of Artificial Intelligence. Knopf.
+Kaplan, J. (2016). Artificial Intelligence: What Everyone Needs to Know. Oxford University
+Press.
+
+

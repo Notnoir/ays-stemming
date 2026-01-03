@@ -1,0 +1,348 @@
+Diterima
+
+: 15 Desember 2024
+
+http://journal.unmasmataram.ac.id/index.php/GARA
+
+Disetujui
+
+: 31 Desember 2024
+
+Jurnal Ganec Swara Vol. 19, No.1, Maret 2025
+
+Dipublis
+
+: 01 Maret 2025
+
+ISSN 1978-0125 ( Print);
+
+Hal
+
+: 56-62
+
+ISSN 2615-8116 ( Online)
+
+
+
+
+
+PERAN OTORITAS JASA KEUANGAN (OJK) DALAM MENGATASI KEJAHATAN DIGITAL
+
+STUDI KASUS KEBOCORAN DATA PADA BANK SYARIAH INDONESIA
+
+
+
+NARTY HUSAIN*
+
+
+
+Fakultas Hukum, Universitas Negeri Gorontalo
+
+
+
+nartyhusain02@gmail.com (coressponding)
+
+
+
+ABSTRAK
+
+Peran Otoritas Jasa Keuangan (OJK) dalam mengatasi kejahatan digital, khususnya terkait kebocoran data pada Bank Syariah Indonesia (BSI), sangat krusial di era digitalisasi saat ini. Kasus kebocoran data yang terjadi pada BSI, di mana sekitar 1,5 TB data nasabah berhasil dicuri oleh kelompok hacker, menunjukkan adanya ketidaksesuaian dari pihak bank yang berpotensi merugikan nasabah. Penelitian ini bertujuan untuk menganalisis peran dan otoritas OJK dalam memberikan perlindungan hukum bagi nasabah yang terdampak, serta menilai efektivitas regulasi yang ada.OJK mempunyai kewenangan untuk mengawasi, menyelidiki, dan memberikan sanksi terhadap pelanggaran yang dilakukan oleh lembaga keuangan, termasuk dalam hal perlindungan data pribadi nasabah. Dasar hukum perlindungan data nasabah telah diatur dalam Undang-Undang Perbankan dan Peraturan OJK
+
+Nomor 1/POJK.07/2013. Selain itu, OJK juga berperan dalam meningkatkan literasi keuangan masyarakat untuk mengurangi risiko kejahatan digital. Dalam konteks ini, kolaborasi antara OJK dan lembaga lain, termasuk kementerian dan penegak hukum, menjadi kunci dalam memerangi kejahatan keuangan digital yang semakin kompleks.Hasil penelitian menunjukkan bahwa meskipun regulasi telah ada, masih terdapat tantangan dalam penerapannya, terutama dalam kesadaran masyarakat akan pentingnya keamanan data pribadi. Oleh karena itu, upaya berkelanjutan dalam edukasi dan pengawasan diperlukan untuk memastikan perlindungan yang efektif bagi nasabah bank syariah di Indonesia.
+
+
+
+Kata kunci: OJK; Bank Syariah Indonesia; Perlindungan Hukum
+
+
+
+ABSTRACT
+
+The role of the Financial Services Authority (OJK) in overcoming digital crime, especially related to data leaks at Bank Syariah Indonesia (BSI), is crucial in the current era of digitalization. The case of data leakage that occurred at BSI, where around 1.5 TB of customer data was stolen by a hacker group, showed a discrepancy from the bank that could potentially harm customers. This research aims to analyze OJK's role and authority in providing legal protection for affected customers, as well as assessing the effectiveness of existing regulations.OJK has the authority to supervise, investigate, and impose sanctions on violations committed by financial institutions, including in terms of protecting customers' personal data. The legal basis for customer data protection is set out in the Banking Law and OJK Regulation No. 1/POJK.07/2013. In addition, OJK also plays a role in improving public financial literacy to reduce the risk of digital crime. In this context, collaboration between OJK and other institutions, including ministries and law enforcement, is key in combating increasingly complex digital financial crimes.The results show that although regulations are in place, there are still challenges in their implementation, especially in public awareness of the importance of personal data security. Therefore, continuous efforts in education and supervision are needed to ensure effective protection for Islamic bank customers in Indonesia.
+
+
+
+Keywords: OJK; Bank Syariah Indonesia; Legal Protection,
+
+
+
+
+
+PENDAHULUAN
+
+
+
+Di era digital saat ini, kejahatan siber, termasuk kebocoran data, menjadi isu yang semakin mendesak dalam sektor perbankan. Kasus kebocoran data pada Bank Syariah Indonesia (BSI) yang terjadi pada Mei 2023, di mana sekitar 1,5 TB data, termasuk informasi pribadi nasabah, berhasil dicuri oleh kelompok hacker, menyoroti kerentanan sistem keamanan informasi di lembaga keuangan. Insiden ini bukan hanya menimbulkan kerugian finansial bagi bank, tetapi juga merusak kepercayaan nasabah terhadap sistem perbankan syariah dan keamanan data secara umum 56
+
+Dalam era digitalisasi yang semakin pesat, sektor perbankan di Indonesia menghadapi tantangan signifikan terkait keamanan data dan kejahatan siber. Salah satu insiden yang mencolok adalah kebocoran data pada Bank Syariah Indonesia (BSI), yang terjadi pada Mei 2023, di mana sekitar 1,5 TB data, termasuk informasi nasabah dan dokumen penting, berhasil dicuri oleh kelompok hacker (Sinaga dkk., 2023)Kejadian ini menyoroti pentingnya peran Otoritas Jasa Keuangan (OJK) dalam melindungi nasabah dan menjaga integritas sistem keuangan.
+
+Pada awal tahun 2023, masyarakat Indonesia telah digemparkan dengan berita hangat mengenai kebocoran data pribadi yang menimpa sektor perbankan, yaitu Bank Syariah Indonesia. Kejadian ini dimulai dengan serangan ransomware oleh kelompok hacker asal Rusia yang bernama LocBit pada tanggal 8 Mei 2023 yang menyasar layanan Bank Syariah Indonesia (BSI) dan mengakibatkan gangguan pada operasional bank. Setelah serangan tersebut, LockBit mengumumkan bahwa mereka telah berhasil mencuri data BSI yang mencakup informasi pribadi lebih dari 15 juta pelanggan dan karyawan, dokumen keuangan, dokumen hukum, NDA (Non-Disclosure Agreement), serta kata sandi untuk layanan internal dan eksternal bank.
+
+LockBit sempat untuk mengajukan tawaran negosiasi kepada BSI dengan syarat bahwa mereka akan mengembalikan seluruh data yang dicuri apabila BSI setuju untuk membayar tebusan sebesar Rp. 295,6 Miliar.
+
+Kelompok hacker tersebut memberikan batas waktu bagi BSI hingga tanggal 15 Mei 2023 pukul 21:09:44 UTC
+
+untuk merespon. Namun, setelah batas waktu berakhir, LockBit kembali memberikan informasi bahwa mereka telah menyebarkan data bertindak untuk menyelamatkan data pribadi nasabah mereka. Akibat dari serangan ini menyebabkan gangguan pada layanan ATM dan BSI Mobile selama beberapa hari.
+
+Otoritas Jasa Keuangan adalah lembaga yang bertugas melakukan pengaturan dan pengawasan terhadap kegiatan jasa keuangan di sektor perbankan, pasar modal, peransurasian, dana pensiun lembaga pembiayaan, dan lembaga keuangan lainnya yang mempunyai tujuan utama memberikan perlindungan kepada nasabah dan masyarakat memberikan perlindungan kepada nasabah dan masyarakat umum pengguna jasa lembaga keuangan.
+
+Sebagaimana diatur dalam Pasal 17 dari Peraturan OJK Nomor 13/POJK.02/2018 tentang Inovasi Keuangan Digital, OJK memiliki kewenangan untuk melakukan pemantauan oleh OJK terhadap penyelenggara dilakukan dengan prinsip pemantauan secara mandiri yang mencakup pemantauan atas laporan self-assessment, pemantauan on-site, dan/atau metode pemantauan lainnya. Laporan self-assessment harus mencakup aspek tata kelola dan mitigasi risiko, sementara pemantauan on-site dilakukan secara rutin atau sewaktu-waktu.
+
+Perlindungan data pribadi nasabah merupakan aspek krusial dalam mencegah kerugian akibat kebocoran informasi. OJK telah mengatur perlindungan data pribadi melalui berbagai regulasi, termasuk Peraturan OJK (POJK) Nomor 1/POJK.07/2013 yang mengatur tentang perlindungan konsumen di sektor keuangan. Dalam kasus kebocoran di BSI, OJK diharapkan dapat bertindak cepat untuk melindungi nasabah dan memulihkan kepercayaan publik terhadap sistem perbankan (Simamora & Rifai, 2024).
+
+Perlindungan data pribadi nasabah merupakan aspek krusial dalam mencegah kerugian akibat kebocoran informasi. OJK telah mengatur perlindungan data pribadi melalui berbagai regulasi, termasuk Peraturan OJK (POJK) Nomor 1/POJK.07/2013 yang mengatur tentang perlindungan konsumen di sektor keuangan. Dalam kasus kebocoran di BSI, OJK diharapkan dapat bertindak cepat untuk melindungi nasabah dan memulihkan kepercayaan publik terhadap sistem perbankan.
+
+Kebocoran data ini mengungkapkan beberapa masalah mendasar dalam pengelolaan dan perlindungan data pribadi nasabah. Pertama, ada ketidakbertanggungjawaban dari pihak bank dalam menjaga kerahasiaan dan keamanan informasi nasabah. Kedua, kurangnya kesadaran dan edukasi tentang keamanan siber di kalangan nasabah dan karyawan bank dapat memperburuk situasi ini. Ketiga, meskipun Otoritas Jasa Keuangan (OJK) memiliki kewenangan untuk mengawasi dan memberikan sanksi kepada lembaga keuangan, implementasi perlindungan data pribadi masih menghadapi tantangan.
+
+OJK memiliki peran penting dalam mengawasi sektor jasa keuangan di Indonesia dan melindungi konsumen dari praktik kejahatan digital. Dengan adanya UU Perlindungan Data Pribadi dan berbagai Peraturan OJK (POJK), OJK berwenang untuk melakukan pengawasan, penyelidikan, serta penegakan hukum terhadap pelanggaran yang terjadi. Dalam konteks kebocoran data BSI, OJK harus mengambil langkah-langkah konkret untuk mencegah kejadian serupa di masa depan, termasuk peningkatan infrastruktur keamanan bank dan edukasi tentang pentingnya perlindungan data.
+
+OJK juga berkolaborasi dengan berbagai kementerian dan lembaga lain untuk memberantas kejahatan finansial digital. Upaya ini mencakup peningkatan literasi keuangan masyarakat agar lebih waspada terhadap risiko kejahatan siber. Dengan meningkatkan kesadaran masyarakat tentang keamanan digital, diharapkan dapat mengurangi dampak negatif dari kejahatan siber dan meningkatkan ketahanan sistem perbankan.
+
+Isu kebocoran data di Bank Syariah Indonesia (BSI) mencerminkan kerentanan sistem keamanan informasi di lembaga keuangan, di mana data pribadi nasabah yang bocor dapat disalahgunakan, mengakibatkan kerugian finansial dan reputasi bagi bank. Perkembangan teknologi yang pesat juga membawa tantangan baru dalam bentuk kejahatan digital yang semakin canggih, sehingga bank dan lembaga keuangan harus beradaptasi untuk melindungi data nasabah. Meskipun ada peraturan yang mengatur perlindungan data, penerapannya seringkali kurang efektif, 57
+
+menciptakan celah yang dapat dimanfaatkan oleh pelaku kejahatan. Di sisi lain, kurangnya kesadaran nasabah tentang risiko kejahatan digital menambah kompleksitas masalah ini.
+
+Untuk mengatasi permasalahan ini, Otoritas Jasa Keuangan (OJK) perlu meningkatkan pengawasan dan penegakan hukum terhadap bank dalam hal perlindungan data dan keamanan siber, dengan memberikan sanksi tegas bagi pelanggar. Pengembangan regulasi yang lebih ketat terkait perlindungan data pribadi dan keamanan informasi di sektor perbankan juga sangat diperlukan. Selain itu, OJK harus meningkatkan program edukasi bagi nasabah tentang cara melindungi data pribadi mereka serta mengenali potensi risiko kejahatan digital melalui seminar, kampanye online, atau kolaborasi dengan lembaga pendidikan. Kolaborasi dengan pihak ketiga, seperti perusahaan teknologi dan lembaga penegak hukum, juga penting untuk berbagi informasi dan teknologi dalam menangani ancaman kejahatan digital. Terakhir, bank perlu berinvestasi dalam teknologi keamanan informasi terbaru untuk melindungi data nasabah, seperti enkripsi dan sistem deteksi intrusi. Dengan langkah-langkah strategi ini, diharapkan risiko kebocoran data dapat diminimalkan secara efektif.
+
+
+
+Rumusan Masalah
+
+Bagaimana OJK dapat meningkatkan perlindungan data pribadi nasabah dalam menghadapi risiko kebocoran data di Bank Syariah Indonesia?
+
+
+
+Tujuan Penelitian
+
+Penelitian ini bertujuan untuk menganalisis peran dan otoritas OJK dalam memberikan perlindungan hukum bagi nasabah yang terdampak, serta menilai efektivitas regulasi yang ada.OJK mempunyai kewenangan untuk mengawasi, menyelidiki, dan memberikan sanksi terhadap pelanggaran yang dilakukan oleh lembaga keuangan, termasuk dalam hal perlindungan data pribadi nasabah.
+
+
+
+METODE PENELITIAN
+
+
+
+Jenis penelitian hukum normatif digunakan dalam penelitian ini untuk menyelesaikan masalah hukum yang diteliti dengan menganalisis ketentuan dalam hukum positif, asas, prinsip, dan doktrin hukum. Pendekatan perundang-undangan (Statute Approach) dan pendekatan konseptual (Conceptual Approach) adalah dua pendekatan masalah yang digunakan. Pengumpulan data dilakukan melalui penelitian kepustakaan dan tinjauan literatur dan undang-undang yang relevan. Untuk menyelesaikan masalah, analisis deskriptif digunakan untuk menganalisis data (Wibowo & Herawati, 2021).
+
+
+
+HASIL DAN PEMBAHASAN
+
+
+
+Kejahatan digital, terutama kebocoran data, menjadi salah satu isu penting di era digitalisasi saat ini. Kasus kebocoran data nasabah Bank Syariah Indonesia (BSI) yang terjadi pada Mei 2023 menunjukkan tantangan besar dalam melindungi data pribadi nasabah. Otoritas Jasa Keuangan (OJK) memiliki peran strategis dalam mengawasi dan melindungi data nasabah di sektor perbankan. Penelitian ini bertujuan untuk menganalisis peran OJK dalam menangani kejahatan digital, khususnya terkait kebocoran data.
+
+Kebocoran data di BSI melibatkan pencurian informasi sensitif, termasuk nama, alamat web, dan informasi rekening nasabah, yang diperkirakan mencapai 1,5 TB data. Kejadian ini mencerminkan tidak adanya tanggung jawab dari pihak bank dan menimbulkan kerugian yang signifikan bagi nasabah. Dalam konteks ini, OJK sebagai lembaga pengawas sektor keuangan memiliki tanggung jawab untuk memastikan perlindungan data pribadi nasabah sesuai dengan peraturan yang berlaku.
+
+Otoritas Jasa Keuangan (OJK) memiliki peran penting dalam menjaga stabilitas dan keamanan sektor keuangan di Indonesia, terutama dalam konteks kejahatan digital. Dengan semakin meningkatnya penggunaan teknologi dalam sektor keuangan, OJK bertanggung jawab untuk mengawasi dan mengatur aktivitas yang berpotensi menimbulkan risiko, termasuk kejahatan siber dan penipuan online (Sinaga dkk., 2023). Selain itu OJK memiliki tugas dan fungsi :
+
+1. Pengaturan dan Pengawasan
+
+OJK bertugas untuk mengatur dan mengawasi seluruh lembaga keuangan, baik bank maupun non-bank, untuk memastikan kegiatan mereka sesuai dengan peraturan yang berlaku. Ini termasuk pengawasan terhadap layanan fintech yang sering kali menjadi target kejahatan digital.
+
+2. Edukasi dan Perlindungan Konsumen
+
+OJK juga melakukan edukasi kepada masyarakat mengenai risiko yang terkait dengan layanan keuangan digital.
+
+Dengan meningkatkan literasi keuangan, OJK berharap masyarakat dapat lebih waspada terhadap penipuan online dan praktik ilegal lainnya.
+
+58
+
+3. Pencegahan Kejahatan Digital
+
+Dalam menghadapi ancaman kejahatan digital, OJK berkolaborasi dengan berbagai lembaga pemerintah untuk memblokir transaksi mencurigakan dan menindaklanjuti laporan mengenai aktivitas ilegal, termasuk pinjaman online yang tidak terdaftar (Keliat dkk., 2023). Strategi OJK dalam Mengatasi Kejahatan Digital : 1) Monitoring Transaksi, OJK melakukan pemantauan terhadap transaksi keuangan untuk mendeteksi aktivitas yang mencurigakan. Hal ini penting untuk mencegah pencucian uang dan pendanaan terorisme yang sering kali menggunakan platform digital.
+
+2) Kerja Sama Lintas Sektor, OJK bekerja sama dengan Kementerian Keuangan dan lembaga lain untuk bertukar informasi mengenai transaksi mencurigakan dan mengawasi aliran uang lintas batas. Kerjasama ini membantu menciptakan sistem pengawasan yang lebih efektif.
+
+3) Regulasi Fintech, Dengan pertumbuhan industri fintech, OJK telah memperbarui regulasi untuk melindungi konsumen dari praktik ilegal. Hal ini termasuk memfasilitasi pendaftaran fintech yang legal dan menindak fintech yang beroperasi tanpa izin (Kurnianingrum, 2020).
+
+Meskipun OJK memiliki berbagai strategi untuk menangani kejahatan digital, masih ada tantangan yang harus dihadapi:
+
+1) Tingkat Pengetahuan Publik, Rendahnya tingkat literasi keuangan di kalangan masyarakat membuat mereka rentan terhadap penipuan. Oleh karena itu, upaya edukasi perlu ditingkatkan.
+
+2) Perkembangan Teknologi, Dengan cepatnya perkembangan teknologi, metode kejahatan juga semakin canggih. OJK perlu terus memperbarui pengetahuannya dan adaptif terhadap perubahan tersebut.
+
+OJK menerapkan lima konsep dasar dalam menjalankan tugasnya dalam perlindungan konsumen di sektor keuangan. Prinsip-prinsip ini diatur dalam Pasal 2 POJK Nomor 6/PJOK.07/2022 Tahun 2022 tentang Perlindungan Konsumen dan Masyarakat di Sektor Jasa Keuangan yang mencakup: (Keliat dkk., 2023) 1) Edukasi yang memadai
+
+2) Keterbukaan dan Transparansi Informasi
+
+3) Perlakuan yang adil dan perilaku bisnis yang bertanggung jawab Perlindungan kerahasiaan data nasabah 4) Perlindungan aset, privasi, dan data Konsumen
+
+5) Penanganan, pengaduan dan penyelesaian sangketa yang efektif dan efesien Kebocoran data yang dialami BSI telah mengakibatkan kerugian kepercayaan yang signifikan dari nasabah.
+
+Insiden ini dapat merusak reputasi bank dan mengurangi loyalitas nasabah, yang berdampak langsung pada kestabilan finansial lembaga tersebut. Kepercayaan publik adalah fondasi bagi operasional bank; tanpa kepercayaan, nasabah cenderung menarik dana mereka atau beralih ke lembaga keuangan lain, yang dapat memperburuk posisi pasar bank syariah secara keseluruhan.
+
+Kasus ini menyoroti kebutuhan mendesak akan regulasi yang lebih ketat dalam perlindungan data pribadi di sektor perbankan. Meskipun OJK telah mengeluarkan peraturan terkait perlindungan konsumen dan keamanan data, implementasinya masih menghadapi tantangan. Tanpa adanya sanksi tegas dan pengawasan yang efektif, bank akan terus berisiko mengalami serangan siber. Oleh karena itu, perbaikan dalam kerangka regulasi sangat penting untuk mencegah insiden serupa di masa depan.
+
+Insiden kebocoran data ini juga menekankan pentingnya investasi dalam infrastruktur keamanan siber. Bank harus mengadopsi teknologi terbaru dan praktik terbaik untuk melindungi data nasabah dari ancaman yang terus berkembang (Ailia Nur Aini, 2024). BSI telah melakukan langkah-langkah untuk memperkuat sistem keamanan mereka pasca-insiden, tetapi hal ini harus menjadi prioritas berkelanjutan. Tanpa investasi yang memadai, bank akan tetap rentan terhadap serangan siber.
+
+Prinsip Edukasi yang memadai berarti bahwa konsumen berhak atas menerima edukasi terkait keuangan melalui sosialisasi dan edukasi yang dilakukan oleh Pelaku Usaha Jasa Keuangan secara kompoten dan profesional dengan tujuan untuk meningkatkan kualitas pengambilan keputusan serta pengelolaan keuangan (Pikahulan, 2020).
+
+Prinsip keterbukaan dan transparansi informasi mengindikasikan bahwa konsumen memiliki hak untuk memperoleh informasi yang jelas tentang produk yang mereka pilih dan OJK mengamanatkan bahwa Pelaku Usaha Jasa Keuangan harus memberikan informasi yang jujur, akurat, dan tidak menyesatkan kepada konsumen. Perlakuan yang adil dan perilaku bisnis yang bertanggung jawab menyatakan bahwa semua konsumen memiliki hak untuk mendapatkan dan memiliki akses yang setara terhadap produk jasa keuangan.
+
+Perlindungan aset, privasi, dan data Konsumen menegaskan bahwa Pelaku Usaha Jasa Keuangan tidak diizinkan untuk mengungkapkan informasi tentang konsumen kepada pihak ketiga. Data yang dimiliki oleh Pelaku Usaha Jasa Keuangan hanya boleh digunakan untuk keperluan yang telah disetujui oleh konsumen. Penanganan pengaduan penyelesaian sangketa yang efektif dan efesien adalah hak konsumen. Konsumen memiliki hak untuk mengajukan keluhan jika terjadi masalah selama proses transaksi. Penyelesaian sangketa dapat dilakukan melalui mediasi atau putusan arbitrase untuk mencapai kesepakatan.
+
+Jika kita menghubungkan insiden yang dialami oleh Bank Syariah Indonesia dengan kewenangan OJK, OJK
+
+memiliki wewenang untuk melakukan beberapa langkah seperti menetapkan regulasi terkait operasional dan 59
+
+kegiatan dalam sektor perbankan, melakukan pengawasan penyidikan di dalam lingkup Sektor Jasa Keuangan, serta menjalankan perlindungan konsumen (Thimoteus & Kharisma, 2021). Apabila melihat dugaan kasus ini, OJK pada dasarnya mempunyai hak untuk melakukan beberapa tindakan beriku, yaitu: 1. Wewenang untuk menetapkan peraturan terkait operasional dan aktivitas di sektor perbankan dengan tujuan meningkatkan sistem perbankan yang sehat untuk memenuhi kebutuhan masyarakat akan layanaan perbankan.
+
+2. OJK memiliki kewenangan untuk melakukan pengawasan baik pengawasan secara langsung terhadap bank, seperti pemeriksaan umum dan pemeriksaan khusus, untuk mengevaluasisituasi keuangan bank, memastikan kepatuhan bank terhadap peraturan yang berlaku, serta mengindentifikasi praktik yang berpotensi merugikan operasional dan konsumen bank, maupun pengawasan tidak langsung melalui pemantauan dengan menggunakan alat-alat seperti laporan rutin yang diajukan oleh bank, hasil pemeriksaan dan data informasi lainnya.
+
+3. OJK memiliki kewenangan untuk memberlakukan sanksi, yaitu kemampuan untuk memberikan hukuman kepada lembaga perbankan yang melanggar atau tidak memenuhi ketentuan yang berlaku, dengan memperhatikan standar perbankan yang sehat.
+
+4. OJK memiliki kewenangan dalam melakukan penyidikan di bidang Sektor Jasa Keuangan (SJK). Penyidik ini dilakukan oleh otoritas Pegawai Negeri Sipil yang berafiliasi dengan OJK dan Reserse Kepolisian Negara Republik Indonesia (RI), dan hasilnya dapat diteruskan kepada jaksa proses hukum.
+
+5. OJK memiliki wewenang untuk melaksanakan perlindungan konsumen, yaitu kemampuan melindungi konsumen dengan upaya pencegahan kerugian bagi konsumen, menyediakan layanan pengaduan konsumen, serta memberikan dokumen hukum.
+
+Selanjutnya, terkait dugaan kebocoran data di Bank Syariah Indonesia, OJK telah mengambil langkah-langkah untuk mencegah potensi kebocoran data nasabah yang dapat mengakibatkan kerugian. Regulasi yang dikeluarkan oleh OJK seperti SEOJK 29/SEOJK.03/2022 Tentang Ketahanan dan Keamanan Siber bagi Bank Umum dan POJK 11/POJK.03/2022 yang mengatur Penyelenggaraan (Adelia dkk., 2021). Teknologi Informasi oleh Bank Umum, mewajibkan lembaga perbankan untuk memastikan keamanan sistem mereka dari ancaman siber, memiliki kemampuan mendeteksi kejadian siber, dan menerapkan prosedur-prosedur untuk melindungan sistem mereka dari serangan siber.
+
+Otoritas Jasa Keuangan (OJK) mempunyai peran penting dalam mengawasi sektor jasa keuangan di Indonesia termasuk perlindungan data pribadi nasabah yang harus dijaga kerahasiaannya untuk memelihara kepercayaan mayarakat terhadap lembaga keuangan. OJK menerapkan prinsip-prinsip perlindungan konsumen yang mencakup penanganan keluhan, penyelesaian perselisihan, kerahasiaan data, keterbukaan, dan ketergantungan yang efesien. Dalam konteks insiden kebocoran data bank syariah indonesia, OJK memiliki wewenang right to regulate, melakukan pengawasan, right to investigate, dan right to protct.
+
+Right to regulate yang berarti OJK dapat melakukan penetapan ketentuan terkait dengan aspek operasional dan kegiatan perbankan dengan tujuan menciptakan sistem perbankan yang sehat untuk memenuhi kebutuhan layanan perbankan yang diinginkan oleh masyarakat. OJK dapat melakukan pengawasan baik berupa on-site supervision yang melibatkan pemeriksaan umum dan pemeriksaan khusus dengan tujuan memperoleh pemahaman tentang kondisi keuangan bank dan memonitor tingkat kepatuhan bank terhadap peraturan yang berlaku, maupun pengawasan tidak langsung ( off-site supervision) adalah pengawasan yang dilakukan melalui alat pemantau seperti laporan berkala yang diajukan oleh bank, hasil pemeriksaan, dan informasi lainnya (Rani, 2014). Right to investigate mencakup kewenangan menyelidiki dalam Sektor Jasa Keuangan yang dilakukan oleh penyidik dari Kepolisian Negera Republik Indonesia serta Pegawai Negeri Sipil yang bekerja di lingkungan OJK. Right to protect merujuk pada kewenangan untuk melindungi konsumen dalam berbagai bentuk, seperti mencegah kerugian bagi konsumen dan masyarakat, menyediakan layanan pengaduan konsumen, serta memberikan bantuan hukum kepada konsumen.
+
+Dalam menghadapi risiko kebocoran data di Bank Syariah Indonesia, OJK memiliki peran krusial dalam meningkatkan perlindungan data pribadi nasabah. Melalui penerapan regulasi yang ketat, pengawasan yang efektif, edukasi kepada nasabah, dan kolaborasi dengan pihak terkait, OJK dapat menciptakan lingkungan yang lebih aman dan terpercaya bagi nasabah dalam bertransaksi di lembaga keuangan syariah. Dengan langkah-langkah ini, diharapkan kepercayaan masyarakat terhadap sistem perbankan syariah akan semakin meningkat.
+
+Dalam konteks kebocoran data BSI, penelitian menunjukkan bahwa OJK dan lembaga perbankan harus memiliki regulasi yang memadai untuk melindungi data nasabah. Sebagai contoh, Peraturan OJK No.
+
+12/PJOK.03/2018 mengatur penyelenggaraan layanan perbankan digital, yang mencakup kewajiban untuk memiliki keamanan infrastruktur yang memadai (Trianda Lestari dkk., 2024). Ketidakjelasan dalam regulasi dapat menyebabkan kerugian bagi nasabah dan merusak kepercayaan publik terhadap sistem perbankan. Hal ini sejalan dengan ketentuan dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 Pasal 28G Ayat (1), yang menjamin hak setiap individu untuk dilindungi dari penyalahgunaan data pribadi. Penelitian ini menunjukkan bahwa tanggung jawab bank dalam menjaga kerahasiaan data nasabah merupakan bentuk perlindungan hukum terhadap hak asasi manusia tersebut. Dengan demikian, OJK berperan penting dalam memastikan bahwa bank memenuhi kewajiban ini. Prinsip tanggung jawab perdata juga relevan dalam konteks ini, di mana bank harus bertanggung 60
+
+jawab atas kebocoran data yang terjadi. Berdasarkan Pasal 1365 KUHPerdata, setiap tindakan melanggar hukum yang mengakibatkan kerugian kepada pihak lain mewajibkan pelaku untuk mengganti kerugian tersebut. Penelitian menunjukkan bahwa BSI harus mengambil langkah-langkah untuk memperbaiki kerugian akibat kebocoran data dan memberikan ganti rugi kepada nasabah yang terkena dampak.
+
+
+
+PENUTUP
+
+
+
+Simpulan
+
+Perlindungan hukum bagi karyawan yang terkena Pemutusan Hubungan Kerja (PHK) sepihak di Indonesia didasarkan pada berbagai undang-undang dan peraturan yang bertujuan untuk melindungi hak-hak pekerja. Menurut Undang-Undang Cipta Kerja, pasal-pasal seperti 151 dan 153 mengatur ketentuan mengenai PHK, termasuk larangan pemutusan hubungan kerja secara sepihak tanpa alasan yang sah. Selain itu, Peraturan Ketenagakerjaan juga memberikan perlindungan kepada karyawan, misalnya pasal 168 ayat (3) dari Undang-Undang Nomor 13 Tahun 2003 yang mengharuskan perusahaan untuk memberikan pesangon dan hak-hak lain jika PHK dilakukan.Dalam menjaga hak-haknya, karyawan dapat melakukan beberapa upaya hukum. Langkah pertama biasanya adalah melakukan musyawarah dengan pihak perusahaan untuk mencapai kesepakatan terkait PHK yang dialami. Namun, jika musyawarah tidak membuahkan hasil, maka karyawan dapat mengajukan penyelesaian melalui prosedur hukum, seperti mediasi, konsiliasi, atau arbitrase sesuai dengan Undang-Undang No. 2 Tahun 2004 tentang Penyelesaian Perselisihan Hubungan Industrial. Sebagai langkah terakhir, karyawan dapat membawa kasusnya ke pengadilan hubungan industrial jika semua upaya sebelumnya tidak berhasil. Di sana, pengadilan akan mempertimbangkan bukti dan fakta yang ada untuk mengambil keputusan yang adil.Dengan demikian, perlindungan hukum bagi karyawan yang mengalami PHK sepihak sangat penting untuk memastikan hak-hak mereka dihormati dan dilindungi. Oleh karena itu, penting bagi pekerja untuk memahami peraturan ketenagakerjaan dan prosedur hukum yang berlaku agar dapat mengambil langkah-langkah yang tepat dalam menghadapi situasi PHK sepihak.
+
+
+
+Saran
+
+1. Diperlukan program edukasi yang lebih intensif untuk meningkatkan kesadaran masyarakat tentang risiko kejahatan digital dan pentingnya menjaga kerahasiaan data pribadi. Hal ini dapat dilakukan melalui kampanye informasi yang melibatkan berbagai media dan platform digital.
+
+2. OJK perlu memperkuat regulasi terkait perlindungan data pribadi dan meningkatkan sanksi bagi pihak-pihak yang terbukti lalai dalam menjaga keamanan data nasabah. Hal ini akan memberikan efek jera dan mendorong bank untuk lebih berhati-hati dalam pengelolaan data.
+
+3. Bank harus diharapkan untuk mengadopsi teknologi keamanan terbaru guna melindungi data nasabah dari ancaman cyber crime. Investasi dalam sistem keamanan siber yang canggih dapat membantu mencegah kebocoran data di masa depan.
+
+4. OJK harus melakukan monitoring secara berkelanjutan terhadap praktik perbankan dalam pengelolaan data nasabah, serta memastikan bahwa semua bank mematuhi standar keamanan yang ditetapkan.
+
+
+
+DAFTAR PUSTAKA
+
+
+
+Adelia, F., Heriawanto, B. K., & Ayu, I. K. (2021). PERAN OTORITAS JASA KEUANGAN ATAS
+
+PERLINDUNGAN DATA PRIBADI KONSUMEN FINTECH LENDING. DINAMIKA, 27(21), 3142–3157.
+
+Ailia Nur Aini, R. G. (2024). Efektivitas Pengawasan Otoritas Jasa Keuangan (OJK) Dalam Menjamin Keamanan Dana Nasabah di Era Perbankan Digital: Studi Kasus Bank Syariah Indonesia. Media Hukum Indonesia, 2.
+
+https://doi.org/10.5281/ZENODO.14195708
+
+Keliat, V. U., Siregar, A. P., Zulkifli, S., & Purba, I. (2023). ANALISIS UPAYA DAN PERAN PERLINDUNGAN
+
+HUKUM TERHADAP KASUS PERETASAN DATA BANK SYARIAH INDONESIA. Ilmu Hukum Prima (IHP), 6(2), 182–190. https://doi.org/10.34012/jihp.v6i2.4251
+
+Kurnianingrum, T. P. (2020). URGENSI PELINDUNGAN DATA PRIBADI KONSUMEN DI ERA EKONOMI DIGITAL. Kajian Menjembatani Teori dan Persoalan Masyarakat dalam Perumusan Kebijakan, 25(3).
+
+http://dx.doi.org/10.22212/kajian.v25i3.3893
+
+Pikahulan, R. M. (2020). Implementasi Fungsi Pengaturan serta Pengawasan pada Bank Indonesia dan Otoritas Jasa Keuangan
+
+(OJK)
+
+terhadap
+
+Perbankan.
+
+Jurnal
+
+Penegakan
+
+Hukum
+
+dan
+
+Keadilan,
+
+1(1).
+
+https://doi.org/10.18196/jphk.1103
+
+Rani, M. (2014). PERLINDUNGAN OTORITAS JASA KEUANGAN TERHADAP KERAHASIAAN DAN
+
+KEAMANAN DATA PRIBADI NASABAH BANK. Jurnal Selat, 2(1), 168–181.
+
+61
+
+Simamora, A. P. R., & Rifai, A. (2024). Peran OJK Dalam Memberantas Tindak Pidana Perbankan Dan Perjudian Online Di Indonesia. JURNAL STUDI HUKUM MODERN, 06(3), 95–102.
+
+Sinaga, G. G., Jusuf, A. S., Kornelius, Y., & Tarina, D. D. Y. (2023). Analisis Peran Otoritas Jasa Keuangan Terhadap Perbankan Sebagai Upaya Perlindungan Data Pribadi Nasabah Bank (Studi Kasus Kebocoran Data Nasabah
+
+Bank
+
+Syariah
+
+Indonesia).
+
+Jurnal
+
+Pendidikan
+
+Tambusai,
+
+7(3),
+
+28374–28383.
+
+https://doi.org/10.31004/jptam.v7i3.11404
+
+Thimoteus, T. G., & Kharisma, D. B. (2021). PERANAN OTORITAS JASA KEUANGAN DALAM
+
+MEMBERIKAN PERLINDUNGAN HUKUM TERHADAP DATA PRIBADI NASABAH DALAM
+
+LAYANAN FINANCIAL TECHNOLOGY BERBASIS PEER TO PEER LENDING. Privat Law, 9(2), 291–299. https://doi.org/10.20961/privat.v9i2.60037
+
+Trianda Lestari, Syahrando Muhti, & Reky Yuliansyah. (2024). Pertanggungjawaban Perbankan Dalam Melindungi Data Pribadi Nasabah Akibat Peretasan Studi Kasus Bank Syariah Indonesia. Doktrin: Jurnal Dunia Ilmu Hukum dan Politik, 2(3), 31–47. https://doi.org/10.59581/doktrin.v2i3.3181
+
+Undang undang nomor tahun 2024 tentang penyelesaian perselisihan hubungan industrial Undang undang nomor 6 tahun 2023 tentang penerapan peraturan pemerintah pengganti Undang undang nomor 2 tahun 2022 tentang cipta kerja
+
+Undang undang nomor 13 tahun 2003 tentang ketenagakerjaan
+
+Wibowo, R. F., & Herawati, R. (2021). Perlindungan Bagi Pekerja Atas Tindakan Pemutusan Hubungan Kerja (PHK)
+
+Secara
+
+Sepihak.
+
+Jurnal
+
+Pembangunan
+
+Hukum
+
+Indonesia,
+
+3(1),
+
+109–120.
+
+https://doi.org/10.14710/jphi.v3i1.109-120
+
+
+
+
+
+62
+
+
+
+
+

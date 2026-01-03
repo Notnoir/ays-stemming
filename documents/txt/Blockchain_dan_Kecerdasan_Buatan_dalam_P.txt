@@ -1,0 +1,853 @@
+Jurnal Teknologi Informasi dan Ilmu Komputer (JTIIK)                                DOI: 10.25126/jtiik.202184059
+Vol. 8, No. 1, Februari 2021, hlm. 177-188                                                      p-ISSN: 2355-7699
+Akreditasi KEMENRISTEKDIKTI, No. 36/E/KPT/2019                                                  e-ISSN: 2528-6579
+
+          BLOCKCHAIN DAN KECERDASAN BUATAN DALAM PERTANIAN :
+                                           STUDI LITERATUR
+                      Fajar Delli Wihartiko*1, Sri Nurdiati2, Agus Buono3, Edi Santosa4
+ 1
+     Departemen Ilmu Komputer, Institut Pertanian Bogor & Program Studi Ilmu Komputer, Universitas Pakuan.
+     2
+       Departemen Matematika, Institut Pertanian Bogor, 3Departemen Ilmu Komputer, Institut Pertanian Bogor.
+                       4
+                         Departemen Agronomi dan Hortikultura, Institut Pertanian Bogor.
+                           Email: 1 fajardelli@apps.ipb.ac.id, 2nurdiati@apps.ipb.ac.id,
+                                3
+                                  agusbuono@apps.ipb.ac.id, 4edisang@gmail.com
+                                              *Penulis Korespondensi
+                (Naskah masuk: 11 September 2020, diterima untuk diterbitkan: 02 Februari 2021)
+                                                     Abstrak
+Dewasa ini teknologi blockchain dan kecerdasan buatan (artificial intelligence/AI) telah diimplementasikan dalam
+bidang pertanian. Teknologi blockchain menjanjikan keamanan dan peningkatan kepercayaan untuk pengguna.
+Teknologi kecerdasan buatan menjanjikan berbagai kemudahan bagi pengguna. Perpaduan kedua teknologi
+tersebut dapat meningkatan kepercayaan terhadap sistem kecerdasan buatan (blockchain for AI) atau dapat juga
+digunakan untuk meningkatkan kinerja sistem blockchain (AI for blockchain). Tujuan penelitian ini mengulas
+kedua teknologi tersebut dalam studi literatur serta memberikan tantangan riset ke depan terkait implementasinya
+di bidang pertanian. Metodologi yang digunakan adalah Systematic Literature Review (SLR) dan text mining. Text
+mining digunakan untuk memberikan deskripsi riset yang ada berdasarkan kata-kata di setiap artikel terpilih. SLR
+digunakan untuk memberikan ulasan yang komprehensif terkait riset Blockchain dan kecerdasan Buatan dalam
+pertanian. Hasil penelitian menunjukan bahwa terdapat 10 % penelitian terkait penerapan blockchain dan AI dalam
+pertanian. Riset tersebut memiliki potensi besar untuk berkembang terlihat dari peningkatan jumlah publikasi
+dalam 2 tahun terakhir. Kontribusi penelitian ini meliputi posisi riset terkini dan usulan riset ke depan dengan
+mempertimbangkan kondisi pertanian Indonesia. Posisi riset tersebut didominasi komunitas peneliti dari negara-
+negara di Asia seperti India (33%), Pakistan (33%), China (14%) dan Korea (14%). Originalitas penelitian ini
+terletak pada studi literatur dari integrasi teknologi blockchain dan kecerdasan buatan dalam bidang pertanian
+menggunakan SLR dan text mining.
+Kata kunci: blockchain, kecerdasan buatan, pertanian
+
+
+          BLOCKCHAIN AND ARTIFICIAL INTELLIGENCE IN AGRICULTURE :
+                     A SYSTEMATIC LITERATURE REVIEW
+                                                     Abstract
+
+Artificial intelligence and blockchain technology are being developed and implemented in Agriculture. Blockchain
+technology promises security and trust for users. Moreover, artificial intelligence technology promises
+convenience for users. The combination of these two technologies will increase trust in artificial intelligence
+systems. Besides, this combination can also increase security on the blockchain system through the application of
+artificial intelligence. This paper summarizes the application of both technologies and reviews them in a systematic
+literature review, presents a description of articles based on text mining, and provides future research challenges
+related to the implementation of blockchain and artificial intelligence in agriculture. The methodologies used are
+Systematic Literature Review (SLR) and text mining. Text mining is used to describe a description of existing
+research based on the words in each selected article. SLR is used to provide a comprehensive review of Blockchain
+research and Artificial intelligence in agriculture. The results showed that there were 10% of research related to
+the application of blockchain and AI in agriculture. This research has great potential for growth as seen from the
+increase in the number of publications in the last 2 years. The contribution of this research includes the latest
+research positions and future research proposals taking into account the conditions of Indonesian agriculture.
+The research position is dominated by the research community from countries in Asia such as India (33%),
+Pakistan (33%), China (14%) and Korea (14%). The originality of this research is a literature study on the
+integration of blockchain and artificial intelligence in agriculture using SLR and text mining.
+Keywords: blockchain, Artificial intelligence, agriculture
+
+
+                                                       177
+178 Jurnal Teknologi Informasi dan Ilmu Komputer (JTIIK), Vol. 8, No. 1, Februari 2021, hlm. 177-188
+
+1.   PENDAHULUAN                                          (FAO) of the United Nations (FAO, 2019) yang
+                                                          menunjukkan peningkatan produksi pertanian pada
+      Blockchain dan kecerdasan buatan saat ini telah
+                                                          skala dunia yakni sebesar 4,1% di dekade terakhir.
+berkembang dengan pesat di era revolusi industri 4.0.
+                                                          Teknologi kecerdasan buatan dalam agromatirim 4.0
+Keduanya memiliki peran yang berbeda namun dapat
+                                                          umumnya digunakan untuk prediksi hasil panen,
+saling melengkapi. Salah satu fitur utama dari
+                                                          deteksi penyakit tanaman, manajemen tanaman,
+blockchain adalah immuttability yang merupakan
+                                                          pengendalian hama,          pengendalian penyakit,
+fitur untuk keamanan data agar tidak dapat diubah
+                                                          manajemen irigasi, manajemen nutrisi tanah,
+oleh seorang pengguna. Perubahan data dalam sistem
+                                                          pemantauan produksi dan pemantauan penyimpanan
+blockchain mungkin dilakukan atas persetujuan suatu
+                                                          produk pertanian (Liakos et al., 2018), (Bannerjee et
+konsensus. Berikutnya kecerdasan buatan (Artificial
+                                                          al., 2018). Implementasi blockchain dalam pertanian
+Intelligence/AI) memiliki keunggulan yang terletak
+                                                          mayoritas digunakan dalam penyelesaian masalah
+pada kemampuannya dalam hal meniru kecerdasan
+                                                          manajemen rantai pasok serta sebagai media
+manusia seperti pada proses pembelajaran dan
+                                                          penyimpanan data dalam sistem Internet of Things
+penyelesaian masalah. Perpaduan antara blockchain
+                                                          (IOT) (Almeida et al., 2018), (Ge et al., 2017), (Kim
+dan kecerdasan buatan akan menjadi revolusi untuk
+                                                          & Laskowski, 2018).
+generasi digital (Dinh & Thai, 2018) dan akan banyak
+                                                                Penelitian Systematic Literature Review (SLR)
+diterapkan dalam berbagai bidang termasuk dalam
+                                                          untuk teknologi blockchain di bidang pertanian
+bidang pertanian.
+                                                          ditemukan dalam kurun waktu 2018-2020. Penelitian
+      Teknologi blockchain menawarkan keamanan
+                                                          tersebut diinisialisasi oleh (Almeida et al., 2018)
+data untuk meningkatkan kepercayaan pengguna
+                                                          dengan hasil dominasi penelitian blockchain ada pada
+melalui sistem data terdistribusi. Blockchain juga
+                                                          kasus manajemen rantai pasok pertanian. Selain itu
+memiliki kemampuan untuk mengotomatisasi
+                                                          penerapan teknologi blockchain di pertanian di
+pembayaran dalam cryptocurrency, menyediakan
+                                                          dominasi oleh komuniatas peneliti dari Asia, dalam
+akses data transaksi secara desentralisasi yang aman
+                                                          hal ini ada pada negara China. Penelitian (Yadaf &
+dan tepercaya (Salman et al., 2019), (Yadaf & Singh,
+                                                          Singh, 2019) juga memperkuat penelitian
+2019), (Zheng et al., 2017). Teknologi blockchain
+                                                          sebelumnya dimana riset masih didominasi oleh Asia.
+pertama kali dikenalkan melalui sistem bitcoin
+                                                          Penelitian tersebut mengungkapkan bahwa topik
+(Nakamoto, 2008) dan terus berkembang baik dalam
+                                                          utama riset blockchain dalam pertanian adalah
+hal manajemen, privasi, keamanan dan tata kelola
+                                                          mengenai ketertelusuran rantai pasok pertanian.
+data hingga diaplikasikan untuk meningkatkan
+                                                          Berbeda dengan hal tersebut, penelitian (Kasten,
+kepercayaan sistem pada bidang kesehatan,
+                                                          2020) berfokus pada SLR untuk keamanan pangan,
+pendidikan, bisnis, industri, manajemen rantai pasok
+                                                          proses produksi serta pengiriman produk.
+dan keuangan (Casino, Dasaklis & Patsakis, 2019),
+                                                                Penelitian mengenai tinjauan pustaka terkait
+(Dave et al., 2019), (Casado et al., 2018).
+                                                          penerapan blockchain dalam pertanian dipertajam
+      Teknologi kecerdasan buatan menawarkan
+                                                          dengan ruang lingkup yang lebih spesifik dan dengan
+kemudahan bagi pengguna di antaranya melalui
+                                                          penambahan metode lain. Sepertihalnya penelitian
+berbagai macam teknik pembelajaran dan optimasi
+                                                          (Antonucci et al., 2019) menggunakan analisis
+melalui konsep machine learning dan swarm
+                                                          pemetaan dalam mempelajari penelitan blockchain
+intelligence. Kecerdasan buatan sendiri didefinisikan
+                                                          untuk produk agrifood dalam perspektif komputasi
+sebagai suatu mesin atau program yang memiliki
+                                                          dan aplikasi. Penelitian tersebut juga mengulas
+kecerdasan di dalamnya guna menyelesaikan suatu
+                                                          faktor-faktor ketidakpastian yang harus diperhatikan
+pekerjaan (Dinh & Thai, 2018). Konsep kecerdasan
+                                                          dalam memperkuat struktur blockchain dalam sektor
+buatan mulai dikenal oleh masyarakat awam saat
+                                                          agrifood. Penelitian (Mirabelli & Solina, 2020)
+kemenangan deep blue (pemograman catur berbasis
+                                                          berfokus untuk ketertelusuran manajemen rantai
+kecerdasan buatan) atas Garry Kasparov (juara dunia
+                                                          pasok pertanian dimana dalam analisa deskripsinya
+catur) dalam permainan catur, meskipun teknologi AI
+                                                          menggunakan analisa jaringan dari kata-kata yang
+mulai dirintis oleh John McCarthy (1927) (Vardi,
+                                                          muncul dalam artikel ada. Beberapa kata yang
+2012). Berbagai penerapan teknologi kecerdasan
+                                                          dominan meliputi smart agriculture, Internet of
+buatan diantaranya meliputi pengembangan sistem
+                                                          Things (IOT), sustainability, traceability serta
+pakar, robotic, pengenalan suara, computer vision,
+                                                          etherium & smart contract. Hasil penelitian
+artificial neural network dan sistem fuzzy (Singh,
+                                                          menunjukan bahwa teknologi blockchain di pertanian
+Rathore & Park, 2019), (Bannerjee et al., 2018).
+                                                          telah berkembang dengan pesat yang dilihat dari
+      Era revolusi industri 4.0 telah mendorong
+                                                          jumlah riset yang ada.
+penerapan teknologi informasi di berbagai bidang
+                                                                Berbagai ulasan mendalam terkait penerapan
+termasuk dalam pertanian yang mendorong era
+                                                          blockcchain dalam pertanian juga telah tersedia.
+agromaritim 4.0 (IPB, 2019) (Klerkx, Jakku &
+                                                          Seperti pada penelitian (Demestichas et al., 2020)
+Labarthe, 2019). Bidang pertanian sendiri akan terus
+                                                          mengulas penggunaan blockchain dalam sistem
+berkembang mengingat pertanian merupakan
+                                                          ketertelusuran di pertanian. Hasil penelitian tersebut
+kebutuhan mendasar dari manusia. Hal ini terlihat
+                                                          menunjukan       penggunaan      blockchain      dapat
+dalam data Food and Agriculture Organization
+                                                                   Wihartiko, dkk, Teknologi Blockchain …179
+
+
+meningkatkan sistem ketertelusuran yang ada melalui
+penyimpanan data secara permanen. Berikutnya
+penelitian (Xiong et al., 2020) telah melakukan
+pembahasan mengenai aspek teori dan aplikatif dari
+implementasi blockchain pada kasus rantai pasok
+makanan, asuransi produk pertanian, konsep
+pertanian cerdas dan transaksi produk pertanian.
+Ulasan mendalam mengenai teknik yang digunakan
+untuk penerapan blockchain dalam pertanian dibahas
+oleh (Lin et al., 2020). Pembahasannya meliputi
+elemen teknis (struktur data, kriptografi, konsensus),
+aplikasi, platform serta smart contract. Penelitian
+tersebut juga mengusulkan penerapan blockchain
+pasca pandemi Covid-19. Ulasan terkait penggunaan
+blockchain untuk keamanan pangan dibahas pada
+penelitian (Wang & Yang, 2020). Pembahasan                        Gambar 1. Proses SLR dengan Text Mining
+meliputi permasalahan yang mungkin muncul dalam
+implementasi blockchain seperti infrastuktur, biaya      2.1. Proses Perencanaan
+serta regulasi.                                                Pedoman yang digunakan dalam proses
+      Berdasarkan penelitian studi literatur di atas,    pencarian dan proses klasifikasi artikel secara umum
+belum ditemukan studi literatur mengenai                 adalah sebagai berikut :
+implementasi blockchain dan kecerdasan buatan              (1) kata kunci pencarian yang digunakan meliputi
+secara bersamaan di bidang pertanian. Mayoritas                blockchain, blockchain ai, blockchain artificial
+penelitian studi literatur yang ada berupa kajian dari         intelligence dan blockchain agriculture.
+implementasi kedua teknologi tersebut secara               (2) Artikel terbaru (2016 - 2020) bereputasi dan
+terpisah dan studi mengenai konsep kedua teknologi             terindeks.
+tersebut di bidang pertanian. Berbeda dengan hal           (3) Proses pengelompokan dilakukan dengan
+tersebut artikel ini menyajikan kajian literatur               mengklasifikasikan artikel dalam subtopik. Jika
+mengenai penerapan integrasi teknologi blockchain              terdapat 1 artikel ilmiah dengan subtopik lebih
+dan kecerdasan buatan serta memberikan potensi                 dari 1, maka akan dipilih satu subtopik yang
+pengembangan riset sesuai kondisi di Indonesia.                dominan.
+Kontribusi artikel terletak pada posisi riset terkini
+serta usulan riset ke depan mengenai penerapan kedua     2.2. Proses Pelaksanaan
+teknologi tersebut di bidang pertanian. Tujuan artikel
+ilmiah ini adalah meninjau penerapan teknologi                 Statistika deskriptif digunakan untuk melihat
+blockchain dan kecerdasan buatan pada pertanian          gambaran mengenai posisi penelitian blockchain dan
+serta melihat peluang penerapan kedua teknologi          kecerdasan buatan dalam pertanian. Hasil artikel yang
+tersebut secara bersama-sama pada bidang pertanian.      terkumpul disajikan dalam bentuk diagram dan grafik
+Originalitas riset berupa studi literatur menggunakan    untuk mempermudah proses analisis.
+SLR dan text mining dalam tema blockchain dan                  Text mining dalam tahap ini digunakan untuk
+kecerdasan buatan di bidang pertanian. Struktur          memberikan deskripsi penelitan blockchain dan
+penulisan artikel ini secara berurut meliputi            kecerdasan buatan dalam pertanian. Proses text
+pendahuluan, penelitian sebelumnya, metodologi,          mining menggunakan software NVIVO 12 terhadap
+hasil dan pembahasan serta kesimpulan.                   jurnal yang memiliki kesesuaian dengan topik
+                                                         penelitian. Hasil text mining berupa word of cloud dan
+2.   METODE PENELITIAN                                   pohon clustering.
+                                                               Proses sintesa dilakukan berdasarkan hasil
+      Penelitian ini menggunakan Systematic              analisa deskriptif. Dalam tahap ini dilakukan
+Literature Review (SLR) dengan text mining untuk         pembahasan mengenai kontribusi artikel terhadap
+analisa deskriptif. SLR digunakan untuk memberikan       bidang pertanian serta kendala-kendala yang
+gambaran yang komprehensif terkait topik penelitian      ditemukan. Pengembangan usulan riset terkait
+(Xiao & Watson, 2019). Text mining digunakan             penerapan blockchain dan kecerdasan buatan dalam
+untuk memberikan gambaran umum artikel yang              pertanian disusun dengan mempertimbangkan hasil
+terkumpul berdasarkan kata-kata yang ada di seluruh      studi literatur dan juga berdasarkan kondisi pertanian
+artikel (O’Mara-Eves et al., 2015). Dalam studi          yang ada di Indonesia.
+literatur ini, proses text mining digunakan untuk
+memperkuat hasil yang diperoleh dari SLR. Proses
+SLR dengan text mining yang digunakan dalam studi
+ini merupakan pengembangan proses SLR (Xiao &
+Watson, 2019). Secara rinci proses tersebut dapat
+dilihat dalam Gambar 1.
+180 Jurnal Teknologi Informasi dan Ilmu Komputer (JTIIK), Vol. 8, No. 1, Februari 2021, hlm. 177-188
+
+3.   HASIL DAN PEMBAHASAN
+
+     3.1. Hasil Pencarian dan Klasifikasi Artikel
+                                                                             (5% BC for AI,
+                                                                                       Survey
+      Dari hasil pencarian sesuai kata kunci, diperoleh                       5% AI for BC)
+                                                                                       (BC+AI
+data berupa artikel ilmiah dalam bentuk jurnal dan                        IOT      AI
+                                                                                          )
+                                                                          7%       10%
+proceeding dengan jumlah sebanyak 58 buah. Artikel                                      10%
+ilmiah tersebut diterbitkan pada tahun 2016 –                        DB
+                                                                                                       Survey
+Agustus 2020 serta memiliki tema besar blockchain                    9%
+                                                                                                        26%
+dalam pertanian. Artikel ilmiah yang terkumpul
+kemudian diklasifikasi kembali berdasarkan subtopik
+artikel ilmiah yang secara umum terbagi dalam 5
+kelompok. Pemilihan subtopik di setiap kelompok
+dilakukan berdasarkan pengembangan dari penelitian                               SCM
+(Yadaf & Singh, 2019) yakni :                                                    38%
+  (1) Ulasan penerapan blockchain di pertanian
+      (Survey).                                            Gambar 3. Persentase Artikel Blockchain Berdasarkan Subtopik
+  (2) Implementasi blockchain dalam masalah
+      manajemen rantai pasok (Supply Chain
+      Management/SCM) di pertanian.
+  (3) Implementasi blockchain sebagai data base                               Produk
+      (DB) di bidang pertanian.                                                Spesifi
+  (4) Integrasi blockchain dan Internet of Things
+                                                                       Agrifood k
+      (IOT) di pertanian.
+                                                                         7% 14%
+  (5) Integrasi blockchain dan Kecerdasan Buatan
+      (AI) di pertanian.
+Hasil pengelompokan dan pengumpulan artikel
+ilmiah tersebut disajikan dalam Tabel 1.
+                                                                                              Agricul
+                                                                                               ture
+3.2. Hasil Analisa Deskriptif
+                                                                                               79%
+      Diagram dan grafik digunakan untuk
+menganalisa posisi riset blockchain dan AI dalam
+pertanian. Gambar 2 menunjukan jumlah artikel
+                                                             Gambar 4. Persentase Artikel Berdasarkan Objek Penelitian
+ilmiah pertahun. Gambar 3 menunjukan persentase
+hasil klasifikasi dari artikel ilmiah terkait. Gambar 4
+menunjukan persentase objek pertanian yang diteliti.
+Gambar 5 menunjukan lokasi penelitian.
+
+                                                                            eropa
+                                                                             19%
+                                                                      Amerika
+                                                                        3%
+
+
+
+                                                                                                Asia
+                                                                                                78%
+
+
+
+                                                            Gambar 5. Persentase Artikel Berdasarkan Lokasi Penelitian
+     Gambar 2. Jumlah Artikel Ilmiah Terkait per Tahun.
+                                                                                   Wihartiko, dkk, Teknologi Blockchain …181
+
+                                  Tabel 1 Penelitian terkait penerapan blockchain di bidang pertanian
+                                            Subtema                 Objek
+No               Sitasi                                                                             Deskripsi Singkat
+                                     a     b     c     d     e    f   g     h
+ 1   (Tian, 2016)                          ●                          ●         Menggunakan blockchain dan RFID untuk manjemen
+                                                                                rantai pasok makanan di China
+ 2   (Tse et al., 2017)                    ●                          ●         Mengedepankan penerapan teknologi Blockchain dalam
+                                                                                keamanan informasi dari rantai suplai makanan di China
+ 3   (Papa, 2017)                          ●                      ●             Pemanfaatan blockchain untuk transparansi SCM
+                                                                                agribisnis.
+ 4   (Xie, Sun & Luo, 2017)                      ●                ●             Merancang skema untuk penyimpanan data berdasarkan
+                                                                                blockchain
+ 5   (Lin et al., 2017)                                ●          ●             Memperkenalkan prototype sistem ICT e-Agriculture
+ 6   (Salah et al., 2018)            ●                            ●             Review Blockchain dengan AI dalam berbagai bidang,
+                                                                                termasuk pertanian
+ 7   (Almeida et al., 2018)          ●                            ●             Review Blockchain dalam pertanian
+ 8   (Rabah, 2018)                   ●                            ●             Memberikan gambaran umum penerapan big data dalam
+                                                                                berbagai bidang
+ 9   (Kumar & Iyengar, 2018)               ●                                ●   Implementasi blockchain untuk SCM di India
+10   (Leng et al., 2018)                   ●                      ●             SCM pertanian dengan arsitektur rantai ganda berbasis
+                                                                                teknologi blockchain
+11   (Lucena et al., 2018)                 ●                                ●   Pelacakan penjaminan mutu gandum berdasarkan
+                                                                                jaringan bisnis blockchain
+12   (Carbone et al., 2018)                ●                          ●         Penerapan teknologi blockchain, cloud dan IOT untuk
+                                                                                rantai pasokan makanan.
+13   (Hua et al., 2018)                    ●                      ●             Pemanfaatan blockchain untuk membangun
+                                                                                kepercayaan
+14   (Casado et al., 2018)                 ●                      ●             Penggunaan blockchain dalam penerapan industri
+                                                                                pertanian
+15   (Patil et al., 2018)                        ●                ●             Smart greenhouse farm berbasis IOT dengan framework
+                                                                                blockchain
+16   (Yadaf & Singh, 2019)           ●                            ●             Meninjau aplikasi blockchain di bidang pertanian
+17   (Dave et al., 2019)             ●                            ●             Meninjau aplikasi blockchain di berbagai bidang
+                                                                                termasuk pertanian
+18   (Singh, Rathore & Park,         ●                            ●             Konsep BlockIOTIntelligence
+     2019)
+19   (Antonucci et al., 2019)        ●                               ●         Review blockchain dalam agrifood
+20   (Arena et al., 2019)                  ●                              ●    BRUSCHETTA: Blockhain-IOT framework untuk SCM
+                                                                               komoditas minyak zaitun
+21   (Kamble, Gunasekaran &                ●                    ●              Pemodelan blockchain dalam SCM pertanian
+     Sharma, 2019)
+22   (Kamilaris, Fonts &                   ●                         ●         Penerapan blockchain dalam rantai pasokan makanan
+     Prenafeta-Boldύ, 2019)
+23   (Salah et al., 2019)                  ●                              ●    Penerapan blockchain untuk SCM kedelai
+24   (Reddy, Aravind Reddy &               ●                    ●              Penggunaan Blockchain untuk meningkatkan efisiensi
+     Sashi Rekha, 2019)                                                        SCM pertanian
+25   (Wu & Tsai, 2019)                                ●         ●              Blockchain digunakan untuk pengamanan data jaringan
+                                                                               pada pertanian
+26   (Bordel et al., 2019)                            ●         ●              Penggunaan blockchain untuk masalah otomasi irigrasi
+27   (Munir, Bajwa &                                       ●    ●              Penggunaan logika fuzzy pada kasus sistem smart
+     Cheema, 2019)                                                             watering menggunakan blockchain
+28   (Nazarov, Shvedov &             ●                          ●              Usulan pengembangan blockchain unuk agro industri
+     Sulimin, 2019)                                                            Rusia
+29   (Iswari, Arkeman &                    ●                              ●    Rancang bangun sistem blockchain untuk rantai pasok
+     Muslich, 2019)                                                            kakao
+30   (Ferrag et al., 2020)           ●                                         Studi literatur penerapan blockchain IOT di pertanian
+31   (Lezoche et al., 2020)          ●                          ●              Studi literatur teknologi di SCM
+32   (Mirabelli & Solina, 2020)      ●                                         Studi literatur blockchain dan SCM
+33   (Mistry et al., 2020)           ●                                         Review penerapan blockchain di teknologi 5G dan
+                                                                               pertanian secara umum
+34   (Sisodiya & Garg, 2020)         ●                          ●              Review blockchain dan aplikasinya
+35   (Xiong et al., 2020)            ●                          ●              Review implementasi blockchain di pertanian
+36   (Alam et al., 2020)             ●                          ●              Konsep smart farming & blockchain dalam pertanian
+37   (Borah et al., 2020)                  ●                    ●              Penggunaan blockchain dan IOT untuk SCM pertanian
+38   (Kamble, Gunasekaran &                ●                    ●              Blockchain dengan SCM untuk keandalan layanan
+     Sharma, 2020)
+39   (Shahid et al., 2020b)                ●                         ●         Implementasi blockchain untuk SCM berdasarkan
+                                                                               reputasi sitem
+40   (Shahid et al., 2020a)                ●                    ●              Solusi blockchain untuk pertanian SCM
+41   (Shingh et al., 2020)                 ●                              ●    Pengembangan blockchain pada produk susu murni
+42   (Tiwari, 2020)                        ●                         ●         Penerapan blockchain untuk agrifood SCM
+43   (Daniel & Ifejika Speranza,                      ●         ●              Blockchain untuk dokumentasi data
+     2020)d
+44   (Chinnaiyan & Balachandar,                  ●              ●              Penggunaan blockchain, IOT, drone & sensor untuk
+     2020)                                                                     pertanian
+182 Jurnal Teknologi Informasi dan Ilmu Komputer (JTIIK), Vol. 8, No. 1, Februari 2021, hlm. 177-188
+
+                                                Subtema                 Objek
+No                Sitasi                                                                                Deskripsi Singkat
+                                        a      b   c    d      e    f    g    h
+ 45    (Dakshayini & Balaji Prabhu,                            ●    ●                  Sistem Penunjang Keputusan berbasis big data dalam
+       2020)                                                                           sistem blockchain
+46     (Khan, Byun & Park, 2020)                                ●    ●                 Model RNN untuk prediksi penjualan produk pertanian
+                                                                                       dalam sistem blockchain
+47    (Yadav et al., 2020)                                      ●    ●                 Penggunaan fuzzy untuk evaluasi kinerja blockchain
+48    (Kasten, 2020)                    ●                            ●                 Studi Literatur implementasi blockchain di pertanian
+49    (Awan et al., 2020)                                       ●    ●                 Peningkatan kinerja blockchain melalui perutean
+                                                                                       protokol dalam sistem IOT-Blockchain pertanian
+50    (Mao et al., 2020)                                        ●                ●     Peningkatan kinerja konsensus blockchain dalam kasus
+                                                                                       ketelusuran produk teh menggunakan AHP
+51    (Hang, Ullah & Kim, 2020)                           ●                      ●     Penggunaan blockchain untuk data base produk
+                                                                                       perikanan
+52    (Lin et al., 2020)                ●                            ●                 Ulasan mengenai teknik dan aplikasi blockchain dalam
+                                                                                       pertanian
+53    (Putri, Hariadi & Wibawa,                ●                                 ●     Penggunaan blockchain dalam menunjang manajemen
+      2020)                                                                            rantai pasok produk cabai di Indonesia
+54    (Demestichas et al., 2020)        ●                            ●                 Ulasan mengenai sistem penelusuran produk pertanian
+                                                                                       menggunakan blockchain
+55    (Wang & Yang, 2020)               ●                                  ●           Ulasan mengenai keamanan produk agrifood
+                                                                                       menggunakan blockchain.
+56    (Li, Wang & Li, 2020)                               ●          ●                 Analisis keberlanjutan sistem blockchain dalam
+                                                                                       pertanian
+57    (Chen, Li & Li, 2020)             ●                            ●                 Ulasan mengenai digital agricultural democratization
+                                                                                       menggunakan blockchain
+58    (Zhang, Cao & Dong, 2020)         ●                            ●                 Ulasan penerapan, teknik serta tantangan riset mengenai
+                                                                                       blockchain dan IOT dalam pertanian.
+Keterangan : a : Survey, b : SCM, c : IOT, d : DB, e : AI, f : Agriculture, g : agrifood , h : produk spesifik pertanian
+
+
+Berdasarkan Tabel 1 serta Gambar 2 sampai Gambar                           information, network dan learning Hubungan kata-
+5, dapat terlihat bahwa dominasi penelitian terkait                        kata ini membentuk suatu cluster yang diilustrasikan
+blockchain di pertanian adalah sebagai berikut:                            dalam pohon pada Gambar 6(b). Dalam pohon
+(1) Publikasi tertinggi ada di tahun 2020, meskipun                        tersebut aplications, blockchain, AI dan IOT berada
+     publikasi baru sampai bulan Agustus 2020.                             dalam sebuah cluster. Konsep blockchain, AI dan
+     Penggunaan blockchain pada bidang pertanian                           IOT dalam artikel-artikel yang ada secara umum
+     menunjukan peningkatan yang diikuti pula                              merepresentasikan tantangan penelitian di masa
+     peningkatan riset blockchain dan AI pada 2019                         depan. Kata technology, system, information, network
+     dan 2020.                                                             learning dan data muncul pada cluster lain. Hal ini
+                                                                           menunjukan kata-kata tersebut dekat dengan aplikasi
+(2) Mayoritas publikasi mengenai blockchain di                             blockchain, IOT dan AI.
+    pertanian berfokus pada topik supply chain
+    management (SCM) (38%) dan ulasan
+    mengenai teknologi blockchain (36%)
+(3) Mayoritas publikasi (79%) membahas produk
+    pertanian secara umum. Secara spesifik produk
+    pertanian yang telah diulas sebanyak 14%
+    meliputi komoditas padi, kedelai, kakao, cabai,
+    susu dan produk perikanan.
+(4) Asia masih memiliki dominasi tertinggi (78%)
+    dalam hal lokasi penelitian penerapan
+    Blockchain. Negara dengan jumlah penelitian
+    tertinggi adalah India (28%), China (22%) dan
+    Spanyol (8%). Terdapat 2 penelitian dengan
+    lokasi penelitian di Indonesia yang berfokus
+    pada komoditas cabai dan kakao.
+(5) Publikasi terkait blockchain dan AI sebanyak
+    20%       dengan       rincian     10%      berupa
+    implementasinya dalam bidang pertanian dan
+    10% berupa ulasan, rekomendasi dan tantangan
+    riset dari integrasi tersebut di bidang pertanian.
+      Hasil analisa deskriptif berdasarkan text mining
+dari seluruh artikel blockchain dan kecerdasan buatan
+disajikan dalam Gambar 6. Pada Gambar 6(a),
+dominasi kata-kata yang muncul adalah blockchain,                             Gambar 6. (a) Word of Cloud; (b) Hasil clustering dalam tree
+data, IOT, AI, aplications, technology, system,
+                                                                           Wihartiko, dkk, Teknologi Blockchain …183
+
+
+3.4. Hasil Studi Literatur                                      No   Referensi                             Deskripsi
+                                                                 8   (Lezoche     -   Ulasan terhadap teknologi blockchain, AI,
+      Berdasarkan hasil klasifikasi, terdapat 12                     et    al.,       IOT dan Big data dalam era agrifood 4.0
+artikel terkait blockchain dan kecerdasan buatan di                  2020)        -   Masa depan pertanian adalah dalam
+pertanian dengan rincian 6 paper berupa implmentasi                                   penciptaan sistem pertanian yang tangguh
+serta 6 paper berupa ulasan (survey). Ulasan                                          dan        berkelanjutan.       Pengelolaan
+mengenai 12 artikel ilmiah tersebut disajikan pada                                    manajemen        ketidakpastian     berbasis
+Tabel 2.                                                                              pertanian yang telah diidentifikasi
+                Tabel 2 Hasil Studi Literatur                                         meliputi     Produk, Proses, Pasar dan
+No   Referensi                          Deskripsi                                     Lingkungan,
+ 1   (Munir,     - Pengembangan prototype Smart Watering         9   (Xiong et    -   Ulasan mengenai penerapan teknologi
+     Bajwa &       System (SWS) di Pakistan.                         al., 2020)       blockchain      dalam rantai pasokan
+     Cheema,     - Sistem berbasis logika fuzzy digunakan                             makanan, asuransi pertanian, smart
+     2019)                                                                            farming, transaksi produk pertanian dalam
+                   memutuskan tindakan berdasarkan nilai
+                   variabel input,                                                    perspektif teoretis dan praktis.
+                 - Sistem yang diusulkan aman dan efisien                         -   Keterbatasan dalam penerapan blockchain
+                   untuk proses penyiraman tanaman.                                   di bidang pertanian meliputi diperlukan
+ 2   (Dakshay - Integrasi model big data dengan teknologi                             motivasi kepada pihak yang bertansaksi
+     ini      &    blockchain untuk sinkronisasi permintaan                           untuk memberikan informasi yang asli dan
+     Balaji        dan penawaran dalam produk pertanian di                            tepat dalam blockchain, implementasi
+     Prabhu,                                                                          blockchain pada sistem           sebelumnya
+                   India.
+     2020)
+                - Blockchain digunakan untuk mengurangi                               belum tentu berjalan dengan baik, biaya
+                   peran perantara (tengkulak).                                       untuk menyimpan data dalam blockchain
+                - Model secara efektif meningkatkan                                   bisa jadi sangat mahal dan tidak sebanding
+                   kualitas sistem pertanian berdasarkan                              dengan harga komoditas pertanian pada
+                   tingkat kesesuaian permintaan dan                                  umumnya.
+                   penawaran.                                   10   (Alam et     -   Ulasan mengenai penerapan teknologi
+ 3   (Khan,     - Pengembangan SCM dalam industri 4.0                al., 2020)       blockchain, dan AI.
+     Byun &        dalam sektor pangan akan lebih optimal                         -   Memberikan usulan berupa framework
+     Park,         jika diintegrasikan teknologi IOT,                                 untuk konsep neoteric smart &
+     2020)                                                                            sustainable       farming      environment
+                   blockchain dan kecerdasan buatan.
+                - Penggunaan Recurent Neural Network                                  berdasakkan blockchain dan AI.
+                   (RNN) untuk prediksi penjualan produk        11   (Awan et     -   Mengembangkan rute protokol guna
+                   pertanian. Optimisasi algoritma genetika          al., 2020)       menghapus data yang berlebihan melalui
+                   (GA) secara bersama sama untuk                                     pendekatan clustering.
+                   mengoptimalkan parameter model hibrida.                        -   meningkatkan kinerja sistem jaringan
+                - Model digunakan untuk membantu para                                 Blockchain IOT dalam smart agriculture
+                   praktisi rantai pasokan untuk mengambil      12   (Mao et      -   Implementasi pada kasus Blockchain IOT
+                   keputusan sesuai hasil prediksi.                  al., 2020)       untuk produk teh di China.
+ 4   (Yadav et - Evaluasi          pelaksanaan      penerapan                     -   Pendekatan AHP digunakan untuk
+     al., 2020)    blockchain dalam rantai pasok pertanian di                         membantu menentukan nodes yang tepat.
+                   India menggunakan pendekatan Fuzzy.                            -   Membuat sitem ketelusuran dari prodek
+                - Penerapan model evaluasi menggunakan                                teh bekerja ebih baik.
+                   Total Interpretive Structural Modeling             Perpaduan blockchain dan kecerdasan buatan
+                   (TISM), System Dynamics Modelling            dapat meningkatkan keamanan dan kepercayaan dari
+                   (SDM).        Hambatan        yang     ada   suatu sistem cerdas atau dapat pula meningkatkan
+                   dikelompokkan menjadi dalam kelompok
+                                                                kinerja sistem blockchain secara cerdas Hal ini
+                   yang cocok menggunakan Fuzzy-
+                                                                merupakan bagian dari konsep blockchain for AI
+                   MICMAC.
+ 5    (Salah et - Memberikan framework yang jelas atas
+                                                                maupun AI for blockchain. konsep blockchain for AI
+     al., 2018)    penerapan AI dan Blockchain di berbagai      adalah penggunaan blockchain untuk mendukung
+                   bidang termasuk pertanian                    keamanan data dari sistem AI, sedangkan konsep AI
+                - Memberikan taksonomi yang jelas               for blockchain merupakan penggunaan AI untuk
+                   mengenai penerapan AI dan Blockchain         dapat meningkatkan kinerja blockchain (Salah et al.,
+                - Memberikan ulasan yang jelas mengenai         2018). Penelitian (Salah et al., 2018) kemudian
+                   peran AI dalam meningkatkan sistem           menjadi rujukan untuk pengembangan konsep
+                   blokchain dan ulasan mengenai peran          blockchain dan kecerdasan buatan termasuk dalam
+                   blockchain dalam memperkuat sistem AI.       bidang pertanian.
+ 6     (Rabah,  - Menggambarkan konsep blockchain, IOT,               Posisi riset blockchain dan kecerdasan buatan
+        2018)      AI dan big data di berbagai bidang
+                                                                dalam pertanian dapat dilihat pada Gambar 2 dan
+                - Penerapan blockchain dan AI di pertanian
+                   tidak secara spesifik dijelaskan
+                                                                Gambar 3. Dari Gambar 2 terlihat peningkatan
+ 7     (Singh,  - Mengulas penerapan blockchain, AI dan         publikasi dari riset blockchain dan kecerdasan buatan
+       Rathore     IOT di berbagai bidang                       dari 1 buah publikasi di tahun 2019 menjadi 5 buah di
+      & Park,   - Penerapan blockchain dan AI di pertanian      tahun 2020 dengan total sebanyak 6 buah publikasi.
+        2019)                                                   Dari total tersebut 3 artikel masuk dalam konsep
+                   tidak secara spesifik dijelaskan
+184 Jurnal Teknologi Informasi dan Ilmu Komputer (JTIIK), Vol. 8, No. 1, Februari 2021, hlm. 177-188
+
+blockchain for AI dan sisanya masuk dalam konsep                 diterapkan dalam kasus pertanian. Berbeda dengan
+AI for Blockchain.                                               hal di atas, penelitian (Yadav et al., 2020)
+     Konsep blockchain for AI dalam bidang                       menggunakan pendekatan fuzzy untuk mengevaluasi
+pertanian diinisialisasi melalui penelitian (Munir,              sistem blockchain yang telah berjalan dalam sistem
+Bajwa & Cheema, 2019) dengan menggunakan                         manajemen rantai pasok pertanian.
+blockchain dan logika fuzzy pada Smart Watering                        Dari berbagai penelitian tersebut di atas
+System (SWS). Penelitian (Dakshayini & Balaji                    membuktikan bahwa penggabungan kecerdasan
+Prabhu, 2020) telah membuat sistem penunjang                     buatan dan blockchain merupakan hal yang mungkin
+keputusan berbasis big data dalam sistem blockchain.             dilakukan. Konsep blockchain for AI maupun AI for
+Penelitian (Khan, Byun &         Park, 2020) telah               blockchain keduanya dapat diimplementasikan secara
+menggunakan data dalam teknologi blockchain-IOT                  bersamaan pada bidang pertanian. Penelitian
+untuk memprediksi penjualan produk pertanian                     blockchain dan AI dalam pertanian masih didominasi
+menggunakan pendekatan deep learning. Ketiga                     oleh komunitas peneliti Asia yakni India (33%),
+penelitian tersebut memanfaatkan blockchain sebagai              Pakistan (33%), China (14%) dan Korea (14%).
+media untuk menyimpan data secara aman serta                           Tantangan penelitian ke depan berdasarkan
+memanfaatkan data yang ada dengan pendekatan                     hasil studi literatur secara ringkas disampaikan
+kecerdasan buatan.                                               sebagai berikut:
+     Konsep AI for blockchain ditemukan pada tiga                  (1) Penggunaan sistem blockchain oleh seluruh
+penelitian berikut. Penelitian (Awan et al., 2020)                      pemangku kepentingan yang terlibat dalam
+menggunakan Emergent Routing Scheme untuk                               rantai pasok pertanian.
+meningkatkan kinerja sistem blockchain – IOT untuk                 (2) Peningkatan proses bisnis sistem.
+smart agriculture. Penelitian (Mao et al., 2020)                   (3) Peningkatan       peran    pemerintah     dan
+menggunakan model analytic hierarchy process                            kepercayaan antar pemangku kepentingan.
+(AHP) untuk meningkatkan kinerja dalam proses                      (4) Integrasi teknologi blockchain, kecerdasan
+konsensus blockchain dalam kasus produk teh. Kedua                      buatan, IOT dan big data di bidang pertanian.
+penelitian tersebut memanfaatkan kecerdasan buatan
+untuk meningkatkan kinerja blockchain yang
+
+
+
+
+                  Gambar 7. Usulan Pengembangan Riset Blockchain dan AI untuk komoditas Padi di Indonesia
+
+                                                                 harga (Vohra, Pandey & Khatri, 2019) dan prediksi
+3.4. Usulan Pengembangan
+                                                                 hasil panen (Liakos et al., 2018). Perangkat IOT juga
+     Berdasarkan tantangan penelitian yang                       dapat ditambahkan dalam sistem tersebut berupa
+ditemukan dan dengan mempertimbangkan kondisi                    sensor dan perangkat penunjang lainnya. Model
+pertanian di Indonesia, maka diusulkan suatu sistem              prediksi dapat diperoleh dari data base dalam sistem
+yang merupakan salah satu penerapan AI dan                       blockchain yang kemudian dipelajari berdasarkan
+blockchain di bidang pertanian. Pemilihan                        konsep kecerdasan buatan. Hasil pembelajaran
+implementasi pada menajemen rantai pasok                         berupa prediksi disampaikan kepada seluruh aktor
+dikarenakan dominasi penelitian yang telah tersedia.             yang membutuhkan. Seluruh data yang tersimpan
+Gambar 7 merupakan ilustrasi integrasi AI dan                    akan menjadi big data dan mendorong untuk
+blockchain di pertanian. Ilustrasi tersebut merupakan            diterapkannya manajemen big data dalam sistem
+pengembangan dari model (Kumar & Iyengar, 2018)                  blockchain (Karafiloski, 2017).
+dalam komoditas beras. Beberapa fitur kecerdasan                       Dalam kasus rantai pasok pertanian di
+buatan yang dapat ditambahkan meliputi prediksi                  Indonesia, seringkali ditemukan perantara (broker/
+                                                                  Wihartiko, dkk, Teknologi Blockchain …185
+
+
+tengkulak) (Widodo, Prihadianto & Hartanto, 2018)       DAFTAR PUSTAKA
+sehingga membuat panjangnya kondisi rantai pasok
+yang ada (Apriadi & Saputra, 2017). Penggunaan          ALAM, M.A., AHAD, A., ZAFAR, S. & TRIPATHI,
+                                                           G., 2020. a neoteric smart & sustainable farming
+sistem blockchain dalam manajemen rantai pasok dan
+                                                           environment incorporating blockchain-based
+penggunaan        sistem    e-commerce        dapat
+                                                           artificial intelligence approach. Cryptocurrencies
+meminimumkan peran perantara. Hal ini dapat                & Blockchain Technology Applications, p.197.
+bermuara kepada peningkatan kesejahteraan petani.          https://doi.org/10.1002/9781119621201.ch11
+Konsumen juga diuntungkan dengan menurunnya
+                                                        ALMEIDA, O.B.-, CARDENAS-RODRIGUEZ, M.,
+harga jual komoditas pertanian (Reddy, Aravind
+                                                           SAMANIEGO-COBO,               T.,   FERRUZOLA-
+Reddy & Sashi Rekha, 2019), (Widodo, Prihadianto           GÓMEZ, E., CABEZAS-CABEZAS, R. &
+& Hartanto, 2018). Adanya sistem tersebut juga akan        BAZÁN-VERA, W., 2018. Blockchain in
+mempermudah pemerintah untuk memantau harga                agriculture: A systematic literature review. In:
+komoditas pertanian tertentu yang berpengaruh              Communications in Computer & Information
+terhadap inflasi.                                          Science.           Springer        Verlag.pp.44-56.
+                                                           https://doi.org/10.1007/978-3-030-00940-3_4
+4.   KESIMPULAN                                         ANTONUCCI, F., FIGORILLI, S., COSTA, C.,
+      Integrasi blockchain dan kecerdasan buatan           PALLOTTINO, F., RASO, L. & MENESATTI,
+memiliki rasionalisasi ilmiah yang tinggi. Artinya         P., 2019. A review on blockchain applications in
+                                                           the agri-food sector. Journal of the Science of
+konsep tersebut dapat diimplementasikan diberbagai
+                                                           Food              &                    Agriculture.
+bidang. Peluang penelitian dengan mengintegrasikan
+                                                           https://doi.org/10.1002/jsfa.9912
+kedua teknologi tersebut masih terbuka lebar
+khususnya dibidang pertanian.                           APRIADI, D. & SAPUTRA, A.Y., 2017. E-Commerce
+                                                           Berbasis        Marketplace       Dalam      Upaya
+      Hasil kajian kritis memberikan posisi riset
+                                                           Mempersingkat Distribusi Penjualan Hasil
+terkait teknologi blockchain dan kecerdasan buatan
+                                                           Pertanian. Jurnal RESTI (Rekayasa Sistem dan
+dalam bidang pertanian. Secara keseluruhan riset           Teknologi                               Informasi).
+mengenai teknologi blockchain dalam pertanian              https://doi.org/10.29207/resti.v1i2.36
+masih didominasi dalam hal penerapannya pada
+                                                        ARENA, A., BIANCHINI, A., PERAZZO, P.,
+bidang manajemen rantai pasok pertanian (36%).
+                                                           VALLATI, C. &                  DINI, G., 2019.
+Riset mengenai blockchain dan AI dalam pertanian           BRUSCHETTA: An IoT blockchain-based
+sebanyak 20% dengan rincian 10% berupa ulasan dan          framework for certifying extra virgin olive oil
+10% berupa penerapan. Dalam hal penerapan kedua            supply chain. In: Proceedings - 2019 IEEE
+teknologi tersebut, terdapat 5% penelitian                 International Conference on Smart Computing,
+menggunakan menggunakan blockchain untuk                   SMARTCOMP                                     2019.
+peningkatan keamanan data pada sistem cerdas               https://doi.org/10.1109/SMARTCOMP.2019.000
+(Blockchain for AI) dan terdapat 5% penelitian             49
+menggunakan AI untuk peningkatan kinerja                AWAN, S.H., AHMED, S., NAWAZ, A., MAGHDID,
+blockchain (AI for blockchain). Penelitian mengenai        S.S., ZAMAN, K., KHAN, M.Y.A., NAJAM, Z.
+penerapan blockchain dan AI dalam pertanian                & IMRAN, S., 2020. BlockChain with IoT, an
+didominasi oleh peneliti di Asia seperti India (33%),      emergent routing scheme for smart agriculture.
+Pakistan (33%), China (14%) dan Korea (14%).               International Journal of Advanced Computer
+      Peluang kebaruan riset pada integrasi AI dan         Science            &                  Applications.
+Blockchain dibidang pertanian masih terbuka dengan         https://doi.org/10.14569/IJACSA.2020.0110457
+luas. Berbagai macam sistem AI dapat digunakan          BANNERJEE, G., SARKAR, U., DAS, S. & GHOSH,
+sesuai konsep smart farming. Teknologi blockchain          I., 2018. Artificial Intelligence in Agriculture: A
+dapat digunakan untuk meningkatkan keamanan data           Literature Survey. International Journal of
+dari sistem AI yang selama ini masih tersentralisasi.      Scientific Research in Computer Science
+Saran untuk kelanjutan penelitian adalah dengan            Applications & Management Studies, [online]
+penggunaan teknologi yang tepat dan sesuai dengan          7(3). Available at: <www.ijsrcsams.com>.
+kebutuhan pengguna sehingga teknologi yang              BORAH, M.D., NAIK, V.B., PATGIRI, R.,
+dikembangkan dapat bermanfaat bagi seluruh                 BHARGAV, A., PHUKAN, B. & BASANI,
+pemangku kepentingan.                                      S.G.M., 2020. Supply Chain Management in
+                                                           Agriculture Using Blockchain &                 IoT.
+UCAPAN TERIMA KASIH                                        https://doi.org/10.1007/978-981-13-8775-3_11
+                                                        BORDEL, B., MARTIN, DI., ALCARRIA, R. &
+     Ucapan terimakasih penulis sampaikan kepada           ROBLES, T., 2019. A Blockchain-based Water
+Program Studi Doktoral Ilmu Komputer IPB                   Control System for the Automatic Management of
+University dan Program Studi Ilmu Komputer                 Irrigation Communities. In: 2019 IEEE
+Universitas Pakuan.                                        International      Conference      on    Consumer
+                                                           Electronics,                ICCE              2019.
+                                                           https://doi.org/10.1109/ICCE.2019.8661940
+186 Jurnal Teknologi Informasi dan Ilmu Komputer (JTIIK), Vol. 8, No. 1, Februari 2021, hlm. 177-188
+
+CARBONE, A., DAVCEV, D., MITREKI, K.,                         Blockchain for Agriculture & Food. [online]
+    LJUPCO, K. & STANKOVSKI, V., 2018.                        Wageningen Economic Research. Available at:
+    Blockchain based Distributed Cloud Fog Platform           <www.wur.eu/economic-research>.
+    for     IoT     Supply      Chain     Management.     HANG, L., ULLAH, I. & KIM, D.H., 2020. A secure
+    https://doi.org/10.15224/978-1-63248-144-3-37             fish farm platform based on blockchain for
+CASADO, V.R., PRIETO, J., LA PRIETA, F. DE &                  agriculture data integrity. Computers &
+    CORCHADO, J.M., 2018. How blockchain                      Electronics              in            Agriculture.
+    improves the supply chain: Case study alimentary          https://doi.org/10.1016/j.compag.2020.105251
+    supply chain. In: Procedia Computer Science.          HUA, J., WANG, X., KANG, M., WANG, H. &
+    https://doi.org/10.1016/j.procs.2018.07.193               WANG, F.Y., 2018. Blockchain Based
+CASINO, F., DASAKLIS, T.K. & PATSAKIS, C.,                    Provenance for Agricultural Products: A
+    2019. A systematic literature review of                   Distributed Platform with Duplicated & Shared
+    blockchain-based applications: Current status,            Bookkeeping. In: IEEE Intelligent Vehicles
+    classification & open issues. Telematics &                Symposium, Proceedings. Institute of Electrical &
+    Informatics,                                      .       Electronics        Engineers         Inc.pp.97-101.
+    https://doi.org/10.1016/j.tele.2018.11.006                https://doi.org/10.1109/IVS.2018.8500647
+CHEN, Y., LI, Y. & LI, C., 2020. Electronic               IPB, 2019. Pengembangan Penelitian Agro-Maritim
+    agriculture, blockchain & digital agricultural            4.0. 1st ed. IPB Press.
+    democratization: Origin, theory & application.        ISWARI, D.A., ARKEMAN, Y. & MUSLICH, M.,
+    Journal         of       Cleaner        Production.       2019. Analisis Dan Desain Rantai Pasok Kakao
+    https://doi.org/10.1016/j.jclepro.2020.122071             Berbasis Blockchain. JURNAL AGRI-TEK :
+CHINNAIYAN, R. & BALACHANDAR, S., 2020.                       Jurnal Penelitian Ilmu-Ilmu Eksakta, 20(2).
+    Reliable Administration Framework of Drones &             https://doi.org/10.33319/agtek.v20i2.55
+    IoT Sensors in Agriculture Farmstead using            KAMBLE, S.S., GUNASEKARAN, A. & SHARMA,
+    Blockchain &        Smart Contracts. In: ACM              R., 2019. Modeling the blockchain enabled
+    International Conference Proceeding Series.               traceability in agriculture supply chain.
+    https://doi.org/10.1145/3378904.3378918                   International Journal of Information Management.
+DAKSHAYINI, M. & BALAJI PRABHU, B. V.,                        https://doi.org/10.1016/j.ijinfomgt.2019.05.023
+    2020. An Effective Big Data & Blockchain (BD-         KAMBLE, S.S., GUNASEKARAN, A. & SHARMA,
+    BC) Based Decision Support Model for                      R., 2020. Modeling the blockchain enabled
+    Sustainable           Agriculture          System.        traceability in agriculture supply chain.
+    https://doi.org/10.1007/978-3-030-19562-5_8               International Journal of Information Management.
+DANIEL, D. & IFEJIKA SPERANZA, C., 2020. The                  https://doi.org/10.1016/j.ijinfomgt.2019.05.023
+    Role of Blockchain in Documenting Land Users'         KAMILARIS, A., FONTS, A. & PRENAFETA-
+    Rights: The Canonical Case of Farmers in the              BOLDΎ, F.X., 2019. The rise of blockchain
+    Vernacular Land Market. Frontiers in Blockchain.          technology in agriculture & food supply chains.
+    https://doi.org/10.3389/fbloc.2020.00019                  Trends in Food Science &               Technology.
+DAVE, D., PARIKH, S., PATEL, R. & DOSHI, N.,                  https://doi.org/10.1016/j.tifs.2019.07.034
+    2019. A survey on blockchain technology & its         KARAFILOSKI,         E.,     2017.     BLOCKCHAIN
+    proposed solutions. In: Procedia Computer                 SOLUTIONS FOR BIG DATA CHALLENGES.
+    Science.                                                  IEEE EUROCON 17th International Conference,
+    https://doi.org/10.1016/j.procs.2019.11.017               (July),                                pp.763-768.
+DEMESTICHAS, K., PEPPES, N., ALEXAKIS, T. &                   https://doi.org/10.1109/EUROCON.2017.801121
+    ADAMOPOULOU, E., 2020. Blockchain in                      3
+    agriculture traceability systems: A review.           KASTEN, J., 2020. BLOCKCHAIN ON THE FARM:
+    Applied            Sciences          (Switzerland).       A SYSTEMATIC LITERATURE REVIEW.
+    https://doi.org/10.3390/app10124113                       Journal of Strategic Innovation & Sustainability,
+DINH, T.N. & THAI, M.T., 2018. AI & Blockchain:               15(2),                                  pp.129-153.
+    A       Disruptive      Integration.     Computer.        https://doi.org/10.33423/jsis.v15i2.2893
+    https://doi.org/10.1109/MC.2018.3620971               KHAN, P.W., BYUN, Y.-C. & PARK, N., 2020. IoT-
+FAO, 2019. World Food & Agriculture Statistical               Blockchain Enabled Optimized Provenance
+    Pocketbook. Rome: Food &                Agriculture       System for Food Industry 4.0 Using Advanced
+    Organization of the United Nations.                       Deep Learning. Sensors, 20(10), p.2990.
+FERRAG, M.A., SHU, L., YANG, X., DERHAB, A. &                 https://doi.org/10.3390/s20102990
+    MAGLARAS, L., 2020. Security & Privacy for            KIM, H. & LASKOWSKI, M., 2018. Agriculture on
+    Green       IoT-Based      Agriculture:    Review,        the Blockchain: Sustainable Solutions for Food,
+    Blockchain Solutions, & Challenges. IEEE                  Farmers, & Financing. SSRN Electronic Journal.
+    Access.                                                   https://doi.org/10.2139/ssrn.3028164
+    https://doi.org/10.1109/ACCESS.2020.2973178
+GE, L., BREWSTER, C., SPEK, J., SMEENK, A. &
+    TOP, J., 2017. Findings from the pilot study
+                                                                       Wihartiko, dkk, Teknologi Blockchain …187
+
+
+KLERKX, L., JAKKU, E. & LABARTHE, P., 2019.                      Manufacturing.
+     A review of social science on digital agriculture,          https://doi.org/10.1016/j.promfg.2020.02.054
+     smart farming &            agriculture 4.0: New         MISTRY, I., TANWAR, S., TYAGI, S. & KUMAR,
+     contributions & a future research agenda. NJAS -            N., 2020. Blockchain for 5G-enabled IoT for
+     Wageningen Journal of Life Sciences, .                      industrial automation: A systematic review,
+     https://doi.org/10.1016/j.njas.2019.100315                  solutions, & challenges. Mechanical Systems &
+KUMAR, M. & IYENGAR, S.N., 2018. Blockchain:                     Signal                                  Processing.
+     An Emerging Paradigm in Rice Supply Chain                   https://doi.org/10.1016/j.ymssp.2019.106382
+     Management.         International      Journal     of   MUNIR, M.S., BAJWA, I.S. & CHEEMA, S.M., 2019.
+     Engineering Research in Computer Science &                  An intelligent & secure smart watering system
+     Engineering (IJERCSE).                                      using fuzzy logic & blockchain. Computers &
+LENG, K., BI, Y., JING, L., FU, H.C. & Van                       Electrical                             Engineering.
+     Nieuwenhuyse, I., 2018. Research on agricultural            https://doi.org/10.1016/j.compeleceng.2019.05.0
+     supply chain system with double chain                       06
+     architecture based on blockchain technology.            NAKAMOTO, S., 2008. Bitcoin: A Peer-to-Peer
+     Future      Generation       Computer       Systems.        Electronic Cash SyNakamoto, S. (2008). Bitcoin:
+     https://doi.org/10.1016/j.future.2018.04.061                A Peer-to-Peer Electronic Cash System.
+LEZOCHE, M., PANETTO, H., KACPRZYK, J.,                          Consulted, 1-9. doi:10.1007/s10838-008-9062-
+     HERNANDEZ, J.E. & ALEMANY DÍAZ,                             0stem. Consulted.
+     M.M.E., 2020. Agri-food 4.0: A survey of the            NAZAROV, A.D., SHVEDOV, V. V. & SULIMIN, V.
+     Supply Chains & Technologies for the Future                 V., 2019. Blockchain technology & smart
+     Agriculture.       Computers        in      Industry.       contracts in the agro-industrial complex of Russia.
+     https://doi.org/10.1016/j.compind.2020.103187               In: IOP Conference Series: Earth &
+LI, X., WANG, D. & LI, M., 2020. Convenience                     Environmental                              Science.
+     analysis of sustainable E-agriculture based on              https://doi.org/10.1088/1755-1315/315/3/032016
+     blockchain technology. Journal of Cleaner               O'MARA-EVES, A., THOMAS, J., MCNAUGHT, J.,
+     Production.                                                 MIWA, M. & ANANIADOU, S., 2015. Using
+     https://doi.org/10.1016/j.jclepro.2020.122503               text mining for study identification in systematic
+LIAKOS, K.G., BUSATO, P., MOSHOU, D.,                            reviews: A systematic review of current
+     PEARSON, S. & BOCHTIS, D., 2018. Machine                    approaches.       Systematic      Reviews,    4(1).
+     learning in agriculture: A review. Sensors                  https://doi.org/10.1186/s13643-015-0031-5
+     (Switzerland).                                          PAPA, S.F., 2017. Use of Blockchain Technology in
+     https://doi.org/10.3390/s18082674                           Agribusiness: Transparency & Monitoring in
+LIN, W., HUANG, X., FANG, H., WANG, V., HUA,                     Agricultural                                 Trade.
+     Y., WANG, J., YIN, H., YI, D. & YAU, L., 2020.              https://doi.org/10.2991/msmi-17.2017.9
+     Blockchain Technology in Current Agricultural           PATIL, A.S., TAMA, B.A., PARK, Y. & RHEE, K.H.,
+     Systems: From Techniques to Applications. IEEE              2018. A framework for blockchain based secure
+     Access.                                                     smart green house farming. In: Lecture Notes in
+     https://doi.org/10.1109/ACCESS.2020.3014522                 Electrical                             Engineering.
+LIN, Y.-P., PETWAY, J., ANTHONY, J.,                             https://doi.org/10.1007/978-981-10-7605-3_185
+     MUKHTAR, H., LIAO, S.-W., CHOU, C.-F. &                 PUTRI, A.N., HARIADI, M. & WIBAWA, A.D.,
+     HO, Y.-F., 2017. Blockchain: The Evolutionary               2020. Smart Agriculture Using Supply Chain
+     Next Step for ICT E-Agriculture. Environments.              Management Based on Hyperledger Blockchain.
+     https://doi.org/10.3390/environments4030050                 In: IOP Conference Series: Earth &
+LUCENA, P., BINOTTO, A.P.D., MOMO, F. DA S. &                    Environmental                              Science.
+     KIM, H., 2018. A Case Study for Grain Quality               https://doi.org/10.1088/1755-1315/466/1/012007
+     Assurance Tracking based on a Blockchain                RABAH, K., 2018. Convergence of AI, IoT, Big Data
+     Business Network. symposium on Foundations &                & Blockchain: A Review. The Lake Institute
+     Applications of Blockchain, [online] (FAB), pp.1-           Journal, [online] 1(1), pp.1-18. Available at:
+     6.                    Available                   at:       <www.thelakeinstitute.org>.
+     <http://arxiv.org/abs/1803.07877>.                      REDDY, H., ARAVIND REDDY, Y. & SASHI
+MAO, T., FAN, Y., YANG, J. & WEI, H., 2020. A                    REKHA, K., 2019. Blockchain: To improvise
+     Research on Tea Traceability Consensus                      economic efficiency & supply chain management
+     Mechanism Based on Blockchain Technology. In:               in agriculture. International Journal of Innovative
+     New Developments of IT, IoT & ICT Applied to                Technology & Exploring Engineering, 8(12),
+     Agriculture.                  Springer.pp.129-137.          pp.4999-5004.
+     https://doi.org/10.1007/978-981-15-5073-7_13                https://doi.org/10.35940/ijitee.L3749.1081219
+MIRABELLI, G. & SOLINA, V., 2020. Blockchain &
+     agricultural supply chains traceability: Research
+     trends &        future challenges. In: Procedia
+188 Jurnal Teknologi Informasi dan Ilmu Komputer (JTIIK), Vol. 8, No. 1, Februari 2021, hlm. 177-188
+
+SALAH, K., NIZAMUDDIN, N., JAYARAMAN, R.                   VOHRA, A., PANDEY, N. & KHATRI, S.K., 2019.
+    & OMAR, M., 2019. Blockchain-Based Soybean                 Decision Making Support System for Prediction
+    Traceability in Agricultural Supply Chain. IEEE            of Prices in Agricultural Commodity. Proceedings
+    Access,             7,            pp.73295-73305.          - 2019 Amity International Conference on
+    https://doi.org/10.1109/ACCESS.2019.2918000                Artificial Intelligence, AICAI 2019, pp.345-348.
+SALAH, K., REHMAN, M.H.U., NIZAMUDDIN, N.                      https://doi.org/10.1109/AICAI.2019.8701273
+    & AL-FUQAHA, A., 2018. Blockchain for AI:              WANG, Y. & YANG, Y., 2020. Research on
+    Review & open research challenges. IEEE                    Agricultural Food Safety Based on Blockchain
+    Access.                                                    Technology. In: Journal of Physics: Conference
+    https://doi.org/10.1109/ACCESS.2018.2890507                Series.                                   p.12013.
+SALMAN, T., ZOLANVARI, M., ERBAD, A., JAIN,                    https://doi.org/10.1088/1742-
+    R. & SAMAKA, M., 2019. Security services                   6596/1606/1/012013
+    using blockchains: A state of the art survey. IEEE     WIDODO,        E.,     PRIHADIANTO,         R.D.    &
+    Communications Surveys &                  Tutorials.       HARTANTO, D., 2018. Multi period pricing for
+    https://doi.org/10.1109/COMST.2018.2863956                 managing local fruit supply chain. In: MATEC
+SHAHID, A., ALMOGREN, A., JAVAID, N., AL-                      Web                  of               Conferences.
+    ZAHRANI, F.A., ZUAIR, M. & ALAM, M.,                       https://doi.org/10.1051/matecconf/201815401049
+    2020a. Blockchain-Based Agri-Food Supply               WU, H. TE & TSAI, C.W., 2019. An intelligent
+    Chain: A Complete Solution. IEEE Access.                   agriculture network security system based on
+    https://doi.org/10.1109/ACCESS.2020.2986257                private blockchains. Journal of Communications
+SHAHID, A., SARFRAZ, U., MALIK, M.W.,                          &                                       Networks.
+    IFTIKHAR, M.S., JAMAL, A. & JAVAID, N.,                    https://doi.org/10.1109/JCN.2019.000043
+    2020b. Blockchain-Based Reputation System in           XIE, C., SUN, Y. & LUO, H., 2017. Secured Data
+    Agri-Food Supply Chain. In: Advances in                    Storage Scheme Based on Block Chain for
+    Intelligent     Systems     &          Computing.          Agricultural Products Tracking. In: Proceedings -
+    https://doi.org/10.1007/978-3-030-44041-1_2                2017 3rd International Conference on Big Data
+SHINGH, S., KAMALVANSHI, V., GHIMIRE, S. &                     Computing & Communications, BigCom 2017.
+    BASYAL, S., 2020. Dairy Supply Chain System                https://doi.org/10.1109/BIGCOM.2017.43
+    Based on Blockchain Technology. Asian Journal          XIONG, H., DALHAUS, T., WANG, P. & HUANG,
+    of Economics, Business &               Accounting.         J., 2020. Blockchain Technology for Agriculture:
+    https://doi.org/10.9734/ajeba/2020/v14i230189              Applications &            Rationale. Frontiers in
+SINGH, S.K., RATHORE, S. & PARK, J.H., 2019.                   Blockchain.
+    BlockIoTIntelligence: A Blockchain-enabled                 https://doi.org/10.3389/fbloc.2020.00007
+    Intelligent IoT Architecture with Artificial           YADAF, V.S. & SINGH, A., 2019. A systematic
+    Intelligence. Future Generation Computer                   literature review of blockchain Technology in
+    Systems.                                                   Agriculture.      Digital    Communications     &
+    https://doi.org/10.1016/j.future.2019.09.002               Networks, pp.973-981.
+SISODIYA, V.S. &            GARG, H., 2020. A              YADAV, V.S., SINGH, A.R., RAUT, R.D. &
+    Comprehensive study of Blockchain & its various            GOVINDARAJAN, U.H., 2020. Blockchain
+    Applications.                                              technology adoption barriers in the Indian
+    https://doi.org/10.1109/PARC49193.2020.23665               agricultural supply chain: an integrated approach.
+    9                                                          Resources, Conservation & Recycling, 161,
+TIAN, F., 2016. An agri-food supply chain traceability         p.104877.
+    system for China based on RFID & blockchain                https://doi.org/10.1016/j.resconrec.2020.104877
+    technology. In: 2016 13th International                ZHANG, X., CAO, Z. & DONG, W., 2020. Overview
+    Conference on Service Systems & Service                    of Edge Computing in the Agricultural Internet of
+    Management, ICSSSM 2016.                                   Things: Key Technologies, Applications,
+TIWARI, U., 2020. Application of Blockchain in Agri-           Challenges.                IEEE            Access.
+    Food Supply Chain. Britain International of Exact          https://doi.org/10.1109/ACCESS.2020.3013005
+    Sciences              (BIoEx)              Journal.    ZHENG, Z., XIE, S., DAI, H., CHEN, X. & WANG,
+    https://doi.org/10.33258/bioex.v2i2.233                    H., 2017. An Overview of Blockchain
+TSE, D., ZHANG, B., YANG, Y., CHENG, C. & MU,                  Technology: Architecture, Consensus, & Future
+    H., 2017. Blockchain application in food supply            Trends. In: Proceedings - 2017 IEEE 6th
+    information security. In: IEEE International               International Congress on Big Data, BigData
+    Conference on Industrial Engineering &                     Congress                                     2017.
+    Engineering                          Management.           https://doi.org/10.1109/BigDataCongress.2017.8
+    https://doi.org/10.1109/IEEM.2017.8290114                  5
+VARDI, M.Y., 2012. Artificial intelligence: Past &
+    future. Communications of the ACM, .
+    https://doi.org/10.1145/2063176.2063177
+

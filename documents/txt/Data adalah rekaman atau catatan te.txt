@@ -1,0 +1,47 @@
+Data adalah rekaman atau catatan terhadap fakta / transaksi/ objek
+Data Mininig adalah kegiatan untuk menemukan informasi atau pengetahuan yang berguna secara otomastis dari data yang berjumlahnya besar
+Data mining merupakan salah satu proses dari keseluruhan proses yang ada pada knowledge Discovery in databases (KDD)
+
+KDD merupakan sekumpulan proses untuk menemukan pengetahuan bermanfaat dari data. KDD meliputi :
+1. Pembersihan data 
+2. integrasi data
+3. pemilihan data
+4. transformasi data 
+5. penambangan data 
+6. evaluasi pola
+7. Presentasi pengetahuan
+
+Data mining bertujan untuk mengekplorasi basis data untuk menemukan pola pola
+
+jadi data mining tuh harus bisa mengelompokkan obek yang kita cari kemudian menemukan berapa banyak objek yang kita cari 
+
+tahapan ekstrasi pengetahuan :
+1. selection
+2. preprocessing
+3. transformation
+4. Data Mining ( bisa kluster, bisa klasifikasi, bisa prediksi)
+5. Interpretattion / Evaluation
+Dan hasinya adalah sebuah knowledge
+
+Data mining mempunyai 2 manfaat yaitu Melalui sudut pandang keilmuan maupun komersial.
+
+Ilmu data mining :
+gabungan dari AI, Machine learning, Data mining, dan database.
+
+Teknik Teknik data mining :
+1. Tracking Petterns 
+2. 
+
+Fungsi fungsi dalam data mining :
+1. 
+
+
+
+
+Data mining adalah disiplin ilmu yang mempelajari metode untyk mengekstrak pengetahuan atau menentukan pola dari suatu data yang besar.
+Pola adalah bentuk atau model yang memiliki keteraturan, baik dalam desain maupun gagasan abstark.
+
+Tahapan Ekstraksi data ke pegetahuan:
+data : fakta 
+
+

@@ -1,0 +1,485 @@
+Volume 3, Nomor 1, Mei 2022, hlm 22-32
+Jurnal Terapan Teknik Industri
+ISSN [print] 2722 3469 | ISSN [Online] 2722 4740
+
+Review: Dampak Disrupsi ICT dan Covid 19 Terhadap Perubahan
+Perilaku Konsumen dan Digital E-Commerce di Indonesia
+A Review: ICT Disruptions and Covid 19 Impacted on Customer Behavior
+and Digital E-Commerce Growth in Indonesia
+MA Pahmi1*, AFM Ayob2, G Suprayitno3
+1*
+
+Program Studi Teknik Industri, Sekolah Tinggi Teknologi Muhammadiyah Cileungsi, Indonesia 16820.
+
+2 School of Ocean Engineering, Universiti Malaysia Terengganu, 21030 Kuala Terengganu, Terengganu Malaysia.
+3 Program Studi Teknik Industri, Institut Sains dan Teknologi Nasional, Srengseng Sawah, Jakarta Selatan,
+
+Indonesia 12630
+
+*Koresponden Email: ali.pahmi@sttmcileungsi.ac.id
+INFORMASI ARTIKEL
+Histori Artikel
+- Artikel dikirim
+11/04/2021
+- Artikel diperbaiki
+28/04/2022
+- Artikel diterima
+28/04/2022
+
+ABSTRAK
+Tahun 2020 merupakan tahun yang unik dimana hampir seluruh negara
+di dunia terdampak oleh adanya pandemi COVID-19. Lockdown menjadi
+salah satu kebijakan yang diambil oleh banyak negara. Kondisi yang
+terjadi ini dan disrupsi ICT dan diprediksi memiliki implikasi terhadap
+kegiatan ekonomi secara global. Paper ini bertujuan untuk memberikan
+sebuah review dampak kondisi covid-19 dan disrupsi ICT terhadap
+perubahan perilaku konsumen dan dampaknya terhadap perkembangan
+industri digital di Indonesia dengan menggunakan metode literatur
+review. Beberapa temuan menarik dari penelusuran literatur diketahui
+bahwa kondisi pandemic Covid-secara tidak langsung mengubah pola
+perilaku konsumen dalam berbelanja dan kenaikan bisnis e commerce
+22% namun menyebabkan menurunnya pertumbuhan modern trade
+dan retail tradisional hingga 15%. Faktor-faktor utama yang mendorong
+perkembangan E-commerce di Indonesia mencakup; Kelas menengah
+yang sedang tumbuh, tingkat penetrasi internet dan seluler yang tinggi,
+meningkatnya jumlah fintech dan opsi keuangan alternatif, investasi
+teknologi E-commerce di Indonesia serta gencarnya strategi Pemasaran
+E-Commerce.
+Kata kunci: Disrupsi ICT, e-commerce, perubahan perilaku konsumen,
+industri digital, dampak covid-19
+ABSTRACT
+2020 is a unique year in which almost all countries in the world are affected
+by the COVID-19 pandemic. Lockdown is one of the policies taken by many
+countries. This condition and disruption of ICT is predicted to have
+implications for global economic activity. This paper aims to provide a
+review of the condition of covid-19 and the disruption of ICT on changes in
+consumer behavior and its impact on the development of the digital
+industry in Indonesia using the literature review method. Some interesting
+findings from a literature search show that the Covid-19 pandemic has
+indirectly changed consumer behavior patterns in shopping and an increase
+in e-commerce business by 22% but has caused a decrease in the growth of
+modern trade and traditional retail by up to 15%. The main factors driving
+the development of E-commerce in Indonesia; Growing middle class, high
+internet and mobile penetration rates, increasing number of fintech and
+alternative financial options, investment in E-commerce technology in
+
+JENIUS: Jurnal Terapan Teknik Industri is licensed under a Creative Commons
+Attribution-NonCommercial 4.0 International License.
+
+ISSN [print] 2722 3469 | ISSN [Online] 2722 4740
+DOI 10.37373/jenius.v3i1.234
+
+23
+
+Indonesia and incessant E-Commerce Marketing strategies.
+Keywords: ICT disruption, e-commerce, changes in consumer behavior, the
+digital industry, the impact of covid-19
+
+1.
+
+Pendahuluan
+Secara ekonomi, Indonesia memiliki nilai pertumbuhan 5.03% per tahun sepanjang periode
+2014–2019. Nilai pertumbuhan ini lebih tinggi jika dibandingkan dengan rata-rata negara
+berkembang dunia yang hanya sebesar 4.5% per tahun[1][2][3]. Pencapaian tersebut didukung
+oleh berbagai kebijakan reformasi struktural, antara lain melalui kebijakan perbaikan iklim
+investasi, perbaikan daya saing industri, perbaikan efisiensi logistik, stimulus ekspor, serta
+promosi pariwisata dan perkuatan daya beli masyarakat. Pertumbuhan sektor transportasi dan
+pergudangan sendiri mencapai 7.22% per tahun sepanjang periode 2014-2015[2]. Pertumbuhan
+tersebut dinilai sangat baik karena memiliki nilai pertumbuhan di atas rata-rata pertumbuhan
+PDB Indonesia.Industri pangan, dalam hal ini berperan sebagai pendukung untuk industri–
+industri lainnya, dan menjadi bagian yang tidak terpisahkan. Berkenaan dengan hal tersebut,
+maka penelaahan laju pertumbuhan untuk masing – masing industri menjadi salah satu acuan
+yang perlu diperhatikan. Inflasi Indonesia pada subsektor bahan makanan dan makanan jadi,
+minuman rokok, dan tembakau juga masih sedikit fluktuatif namun secara garis besar dapat
+disimpulkan tren inflasi dari subsektor bahan makanan dan makanan jadi, minuman, rokok, dan
+tembakau mengalami penurunan. Hal ini mengimplikasikan bahwa pemerintah telah berhasil
+menjaga stabilitas harga pangan dan komoditas pangan sejak 2014 hingga 2019.
+Tahun 2020 merupakan tahun yang unik dimana hampir seluruh negara di dunia terdampak
+oleh adanya pandemi COVID-19. Dalam kondisi ini berbagai kebijakan diambil oleh setiap
+negara. Lockdown menjadi salah satu kebijakan awal yang diambil oleh banyak negara dalam
+mengantisipasi penyebaran covid-19, kebijakan lainnya adalah social distancing sosialisasi new
+normal dan penguatan imun melalui vaksinasi bertahap. Kebijakan ini memiliki implikasi
+terhadap kegiatan ekonomi secara global dimana menurut International Monetary Fund
+(IMF)[4] tingkat pertumbuhan ekonomi global pada tahun 2020 diprediksi mengalami kontraksi
+hingga -4.9%, rata-rata -3% untuk negara berkembang dan rata-rata -8% untuk negara maju.
+Indonesia sendiri pada Q2 tahun 2020 mengalami penurunan pertumbuhan pendapatan
+domestik bruto (PDB) hingga -5.32% berdasarkan data Badan Pusat Statistik (BPS). Ancaman
+resesi ekonomi secara global menjadi isu yang tidak terhindari dan terus menjadi isu yang
+menjadi perhatian utama selama masa pandemi COVID-19 ini. Dalam paper ini penulis bertujuan
+untuk memberikan sebuah review terhadap perubahan perilaku konsumen selama masa
+pandemic dan dampaknya terhadap perkembangan industri digital di Indonesia. Kondisi
+pandemic ini menciptakan kebiasaan baru dalam aspek konsumsi dan bagaimana manusia
+memenuhi segala kebutuhannya, hal ini parallel dengan terjadinya disrupsi ICT yang
+diakibatkan kemajuan teknologi dan industri 4.0. yang diprediksi memiliki implikasi terhadap
+kegiatan ekonomi secara global.
+2.
+
+Metode
+Metode yang digunakan dalam paper ini menggunakan literature review, yaitu, metode yang
+sistematis, tidak ambigu, dan dapat diulang untuk mengidentifikasi, mengevaluasi, dan
+mensintesis penelitian dan gagasan yang telah dihasilkan oleh peneliti dan praktisi, yang diambil
+dari banyak sumber terpercaya yang relevan berupa; Statistik resmi, laporan, insight dan ulasan
+jurnal.
+
+24 MA Pahmi, AFM Ayob, G Suprayitno
+Review: Dampak Disrupsi ICT dan Covid 19 Terhadap Perubahan Perilaku Konsumen dan
+Digital E-Commerce di Indonesia
+
+Hasil dan Pembahasan
+3.1. Pertumbuhan Industri digital di Indonesia
+Industri digital saat ini berkembang dengan pesat. Menurut data dari WeAreSocial
+2020[5], secara global, penetrasi internet telah menjangkau 59% dari total populasi
+dunia atau tumbuh sebanyak 7% dibandingkan penetrasi internet pada tahun 2019.
+Salah satu alat yang digunakan untuk mendapatkan koneksi internet adalah melalui
+mobile phone. Data menunjukkan bahwa penetrasi mobile phone secara global sebesar
+67% dari total populasi dunia atau tumbuh sebesar 2.4% dibandingkan tahun 2019.
+3.
+
+Gambar 1. Tinjauan digital seluruh dunia [5]
+Di kawasan Asia Tenggara, jumlah pengguna internet mobile dapat dikatakan tertinggi jika
+dibandingkan dengan kawasan lain di seluruh dunia. Terdapat 360 juta orang yang
+menggunakan internet dan 90% dari pengguna internet tersebut terhubung melalui telepon
+seluler. Hal ini membuat ekonomi internet Asia Tenggara pada tahun 2019 berkembang sangat
+pesat hingga mencapai $100 Miliar[6]. Dilihat dari pertumbuhan pesat dan perilaku konsumen
+saat ini, ekonomi internet di Asia Tenggara diperkirakan akan terus tumbuh mencapai $300
+Miliar pada tahun 2025. Namun pertumbuhan ekonomi internet di Asia tenggara belum
+menyebar merata di seluruh Asia Tenggara. Gambar 4 Annual GDP Growth, menunjukkan 6
+negara di Asia Tenggara yakni Indonesia, Filipina, Vietnam, Thailand, Singapura, dan Malaysia,
+memiliki pertumbuhan ekonomi rata-rata 5% setahun dalam beberapa tahun
+terakhir[6][7][8][9]. Jika dibandingkan dengan pertumbuhan ekonomi global, keenam negara di
+Asia Tenggara ini telah melampaui sekitar 2%.
+Indonesia merupakan negara di Asia Tenggara dengan CAGR ekonomi digital lebih dari 40%
+dari 2015 hingga 2019[2]. Apabila diproyeksikan hingga tahun 2025, CAGR ekonomi digital
+Indonesia dapat mencapai 32%. Hal ini diakibatkan oleh jumlah penduduk dan tingkat penetrasi
+internet terhadap total penduduk serta literasi masyarakat tentang internet meningkat dari
+tahun ke tahun. Adanya pandemi COVID-19 ini dapat makin mempercepat perpindahan perilaku
+orang dari konvensional ke digital. Bagan dibawah ini merupakan perbandingan GMV ekonomi
+digital dari 6 negara di Asia Tenggara.
+
+ISSN [print] 2722 3469 | ISSN [Online] 2722 4740
+DOI 10.37373/jenius.v3i1.234
+
+25
+
+Pertumbuhan ekonomi digital di Indonesia ini dipengaruhi oleh beberapa sektor industri
+yaitu e-commerce, online travel, online media, dan ride hailing yang dilihat dari gambar 4
+Indonesia Internet Economy. Tingkat pertumbuhan sektor e-commerce dapat dikatakan yang
+paling signifikan, memiliki CAGR 88% dari tahun 2015 hingga 2019[6], dengan total GMV pada
+tahun 2019 sebesar US$ 21 Miliar dibandingkan pada tahun 2015 sebesar US$ 1.7 Miliar. Hal ini
+mengindikasikan perubahan perilaku masyarakat Indonesia terhadap transaksi di dunia digital
+sangat besar. Masyarakat Indonesia dapat dikatakan telah mengadopsi dunia digital dalam
+kehidupan sehari-harinya sehingga pertumbuhan ekonomi digital dapat meningkat drastis di
+masa yang akan datang. Gambar 2 berikut memberikan perbandingan GMV 4 sektor industri
+penyokong ekonomi digital Indonesia. Empat industri ini pada 2019 berkontribusi sebesar US$
+41 Miliar kepada PDB Indonesia, dimana secara rata-rata CAGR total sejak 2015 sebesar 55%
+dan diperkirakan pada tahun 2025 ekonomi digital Indonesia akan bernilai sebesar US$ 134
+Miliar. Peningkatan kontribusi PDB ini disebabkan oleh perkembangan teknologi yang berimbas
+kepada diversifikasi bisnis dari para pelaku industri digital di Indonesia dan juga perubahan
+perilaku masyarakat Indonesia dalam melakukan transaksi secara digital.
+
+Gambar 2. Annual GDP growth, Indonesia internet growth, dan SEA internet economy[6].
+
+3.3 Perubahan perilaku konsumen dalam masa pandemic Covid-19
+Perubahan konsumen awal dalam masa pandemic covid diawali oleh urgensi terkait
+kebutuhan sanitasi dan kesehatan yang baik[10][11], hal ini menimbulkan kenaikan permintaan
+atas produk-produk yang terkait sanitasi, vitamin dan produk kesehatan lainnya. Pola bekerja
+dan perjalanan ikut terdampak terkait social distancing, lokcdown dan edukasi hygene serta
+
+26 MA Pahmi, AFM Ayob, G Suprayitno
+Review: Dampak Disrupsi ICT dan Covid 19 Terhadap Perubahan Perilaku Konsumen dan
+Digital E-Commerce di Indonesia
+
+regulasi terkait persyaratan perjalanan yang ketat di era new normal[12]. Hal ini menjadi awal
+dari perubahan pola belanja konsumen dalam pemenuhan kebutuhan primer dan skundernya
+dalam berbelanja[13][14][15][16]. Dalam hal ini pangan dan makanan merupakan salah satu
+salah satu kebutuhan primer mutlak diperlukan masyarakat dalam kondisi apapun baik dalam
+kondisi krisis maupun tidak. Dari studi yang dilakukan Kantar[17] dan IRI Inc[18]. kondisi
+pandemic Covid-19 secara tidak langsung mengubah pola perilaku konsumen dalam berbelanja.
+
+Gambar 5. Perubahan perilaku konsumen dalam belanja[17].
+Dalam gambar 5, pada fase awal pandemic menunjukkan terdapat panic buying yang
+dilakukan oleh konsumen terutama pada kebutuhan rumah tangga dan frozen food dalam
+mengantisipasi semakin terbatasnya ruang gerak manusia dikarenakan adanya pandemi.
+Dampak lain dari covid juga mengubah pola konsumsi rumah tangga, penurunan pendapatan
+sebesar 54,15% dan peningkatan pengeluaran 56,03%[19][20]. Lebih lanjut, beberapa industri
+yang mendapatkan momentum untuk melakukan lompatan besar dalam kondisi pandemi saat
+ini antara lain platform belajar online, telemedicine, home fi tness, hingga video streaming.
+
+Gambar 6. Covid-19 mengubah pola konsumsi rumah tangga [19]
+Dengan adanya kondisi tersebut perilaku konsumen di masa ini lebih kepada menimbun
+kebutuhan makanan pokok dalam skala besar dan meningkatnya channel online sebagai pilihan
+konsumen dalam berbelanja, menjadikan peluang bisnis penyediaan bahan makanan secara
+online semakin bertumbuh besar. Kebijakan pemerintah yang tetap mengijinkan kegiatan
+operasional bisnis makanan dan kebutuhan pokok, menjadikan mayoritas konsumen membeli
+kebutuhan pokok secara langsung meskipun terdapat perkembangan signifikan dalam
+
+ISSN [print] 2722 3469 | ISSN [Online] 2722 4740
+DOI 10.37373/jenius.v3i1.234
+
+27
+
+melakukan pembelian secara online. Dari studi[17][9] pembelian mayoritas masih berasal dari
+modern trade dan retail tradisional, namun pertumbuhannya menurun drastic hingga 15%,
+sedangkan e commerce dilain pihak tercatat mengalami kenaikan pertumbuhan mencapai 22%.
+
+Gambar 7. Channel pembelian kebutuhan pokok oleh konsumen[19]
+
+Gambar 8. Pertumbuhan channel pembelian oleh konsumen[19]
+
+3.4 Dampak covid-19 terhadap perkembangan E-Commerce di Indonesia
+Industri E-commerce global terus menunjukkan perkembangan yang pesat. Banyaknya
+pelaku usaha yang mengembangkan usahanya ke penjualan online karena perubahan perilaku
+konsumen yang cenderung melakukan segala macam aktivitas menggunakan internet, termasuk
+dalam melakukan pembelian produk atau barang. Dari datareportal.com[6][7][8][9][21],
+persentase pengguna internet dalam melakukan aktivitas e-commerce global dari umur 16
+sampai 64 tahun dalam melakukan pencarian produk/barang melalui internet sebanyak 80%
+dan mengunjungi situs ritel online sebanyak 90%. Dimana pengguna internet membeli produk
+melalui online sebanyak 74% menggunakan perangkat apapun (Telepon genggam, komputer,
+tablet, laptop, dll). Tiga puluh enam persen (36%) dari yang membeli menggunakan laptop atau
+komputer, 52% menggunakan telepon genggam.
+
+28 MA Pahmi, AFM Ayob, G Suprayitno
+Review: Dampak Disrupsi ICT dan Covid 19 Terhadap Perubahan Perilaku Konsumen dan
+Digital E-Commerce di Indonesia
+
+Gambar 9. Aktivitas user terhadap platform E-commerce global [5]
+Jika dibandingkan dengan kegiatan e-commerce di Indonesia, persentase penelusuran
+secara online dan mengunjungi toko ritel online diatas 90%, ini menunjukkan bahwa
+masyarakat di Indonesia memiliki ketertarikan besar untuk melakukan kegiatan berbelanja
+secara online dan dari kegiatan penelusuran tersebut 88% berhasil melakukan transaksi dimana
+25% menggunakan laptop/ komputer dan 80% menggunakan telepon genggam.
+
+Gambar 10. Aktivitas user terhadap platform E-commerce di Indonesia[5]
+
+Gambar 11. Peningkatan total belanja konsumer diberbagai kategori E-commerce [5]
+Berdasarkan kategorinya, total pembelian konsumen e-commerce di Indonesia mengalami
+pertumbuhan yang signifikan pada tahun 2019 jika dibandingkan dengan pada tahun 2018.
+Peningkatan pertumbuhan paling tinggi terjadi pada kategori mainan, DIY, dan hobi dengan
+tingkat pertumbuhan sebesar 67% pada tahun 2019 jika dibandingkan dengan 2018. Kategori
+dengan peningkatan terbesar kedua adalah kategori makanan dan perawatan pribadi dimana
+
+ISSN [print] 2722 3469 | ISSN [Online] 2722 4740
+DOI 10.37373/jenius.v3i1.234
+
+29
+
+terdapat peningkatan sebesar 60% pada tahun 2019 dibandingkan dengan 2018 Dalam
+bertransaksi di e-commerce, metode pembayaran yang paling sering digunakan pada tahun 2019
+secara berurutan adalah dengan menggunakan kartu kredit, transfer bank, e-wallet, CoD/tunai.
+Jika ditelusuri lebih dalam, website atau aplikasi e-commerce yang sudah ada di Indonesia saat
+ini secara umum memiliki beberapa tipe model bisnis yaitu[5][6][9][7][24][14][25]
+[13][25][26] [16][14][27][28]:
+a) Business to Business (B2B)
+B2B e-commerce meliputi semua transaksi elektronik barang atau jasa yang dilakukan antar
+entitas bisnis. Entitas bisnis yang dimaksudkan disini merupakan sebuah grup atau yang
+menjalankan bisnis bukan konsumen perorangan. Produsen dan pedagang grosir biasanya
+menggunakan jenis e-umumnya digunakan oleh produsen dan grosir atau grosir dan
+pengecer. Contoh: bizzy.co.id dan ralali.com.
+b) Business to Consumer (B2C)
+B2C e-commerce merupakan transaksi elektronik barang dan jasa dari entitas
+bisnis/perusahaan ke konsumen akhir atau dapat digolongkan model perdagangan ritel
+tradisional yang berubah bentuk secara digital. Brand yang sudah matang secara offline
+sebagai contoh Adidas dan Nike membuat webstore untuk melayani pelanggan secara online
+dan memperluas area pelayanannya, namun terdapat juga sejenis aggregator yang
+mengumpulkan berbagai brand dan kemudian memasarkan atau menjual produk dari
+brand tersebut langsung ke konsumen akhir. Contoh: bhinneka.com, lazada.co.id,
+berrybenka.com
+c) Consumer to Consumer (C2C)
+C2C merupakan jenis e-commerce yang meliputi semua transaksi elektronik barang atau
+jasa antar konsumen. Umumnya transaksi ini dilakukan melalui pihak ketiga yang
+menyediakan platform online untuk melakukan transaksi tersebut. Kedua pihak tidak
+bertemu secara langsung, namun hanya lewat platform online pihak ketiga. Contoh:
+tokopedia.com dan bukalapak.com.
+d) Consumer to Business (C2B)
+Website e-commerce C2B adalah kebalikan dari C2C. Website jenis ini melibatkan transaksi
+dari konsumen ke perusahaan. Konsumen akan menawarkan produk atau jasa kepada
+perusahaan yang membutuhkannya. Sekelompok besar individu menyediakan layanan jasa
+atau produk mereka bagi perusahaan yang mencari jasa atau produk tersebut. Contoh:
+istockphoto.com dan mybloggerthemes.com.
+e) Business to Administration (B2A)
+Website e-commerce B2A mencakup kegiatan transaksi online yang terjadi antara
+perusahaan dengan administrasi publik. Jenis e-commerce ini melibatkan banyak layanan,
+khususnya di bidang-bidang seperti fiskal, jaminan sosial, ketenagakerjaan, dokumen
+hukum dan register, dan lainnya. Perusahaan dapat melakukan proses transaksi atas jasa
+yang mereka dapatkan langsung kepada pihak administrasi publik setelah melengkapi
+sejumlah persyaratan terlebih dahulu sebelum mendapatkan layanan dan baru diteruskan
+dengan proses transaksi. Contoh: pajak.go.id, allianz.com dan bpjsketenagakerjaan.go.id.
+f) Consumer to Administration (C2A)
+Website e-commerce C2A memiliki model bisnis yang sama dengan B2A. Hanya saja, C2A
+melibatkan transaksi antara konsumen/individu dengan administrasi publik. Beberapa
+contoh sektor industri yang menerapkan model bisnis dengan tipe ini seperti:
+
+30 MA Pahmi, AFM Ayob, G Suprayitno
+Review: Dampak Disrupsi ICT dan Covid 19 Terhadap Perubahan Perilaku Konsumen dan
+Digital E-Commerce di Indonesia
+
+● Pendidikan – penyebaran informasi, proses pembelajaran jarak jauh, dan lainnya
+● Jamsostek – penyebaran informasi, pembayaran, dan lainnya
+● Pajak–pengajuan pajak, pembayaran pajak, dan lainnya
+● Kesehatan–janji pertemuan, informasi mengenai penyakit, pembayaran layanan
+kesehatan dan lainnya
+Pada dasarnya C2A dan B2A secara konsep sama namun pembedanya adalah target
+konsumennya, perseorangan dan entitas bisnis. Model B2A dan C2A merupakan hasil
+inovasi untuk peningkatan efisiensi dan kenyamanan publik dari pihak administrator
+seperti pemerintah. Contoh: bpjs- kesehatan.go.id dan pajak.go.id.
+g) Online to Offline (O2O)
+Website e-commerce O2O mengusung model bisnis untuk menarik pelanggan online agar
+mau berbelanja ke toko fisik. Intinya, konsep ini ingin menghubungkan antara saluran
+online dengan toko fisik. Contoh: alfacart.com dan mataharimall.com.
+
+Simpulan
+Pertumbuhan ekonomi digital di Indonesia ini dipengaruhi oleh beberapa sektor industri
+yaitu e-commerce, online travel, online media, dan ride hailing Empat industri ini pada 2019
+berkontribusi sebesar US$ 41 Miliar kepada PDB Indonesia, dimana secara rata-rata CAGR total
+sejak 2015 sebesar 55% dan diperkirakan pada tahun 2025 ekonomi digital Indonesia akan
+bernilai sebesar US$ 134 Miliar. Kondisi pandemic Covid-19 dan kebijakan lockdown secara
+tidak langsung mengubah pola perilaku konsumen dalam berbelanja dan mengubah pola
+konsumsi rumah tangga, penurunan pendapatan sebesar 54,15% dan peningkatan pengeluaran
+56,03%. Perubahan perilaku konsumen dalam berbelanja menyebabkan menurunnya
+pertumbuhan modern trade dan retail tradisional hingga 15%, sedangkan e commerce dilain
+pihak tercatat mengalami kenaikan pertumbuhan mencapai 22%. Dari paparan diatas dapat
+disimpulkan faktor-faktor utama yang mendorong perkembangan E-commerce di Indonesia
+yaitu; Kelas menengah yang sedang tumbuh Hampir 20% penduduk Indonesia adalah dari
+bagian kelas menengah. Menurut World Bank Kelas menengah tumbuh cepat, tumbuh 10%
+setiap tahun, meskipun tidak secepat di tempat lain di Asia Timur. Kelas menengah tumbuh
+lebih cepat daripada sebagian besar segmen lain dari distribusi konsumsi Indonesia. hal ini
+seiring dengan studi bahwa hingga 2018 dari aspek sector infrastruktur terjadi pergeseran
+pertumbuhan pasar property yaitu kenaikan segmen kelas menengah. Tingkat penetrasi
+internet dan seluler yang tinggi meningkat akan akses orang-orang dari berbagai kelas ekonomi
+akses ke toko online, marketplace, penjual media sosial, dan aplikasi. Meningkatnya jumlah
+fintech dan opsi keuangan alternatif Dimana platform e-commerce, perusahaan fintech, dan
+bank-bank di Indonesia saling bekerja sama untuk mempermudah konsumen dalam melakukan
+pembayaran atas transaksi online. (Gopay, Ovo, Mandiri E-wallet, Tcash, Dana, Linkaja, dsd).
+Investasi Teknologi E-commerce di Indonesia Banyaknya investor asing melirik Indonesia
+sebagai pasar yang baik untuk berinvestasi yang dilihat dari perkembangan e-commerce yang
+begitu pesat. Hal ini membuka jalan bagi perusahaan e-commerce di Indonesia dalam
+mengembangkan bisnisny. Meningkatnya strategi Pemasaran E-Commerce dan meningkatnya
+pertumbuhan e-commerce juga tidak lepas dari strategi pemasaran dimana pelaku e-commerce
+memberikan banyak keuntungan kepada konsumen seperti kupon, voucher, diskon,
+memberikan akses ke pasar global dan memberikan nilai, pilihan, kemudahan, kecepatan, dan
+kenyamanan yang dapat langsung dirasakan konsumen.
+
+4
+
+ISSN [print] 2722 3469 | ISSN [Online] 2722 4740
+DOI 10.37373/jenius.v3i1.234
+
+31
+
+Referensi
+[1]
+BPS, “Perkembangan Ekspor dan Impor Indonesia Mei 2020,” Badan Pus. Stat., no. 55, pp.
+1–16, 2020.
+[2]
+BPS
+Indonesia,
+“Statistik
+Indonesia
+2020,”
+2021.
+[Online].
+Available:
+https://www.bps.go.id/publication/2020/04/29/e9011b3155d45d70823c141f/statistik
+-indonesia-2020.html.
+[3]
+Badan Pusat Statistik Republik Indonesia, “Statistik Pertumbuhan Ekonomi Indonesia
+Triwulan I-2020,” Www.Bps.Go.Id, no. 17, p. 2, 2020, [Online]. Available:
+https://www.bps.go.id/pressrelease/2020/02/05/1755/ekonomi-indonesia-2019tumbuh-5-02-persen.html.
+[4]
+IMF, “World Economic Outlook-Rising Caseloads, A Disrupted Recovery, and Higher
+Inflation,” IMF Work. Pap., vol. 20, no. 242, pp. 1–157, 2022, [Online]. Available:
+https://www.imf.org/en/Publications/WEO/Issues/2022/01/25/world-economicoutlook-update-january-2022.
+[5]
+HootSuite, “Digital Data Indonesia 2020,” Data Rep., pp. 1–97, 2020, [Online]. Available:
+https://datareportal.com/reports/digital-2020-indonesia.
+[6]
+B. & C. Google, Temasek, “e-economy SEA 2019,” 1375.
+[7]
+S. Chandra, “e Commerce in Indonesia,” no. December, pp. 37–41, 2013.
+[8]
+Fintechnews, “Indonesia Fintech Landscape Report 2018,” no. May, 2018.
+[9]
+BPS Indonesia, “Statistik E-Commerce 2020,” 2020.
+[10] F. Kahar, G. D. Dirawan, S. Samad, N. Qomariyah, and D. E. Purlinda, “The Epidemiology of
+COVID-19, Attitudes and Behaviors of the Community During the Covid Pandemic in
+Indonesia,” Int. J. Innov. Sci. Res. Technol., vol. 5, no. 8, pp. 1681–1687, 2020, doi:
+10.38124/ijisrt20aug670.
+[11] N. M. U. Dwipayanti, D. S. Lubis, and N. P. A. Harjana, “Public Perception and Hand Hygiene
+Behavior During COVID-19 Pandemic in Indonesia,” Front. Public Heal., vol. 9, no. May, pp.
+1–12, 2021, doi: 10.3389/fpubh.2021.621800.
+[12] M. Z. Irawan, P. F. Belgiawan, T. B. Joewono, F. F. Bastarianto, M. Rizki, and A. Ilahi,
+“Exploring activity-travel behavior changes during the beginning of COVID-19 pandemic
+in Indonesia,” Transportation (Amst)., vol. 49, no. 2, pp. 529–553, 2022, doi:
+10.1007/s11116-021-10185-5.
+[13] C. A. PRAMONO, A. H. MANURUNG, P. HERIYATI, and W. KOSASIH, “Factors Affecting
+Start-up Behavior and Start-up Performance During the COVID-19 Pandemic in
+Indonesia,” J. Asian Financ. Econ. Bus., vol. 8, no. 4, pp. 809–817, 2021, doi:
+10.13106/jafeb.2021.vol8.no4.0809.
+[14] M. I. Purba, D. C. Y. Simanjutak, Y. N. Malau, W. Sholihat, and E. A. Ahmadi, “The effect of
+digital marketing and e-commerce on financial performance and business sustainability
+of MSMEs during COVID-19 pandemic in Indonesia,” Int. J. Data Netw. Sci., vol. 5, no. 3, pp.
+275–282, 2021, doi: 10.5267/j.ijdns.2021.6.006.
+[15] S. S. IRIANI, D. A. NUSWANTARA, A. D. KARTIKA, and P. PURWOHANDOKO, “The Impact
+of Government Regulations on Consumers Behaviour during the COVID-19 Pandemic: A
+Case Study in Indonesia,” J. Asian Financ. Econ. Bus., vol. 8, no. 4, pp. 939–948, 2021, doi:
+10.13106/jafeb.2021.vol8.no4.0939.
+[16] A. Hartono et al., “COVID-19 Pandemic and Adaptive Shopping Patterns: An Insight from
+Indonesian Consumers,” Glob. Bus. Rev., 2021, doi: 10.1177/09721509211013512.
+
+32 MA Pahmi, AFM Ayob, G Suprayitno
+Review: Dampak Disrupsi ICT dan Covid 19 Terhadap Perubahan Perilaku Konsumen dan
+Digital E-Commerce di Indonesia
+
+[17]
+
+[18]
+[19]
+[20]
+[21]
+[22]
+[23]
+
+[24]
+
+[25]
+
+[26]
+
+[27]
+
+[28]
+
+N. Ardianti, A. Brahmanti, B. Mohanty, K. Narayan, and A. Saputro, “COVID-19 Impact on
+Indonesian Attitude and Behaviors: Learning for Brands,” 2020. [Online]. Available:
+https://www.kantar.com/-/media/Project/Kantar/Global/Articles/Files/2020/KantarIndonesia-Integrated-COVID-19-Paper.pdf.
+IRI, “Updates : Cpg and Retail Impact of Covid-19,” 2020.
+& D. A. Yudi Supriyanto, Nirmala Aninda, “Mereka hoki saat pandemi,” Bisnis Indonesia,
+no. 11828, p. 11828, 2020.
+W. C. M. Scantrack, S. All, C. Chain, and M. Trade, “FMCG Sales Trend During Covid-19
+Pandemic Covid-19 Timeline,” no. March, 2020.
+B. T. Chan et al., “2020 BCG Tech Challengers,” 2020.
+World Bank, “Aspiring Indonesia—Expanding the Middle Class,” Aspiring Indones. Middle
+Cl., 2019, doi: 10.1596/33237.
+M. A. Pahmi, M. Imtihan, and Mujiarto, “Review the Development of the Indonesian
+Property Sector Amidst 2019 Global Economic Stagnation and Predictions on Post COVID19 2020 Recovery,” Proc. 1st Paris Van Java Int. Semin. Heal. Econ. Soc. Sci. Humanit. (PVJISHESSH 2020), vol. 535, pp. 495–499, 2021, doi: 10.2991/assehr.k.210304.112.
+Y. Sumarni, “Pandemi Covid 19: Tantangan Ekonomi dan Bisnis,” Al-Intaj J. Ekon. dan
+Perbank. Syariah, vol. 2, no. 1, pp. 46–58, 2020, [Online]. Available:
+https://ejournal.iainbengkulu.ac.id/index.php/Al-Intaj/article/viewFile/3358/2666.
+J. T. Purba, S. Samuel, and S. Budiono, “Collaboration of digital payment usage decision in
+COVID-19 pandemic situation: Evidence from Indonesia,” Int. J. Data Netw. Sci., vol. 5, no.
+4, pp. 557–568, 2021, doi: 10.5267/j.ijdns.2021.8.012.
+R. Marginingsih, “Financial Technology (Fintech) Dalam Inklusi Keuangan Nasional di
+Masa Pandemi Covid-19,” Monet. - J. Akunt. dan Keuang., vol. 8, no. 1, pp. 56–64, 2021, doi:
+10.31294/moneter.v8i1.9903.
+I. P. T. Noviana and G. S. Darma, “Exploring Digital Marketing Strategies During the New
+Normal Era in Enhancing the Use of Digital Payment,” J. Mantik, vol. 4, no. 3, pp. 2257–
+2262, 2020.
+F. Redjeki and A. Affandi, “Utilization of Digital Marketing for MSME Players as Value
+Creation for Customers during the COVID-19 Pandemic,” Int. J. Sci. Soc., vol. 3, no. 1, pp.
+40–55,
+2021,
+[Online].
+Available:
+http://ijsoc.goacademica.com/index.php/ijsoc/article/view/264.
+
+

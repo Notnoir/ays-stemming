@@ -1,0 +1,607 @@
+                           Jurnal Minfo Polgan
+                           Volume 14, Nomor 1, Februari 2025                           e-ISSN : 2797-3298
+                           DOI : https://doi.org/10.33395/jmp.v14i1.14608              p-ISSN : 2089-9424
+
+
+
+
+ Transformasi Ekonomi Digital dan Evolusi Pola
+Konsumsi: Tinjauan Literatur tentang Perubahan
+        Perilaku Belanja di Era Internet
+                  1
+                    Jeffriansyah Dwi Sahputra Amory, 2Muhtar Mudo, 3Rhena J
+                        1,2,3
+                              Universitas Muhammadiyah Mamuju, Indonesia
+       1
+         jeffriamori77@gmail.com, 2mudomuhtar7284@gmail.com, 3rhena.rr5@gmail.com
+
+            Submit : 25 Feb 2025 | Diterima : 28 Feb 2025 | Terbit : 28 fEB 2025
+
+                                               ABSTRAK
+
+Transformasi ekonomi digital telah mengubah pola konsumsi masyarakat secara fundamental,
+terutama dengan meningkatnya penggunaan e-commerce, layanan berbasis sharing economy, serta
+metode pembayaran digital yang semakin mempermudah transaksi. Penelitian ini merupakan
+tinjauan pustaka dengan pendekatan kualitatif dan analisis deskriptif yang bertujuan untuk
+mengkaji perubahan perilaku belanja di era internet. Data penelitian diambil dari Google Scholar
+untuk periode 2015–2025, dengan total 50 artikel yang diseleksi menjadi 24 artikel yang relevan.
+Hasil penelitian menunjukkan bahwa digitalisasi telah mendorong pergeseran preferensi konsumen
+dari belanja konvensional ke belanja daring, dengan faktor utama seperti kenyamanan, efisiensi,
+dan personalisasi layanan. Media sosial dan pemasaran berbasis influencer memainkan peran
+penting dalam keputusan pembelian, sementara model bisnis baru seperti cloud kitchen dan layanan
+pesan-antar semakin mengubah pola konsumsi, terutama di industri makanan dan minuman.
+Namun, fenomena ini juga menghadirkan tantangan, termasuk peningkatan belanja impulsif, risiko
+keamanan data, dan dampak negatif terhadap sektor ritel tradisional. Implikasi dari penelitian ini
+menyoroti pentingnya adaptasi bisnis terhadap tren digital, perlunya regulasi yang lebih kuat untuk
+melindungi konsumen, serta peningkatan literasi digital dan keuangan bagi masyarakat. Penelitian
+ini memiliki keterbatasan dalam cakupan data sekunder dan tidak menggali aspek demografis atau
+budaya yang dapat memengaruhi adopsi digitalisasi. Oleh karena itu, studi lanjutan dengan
+pendekatan empiris diperlukan untuk memperoleh pemahaman yang lebih mendalam mengenai
+transformasi konsumsi di era digital.
+
+Keywords: Ekonomi Digital, Perilaku Konsumsi, E-commerce, Digitalisasi, Pola Belanja,
+Transformasi Digital, Pembayaran Digital
+
+                                        PENDAHULUAN
+        Transformasi ekonomi digital telah menjadi fenomena global yang mengubah berbagai
+aspek kehidupan, termasuk pola konsumsi masyarakat. Dengan semakin luasnya akses internet dan
+berkembangnya teknologi digital, perilaku belanja konsumen mengalami pergeseran yang
+signifikan dari transaksi konvensional menuju transaksi berbasis digital. Platform e-commerce,
+layanan keuangan digital, serta inovasi dalam teknologi pembayaran telah menciptakan ekosistem
+baru dalam dunia perdagangan, memungkinkan konsumen untuk memperoleh barang dan jasa
+dengan lebih cepat, efisien, dan nyaman (Kilay et al., 2022). Perubahan ini didorong oleh faktor-
+faktor seperti kemudahan akses informasi, ketersediaan berbagai metode pembayaran, serta
+meningkatnya kepercayaan terhadap sistem digital. Fenomena ini mencerminkan bagaimana
+teknologi menjadi alat pendukung dan katalis utama dalam evolusi pola konsumsi masyarakat
+modern.
+        Dalam beberapa dekade terakhir, perkembangan ekonomi digital telah mempercepat
+pergeseran dari model bisnis tradisional ke model berbasis teknologi, yang pada akhirnya turut
+mengubah kebiasaan dan preferensi konsumen. Kehadiran platform seperti Shopee, Tokopedia, dan
+
+
+                 This is an Creative Commons License This work is licensed under a Creative
+                 Commons Attribution-NonCommercial 4.0 International License.                        28
+                           Jurnal Minfo Polgan
+                           Volume 14, Nomor 1, Februari 2025                           e-ISSN : 2797-3298
+                           DOI : https://doi.org/10.33395/jmp.v14i1.14608              p-ISSN : 2089-9424
+
+
+Bukalapak di Indonesia telah merevolusi cara masyarakat berbelanja, mengurangi ketergantungan
+terhadap toko fisik dan meningkatkan adopsi belanja daring. Selain itu, munculnya konsep on-
+demand economy yang didorong oleh layanan seperti Gojek dan Grab telah memperluas
+kemungkinan bagi konsumen untuk mengakses produk dan layanan dalam waktu singkat.
+Fenomena ini menunjukkan bahwa pola konsumsi berubah dalam hal cara bertransaksi dan
+ekspektasi terhadap kecepatan dan fleksibilitas layanan (Tsiotsou & Wirtz, 2015).
+         Evolusi pola konsumsi ini juga dipengaruhi oleh faktor demografi dan sosial budaya, di
+mana generasi muda yang lebih akrab dengan teknologi digital cenderung lebih cepat mengadopsi
+kebiasaan belanja daring dibandingkan generasi sebelumnya. Generasi milenial dan Gen Z,
+misalnya, lebih nyaman dalam menggunakan aplikasi mobile dan media sosial untuk mencari
+informasi produk sebelum melakukan pembelian (Chang & Chang, 2023). Mereka juga lebih
+cenderung mempercayai ulasan daring dan rekomendasi dari pengguna lain dibandingkan iklan
+tradisional. Selain itu, faktor ekonomi seperti meningkatnya daya beli masyarakat dan perubahan
+gaya hidup juga turut mempercepat pergeseran menuju konsumsi berbasis digital.
+         Perubahan perilaku belanja di era internet juga tidak terlepas dari inovasi dalam sistem
+pembayaran digital (Setiartiti & Binti Mahsyar, 2023). Kemudahan akses terhadap dompet digital
+seperti GoPay, OVO, DANA, dan ShopeePay telah meningkatkan kenyamanan dan efisiensi dalam
+transaksi daring, mengurangi ketergantungan terhadap uang tunai, serta meningkatkan inklusi
+keuangan di berbagai lapisan masyarakat. Selain itu, perkembangan sistem buy now, pay later
+(BNPL) yang diterapkan oleh berbagai platform e-commerce telah memberikan fleksibilitas
+tambahan bagi konsumen dalam mengelola pengeluaran mereka, sehingga mendorong peningkatan
+transaksi digital.
+         Namun, di balik berbagai manfaat yang ditawarkan oleh ekonomi digital, terdapat
+tantangan yang perlu diperhatikan, seperti meningkatnya risiko keamanan siber dan perlindungan
+data pribadi konsumen. Kasus kebocoran data yang melibatkan beberapa platform e-commerce
+menunjukkan bahwa keamanan digital menjadi isu yang krusial dalam memastikan kepercayaan
+konsumen terhadap sistem belanja daring. Selain itu, adanya fenomena impulse buying atau belanja
+impulsif yang lebih tinggi akibat kemudahan akses terhadap berbagai promosi dan diskon dapat
+memengaruhi pola pengelolaan keuangan individu (Al Mutanafisa & Retnaningsih, 2021). Oleh
+karena itu, diperlukan pemahaman lebih mendalam mengenai bagaimana ekonomi digital
+mengubah cara berbelanja dan membentuk perilaku konsumsi secara keseluruhan.
+         Dari perspektif bisnis, perubahan pola konsumsi ini memaksa perusahaan untuk
+beradaptasi dengan strategi pemasaran yang lebih berbasis digital. Penggunaan teknologi
+kecerdasan buatan (AI) dan analitik data dalam memahami preferensi konsumen telah menjadi
+kunci dalam memenangkan persaingan di era digital (Kumar et al., 2024). Misalnya, pemanfaatan
+algoritma rekomendasi yang digunakan oleh platform seperti Netflix dan Amazon meningkatkan
+pengalaman pengguna serta mendorong loyalitas konsumen melalui penawaran yang lebih
+personal. Selain itu, integrasi strategi omnichannel yang menghubungkan pengalaman belanja
+daring dan luring juga semakin menjadi tren di berbagai sektor industri, menunjukkan bahwa
+adaptasi terhadap perubahan perilaku belanja menjadi aspek yang semakin esensial bagi
+keberlanjutan bisnis di era digital.
+         Berbagai literatur menunjukkan bahwa transformasi ekonomi digital telah membawa
+dampak multidimensional terhadap perilaku konsumsi, mulai dari aspek psikologis hingga ekonomi
+(Qi & Chu, 2022; Verhoef et al., 2021). Teori-teori dalam bidang pemasaran dan ekonomi perilaku,
+seperti Technology Acceptance Model (TAM) dan Consumer Decision-Making Process, semakin
+relevan dalam menjelaskan bagaimana konsumen mengambil keputusan dalam konteks digital.
+Studi-studi sebelumnya juga menyoroti bagaimana faktor kepercayaan, pengalaman pengguna,
+serta efektivitas komunikasi pemasaran digital berperan dalam membentuk pola konsumsi yang
+lebih dinamis dan berbasis data (Bharti et al., 2024; Sodiq et al., 2022). Dengan demikian,
+pemahaman terhadap perubahan ini penting bagi akademisi sekaligus pelaku bisnis dan pembuat
+kebijakan dalam merancang strategi yang lebih adaptif terhadap ekosistem digital.
+         Berdasarkan uraian di atas, penelitian ini bertujuan untuk meninjau literatur yang
+membahas bagaimana transformasi ekonomi digital telah mengubah pola konsumsi masyarakat,
+
+
+
+                 This is an Creative Commons License This work is licensed under a Creative
+                 Commons Attribution-NonCommercial 4.0 International License.                        29
+                           Jurnal Minfo Polgan
+                           Volume 14, Nomor 1, Februari 2025                           e-ISSN : 2797-3298
+                           DOI : https://doi.org/10.33395/jmp.v14i1.14608              p-ISSN : 2089-9424
+
+
+dengan fokus pada perubahan perilaku belanja di era internet. Penelitian ini diharapkan dapat
+memberikan wawasan yang lebih mendalam mengenai faktor-faktor yang mendorong perubahan
+tersebut, dampaknya terhadap perilaku konsumen, serta implikasinya bagi industri dan kebijakan
+ekonomi digital di masa depan dengan melakukan tinjauan pustaka yang sistematis.
+
+                                       TINJAUAN PUSTAKA
+Ekonomi Digital
+         Ekonomi digital merujuk pada sistem ekonomi yang berbasis pada teknologi digital, di
+mana aktivitas produksi, distribusi, dan konsumsi barang serta jasa semakin bergantung pada
+internet dan inovasi teknologi (Bukht & Heeks, 2018). Konsep ini mencakup berbagai aspek seperti
+e-commerce, layanan keuangan digital, komputasi awan, kecerdasan buatan, dan analisis data yang
+memungkinkan efisiensi serta optimalisasi dalam berbagai sektor industri. Perkembangan ekonomi
+digital mendorong perubahan dalam model bisnis tradisional, meningkatkan akses pasar bagi
+pelaku usaha kecil maupun besar, serta menciptakan peluang baru melalui platform digital yang
+menghubungkan konsumen dengan penyedia layanan secara lebih cepat dan efisien. Namun,
+ekonomi digital juga menghadirkan tantangan seperti kesenjangan akses teknologi, isu privasi data,
+serta regulasi yang harus disesuaikan dengan perkembangan pesat dalam ekosistem digital.
+
+Perilaku Konsumen
+         Perilaku konsumsi mengacu pada pola dan keputusan individu atau kelompok dalam
+membeli, menggunakan, serta membuang barang dan jasa berdasarkan faktor psikologis, sosial,
+ekonomi, dan budaya (Šostar & Ristanović, 2023). Di era digital, perilaku konsumsi mengalami
+perubahan drastis akibat meningkatnya akses terhadap informasi, personalisasi layanan, serta
+kemudahan bertransaksi melalui platform daring. Konsumen kini cenderung lebih selektif dalam
+memilih produk, mengandalkan ulasan dan rekomendasi dari media sosial, serta semakin
+mengutamakan kenyamanan melalui fitur-fitur seperti layanan pesan-antar dan metode pembayaran
+tanpa kontak. Namun, digitalisasi juga mendorong perilaku konsumtif dan impulsif, terutama
+dengan maraknya strategi pemasaran berbasis algoritma yang menargetkan konsumen secara
+spesifik berdasarkan preferensi dan riwayat pencarian mereka.
+
+E-commerce
+         E-commerce atau perdagangan elektronik merujuk pada aktivitas jual beli barang dan jasa
+yang dilakukan secara daring melalui platform digital seperti marketplace, website toko online,
+serta aplikasi mobile (Ausat & Suherlan, 2021). Model bisnis ini memungkinkan transaksi tanpa
+batas geografis, menghubungkan penjual dan pembeli dari berbagai wilayah dengan efisiensi yang
+lebih tinggi dibandingkan toko fisik. E-commerce berkembang pesat berkat kemajuan teknologi
+pembayaran digital, logistik, serta strategi pemasaran berbasis data yang mempermudah
+personalisasi pengalaman belanja. Di Indonesia, platform seperti Tokopedia, Shopee, dan
+Bukalapak menjadi contoh utama e-commerce yang mendukung pertumbuhan ekonomi digital
+dengan memberikan peluang bagi UMKM untuk menjangkau pasar yang lebih luas. Namun,
+tantangan seperti persaingan harga, kepercayaan konsumen terhadap transaksi daring, serta
+perlindungan terhadap data pribadi masih menjadi isu utama dalam ekosistem e-commerce.
+
+Digitalisasi
+         Digitalisasi adalah proses transformasi dari sistem konvensional ke sistem berbasis digital
+yang memanfaatkan teknologi untuk meningkatkan efisiensi, aksesibilitas, dan efektivitas dalam
+berbagai bidang kehidupan (Gadzali et al., 2023). Dalam konteks ekonomi dan bisnis, digitalisasi
+memungkinkan otomasi operasional, peningkatan layanan pelanggan, serta optimalisasi strategi
+pemasaran melalui analisis data. Digitalisasi juga berkontribusi pada perubahan pola kerja dengan
+munculnya konsep seperti remote working, platform gig economy, serta digital banking yang
+mengurangi ketergantungan pada layanan fisik. Meskipun memberikan banyak manfaat,
+digitalisasi juga menuntut kesiapan infrastruktur teknologi, peningkatan literasi digital, serta
+regulasi yang mampu mengakomodasi perubahan cepat dalam ekosistem digital.
+
+
+
+
+                 This is an Creative Commons License This work is licensed under a Creative
+                 Commons Attribution-NonCommercial 4.0 International License.                        30
+                           Jurnal Minfo Polgan
+                           Volume 14, Nomor 1, Februari 2025                           e-ISSN : 2797-3298
+                           DOI : https://doi.org/10.33395/jmp.v14i1.14608              p-ISSN : 2089-9424
+
+
+Pola Belanja
+         Pola belanja menggambarkan kebiasaan dan preferensi konsumen dalam membeli barang
+atau jasa, yang dipengaruhi oleh faktor ekonomi, sosial, budaya, dan teknologi (Wang et al., 2023).
+Dengan berkembangnya ekonomi digital, pola belanja masyarakat bergeser dari transaksi
+konvensional ke transaksi daring yang lebih fleksibel dan efisien. Konsumen kini lebih cenderung
+membandingkan harga secara daring, membaca ulasan sebelum membeli, serta menggunakan
+platform digital untuk mendapatkan promosi dan diskon yang lebih kompetitif. Selain itu, fitur
+seperti live shopping, layanan berlangganan (subscription), serta pembelian berbasis kecerdasan
+buatan semakin mengubah cara konsumen berinteraksi dengan merek dan produk. Namun,
+perubahan pola belanja ini juga berdampak pada sektor ritel tradisional yang harus beradaptasi
+dengan tren digital untuk tetap bertahan di pasar yang semakin kompetitif.
+
+Transformasi Digital
+         Transformasi digital merupakan perubahan fundamental dalam cara organisasi, bisnis, dan
+individu mengadopsi teknologi digital untuk meningkatkan efisiensi, inovasi, serta daya saing di
+era modern (Kraus et al., 2022). Berbeda dengan digitalisasi yang hanya berfokus pada perubahan
+dari analog ke digital, transformasi digital mencakup adopsi teknologi yang lebih luas dalam
+strategi bisnis, budaya organisasi, dan interaksi dengan konsumen. Misalnya, perusahaan seperti
+Gojek dan Grab menyediakan layanan transportasi berbasis aplikasi dan mengintegrasikan
+ekosistem digital yang mencakup pembayaran, e-commerce, dan logistik. Transformasi digital
+menuntut adaptasi yang cepat, baik dari sisi regulasi maupun kesiapan sumber daya manusia, agar
+manfaatnya dapat dimaksimalkan dalam menciptakan inovasi dan pertumbuhan ekonomi yang
+berkelanjutan.
+
+Pembayaran Digital
+          Pembayaran digital adalah metode transaksi yang menggunakan teknologi elektronik tanpa
+memerlukan uang tunai atau kartu fisik, seperti dompet digital (e-wallet), QR code, transfer bank
+daring, dan kartu debit/kredit berbasis aplikasi (Khando et al., 2022). Inovasi dalam pembayaran
+digital, seperti GoPay, OVO, dan Dana di Indonesia, telah mengubah cara masyarakat bertransaksi
+dengan meningkatkan efisiensi, keamanan, serta aksesibilitas dalam ekonomi digital. Keunggulan
+utama pembayaran digital adalah kecepatan dan kenyamanan, terutama dalam mendukung
+ekosistem e-commerce, layanan transportasi daring, dan transaksi di gerai ritel. Namun, tantangan
+utama dalam sistem pembayaran digital mencakup risiko keamanan siber, perlindungan data
+pribadi, serta inklusi keuangan bagi masyarakat yang masih memiliki keterbatasan akses terhadap
+infrastruktur teknologi dan literasi digital.
+
+                                      METODE PENELITIAN
+         Penelitian ini merupakan tinjauan pustaka dengan pendekatan kualitatif yang bertujuan
+untuk menganalisis perubahan pola konsumsi dalam konteks transformasi ekonomi digital
+berdasarkan studi-studi yang telah dipublikasikan sebelumnya. Pendekatan kualitatif digunakan
+untuk memahami secara mendalam dinamika perubahan perilaku belanja di era internet dengan
+menelaah berbagai teori, konsep, serta temuan empiris dari penelitian terdahulu. Metode analisis
+yang digunakan adalah analisis deskriptif, yang bertujuan untuk menggambarkan pola dan tren
+yang muncul dalam literatur terkait serta mengidentifikasi faktor-faktor utama yang berkontribusi
+terhadap pergeseran perilaku konsumsi di era digital. Data dalam penelitian ini dikumpulkan dari
+sumber sekunder yang berasal dari artikel ilmiah yang diterbitkan dalam rentang waktu 2015
+hingga 2025 dan diperoleh melalui pencarian di Google Scholar. Pemilihan periode ini dilakukan
+untuk memastikan bahwa penelitian yang dikaji relevan dengan perkembangan terbaru dalam
+bidang ekonomi digital dan pola konsumsi. Proses pencarian artikel dilakukan dengan
+menggunakan kata kunci seperti digital economy, consumer behavior, online shopping, e-
+commerce trends, dan istilah lain yang relevan. Dari hasil pencarian awal, ditemukan 50 artikel
+yang sesuai dengan topik penelitian. Seleksi artikel dilakukan secara ketat berdasarkan beberapa
+kriteria, yaitu (1) relevansi dengan fokus penelitian terkait perubahan perilaku belanja dalam era
+ekonomi digital, (2) kualitas sumber dengan memprioritaskan artikel yang dipublikasikan dalam
+
+
+                 This is an Creative Commons License This work is licensed under a Creative
+                 Commons Attribution-NonCommercial 4.0 International License.                        31
+                            Jurnal Minfo Polgan
+                            Volume 14, Nomor 1, Februari 2025                           e-ISSN : 2797-3298
+                            DOI : https://doi.org/10.33395/jmp.v14i1.14608              p-ISSN : 2089-9424
+
+
+jurnal terakreditasi dan konferensi ilmiah bereputasi, serta (3) keterkaitan dengan konteks global
+maupun nasional, terutama yang dapat diaplikasikan dalam ekosistem digital di Indonesia. Setelah
+proses seleksi, sebanyak 24 artikel dipilih untuk dianalisis lebih lanjut. Artikel-artikel tersebut
+kemudian dikategorikan berdasarkan tema utama seperti faktor-faktor yang memengaruhi
+perubahan pola konsumsi, peran teknologi dalam mendorong digitalisasi belanja, serta dampak
+sosial dan ekonomi dari transformasi digital terhadap konsumen. Analisis data dilakukan dengan
+teknik analisis isi (content analysis), di mana isi dari masing-masing artikel dikaji secara sistematis
+untuk mengidentifikasi pola temuan, kesenjangan penelitian, serta hubungan antara berbagai
+konsep yang dibahas. Data yang diperoleh dari berbagai studi dibandingkan dan disintesis untuk
+menghasilkan pemahaman yang lebih komprehensif mengenai transformasi pola konsumsi dalam
+era digital. Dengan pendekatan ini, penelitian ini diharapkan dapat memberikan kontribusi dalam
+memahami dinamika perubahan perilaku belanja serta memberikan wawasan bagi akademisi,
+pelaku industri, dan pembuat kebijakan dalam menghadapi tantangan serta peluang yang muncul
+dari evolusi ekonomi digital.
+
+                                    HASIL DAN PEMBAHASAN
+         Transformasi ekonomi digital di Indonesia mengubah pola konsumsi masyarakat dan
+menciptakan ekosistem perdagangan baru yang lebih dinamis, didorong oleh penetrasi internet
+yang semakin luas dan inovasi teknologi yang terus berkembang. E-commerce menjadi katalis
+utama dalam pergeseran ini, di mana platform seperti Shopee, Tokopedia, dan Lazada menyediakan
+kemudahan akses dan kecepatan transaksi serta membangun infrastruktur pembayaran digital yang
+semakin inklusif melalui dompet digital seperti OVO, GoPay, dan Dana, serta layanan paylater
+yang semakin diminati oleh konsumen. Laporan hasil penelitian menunjukkan lonjakan transaksi
+e-commerce dalam lima tahun terakhir, terutama pasca-pandemi COVID-19, yang mempercepat
+perubahan perilaku belanja dari konvensional ke digital, untuk produk fisik dan layanan berbasis
+langganan seperti streaming dan edukasi daring (Yogi & Jhon, 2025). Akibatnya, sektor ritel
+tradisional menghadapi tantangan besar dengan penurunan jumlah pengunjung ke pusat
+perbelanjaan, memaksa banyak bisnis untuk mengadopsi strategi omnichannel guna bertahan dalam
+persaingan yang semakin ketat, sementara di sisi lain, pertumbuhan UMKM digital semakin pesat
+karena biaya operasional yang lebih rendah dan jangkauan pasar yang lebih luas melalui pemasaran
+berbasis data dan algoritma rekomendasi yang meningkatkan personalisasi pengalaman belanja
+konsumen.
+         Pergeseran pola konsumsi dari kepemilikan barang menuju layanan berbasis akses yang
+ditandai dengan maraknya ekonomi berbagi (sharing economy) mencerminkan perubahan
+mendasar dalam preferensi masyarakat Indonesia terhadap efisiensi, fleksibilitas, dan aksesibilitas
+dibandingkan kepemilikan aset jangka panjang yang lebih mahal dan kurang praktis. Platform
+seperti Gojek dan Grab telah merevolusi sektor transportasi dengan menyediakan layanan ride-
+hailing yang lebih terjangkau dan mudah diakses, sehingga mengurangi kebutuhan masyarakat
+untuk memiliki kendaraan pribadi, terutama di kota-kota besar yang menghadapi kemacetan tinggi
+dan keterbatasan lahan parkir. Airbnb turut mengubah industri perhotelan dengan memungkinkan
+individu menyewakan properti mereka secara fleksibel, menciptakan persaingan baru bagi
+akomodasi konvensional serta memberikan opsi yang lebih beragam bagi wisatawan. Studi
+terdahulu mengungkapkan bahwa banyak konsumen muda Indonesia lebih memilih layanan
+berbagi dibandingkan membeli aset karena faktor biaya, kemudahan transaksi digital, serta adaptasi
+terhadap gaya hidup yang lebih dinamis dan mobile (Anggalia et al., 2022). Fenomena ini
+memengaruhi industri transportasi dan akomodasi dan sektor lain seperti penyewaan gadget,
+pakaian, dan ruang kerja bersama (coworking space), yang semakin diminati karena
+memungkinkan individu dan bisnis mengelola pengeluaran dengan lebih efisien tanpa beban
+investasi jangka panjang. Selain itu, adopsi model berbagi juga didorong oleh perkembangan
+teknologi digital yang memungkinkan sistem pembayaran nontunai, pemetaan lokasi yang akurat,
+serta algoritma kecerdasan buatan yang meningkatkan efisiensi penggunaan sumber daya dan
+memperkuat pengalaman pengguna, menjadikan sharing economy sebagai model bisnis yang
+semakin mengakar dalam lanskap ekonomi Indonesia modern.
+
+
+
+                  This is an Creative Commons License This work is licensed under a Creative
+                  Commons Attribution-NonCommercial 4.0 International License.                        32
+                           Jurnal Minfo Polgan
+                           Volume 14, Nomor 1, Februari 2025                           e-ISSN : 2797-3298
+                           DOI : https://doi.org/10.33395/jmp.v14i1.14608              p-ISSN : 2089-9424
+
+
+         Transformasi ekonomi digital telah menggeser paradigma pengambilan keputusan
+konsumen dari ketergantungan pada iklan tradisional menuju model berbasis rekomendasi sosial,
+ulasan daring, dan konten interaktif yang lebih personal dan kredibel (Zlatanov & Đuričanin, 2023).
+Media sosial seperti Instagram, TikTok, dan YouTube kini menjadi arena utama bagi strategi
+pemasaran berbasis influencer, di mana kepercayaan konsumen lebih banyak terbentuk melalui
+pengalaman langsung yang dibagikan oleh pengguna lain daripada melalui promosi satu arah dari
+merek. Fenomena ini semakin diperkuat oleh algoritma platform digital yang mempersonalisasi
+konten berdasarkan preferensi dan interaksi pengguna, membuat pemasaran menjadi lebih tepat
+sasaran dan efektif dalam mendorong keputusan pembelian. Kampanye Shopee 10.10 yang
+menggandeng selebriti dan kreator konten meningkatkan transaksi secara signifikan dan
+membuktikan bahwa konsumen cenderung lebih responsif terhadap pemasaran berbasis
+keterlibatan (engagement-based marketing) dibandingkan strategi promosi konvensional. Selain
+itu, konsep social commerce yang mengintegrasikan transaksi langsung dalam media sosial
+semakin berkembang, memungkinkan pengguna untuk membeli produk secara instan setelah
+melihat ulasan atau demonstrasi dalam format video pendek dan live streaming. Perubahan ini
+memaksa perusahaan untuk mengadopsi strategi omnichannel yang mengombinasikan pengalaman
+belanja daring dan luring dengan lebih mulus, memanfaatkan analisis data untuk memahami
+preferensi pelanggan secara lebih mendalam, serta berinvestasi dalam pemasaran berbasis
+komunitas guna membangun loyalitas yang lebih kuat di era digital yang semakin kompetitif.
+         Inovasi dalam sistem pembayaran digital telah menjadi pilar utama dalam percepatan
+adopsi konsumsi digital di Indonesia, memungkinkan transaksi yang lebih cepat, aman, dan efisien
+tanpa ketergantungan pada uang tunai atau kartu kredit. Dompet digital seperti OVO, GoPay,
+DANA, dan ShopeePay tidak hanya mempermudah pembayaran di e-commerce tetapi juga
+merambah sektor offline, seperti ritel, transportasi, hingga pembayaran tagihan, menciptakan
+ekosistem transaksi yang semakin terintegrasi. Studi dari penelitian terdahulu mengungkapkan
+bahwa banyak pengguna e-commerce di Indonesia memilih pembayaran digital karena alasan
+kemudahan, kecepatan, dan insentif berupa cashback atau diskon yang semakin menarik minat
+konsumen untuk beralih dari metode konvensional (Aryanto & Gilang, 2024). Selain itu, layanan
+buy now, pay later (BNPL) yang dikembangkan oleh Kredivo, Akulaku, dan layanan serupa dari
+e-commerce seperti Shopee PayLater telah memperluas akses terhadap belanja daring bagi
+masyarakat yang belum memiliki kartu kredit, memberikan fleksibilitas finansial tetapi sekaligus
+meningkatkan risiko konsumsi impulsif dan potensi utang yang tidak terkendali. Model
+pembayaran ini juga mendorong perubahan perilaku ekonomi, di mana konsumen semakin terbiasa
+dengan konsep kredit mikro tanpa jaminan, yang jika tidak dikelola dengan baik dapat
+meningkatkan tingkat gagal bayar serta menimbulkan dampak negatif terhadap stabilitas keuangan
+individu maupun sektor keuangan secara lebih luas. Oleh karena itu, regulasi yang ketat dan edukasi
+keuangan menjadi krusial untuk memastikan bahwa pertumbuhan industri pembayaran digital tetap
+berkelanjutan tanpa mengorbankan perlindungan konsumen, mencegah eksploitasi kredit yang
+berlebihan, serta menjaga keseimbangan antara inovasi keuangan dan kesehatan ekonomi
+masyarakat.
+         Transformasi ekonomi digital telah merevolusi industri makanan dan minuman di
+Indonesia dengan meningkatnya ketergantungan pada layanan pesan-antar berbasis aplikasi seperti
+GoFood dan GrabFood, yang mengubah pola konsumsi dan model operasional bisnis kuliner.
+Restoran dan UMKM di sektor ini kini lebih mengutamakan kehadiran digital dibandingkan lokasi
+fisik strategis, sehingga memungkinkan efisiensi biaya operasional dan ekspansi pasar yang lebih
+luas tanpa harus berinvestasi besar dalam properti. Salah satu contoh keberhasilan model ini adalah
+Mangkokku, yang didirikan oleh Chef Arnold Poernomo bersama influencer kuliner, yang
+mengadopsi konsep cloud kitchen untuk mengoptimalkan produksi dan distribusi makanan tanpa
+memerlukan banyak gerai fisik, sehingga dapat menjangkau lebih banyak konsumen dengan biaya
+yang lebih rendah dibandingkan restoran konvensional (Liputan6, 2021). Selain itu, tren ini juga
+membuka peluang bagi UMKM kuliner untuk berpartisipasi dalam ekosistem digital dengan
+memanfaatkan pemasaran berbasis algoritma platform, ulasan pelanggan, serta promosi berbasis
+personalisasi yang memungkinkan mereka bersaing lebih efektif dengan brand besar. Namun,
+
+
+
+                 This is an Creative Commons License This work is licensed under a Creative
+                 Commons Attribution-NonCommercial 4.0 International License.                        33
+                            Jurnal Minfo Polgan
+                            Volume 14, Nomor 1, Februari 2025                           e-ISSN : 2797-3298
+                            DOI : https://doi.org/10.33395/jmp.v14i1.14608              p-ISSN : 2089-9424
+
+
+ketergantungan pada platform digital juga menciptakan tantangan baru, seperti biaya komisi tinggi
+yang dibebankan oleh aplikasi serta ketergantungan terhadap kebijakan algoritma yang dapat
+memengaruhi visibilitas bisnis. Maka, keberlanjutan strategi ini bergantung pada kemampuan
+pelaku usaha dalam memanfaatkan data pelanggan, membangun loyalitas di luar platform utama,
+serta diversifikasi saluran distribusi seperti direct order melalui media sosial atau situs web sendiri
+untuk mengurangi ketergantungan pada marketplace digital dan meningkatkan kontrol terhadap
+operasional bisnis mereka.
+         Transformasi ekonomi digital telah menciptakan tantangan signifikan bagi sektor ritel
+tradisional, dengan semakin banyak konsumen yang beralih ke belanja daring karena faktor
+kenyamanan, harga yang lebih kompetitif, serta promosi berbasis algoritma yang disesuaikan
+dengan preferensi individu. Akibatnya, banyak toko konvensional mengalami penurunan trafik
+pelanggan, memaksa merek-merek besar seperti Matahari dan Ramayana untuk mengadopsi
+strategi omnichannel guna mempertahankan daya saing di era digital. Strategi ini mengintegrasikan
+pengalaman belanja luring dan daring melalui konsep seperti buy online, pick up in store (BOPIS)
+serta fitur real-time inventory tracking yang memungkinkan konsumen memeriksa ketersediaan
+produk di gerai fisik sebelum melakukan pembelian. Selain itu, penggunaan data pelanggan dalam
+ekosistem omnichannel memungkinkan personalisasi lebih dalam, seperti rekomendasi berbasis
+riwayat belanja dan program loyalitas yang menghubungkan transaksi daring dan luring. Studi
+terdahulu menunjukkan bahwa pendekatan ini meningkatkan loyalitas pelanggan dan
+memperpanjang customer lifetime value karena memberikan fleksibilitas yang lebih besar dalam
+proses pembelian (Kvíčala et al., 2024). Namun, penerapan strategi ini menuntut investasi besar
+dalam teknologi digital, sistem manajemen rantai pasok yang lebih adaptif, serta pelatihan
+karyawan agar mampu beradaptasi dengan perubahan peran dalam ekosistem ritel yang semakin
+terdigitalisasi. Artinya, keberhasilan strategi omnichannel bergantung pada keseimbangan antara
+optimalisasi pengalaman pelanggan dan efisiensi operasional, serta kemampuan perusahaan dalam
+merancang perjalanan belanja yang seamless di berbagai platform guna mempertahankan relevansi
+di tengah perubahan perilaku konsumsi yang terus berkembang.
+         Perubahan perilaku konsumsi di era digital menciptakan peluang bagi bisnis dan
+menimbulkan tantangan serius terhadap kesejahteraan konsumen, terutama dalam aspek
+pengelolaan keuangan dan keamanan digital. Akses mudah ke platform e-commerce yang
+dikombinasikan dengan strategi pemasaran berbasis personalisasi dan algoritma prediktif membuat
+konsumen lebih rentan terhadap belanja impulsif, sebagaimana ditunjukkan dalam studi terdahulu
+yang menemukan bahwa konsumen muda sering melakukan pembelian tidak terencana akibat
+promosi kilat dan program diskon agresif seperti flash sale dan fitur checkout instan (Shi & Chen,
+2015). Fenomena ini mengarah pada peningkatan pengeluaran yang tidak terkendali, memperbesar
+risiko utang konsumtif terutama dengan maraknya layanan "buy now, pay later" (BNPL) yang
+menawarkan kemudahan kredit tanpa persyaratan ketat. Selain itu, digitalisasi konsumsi juga
+memperbesar potensi ancaman keamanan, dengan semakin banyaknya kasus penipuan daring,
+phishing, dan kebocoran data pribadi yang merugikan konsumen, seperti yang terjadi pada kasus
+kebocoran data e-commerce besar di Indonesia yang mengungkap informasi jutaan pengguna ke
+dark web. Oleh karena itu, diperlukan peningkatan literasi keuangan digital agar konsumen dapat
+lebih sadar dalam mengelola anggaran, membedakan antara kebutuhan dan keinginan, serta
+memahami implikasi jangka panjang dari pola konsumsi berbasis kredit. Di sisi lain, regulasi yang
+lebih ketat dan sistem perlindungan data yang lebih kuat harus diterapkan untuk mengurangi risiko
+eksploitasi informasi pribadi, termasuk peningkatan transparansi dalam kebijakan privasi serta
+penguatan sistem otentikasi pengguna guna melindungi konsumen dari ancaman digital yang
+semakin kompleks.
+         Transformasi ekonomi digital yang mengubah pola konsumsi masyarakat secara signifikan
+menciptakan peluang bagi pertumbuhan berbagai sektor industri dan memunculkan tantangan
+kompleks yang memerlukan adaptasi berkelanjutan dari pelaku usaha, regulator, dan konsumen.
+Evolusi teknologi seperti kecerdasan buatan, big data, dan Internet of Things (IoT) semakin
+mempercepat pergeseran perilaku konsumen dari transaksi konvensional menuju ekosistem digital
+yang lebih personal, efisien, dan berbasis pengalaman. Namun, percepatan ini juga meningkatkan
+
+
+
+                  This is an Creative Commons License This work is licensed under a Creative
+                  Commons Attribution-NonCommercial 4.0 International License.                        34
+                           Jurnal Minfo Polgan
+                           Volume 14, Nomor 1, Februari 2025                           e-ISSN : 2797-3298
+                           DOI : https://doi.org/10.33395/jmp.v14i1.14608              p-ISSN : 2089-9424
+
+
+urgensi regulasi yang seimbang, termasuk perlindungan konsumen terhadap eksploitasi data
+pribadi, transparansi dalam algoritma pemasaran digital, serta kebijakan terkait persaingan usaha
+yang sehat di sektor e-commerce. Di sisi lain, meningkatnya ketergantungan masyarakat terhadap
+platform digital menyoroti pentingnya literasi keuangan dan digital agar konsumen menjadi objek
+dalam lanskap ekonomi baru serta memiliki daya kritis dalam pengambilan keputusan finansial
+yang berkelanjutan. Selain itu, dampak jangka panjang dari digitalisasi konsumsi perlu dikaji lebih
+mendalam, terutama dalam konteks ketimpangan akses terhadap teknologi, pola pengeluaran yang
+semakin berbasis kredit, serta implikasi ekonomi makro seperti perubahan pola investasi dan
+struktur pasar tenaga kerja. Dengan demikian, penelitian yang lebih komprehensif dan berbasis data
+menjadi krusial untuk memahami bagaimana transformasi ini akan terus membentuk struktur
+ekonomi, distribusi kesejahteraan, dan dinamika perilaku konsumen di masa depan.
+
+                                          KESIMPULAN
+         Transformasi ekonomi digital telah membawa perubahan signifikan dalam pola konsumsi
+masyarakat, terutama dengan meningkatnya penggunaan e-commerce, layanan berbasis sharing
+economy, serta metode pembayaran digital yang semakin mempermudah transaksi. Perubahan ini
+didorong oleh kemajuan teknologi, meningkatnya akses internet, serta perubahan preferensi
+konsumen yang semakin mengutamakan efisiensi, kenyamanan, dan fleksibilitas. Media sosial dan
+strategi pemasaran berbasis influencer juga memainkan peran besar dalam membentuk keputusan
+pembelian, sementara layanan pesan-antar dan model bisnis cloud kitchen semakin menggeser pola
+konsumsi di industri makanan dan minuman. Meskipun digitalisasi memberikan banyak peluang,
+tantangan seperti kebiasaan belanja impulsif, keamanan data, dan tekanan terhadap sektor ritel
+konvensional juga muncul sebagai dampak dari pergeseran ini. Dengan demikian, pemahaman
+terhadap dinamika konsumsi digital menjadi semakin penting bagi pelaku bisnis, regulator, dan
+konsumen dalam menghadapi tantangan serta memanfaatkan peluang di era digital.
+         Implikasi dari temuan penelitian ini mencakup berbagai aspek, baik bagi dunia usaha,
+pemerintah, maupun konsumen. Bagi pelaku bisnis, hasil penelitian ini menunjukkan pentingnya
+adaptasi terhadap tren digital melalui strategi omnichannel, optimalisasi pemasaran digital, dan
+pemanfaatan inovasi teknologi untuk meningkatkan pengalaman pelanggan. Pemerintah perlu
+memperkuat regulasi terkait keamanan transaksi digital, perlindungan konsumen, serta pengawasan
+terhadap praktik bisnis digital untuk menciptakan ekosistem yang sehat dan berkelanjutan.
+Sementara itu, bagi konsumen, meningkatnya akses terhadap platform digital menuntut literasi
+keuangan dan kesadaran akan keamanan data agar dapat berbelanja secara bijak serta terhindar dari
+risiko penipuan. Selain itu, perubahan pola konsumsi ini juga dapat berimplikasi pada struktur
+tenaga kerja, di mana pekerja di sektor ritel tradisional harus beradaptasi dengan tuntutan
+keterampilan digital untuk tetap relevan di era ekonomi digital.
+         Berdasarkan temuan penelitian ini, ada beberapa saran yang dapat diberikan. Pertama,
+pelaku usaha perlu terus berinovasi dengan mengembangkan strategi digital yang lebih
+personalisasi dan berbasis data guna meningkatkan loyalitas pelanggan. Kedua, pemerintah perlu
+memperkuat regulasi terkait transaksi digital, terutama dalam aspek perlindungan konsumen,
+pengelolaan data pribadi, dan pengendalian praktik pemasaran agresif yang dapat memicu
+konsumsi impulsif. Ketiga, perlu ada peningkatan edukasi terkait literasi digital dan keuangan bagi
+masyarakat agar mereka dapat lebih bijak dalam mengelola pengeluaran serta memahami risiko
+transaksi daring. Keempat, bagi akademisi dan peneliti, studi lanjutan mengenai dampak jangka
+panjang dari digitalisasi konsumsi diperlukan untuk memahami perubahan struktur ekonomi serta
+perilaku masyarakat dalam menghadapi era digital yang terus berkembang.
+         Penelitian ini memiliki beberapa keterbatasan yang perlu diperhatikan. Pertama, karena
+penelitian ini merupakan tinjauan pustaka, maka temuan yang disajikan bersumber dari studi
+terdahulu dan tidak didasarkan pada data primer, sehingga tidak mencerminkan kondisi spesifik
+dari segmen pasar tertentu secara langsung. Kedua, penelitian ini menggunakan data sekunder yang
+diperoleh dari Google Scholar dalam rentang waktu 2015–2025, sehingga potensi bias dalam
+pemilihan literatur dapat terjadi akibat keterbatasan akses terhadap studi yang lebih luas. Ketiga,
+penelitian ini berfokus pada tren konsumsi digital secara umum tanpa menggali lebih dalam faktor-
+
+
+
+                 This is an Creative Commons License This work is licensed under a Creative
+                 Commons Attribution-NonCommercial 4.0 International License.                        35
+                           Jurnal Minfo Polgan
+                           Volume 14, Nomor 1, Februari 2025                           e-ISSN : 2797-3298
+                           DOI : https://doi.org/10.33395/jmp.v14i1.14608              p-ISSN : 2089-9424
+
+
+faktor spesifik seperti perbedaan demografi, tingkat pendapatan, atau budaya konsumsi yang dapat
+mempengaruhi adopsi digitalisasi. Maka, penelitian di masa depan disarankan untuk melengkapi
+kajian ini dengan data empiris yang lebih mendalam serta eksplorasi terhadap aspek-aspek yang
+lebih spesifik guna memperoleh pemahaman yang lebih komprehensif mengenai transformasi
+konsumsi di era digital.
+
+                                             REFERENSI
+Al Mutanafisa, T., & Retnaningsih. (2021). The Effect of Sales Promotion and Knowledge on
+     Impulsive Buying of Online Platform Consumers. Journal of Consumer Sciences, 6(1), 77–
+     91. https://doi.org/10.29244/jcs.6.1.77-91
+Anggalia, W., Cahyani, P., & Indah, I. N. (2022). A Model of Indonesian Consumers’ Online
+     Shopping Behavior, an Extension of TAM. International Journal of Artificial Intelegence
+     Research, 7(1.1), 1–16.
+Aryanto, N., & Gilang, R. (2024). analisis penggunaan mobile wallet untuk transaksi e-commerce
+     di kalangan milenial. Kohesi: Jurnal Multidisiplin Saintek, 4(11), 1–16.
+Ausat, A. M. A., & Suherlan, S. (2021). Obstacles and Solutions of MSMEs in Electronic
+     Commerce during Covid-19 Pandemic: Evidence from Indonesia. BASKARA: Journal of
+     Business and Entrepreneurship, 4(1), 11–19. https://doi.org/10.54268/BASKARA.4.1.11-19
+Bharti, R., Khatri, U., & Duralia, O. A. (2024). Examining the Role of Digital Marketing in Shaping
+     Consumer Communication and Behavior. Feedback International Journal of Communication,
+     1(4), 192–201. https://doi.org/10.62569/fijc.v1i4.76
+Bukht, R., & Heeks, R. (2018). Defining, Conceptualising and Measuring the Digital Economy.
+     International         Organisations          Research       Journal,        13(2),     143–172.
+     https://doi.org/10.17323/1996-7845-2018-02-07
+Chang, C.-W., & Chang, S.-H. (2023). The Impact of Digital Disruption: Influences of Digital
+     Media and Social Networks on Forming Digital Natives’ Attitude. Sage Open, 13(3).
+     https://doi.org/10.1177/21582440231191741
+Gadzali, S. S., Gazalin, J., Sutrisno, S., Prasetya, Y. B., & Ausat, A. M. A. (2023). Human Resource
+     Management Strategy in Organisational Digital Transformation. Jurnal Minfo Polgan, 12(2),
+     760–770. https://doi.org/https://doi.org/10.33395/jmp.v12i2.12508
+Khando, K., Islam, M. S., & Gao, S. (2022). The Emerging Technologies of Digital Payments and
+     Associated Challenges: A Systematic Literature Review. Future Internet, 15(1), 21.
+     https://doi.org/10.3390/fi15010021
+Kilay, A. L., Simamora, B. H., & Putra, D. P. (2022). The Influence of E-Payment and E-Commerce
+     Services on Supply Chain Performance: Implications of Open Innovation and Solutions for
+     the Digitalization of Micro, Small, and Medium Enterprises (MSMEs) in Indonesia. Journal
+     of Open Innovation: Technology, Market, and Complexity, 8(3), 119.
+     https://doi.org/10.3390/joitmc8030119
+Kraus, S., Durst, S., Ferreira, J. J., Veiga, P., Kailer, N., & Weinmann, A. (2022). Digital
+     transformation in business and management research: An overview of the current status quo.
+     International        Journal        of      Information      Management,         63,    102466.
+     https://doi.org/10.1016/j.ijinfomgt.2021.102466
+Kumar, V., Ashraf, A. R., & Nadeem, W. (2024). AI-powered marketing: What, where, and how?
+     International        Journal        of      Information      Management,         77,    102783.
+     https://doi.org/10.1016/j.ijinfomgt.2024.102783
+
+
+
+
+                 This is an Creative Commons License This work is licensed under a Creative
+                 Commons Attribution-NonCommercial 4.0 International License.                        36
+                           Jurnal Minfo Polgan
+                           Volume 14, Nomor 1, Februari 2025                           e-ISSN : 2797-3298
+                           DOI : https://doi.org/10.33395/jmp.v14i1.14608              p-ISSN : 2089-9424
+
+
+Kvíčala, D., Králová, M., & Suchánek, P. (2024). The impact of online purchase behaviour on
+      customer lifetime value. Journal of Marketing Analytics. https://doi.org/10.1057/s41270-024-
+      00328-9
+Liputan6. (2021). Mangkokku Hadir di Kota Surabaya dengan Konsep Cloud Kitchen.
+      Www.Liputan6.Com.
+Qi, Y., & Chu, X. (2022). Development of the digital economy, transformation of the economic
+      structure and leaping of the middle-income trap. China Political Economy, 5(1), 14–39.
+      https://doi.org/10.1108/CPE-09-2022-0012
+Setiartiti, L., & Binti Mahsyar, N. M. (2023). Does Digital Payment Shift the People’s Shopping
+      Behaviour? Evidence in Yogyakarta. Journal of Economics Finance and Management
+      Studies, 06(05). https://doi.org/10.47191/jefms/v6-i5-14
+Shi, S. W., & Chen, M. (2015). Would you Snap up the Deal?: A Study of Consumer Behaviour
+      under Flash Sales. International Journal of Market Research, 57(6), 931–957.
+      https://doi.org/10.2501/IJMR-2015-072
+Sodiq, O. B., Patrick, A. O., & Tochukwu, I. I. (2022). the role of digital marketing in shaping
+      modern economies: an analysis of e-commerce growth and consumer behavior. International
+      Journal of Management & Entrepreneurship Research, 4(12), 675–691.
+      https://doi.org/10.51594/ijmer.v4i12.1417
+Šostar, M., & Ristanović, V. (2023). Assessment of Influencing Factors on Consumer Behavior
+      Using the AHP Model. Sustainability, 15(13), 10341. https://doi.org/10.3390/su151310341
+Tsiotsou, R. H., & Wirtz, J. (2015). The three-stage model of service consumption. In Handbook
+      of Service Business. Edward Elgar Publishing. https://doi.org/10.4337/9781781000410.00015
+Verhoef, P. C., Broekhuizen, T., Bart, Y., Bhattacharya, A., Qi Dong, J., Fabian, N., & Haenlein,
+      M. (2021). Digital transformation: A multidisciplinary reflection and research agenda.
+      Journal of Business Research, 122, 889–901. https://doi.org/10.1016/j.jbusres.2019.09.022
+Wang, C., Liu, T., Zhu, Y., Wang, H., Wang, X., & Zhao, S. (2023). The influence of consumer
+      perception on purchase intention: Evidence from cross-border E-commerce platforms.
+      Heliyon, 9(11), e21617. https://doi.org/10.1016/j.heliyon.2023.e21617
+Yogi, P. R. R., & Jhon, V. (2025). Dampak Pandemi Covid-19 terhadap Perkembangan E-
+      Commerce di Indonesia. JEKIN - Jurnal Teknik Informatika, 5(1), 204–211.
+      https://doi.org/10.58794/jekin.v5i1.1107
+Zlatanov, S., & Đuričanin, J. (2023). The evolving interaction between traditional marketing
+      channels and the digital age. Conference Proceedings : ICEMIT, 175–181.
+      https://doi.org/10.46793/ICEMIT23.175Z
+
+
+
+
+                 This is an Creative Commons License This work is licensed under a Creative
+                 Commons Attribution-NonCommercial 4.0 International License.                        37
+

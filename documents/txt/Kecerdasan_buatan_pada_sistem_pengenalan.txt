@@ -1,0 +1,218 @@
+Jurnal Kreativitas Mahasiswa Informatika
+Volume 1 Nomor 2 Tahun 2020 Page 104 - 106
+p-ISSN: 2797-6327 e-ISSN:
+
+KECERDASAN BUATAN PADA SISTEM PENGENALAN WAJAH
+(FACE RECOGNITION)
+Bagus Setiawan1, Erik Saputra2, Suhendi3, Perani Rosyani4
+1,2,3,4
+Universitas Pamulang; Jl. Raya Puspitek No. 46 buaran, serpong, Kota Tangerang Selatan. Provinsi
+Banten 15310. (021) 741-2566 atau 7470 9855
+1,2,3,4
+Jurusan Teknik Informatika, Fakultas Teknik, Universitas Pamulang
+e-mail: 1bgsstwn06@gmail.com, 2erik.saputra1345@gmail.com, 3dheblolashvegaz1802@gmail.com,
+4
+dosen00837@unpam.ac.id
+Abstrak
+Sistem Pengenalan wajah atau Face Recognition merupakan salah satu teknologi yang telah banyak
+diaplikasikan dalam sistem keamanan. Perhitungan model pada sistem ini memiliki beberapa masalah, kesulitan muncul
+ketika wajah dipresentasikan dalam suatu pola berisi informasi unik yang membedakan dengan wajah lain. Dalam
+penerapannya, secara umum pengenalan wajah diimplementasikan menggunakan sebuah kamera digital untuk
+menangkap citra wajah seseorang. Sistem pengenalan wajah menggunakan algoritme komputer untuk memilih detail
+khusus dan khas tentang wajah seseorang. Detail ini, seperti jarak antara mata atau bentuk dagu, kemudian diubah
+menjadi representasi matematis dan dibandingkan dengan data wajah lain yang dikumpulkan dalam database pengenalan
+wajah. Pengembangan aplikasi biometrik, seperti pengenalan wajah (Face Recognition), belakangan ini menjadi sangat
+penting di kota pintar. Banyak ilmuwan dan insinyur di seluruh dunia telah berfokus pada pembuatan algoritma dan
+metode yang semakin kuat dan akurat untuk jenis sistem ini dan aplikasinya dalam kehidupan sehari-hari. Contoh metode
+yang sering digunakan yaitu metode Principle Component Analysis (PCA) dan metode Singular Value Decomposition
+(SVD). Sistem pengenalan wajah atau Face recognition sedang mengembangkan sebuah teknologi dengan beberapa
+aplikasi real-time.
+Kata kunci: Face Recognition, Principle Component Analysis (PCA), Singular Value Decomposition (SVD)
+
+I. PENDAHULUAN
+
+Wajah dianggap sebagai bagian paling penting dari
+tubuh manusia. Penelitian menunjukkan bahwa bahkan
+wajah dapat berbicara, dan memiliki kata-kata yang
+berbeda untuk emosi yang berbeda. Ini memainkan
+peran penting dalam berinteraksi dengan orang-orang di
+masyarakat. Ini menyampaikan identitas orang dan
+dengan demikian dapat digunakan sebagai kunci untuk
+solusi keamanan di banyak organisasi. Sistem
+pengenalan wajah (FR) semakin menjadi tren di seluruh
+dunia sebagai teknologi keamanan yang luar biasa aman
+dan andal. Ini mendapatkan kepentingan dan perhatian
+yang signifikan dari ribuan organisasi perusahaan dan
+
+pemerintah karena tingkat keamanan dan keandalannya
+yang tinggi.
+Selain itu, sistem FR memberikan manfaat besar
+dibandingkan dengan solusi keamanan biometrik
+lainnya seperti sidik jari dan sidik jari. Sistem
+menangkap pengukuran biometrik seseorang dari jarak
+tertentu tanpa berinteraksi dengan orang tersebut.
+Dalam aplikasi pencegah kejahatan, sistem ini dapat
+membantu banyak organisasi mengidentifikasi
+seseorang yang memiliki catatan kriminal atau masalah
+hukum lainnya. Dengan demikian, teknologi ini
+menjadi penting untuk banyak bangunan tempat tinggal
+dan organisasi perusahaan. Teknik ini didasarkan pada
+kemampuan untuk mengenali wajah manusia dan
+kemudian membandingkan fitur wajah yang berbeda
+dengan wajah yang direkam sebelumnya. Fitur ini juga
+
+104
+
+Jurnal Kreativitas Mahasiswa Informatika
+Volume 1 Nomor 2 Tahun 2020 Page 104 - 106
+p-ISSN: 2797-6327 e-ISSN:
+meningkatkan pentingnya sistem dan memungkinkan
+nya digunakan secara luas di seluruh dunia. Ini
+dikembangkan dengan fitur dan operasi yang mudah
+digunakan yang mencakup titik nodal wajah yang
+berbeda. Ada sekitar 80 hingga 90 titik nodal unik
+sebuah wajah. Dari titik nodal ini, sistem FR mengukur
+aspek penting termasuk jarak antara mata, panjang garis
+rahang, bentuk tulang pipi, dan kedalaman mata. Titiktitik ini diukur dengan membuat kode yang disebut
+faceprint, yang mewakili identitas wajah dalam
+database komputer. Dengan diperkenalkannya
+teknologi terbaru, sistem berbasis grafik 2D kini
+tersedia pada grafik 3D, yang membuat sistem lebih
+akurat dan meningkatkan keandalannya.
+
+Tahapan pertama dalam penelitian ini adalah
+melakukan pengumpulan data citra wajah. Pada
+penelitian ini data yang digunakan adalah data citra
+wajah yang terdiri dari 40 orang. Tiap orang memiliki
+10 citra dengan berbagai ekspresi wajah sehingga total
+data citra yang digunakan adalah 400 citra yang
+berukuran sama. Data citra tersebut dibagi menjadi dua
+yaitu data citra latih (Gambar 1) dan data citra uji
+(Gambar 2). Pada penelitian ini dibuat variasi pemilihan
+data latih dan data uji yang dapat dilihat pada Tabel 1.
+Sampel citra yang digunakan pada penelitian ini
+diperoleh dari ORL database seperti pada Gambar 2.3.
+
+II. METODE PELAKSANAAN
+
+1. Metode Singular Value Decomposition (SVD)
+Dalam aljabar linier, Singular Value Decomposition
+(SVD) dari suatu matriks adalah faktorisasi matriks
+tersebut menjadi tiga matriks. Ini memiliki beberapa
+sifat aljabar yang menarik dan menyampaikan wawasan
+geometris dan teoretis yang penting tentang
+transformasi linier. Ini juga memiliki beberapa aplikasi
+penting dalam ilmu data.
+Gambar 2. 3 Citra Wajah
+Dari hasil penelitian diperoleh tingkat akurasi
+tertinggi terjadi ketika data latih tiap orang sebanyak 7
+dan data uji tiap orang sebanyak 3 dengan tingkat
+akurasi sebesar 96,67%.
+
+Gambar 2. 1 Tahapan Penelitian Pada Data Latih
+
+Gambar 2. 2 Tahapan Penelitian Pada Data Uji
+
+2. Metode Principle Component Analysis (PCA).
+adalah metode reduksi dimensi yang sering
+digunakan
+untuk
+mengurangi
+dimensionalitas
+kumpulan data yang besar, dengan mentransformasikan
+kumpulan variabel yang besar menjadi variabel yang
+lebih kecil yang masih mengandung sebagian besar
+informasi dalam kumpulan besar tersebut. Mengurangi
+jumlah variabel dari kumpulan data secara alami datang
+dengan mengorbankan akurasi, tetapi trik dalam
+pengurangan dimensi adalah menukar sedikit akurasi
+untuk kesederhanaan. Karena kumpulan data yang lebih
+kecil lebih mudah untuk dijelajahi dan divisualisasikan
+serta membuat analisis data menjadi lebih mudah dan
+lebih cepat untuk algoritme pembelajaran mesin tanpa
+variabel asing untuk diproses.
+Tahapan metode PCA diterapkan pada data latih
+yang sudah dikumpulkan. Tahapan tersebut dapat
+dilihat pada Gambar 1 yaitu pertama setiap sampel data
+
+105
+
+Jurnal Kreativitas Mahasiswa Informatika
+Volume 1 Nomor 2 Tahun 2020 Page 104 - 106
+p-ISSN: 2797-6327 e-ISSN:
+citra latih diubah menjadi vektor-vektor, kemudian
+digabung menjadi matriks X.
+
+Tingkat akurasi yang dihasilkan dari perangkat lunak
+dengan metode ini sekitar 91.9539 %
+III. HASIL DAN PEMBAHASAN
+
+Tahapan kedua adalah mencari mean vektor (m) dari
+matriks X berdasarkan rumus (1).
+
+Di mana:
+M = banyaknya baris dari matriks X,
+N = banyaknya kolom dari matriks X
+m = vektor rata-rata dari matriks X
+Setelah itu membentuk matriks 𝑚̅ dengan cara
+menggandakan vektor m sebanyak N kali seperti rumus
+(2) 𝑚̅ = [𝑚 𝑚 … 𝑚] 𝑀𝑥𝑁 (2) Tahapan selanjutnya
+adalah menghitung Matriks covariansi C dengan rumus
+(3) 𝐶 = (𝑋 − 𝑚̅) (𝑋 − 𝑚̅) 𝑇 (3).
+Penelitian ini menggunakan sampel 650 gambar
+wajah manusia dan 250 gambar sembarang.
+Selanjutnya dicari fitur latih yang terdekat dengan
+fitur uji dengan menggunakan metode perhitungan
+jarak euclid. Jika fitur uji sesuai dengan fitur latih yang
+dicari maka metode PCA berhasil dalam mengenali
+wajah. Hasil pengenalan wajah tersebut dapat dilihat
+pada Tabel 2.1.
+Tabel 2. 1 Hasil Pengenalan Wajah
+
+Dari hasil penelitian menggunakan metode PCA
+diperoleh tingkat akurasi tertinggi terjadi ketika data
+latih tiap orang sebanyak 7 dan data uji tiap orang
+sebanyak 3 dengan tingkat akurasi sebesar 96,67%.
+Tingkat akurasi yang dihasilkan dari perangkat lunak
+yang mengginakan metode ini sekitar 91.9539 % dalam
+mengenali pola wajah manusia, 68.7639 % dalam
+pencocokan gambar uji dengan gambar sampel yang
+terdapat dalam basis data aplikasi dan 90.4615 dalam
+menentukan identitas seseorang yang telah sesuai
+dengan basis data.
+IV. SIMPULAN
+
+Kesimpulan pada penelitian kali ini adalah:
+Metode Principal Component Analysis (PCA) dan
+Metode Singular Value Decomposition (SVD) berhasil
+melakukan pengenalan wajah seseorang dengan hasil
+PCA secara umum lebih baik daripada SVD.
+DAFTAR PUSTAKA
+Septian, F. (2016). Penerapan Metode Singular Value
+Decomposition (SVD) pada Aplikasi Pengenalan
+Wajah Manusia. Jurnal Informatika Universitas
+Pamulang, 1(2), 54–59.
+Kosasih, R. (2021). Pengenalan Wajah Menggunakan PCA
+dengan Memperhatikan Jumlah Data Latih dan
+Vektor Eigen. 6(1), 1–6.
+Suprianto, D. (2013). Sistem Pengenalan Wajah Secara RealTime. Sistem Pengenalan Wajah Secara Real-Time
+Dengan Adaboost, Eigenface PCA & MySQL, 7(2),
+179–184.
+Utomo, B. (2012). Dekomposisi nilai singular pada sistem
+pengenalan wajah. 2(1), 31–43.
+Syakhala, A. R., Puspitaningrum, D., & Purwandari, E. P.
+(2015). Perbandingan Metode Principal Component
+Analysis (PCA) dengan Metode Hidden Markov
+Model (HMM) dalam Pengenalan Identitas.
+Jurnal Informatika, Vol. 3 No.(2), pp. 68–81.
+https://ejournal.unib.ac.id/index.php/rekursif/issue/
+archive
+Fernando, I. D., Prasetyo, H., & Suryani, E. (2017).
+Symmetrical Singular Value Decomposition
+Representation Under Illumination Face Image
+Using Gabor Filter For Face Recognition. Itsmart,
+6(2), 98–104.
+
+106
+
+

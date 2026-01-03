@@ -1,0 +1,516 @@
+Dedikasi Sains dan Teknologi
+Jurnal Pengabdian Masyarakat
+Vol: 4, No: 2, Nopember 2024
+Doi : https://doi.org/10.47709/dst.v4i2.4880
+
+Submitted : Oct 29, 2024
+Accepted : Oct 30, 2024
+Published : Nov 2, 2024
+
+Peningkatan Kompetensi Guru Dalam
+Pengembangan Pembelajaran Digital Berbasis
+Kecerdasan Buatan di SMKN 6 Muaro Jambi
+Fery Purnama1) | Resi Silvia 2) | Muhammad Elfin Satria 3)
+1,2,3)
+Universitas Adiwangsa Jambi
+ferypurnama@unaja.ac.id | resi.fillah88@gmail.com | m.elfinsatria@gmail.com
+
+Abstrak: Perkembangan teknologi digital saat ini sangat pesat sekali, khususnya dalam penggunaan
+kecerdasan buatan. Teknologi kecerdasan buatan saat ini bukanlah sesuatu alat yang sulit didapat, saat
+ini kecerdasan dapat di akses dan digunakan oleh seluruh pengguna internet dimana saja dan kapan saja.
+Pemanfaatan kecerdasan buatan ini sangat sedikit sekali digunakan oleh guru-guru di SMK Negeri 6
+Muaro Jambi untuk pengembangan media pembelajaran, maka dari itu tim pengabdian Masyarakat
+melakukan pelatihan pengembangan media pembelajaran yaitu pemuatan video pembelajaran dengan
+OBS, evaluasi pembelajaran dengan classroom dan pembuatan quiz dengan AI. Adapun hasil kegiatan
+yang diikuti oleh 15 guru termasuk kepala sekolah pelatihan berjalan dengan lancar dan seru dengan
+melihat antusias guru saat mengikuti pelatihan. Dari hasil pelatihan yang didapatkan terjadi peningkatan
+kompetensi guru-guru dalam pembuatan media pembelajarn yang sebelumnya di saat pre test hanya 2
+guru yang pernah menggunakan OBS dan tidak ada guru yang pernah membuat soal quiz dengan
+kecerdasan buatan, namun setelah diadakannya pelatihan dan hasil post test semua guru sangat
+menyukai pembuatan video pembelajaran dengan OBS dan 12 guru yang menyukai pembuatan quiz
+dengan menggunakan kecerdasan buatan. Serta dari hasil pengumpulan tugas yang diberikan 13 guru
+berhasil melakukan pengumpulan tugas video pembelajaran dan 12 guru dapat membuat quiz dengan
+menggunakan quiziz dengan kecerdasan buatan.
+Kata Kunci: Peningkatan Kompetensi, Media Pembelajaran, SMK Negeri 6 Muaro Jambi, Kecerdasan
+Buatan
+
+Pendahuluan
+Pada era Revolusi Industri 4.0, perkembangan teknologi digital semakin pesat, sehingga berbagai
+sektor, termasuk pendidikan, mengalami transformasi signifikan. Salah satu inovasi terkini yang
+berpotensi membawa perubahan besar dalam dunia pendidikan adalah pemanfaatan kecerdasan buatan
+(Artificial Intelligence/AI). Teknologi ini mampu memberikan pengalaman belajar yang lebih personal,
+adaptif, dan efisien, serta mendukung pembelajaran berbasis data secara real-time. Pendidikan di tingkat
+Sekolah Menengah Kejuruan (SMK) memainkan peran penting dalam mencetak lulusan yang siap
+menghadapi tantangan dunia kerja. Oleh karena itu, pengembangan pembelajaran berbasis digital,
+khususnya yang didukung oleh kecerdasan buatan, menjadi kebutuhan mendesak untuk meningkatkan
+kualitas pendidikan di SMK. Dengan mengintegrasikan AI dalam proses pembelajaran, para guru dapat
+lebih mudah memantau kemajuan siswa, memberikan umpan balik secara langsung, serta menciptakan
+pembelajaran yang disesuaikan dengan kebutuhan individu siswa. SMK Negeri 6 Muaro Jambi sebagai
+salah satu institusi pendidikan vokasi diharapkan dapat memanfaatkan perkembangan ini dalam
+mendukung proses belajar mengajar yang lebih modern dan relevan dengan perkembangan industri.
+Oleh karena itu, penting untuk melakukan analisis terkait pengembangan pembelajaran digital berbasis
+kecerdasan buatan di SMK Negeri 6 Muaro Jambi.
+Berdasarkan hasil survei penggunaan teknologi kecerdasan buatan dalam pembelajaran pada
+kegiatan pengabdian masyarakat yang telah dilakukan oleh ketua pengusul dan tim dosen yang
+
+Dedikasi Sains dan Teknologi is licensed under a Creative Commons
+Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
+
+158
+
+Dedikasi Sains dan Teknologi
+Jurnal Pengabdian Masyarakat
+Vol: 4, No: 2, Nopember 2024
+Doi : https://doi.org/10.47709/dst.v4i2.4880
+
+Submitted : Oct 29, 2024
+Accepted : Oct 30, 2024
+Published : Nov 2, 2024
+
+dilakukan pada bulan Desember 2023, tentang pelatihan pembuatan media pembelajaran bagi guru
+SMK Negeri 6 Muaro Jambi yang diikuti oleh 14 guru. Data persentase hasil kuesioner selama
+pembelajaran di tahun 2023, 100 % guru masih menggunakan buku ajar teks book dan media whatsapp.
+Sehingga inovasi penggunaan media teknologi oleh guru SMK Negeri 6 Muaro Jambi dalam
+pembelajaran masih tergolong rendah. Tentunya hal ini menjadi masalah yang signifikan jika dikaitkan
+dengan kompetensi guru dalam penggunaan teknologi dalam pembelajaran. Berdasarkan hasil
+pelatihan pembuatan media pembelajaran pada guru KBG SMKN 6 Muaro Jambi, Berikut adalah data
+hasil persentase guru yang telah mengikuti pelatihan media pembelajaran, sekitar 21.43% atau 3 guru
+yang selesai dan berhasil mengumpulkan, sementara jumlah guru yang tidak atau belum selesai
+berjumlah 11 atau 78 % dari 14 total guru. Sehingga dalam hal ini, tingkat kemampuan guru dalam
+pembuatan media ajar juga masih tergolong rendah.
+Media pembelajaran yang digunakan guru dalam proses pembelajaran ikut menentukan kualitas
+proses pembelajaran. Media pembelajaran dapat bermanfaat untuk menarik perhatian siswa, membantu
+siswa dalam memahami materi di kelas(Purnama & Aminuddin, 2023). Media pembelajaran berbasis
+kecerdasan buatan juga dapat membantu guru dalam merencanakan dan mengelola pembelajaran. AI
+dapat membantu mengidentifikasi area yang perlu diperkuat, memberikan saran untuk meningkatkan
+kualitas pembelajaran, dan memastikan bahwa program pembelajaran yang disediakan sesuai dengan
+kebutuhan siswa(Dwi Mukti, 2023). Pemanfaatan kecerdasan buatan sebagai bentuk inovasi yang
+dilakukan oleh seorang pendidik selama proses pembelajaran dengan mengikuti perkembangan
+teknologi era masyarakat 5.0(Sudrajat et al., 2023). Pendidik memainkan peran penting dalam
+memediasi keseimbangan ini, menawarkan bimbingan, dukungan, dan memelihara motivasi intrinsik.
+Dengan mengintegrasikan AI secara hati-hati sebagai alat pelengkap daripada pengganti keterlibatan
+manusia, kita dapat memaksimalkan dampak positifnya pada motivasi sambil mengurangi potensi
+kelemahan(Ronsumbre et al., 2023).
+AI juga dapat digunakan untuk mengembangkan kurikulum yang lebih dinamis dan responsif,
+mengoptimalkan pengalaman belajar online, dan memberikan wawasan berharga tentang kebutuhan
+pembelajaran di masa depan(Rachmayanti & Alatas, 2023). Penggunaan media berbasis AI sebagai
+penunjang pembelajaran di tingkat SMA menunjukkan bahwa media berbasis AI mampu menghadirkan
+pembelajaran sesuai dengan kebutuhan siswa. Media berbasis AI juga dapat menghadirkan
+pembelajaran berbasis game edukasi dengan lingkungan belajar yang lebih menantang dan aktif. Lebih
+lanjut, media berbasis AI dapat mendorong dan memfasilitasi pengembangan kompetensi pada siswa,
+seperti keterampilan komputasi, keterampilan Bahasa asing, dan keterampilan pemecahan masalah(Eka
+Meiliawati & Wawan Sugiarto, 2024). Sebagian masyarakat berpendapat bahwa kemajuan teknologi
+kecerdasan buatan (artificial intelligence) di sektor industri merupakan sebuah keniscayaan yang
+tidak dapat dibendung(Adha, 2020). Pemanfaatan kecerdasan buatan (AI) dalam pendidikan membawa
+dampak positif yang luas, mulai dari personalisasi pembelajaran, pengajaran adaptif, hingga analisis
+data untuk pengambilan keputusan informasional(Robiul et al., 2023). AI menawarkan peluang untuk
+personalisasi pembelajaran, penilaian otomatis, dan peningkatan keterlibatan siswa, yang semuanya
+dapat berkontribusi terhadap peningkatan hasil belajar siswa(Oktavia & Suseno, 2024). Pemanfaatan
+kecerdasan buatan (AI) dalam Pembelajaran Mandiri sangat membantu peserta didik dalam
+meningkatkan kemampuan dan pengetahuannya, serta pendidik akan terbantukan dalam kegiatan
+pembelajaran(Karyadi, 2023).
+Dari uraian permasalahan di atas, maka tujuan pengabdian masyarakat yang kami untuk
+meningkatkan kompetensi guru dalam pengembangan pembelajaran digital berbasis kecerdasan buatan
+melalui pelatihan pengembangan media pembelajaran digital berbasis kecerdasan buatan untuk
+meningkatkan kompetensi guru di SMK Negeri 6 Muaro Jambi melalui mitra Komunitas Belajar Guru
+SMKN 6 Muaro Jambi dengan 3 tema yang pertama pembuatan video pembelajaran dengan software
+OBS, kedua pembuatan game interaktif dengan quiziz dan AI dalam membuat soal quiz serta yang
+ketiga pemanfaatan google classroom sebagai evaluasi pembelajaran siswa secara teratur dan
+teroganisir dengan baik untuk setiap pembelajaran.
+Manfaat dalam kegiatan pengabdian Masyarakat ini yaitu pengetahuan guru mengalami
+peningkatan tentang pembuatan media pembelajaran berbasis kecerdasan buatan, terjalinnya
+
+Dedikasi Sains dan Teknologi is licensed under a Creative Commons
+Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
+
+159
+
+Dedikasi Sains dan Teknologi
+Jurnal Pengabdian Masyarakat
+Vol: 4, No: 2, Nopember 2024
+Doi : https://doi.org/10.47709/dst.v4i2.4880
+
+Submitted : Oct 29, 2024
+Accepted : Oct 30, 2024
+Published : Nov 2, 2024
+
+komunikasi antar guru-guru di sekolah dalam sharing ilmu pengetahuan dan tim pengabdian masyarakat
+yang terdiri dari dosen-dosen Universitas Adiwangsa Jambi menjadi fasilitas penghubung dengan guruguru dalam pengembangan pengetahuan teknologi selanjutnya.
+Realisasi Kegiatan
+Kegiatan pengabdian kepada Masyarakat ini berkerja sama dengan mitra Komunitas Belajar
+Guru (KBG) SMK Negeri 6 Muaro Jambi yang terletak di desa talang bukit kecamatan bahar utara
+kabupaten Muaro Jambi. Guru-guru disekolah ini masih sangat minim pengetahuan tentang kecerdasan
+buatan, padahal untuk era digital ini kecerdasan buatan merupakan alat bantu yang sangat penting di
+era modern saat ini dalam bidang Pendidikan khusunya dalam pembalajaran siswa. Pengabdian
+Masyarakat ini diikuti oleh 15 guru termasuk kepala sekolah SMK Negeri 6 Muaro Jambi. Waktu
+pelaksanaan kegiatan pengabdian Masyarakat ini dilakukan selama 6 bulan dan dilaksanakan oleh tim
+pengabdian yang terdiri dari 3 dosen dan 2 mahasiwa Universitas Adiwangsa Jambi.
+Kegiatan ini dilaksanakan melalui beberapa tahapan sehingga dapat berjalan dengan lancar.
+Dimulai tahap perencanaan kerja tim, kunjungan dan sosialisasi lapangan, persiapan dan koordinasi,
+pelatihan dan pendampingan. 3 dosen dari Universitas Adiwangsa Jambi bertindak sebagai pemateri
+sedangkan 2 dosen tim pengabdian Masyarakat sebagai pendamping di saat pelaksanaan pelatihan dan
+2 mahasiswa membantu kegiatan dalam proses dokumentasi, persiapan serta pelaksanaan.
+Kegiatan ini sangat penting sekali untuk dilaksanakan karena peningkatan kompetensi guru
+dalam menggunakan teknologi kecerdasan buatan merupakan suatu hal yang harus di miliki seiring
+dengan perkembangan teknologi du dunia saat ini. Jadi guru-guru harus meningkatkkan wawasan yang
+terbaru terkait dengan teknologi kecerdasan buatan, selain itu dengan adanya kegiatan ini Universitas
+Adiwangsa Jambi dapat menjadi fasilitator yang menjembatani guru-guru di SMK Negeri 6 Muaro
+Jambi untuk bertukar pikiran, berdiskusi serta berkonsultasi tentang pekembangan-perkembangan
+teknologi dan ilmu pengetahuan yang selalu berkembang secara cepat.
+Tahapan pelaksanaan kegiatan pengabdian Masyarakat secara rinci sebagai berikut :
+
+Perencanaan
+
+Survey dan Sosialisasi
+
+Persiapan dan Koordinasi
+Pelatihan
+
+Evaluasi dan Pendampingan
+Gambar 1. Tahap Pelaksanaan Pengabdian Masyarakat
+Tahap Perencanaan
+Pada tahap ini tim pengabdian Masyarakat melakukan rapat awal penyusunan tim kerja yang
+terdiri dari 3 dosen dan 2 mahasiswa. Dalam rapat ini ketua pelaksana membagikan tugas-tugas dari
+masing-masing anggota dan menjelaskan alur kegiatan pelaksanaan pengabdian Masyarakat serta
+pihak-pihak yang terlibat dalam kegiatan ini.
+
+Dedikasi Sains dan Teknologi is licensed under a Creative Commons
+Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
+
+160
+
+Dedikasi Sains dan Teknologi
+Jurnal Pengabdian Masyarakat
+Vol: 4, No: 2, Nopember 2024
+Doi : https://doi.org/10.47709/dst.v4i2.4880
+
+Submitted : Oct 29, 2024
+Accepted : Oct 30, 2024
+Published : Nov 2, 2024
+
+Tahap Survey dan Sosialisasi
+Tahap survey dan sosialisasi ini tim melakukan kunjungan ke sekolah SMK Negeri 6 Muaro
+Jambi dan berdiskusi terkait pelaksanaan pengabdian Masyarakat mulai dari peserta kegiatan, Lokasi
+kegiatan, sarana yang tersedia dan waktu pelaksanaan pelatihan yang ditentukan.
+Tahap Persiapan dan Koordinasi
+Persiapan dan koordinasi yang dilakukan oleh tim dengan mengunjungi sekolah SMKN Negeri
+6 Muaro Jambi dan sambil berdiskusi dengan perwakilan dari Komunitas Belajar Guru disana. Hal ini
+merupakan tahap yang dilakukan untuk memastikan persiapan pelaksanaan pelatihan esok harinya
+sudah sudah siap dan lengkap, mulai dari pemasangan spanduk, persiapan registrasi, persiapan internet
+yang memadai, persiapan computer, persiapan lokasi dan persiapan konsumsi pelatihan.
+Tahap Pelatihan
+Pada tahap ini dilakukannya pelaksanaan pelatihan yang diikuti oleh 15 peserta termasuk kepala
+sekolah. Kegiatan dimulai pukul 7.30 diawali dengan pembukaan oleh kepala sekolah, ketua Komunitas
+Belajar Guru dan Ketua Pelaksana Kegiatan Pengabdian Masyarakat. Adapun 3 tema yang disampaikan
+pada pelatihan ini yaitu Pemanfaatan Google Classroom Sebagai Evaluasi Pembelajaran Siswa yang
+disampaikan oleh pemateri bapak Ahmad Ferdian Shobur, S.Kom., M.S.I.
+Tahap Evaluasi dan Pendampingan
+Setelah proses pelatihan maka dilanjutkan dengan tahap evaluasi dengan cara melakukan
+kuesioner terkait materi pelatihan yang sudah disampaikan kepada peseta pelatihan dan memberikan
+tugas kepada peserta untuk membuat tugas video pembelajaran dari hasil pelatihan yang sudah
+dipraktikan. Selain itu tim yang terdiri dari dosen dan mahasiswa juga melakukan pendampingan
+kepada guru-guru di SMK Negeri 6 Muaro Jambi dalam melakukan praktik pembuatan video
+pembelajaran dan saat pembuatan tugas video pembelajaran juga.
+Hasil
+Kegiatan pengabdian masyarakat ini menghasilkan peningkatan kompetensi dan manajemen
+komunikasi serta memfasilitasi guru-guru di lokasi pengabdian untuk dapat berkonsultasi terkait ilmu
+pengetahuan dan perkembangan teknologi saat ini. Kegiatan ini berjalan dengan baik dan lancar sampai
+pada tahap akhir. Tim pelaksana kegiatan pengabdian masyarakat ini terdiri dari 3 dosen dan dibantu
+oleh 2 mahasiswa Universitas Adiwangsa Jambi. Dan kegiatan ini diikuti oleh 15 guru yang berada
+dalam Komunitas Belajar Guru (KBG) SMK Negeri 6 Muaro Jambi.
+Berikut hasil kegiatan pengabdian masyarakat yang yang sudah dilaksanakan kurang lebih
+selama 6 bulan kegiatan :
+Perencanaan
+Proses perencanaan dilaksanakan sebanyak 2 kali dengan mengajak seluruh anggota tim dan
+juga mahasiswa yang pertama rapat pembentukan tim kerja dan yang kedua rapat persiapan pelaksanaan
+kegiatan pelatihan. Dari hasil rapat pembentukan tim kerja : anggota dan mahasiswa mendapatkan
+jobdesk masing-masing dalam membantu kelancaran kegiatan. Dan hasil dari rapat persiapan :
+didapatkan waktu pelaksanaan kegiatan, pembagian tugas saat ke lokasi kegiatan dan membaut daftar
+alat serta bahan apa saja yang di perlukan dalam kegiatan pengabdian masyarakat ini.
+
+Dedikasi Sains dan Teknologi is licensed under a Creative Commons
+Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
+
+161
+
+Dedikasi Sains dan Teknologi
+Jurnal Pengabdian Masyarakat
+Vol: 4, No: 2, Nopember 2024
+Doi : https://doi.org/10.47709/dst.v4i2.4880
+
+Submitted : Oct 29, 2024
+Accepted : Oct 30, 2024
+Published : Nov 2, 2024
+
+Gambar 2. Rapat Pembentukan Tim Kerja
+Survey dan Sosialisasi
+Survey dan sosialisasi dilaksanakan sebanyak 2 kali, pada kunjungan pertama tim ketua
+pelaksana dan 2 mahasiswa mengunjungi lokasi kegiatan untuk melakukan sosialisasi dan diskusi
+kepada perwakilan Komunitas Belajar Guru (KBG) SMK Negeri 6 Muaro Jambi yang mana di wakili
+oleh Pak Wawan dan Pak Tri.
+
+Gambar 3. Sosialisasi Kegiatan dan Diskusi Pelaksanaan
+Pada kesempatan itu didapat beberapa hasil diskusi dengan mitra terkait waktu pelaksanaan akan
+diadakan setelah fasilitas internet tersedia, kemudian tempat pelaksanaan akan di adakan di ruang
+Laboratorium Komputer SMK Negeri 6 Muaro Jambi dan jumlah peserta yang bersedia hadir diperkiran
+14 guru dan 1 kepalasa sekolah.
+Persiapan dan Koordinasi
+Dengan disepakatinya waktu dan tempat pelaksanaan oleh mitra, maka pada tahap berikutnya
+tim mengunjungi lokasi mitra kembali untuk melakukan persiapan pelatihan yang akan di adakan pada
+esok harinya. Hasil dari kegiatan persiapan dan koordinasi ini yaitu tim membawa beberapa
+perlengkapan dan bahan yang akan di persiapkan diruang pelatihan sperti spanduk dan plakat beserta
+alat-alat yang akan dihibahkan kepada mitra.
+
+Dedikasi Sains dan Teknologi is licensed under a Creative Commons
+Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
+
+162
+
+Dedikasi Sains dan Teknologi
+Jurnal Pengabdian Masyarakat
+Vol: 4, No: 2, Nopember 2024
+Doi : https://doi.org/10.47709/dst.v4i2.4880
+
+Submitted : Oct 29, 2024
+Accepted : Oct 30, 2024
+Published : Nov 2, 2024
+
+Gambar 4. Pertemuan Persiapan dan Koordinasi
+Selain itu tim juga memantau ruangan yang akan dijadikan tempat pelatihan dan juga ketersediaan
+internet yang akan digunakan untuk pelatihan. Dan selama proses persiapan fasilitas dan ketersediaan
+internet yang digunakan untuk pelatihan sudah tersedia dan disiapkan dengan baik.
+Pelatihan
+Pelaksanaan pelatihan kami adakan dalam waktu 1 hari dengan 3 materi sekaligus, materi
+pertama disampaikan oleh Ahmad Ferdian Shobur, S.Kom. M.S.I dengan materi Pemanfaatan Google
+Classroom Sebagai Evaluasi Pembelajaran Siswa, materi kedua disampaikan oleh Rian Novita, S.Pd.
+M.Pd dengan materi Pembuatan Video Pembelajaran Dengan OBS dan pemateri ketiga disampainkan
+oleh Pembuatan Quiz Interaktif Dengan Quizziz AI.
+
+Gambar 5. Pemaparan Materi Oleh Pemateri
+Pada proses pelaksanaan pelatihannya guru-guru sangat antusias dalam mengikuti pelatihan dan praktik,
+hal ini dapat dilihat dari banyaknya pertanyaan yang disampaikan oleh guru terkait materi dan semangat
+pemateri yang masih tetap druangan sampai proses pelatihan berakhir di sore hari.
+
+Gambar 6. Pertanyaan dan Diskusi Peserta Kepada Pemateri
+Evaluasi dan Pendampingan
+Proses pendampingan dilakukan pada saat pelatihan dan setelah pelatihan. Di saat pelatihan
+proses pendampingan saat praktik dibantu oleh mahasiswa dalam membantu guru untuk
+mengoperasikan aplikasi secara langsung dan memandu guru untuk praktik di saat guru mengalami
+kesulitan memahamai intruksi ataupun keterlamabatan dalam mengikuti materi yang dipraktikkan.
+
+Dedikasi Sains dan Teknologi is licensed under a Creative Commons
+Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
+
+163
+
+Submitted : Oct 29, 2024
+Accepted : Oct 30, 2024
+Published : Nov 2, 2024
+
+Dedikasi Sains dan Teknologi
+Jurnal Pengabdian Masyarakat
+Vol: 4, No: 2, Nopember 2024
+Doi : https://doi.org/10.47709/dst.v4i2.4880
+
+Gambar 7. Proses Pendampingan Saat Praktik
+Pendampingan dilakukan oleh mahasiswa dari program studi sistem informasi yang sesuai
+dengan bidang ilmu dengan materi pelatihan yang disampaikan sehingga proses pendampingan
+berjalan dengan baik dan lancar. Hal ini terlihat dari aktivitas praktik dari semua guru yang bisa
+mengikuti semua materi sampai tahap akhir.
+Setelah proses pendampingan tim menyebarkan kuesioner yang digunakan untuk mengetahui
+tingkat pemahaman dari materi yang sudah disampaikan dan tim memberikan rating kelulusan peserta
+min nilai 70 dan juga tugas pembuatan video yang telah diajarkan. Dari hasil kuesioner tersebut
+didapatlah grafik di bawah ini
+
+Skor 0 -100
+
+Grafik Kuesioner Pelatihan
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+
+9595
+9090
+8080 80
+80
+75
+
+9595
+95
+95
+95
+90
+90
+90
+90
+90
+85
+85
+8585
+80
+8080
+80 80
+8080 80 80
+80 80
+808080 8080 80
+75 75
+75
+70
+60
+
+OBS
+
+Classroom
+
+Quizziz
+
+Gambar 8. Grafik Hasil Kuesioner
+Dilihat pada grafik di atas nilai rata-rata dari pemahamahan materi pembuatan video
+pembelajaran dengan OBS bernilai 80, terdapat 1 guru yang tidak memenuhi untuk lulus dan terdapat
+3 guru yang nilai nya mencapai 90 keatas. Kemudian dilihat dari rata-rata 85,67 pemahaman materi
+classroom semua guru sudah memenuhi nilai kelulusan dengan baik dan terdapat 6 guru yang memiliki
+90 keatas. Dan terdapat juga rata-rata pemahaman guru terkait materi Quizziz dengan AI sebesar 84,
+dimana semua guru sudah memenuhi ambang batas kelulusan serta terdapat beberapa guru yang
+memiliki nilai 90 ke atas.
+Secara umum sebagian besar peserta memperoleh skor tinggi di ketiga kategori, dengan banyak
+yang mendapat skor di atas 80. OBS dan Classroom cenderung memiliki skor rata-rata yang lebih
+seragam, berkisar di antara 80 hingga 90. Quizziz memiliki variasi skor lebih besar, dengan beberapa
+peserta, seperti Purwati (skor 60) dan Dewi (skor 70), memiliki skor yang lebih rendah dibandingkan
+
+Dedikasi Sains dan Teknologi is licensed under a Creative Commons
+Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
+
+164
+
+Submitted : Oct 29, 2024
+Accepted : Oct 30, 2024
+Published : Nov 2, 2024
+
+Dedikasi Sains dan Teknologi
+Jurnal Pengabdian Masyarakat
+Vol: 4, No: 2, Nopember 2024
+Doi : https://doi.org/10.47709/dst.v4i2.4880
+
+yang lain. Peserta seperti Isti, Tati, Vebri, dan Setiawan menonjol dengan skor yang konsisten tinggi
+(90-95) di semua kategori. Di sisi lain, beberapa peserta seperti Purwati dan Dewi menunjukkan
+perbedaan skor yang signifikan antar kategori, terutama dalam Quizziz
+Selain grafik hasil kuesioner tim juga memberikan tugas kepada guru-guru untuk melakukan
+pembauatan video pembelajaran secara mandiri terkait dengan materi pembelajaran masing-masing
+guru dan hasil dari video pembelajaran di berikan atau ditampilkan kepada siswa. Adapun hasil dari
+pembuatan tugas video pembelajaran dapat dilihat pada grafk berikut :
+
+Grafik Pengumpulan Tugas Video
+
+Belum
+
+Sudah
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+Gambar 9. Grafik Jumlah Pengumpulan Tugas Guru
+Dari grafik di atas menunjukkan status pengumpulan tugas video dengan dua kategori: Sudah
+(sudah mengumpulkan) dan Belum (belum mengumpulkan). Mayoritas peserta, sekitar 12 orang, telah
+mengumpulkan tugas video (Sudah), sementara sebagian kecil, sekitar 3 orang, belum mengumpulkan
+tugas tersebut (Belum). Ini menunjukkan bahwa sebagian besar peserta telah menyelesaikan
+pengumpulan tugas video, dengan hanya beberapa orang yang belum mengumpulkannya. Secara umum
+terdapat sebanyak 80% guru berhasil mengumpulkan tugas dan 20% guru belum mengumpulkan tugas.
+artinya terdapat banyak guru yang sudah mengalami peningkatan dalam pembuatan video
+pembelajaran.
+Kesimpulan
+Dari pelaksanaan kegiatan pengabdian Masyarakat yang telah dilaksanakan kurang lebih 6 bulan
+dapat disimpulkan semua permasalahan yang dihadapi mitra seperti manajemen komunikasi, rendahnya
+kompetensi dan kurangnya fasilitas yang menjembatani guru untuk berdiskusi terkait teknologi. Dapat
+teratasi dengan adanya group Komunikasi antar KBG yang sudah dibuat untuk menghidupkan suasana
+akademik dan diskusi di sekolah, selain itu berdasarkan hasil grafik kuesioner dan grafik pengumpulan
+tugas mayoritas guru terjadi peningkatan pengetahuannya tentang teknologi berbasis kecerdasan buatan
+dan dengan adanya hubungan Kerjasama KBG SMK Negeri 6 Muaro Jambi dan Universitas Adiwangsa
+Jambi, guru-guru mendapatkan fasilitas dalam bertukar pikiran, berkonsultasi, serta bertanya kepada
+para dosen dan peneliti yang ada di kampus.
+Ucapan Terimakasih
+Kami Tim program Pengabdian Kepada Masyarakat (PKM) mengucapkan terima kasih
+kepada Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi atas dukungan dan pendanaan
+kegiatan Program Pengabdian Kepada Masyarakat tahun 2024. Ucapan terima kasih juga disampaikan
+kepada mitra pelaksana Komunitas Belajar Guru (KBG) SMK Negeri 6 Muaro Jambi, yang telah
+
+Dedikasi Sains dan Teknologi is licensed under a Creative Commons
+Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
+
+165
+
+Dedikasi Sains dan Teknologi
+Jurnal Pengabdian Masyarakat
+Vol: 4, No: 2, Nopember 2024
+Doi : https://doi.org/10.47709/dst.v4i2.4880
+
+Submitted : Oct 29, 2024
+Accepted : Oct 30, 2024
+Published : Nov 2, 2024
+
+bekerja sama dalam kelancaran dan keberhasilan pelaksanaan kegiatan PKM, serta seluruh anggota tim
+PKM dan pemateri yang terlibat dan mensukseskan kegiatan ini.
+
+Daftar Pustaka
+Adha, L. A. (2020). Digitalisasi Industri Dan Pengaruhnya Terhadap Ketenagakerjaan Dan Hubungan
+Kerja
+Di
+Indonesia.
+Journal
+Kompilasi
+Hukum,
+5(2),
+267–298.
+https://doi.org/10.29303/jkh.v5i2.49
+Dwi Mukti, F. (2023). TRANSFORMASI PENDIDIKAN DI SEKOLAH DASAR: PEMANFAATAN
+MEDIA PEMBELAJARAN BERBASIS KECERDASAN BUATAN DALAM ERA DIGITAL.
+Fajar Dwi Mukti] Dirasatul Ibtidaiyah, 3(2).
+Eka Meiliawati, A., & Wawan Sugiarto, T. (2024). PENGGUNAAN MEDIA BERBASIS
+ARTIFICIAL INTELLIGENCE (AI) UNTUK MENUNJANG PROSES PEMBELAJARAN
+PADA TINGKAT SEKOLAH MENENGAH ATAS: A LITERATURE REVIEW. INFONTIKA:
+Jurnal Pendidikan Informatika, 03(1). https://doi.org/10.56842
+Karyadi, B. (2023). PEMANFAATAN KECERDASAN BUATAN DALAM MENDUKUNG
+PEMBELAJARAN MANDIRI. 8(2), 253–258. https://doi.org/10.32832/educate.v8i02.14843
+Oktavia, D. H., & Suseno, G. (2024). PEMANFAATAN KECERDASAN BUATAN DALAM
+PENDIDIKAN DI INDONESIA: POTENSI DAN TANTANGAN Article History. IndoMathEdu Intellectuals Journal, 5(2), 1680. https://doi.org/10.54373/imeij.v5i2.876
+Purnama, F., & Aminuddin, H. (2023). PERANCANGAN APLIKASI PEMBELAJARAN PETA
+PADA MATA PELAJARAN GEOGRAFI SMPN 16 KOTA JAMBI. Jurnal Pendidikan
+Teknologi Informasi Dan, 5(1). https://doi.org/10.23960/jpvti
+Rachmayanti, I., & Alatas, M. A. (2023). Pemanfaatan AI sebagai Media Pembelajaran Digital dalam
+Foreign Language Development Program (FLDP) IAIN Madura. GHANCARAN: Jurnal
+Pendidikan Bahasa Dan Sastra Indonesia. https://doi.org/10.19105/ghancaran.vi.11752
+Robiul, D., Arya, I., & Zakariyya, A. (2023). MANFAAT KECERDASAN BUATAN UNTUK
+PENDIDIKAN. In Jurnal Teknologi Komputer dan Informatika | (Vol. 2).
+Ronsumbre, S., Rukmawati, T., Sumarsono, A., & Waremra, R. S. (2023). Pembelajaran Digital Dengan
+Kecerdasan Buatan (AI): Korelasi AI Terhadap Motivasi Belajar Siswa. Jurnal Educatio FKIP
+UNMA, 9(3), 1464–1474. https://doi.org/10.31949/educatio.v9i3.5761
+Sudrajat, D., Permatasari, R. D., Wijaya, I. M. S., Setyawan, A. E., & Rahayu, N. (2023). Pemanfaatan
+Kecerdasan Buatan sebagai Upaya Pengembangan Media Pembelajaran Berbasis Multimedia.
+JURNAL KRIDATAMA SAINS DAN TEKNOLOGI, 05(2).
+
+Dedikasi Sains dan Teknologi is licensed under a Creative Commons
+Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
+
+166
+
+

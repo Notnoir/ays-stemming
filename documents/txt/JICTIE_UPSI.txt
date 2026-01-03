@@ -1,0 +1,178 @@
+Integrasi Konsep Kecerdasan Buatan dalam Reka Bentuk Kit E-Muhadathah untuk bukan-Penutur Arab
+Integration Concept of Artificial Intelligence in the Design of E-Muhadathah Kit for non-Arabic Speakers
+
+Siti Rahmah Borham, Saipolbarin Ramli*, Mohammad Taufiq Abdul Ghani
+Jabatan Bahasa Moden, Fakulti Bahasa dan Komunikasi, Universiti Pendidikan Sultan Idris; rahmahborham@gmail.com, {saipolbarin, taufiq} @fbk.upsi.edu.my
+
+
+* correspondence author
+
+
+To cite this article (APA): Borham, S.R., Ramli, S., & Abdul Ghani, M.T. (2022). Integrasi konsep kecerdasan buatan dalam reka bentuk kit E-Muhadathah untuk bukan penutur Arab. Journal of ICT in Education, 9(3),1-10. https://doi.org/ 10.37134/jictie.vol9. sp.1.1.2022
+
+To link to this article: https://doi.org/ 10.37134/jictie.vol9. sp.1.1.2022
+
+
+Abstrak
+
+Transformasi pendidikan masa kini menekankan penggunaan teknologi yang optimum dalam pengajaran dan pembelajaran (PdP) sejajar Revolusi Industri (RI) 4.0. Antara teknologi yang semakin berkembang pesat dalam pembelajaran bahasa seperti teknologi kecerdasan buatan atau Artificial Intelligence (AI) yang dikenali juga dengan pemprosesan bahasa semula jadi atau Natural Language Processing (NLP). Teknologi ini diintegrasikan dalam pembangunan kit E-Muhadathah iaitu satu model simulasi perbualan bahasa Arab interaktif yang digunakan untuk membantu komunikasi pelajar bukan penutur Arab di Universiti Awam (UA) Malaysia. Kajian ini bertujuan untuk mengenal pasti konsep kecerdasan buatan dalam pendidikan, isu dan cabaran pembangunan perisian bahasa Arab berasaskan kecerdasan buatan dan reka bentuk model kit E-Muhadathah untuk bukan penutur Arab. Kajian literatur ini menggunakan metode kepustakaan yang diperolehi daripada jurnal, prosiding, artikel, tesis dan buku secara atas talian melalui pangkalan data Google Scholar, Springer Link, Taylor & Francis, Science Direct dan Research Gate. Seterusnya, data yang terkumpul dianalisis secara deskriptif mengikut tema. Hasil kajian menunjukkan bahawa konsep kecerdasan buatan terdiri daripada tiga elemen utama iaitu pembelajaran mesin, pembelajaran mendalam dan rangkaian neural. Antara isu dan cabaran yang diketengahkan oleh para sarjana bahasa Arab dalam pembangunan perisian berasaskan kecerdasan buatan seperti kekaburan ortografi, morfologi, sintaksis, anafora dan semantik. Di samping itu, reka bentuk model kit E-Muhadathah menerapkan elemen pembelajaran mesin dan pembelajaran mendalam iaitu aplikasi bahasa lisan/ucapan dan teks penulisan. Analisis ini dapat dijadikan rujukan kepada para pensyarah dan penyelidik dalam membangunkan perisian berasaskan komunikasi bahasa Arab kepada bukan penutur di Institusi Pengajian Tinggi (IPT) Malaysia. Justeru itu, kajian ini mencadangkan agar penerokaan bidang kecerdasan buatan dalam PdP bahasa Arab terus diperluaskan untuk meningkatkan kompetensi komunikasi dalam kalangan bukan penutur Arab di Malaysia.
+
+Kata Kunci: kecerdasan buatan, pemprosesan bahasa semula jadi, E-Muhadathah, pengajaran dan pembelajaran Arab, bukan penutur arab.
+
+Abstract
+
+The current educational transformation emphasizes the optimal use of technology in teaching and learning in line with the Industrial Revolution (IR) 4.0. Among the rapidly evolving technologies in language learning is Artificial Intelligence (AI) technology, also known as Natural Language Processing (NLP). This technology was integrated into the development of the E-Muhadathah kit. E-Muhadathah kit is an interactive Arabic conversation simulation model used to improve communication skills among non-Arabic speakers at the tertiary level in Malaysia. This study aimed to identify the concept of Artificial Intelligence in education, as well as the issues and challenges of developing Arabic language software development using artificial intelligence and the design of the E-Muhadathah kit model for non-Arabic speakers. This study used document analysis derived from online journals, proceedings, articles, theses and books through the Google Scholar, Springer Link, Taylor & Francis, Science Direct, and Research Gate databases. Then, the collected data was analysed descriptively according to themes. The findings show that the concept of Artificial Intelligence consists of three main components: machine learning, deep learning, and neural networks. Among the issues and challenges raised by Arabic language scholars in the development of Artificial Intelligence-based software are the ambiguity of orthography, complexity of morphology and syntax, ambiguity of anaphora and semantics. This study also finds that the design of the E- Muhadathah kit model has applied machine learning and deep learning elements which are speech- based and text-based applications. This study can be used as a reference for lecturers and researchers to develop Arabic language communication-based software for non-native speakers in the Malaysian Institution of Higher Education (MIHE). Therefore, this study suggests that the exploration of Artificial Intelligence in Arabic teaching and learning be further expanded to improve Arabic communication competence among non-native speakers in Malaysia.
+
+keywords: artificial intelligence, natural language processing, e-muhadathah, arabic teaching and learning, non-arabic speakers.
+
+
+
+PENGENALAN
+
+Teknologi kecerdasan buatan atau Artificial Intelligence (AI) dalam era digital yang serba canggih membolehkan mesin memberikan respon dan mempelajari tingkah laku manusia. Teknologi ini menggunakan program perisian yang berasaskan algoritma atau robot yang dapat berfungsi memahami, mentafsir dan memberi reaksi sesuai kehendak manusia. Penggunaannya yang meluas telah membawa kepada penghasilan produk-produk popular berteknologi tinggi seperti telefon pintar, tablet, laptop, kereta tanpa pemandu, drone dan robot (Nawi, 2019). Selain itu, antara produk yang popular dalam pasaran seperti aplikasi Amazon Alexa, Siri-Apple, Ok Google atau Hey Google yang digunakan untuk mengecam suara manusia memainkan muzik, mencari destinasi pelancongan dan alat peranti di rumah (Naik, 2020). Teknologi AI atau cabangnya Natural Language Processing (NLP) juga digunakan secara meluas dalam bidang pembelajaran bahasa. Antaranya dalam beberapa aplikasi yang popular seperti Google Translate untuk menterjemah pelbagai bahasa, Chatbot dan Wit.ai digunakan untuk memberikan respon terhadap perbualan secara lisan dan teks penulisan, Gmail auto-
+
+mail dan Grammarly untuk meramalkan teks penulisan dan membetulkan ayat secara automatik serta lain-lain. Dalam konteks pengajaran dan pembelajaran (PdP) bahasa Arab, teknologi ini masih di peringkat awal dan memerlukan penerokaan yang lebih meluas (Khalati & Al-Romany, 2020). Hal ini berikutan beberapa isu seperti kekurangan sarjana atau pakar dalam bidang komputer bahasa Arab, kepelbagaian dialek bahasa Arab dan kesedaran yang lewat dalam usaha memperkasa bahasa Arab melalui rangkaian internet dan terjemahan berbantukan mesin.
+
+Artikel ini bertujuan untuk mengupas konsep kecerdasan buatan dalam pendidikan yang menjadi asas pembangunan model kit E-Muhadathah untuk bukan penutur Arab. Ia merupakan satu model simulasi perbualan interaktif berasaskan telefon pintar yang dapat membantu pelajar bukan penutur untuk menguasai kemahiran komunikasi bahasa Arab. Selain itu, artikel ini juga bertujuan untuk mengenal pasti isu dan cabaran pembangunan perisian bahasa Arab yang mengintegrasikan teknologi kecerdasan buatan, agar cabaran-cabaran tersebut dapat diatasi dalam pembangunan model kit E-Muhadathah. Antara tujuan lain, artikel ini juga mengenal pasti reka bentuk model yang menggunakan prosedur Model Instruksional ADDIE iaitu analisis, reka bentuk, pembangunan, pelaksanaan dan penilaian (analysis, design, development, implementation and evaluation) dalam pembangunannya terhadap bukan penutur Arab di Institusi Pengajian Tinggi (IPT) Malaysia.
+
+PERNYATAAN MASALAH
+
+Menurut Sahrir (2016) kepentingan bahasa Arab bukan hanya terhad kepada penganut Islam, bahkan kepentingannya dalam bidang profesional dan komunikasi antarabangsa seperti dalam bidang penterjemahan, perniagaan, hubungan diplomatik, penyiaran dan media massa. Hal ini menyokong kenyataan Atoh, Ramli dan Awang Hamat (2014) bahawa penggunaan bahasa Arab yang meluas dalam bidang sains dan teknologi memberi kesan yang positif dalam melahirkan para profesional di peringkat global. Khalati dan Al-Romany (2020) pula berpendapat bahawa langkah-langkah pemerkasaan bahasa Arab di peringkat global perlu diperluaskan berikutan bahasa Arab merupakan bahasa keempat dunia dan penuturnya kira-kira 480 juta di seluruh dunia. Walau bagaimanapun, penggunaan bahasa Arab dalam rangkaian internet dilihat masih terhad iaitu kira-kira 1% berbanding peratusan penuturnya iaitu 5%.
+
+Penggunaan bahasa ini perlu dikembangkan dalam pelbagai media yang menerapkan konsep NLP seperti laman web, terjemahan berbantukan mesin, aplikasi telefon pintar, media sosial dan lain-lain agar dapat membantu penutur, malah bukan penutur Arab menguasai bahasa antarabangsa tersebut sejajar kepentingannya dalam bidang profesional dan komunikasi antarabangsa. Dalam konteks PdP bahasa Arab di Malaysia, penggunaan bahasa Arab mula diintegrasikan dengan elemen multimedia untuk mewujudkan persekitaran pembelajaran yang interaktif berpusatkan pelajar. Hal ini disebabkan kaedah konvensional lebih tertumpu kepada penggunaan buku teks dan berpusatkan guru dalam proses PdP bahasa Arab (Ramli, Atoh, Zakaria & Ariffin, 2017). Menerusi inovasi dan teknologi pendidikan yang serba canggih seperti gambar, audio, video, teks dan animasi sebagai bahan bantu mengajar (BBM), ia dapat merangsang minat pelajar mempelajari bahasa Arab, menggalakkan
+
+pelajar menguasai kemahiran bertutur bahasa Arab dan menghasilkan aktiviti PdP bahasa Arab yang lebih berkesan. Justeru, pembangunan kit E- Muhadathah yang berasaskan aplikasi telefon pintar dapat memberikan pengalaman kepada pelajar untuk bertutur secara semula jadi dengan penutur Arab, seterusnya meningkatkan kompetensi komunikasi dalam bahasa tersebut.
+
+METODOLOGI KAJIAN
+
+Kajian ini merupakan tinjauan literatur yang menggunakan metode kepustakaan dari pelbagai sumber seperti jurnal, prosiding, artikel, tesis dan buku secara atas talian. Melalui pangkalan data Google Scholar, Springer Link, Taylor & Francis, Science Direct dan Research Gate, pencarian data dijalankan dengan kata kunci yang berkaitan seperti "kecerdasan buatan, Artificial Intelligence, Arabic Natural Language Processing (ANLP), Natural Language Processing (NLP), pengajaran dan pembelajaran Arab, kemahiran komunikasi Arab, Arabic communication skills" bagi memperolehi data secara atas talian. Seterusnya, data yang diperolehi secara atas talian tersebut dikumpul dan dianalisis secara deskriptif mengikut tema.
+
+DAPATAN DAN PERBINCANGAN
+
+Dalam bahagian ini, tiga dapatan yang akan dibincangkan iaitu konsep kecerdasan buatan, isu dan cabaran pembanguan perisian Arab AI (Artificail Intelligent) dan reka bentuk model Kit E-Muhadthah AI (Artificail Intelligent).
+
+Konsep Kecerdasan Buatan
+
+Kecerdasan buatan yang berkonsep peniruan kecerdasan manusia digunakan untuk menyelesaikan sesuatu isu atau permasalahan. Ia terdiri daripada tiga teknik iaitu Fuzzy Logic (FL), Evolutionary Computing (EC) dan Machine Learning (ML) (Ahmad, 2017). Teknik FL menyerupai penaakulan manusia dalam membuat sebarang keputusan. Teknik ini menggambarkan semua kemungkinan dan menginterpretasi antara nilai digit 0 dan 1 (Nasution, 2012). Antara sistem yang menggunakan teknik FL seperti sistem brek automatik yang digunakan dalam keretapi di Jepun. Selain itu, teknik EC iaitu evolusi perkomputeran yang menekankan strategi evolusi semula jadi dalam menyelesaikan masalah secara optimum atau hampir optimum. Ia digunakan dalam sistem pemampat dan penyongsang penghawa dingin untuk menyesuaikan suhu bilik secara automatik dan menjimatkan tenaga elektrik. Teknik ML pula merupakan teknik paling popular iaitu teknik yang membolehkan perisian membuat ramalan yang lebih tepat melalui pengalaman tanpa perlu diprogramkan. Ia diaplikasi dalam sistem pengesanan penipuan, penapisan spam, pengesanan ancaman malware dan lain-lain.
+
+Selain itu, teknologi AI didasari dengan tiga konsep utama dalam teknologinya iaitu pembelajaran mesin (machine learning), pembelajaran mendalam (deep learning) dan jaringan neural (neural network). Menurut El Naqa dan Murphy (2015), pembelajaran mesin menumpukan konsep meniru dan mencontohi kecerdasan manusia melalui pembelajaran dari persekitaran sekeliling. Ia dikenali dengan
+
+Big Data yang diaplikasi dalam pelbagai bidang seperti pengecaman corak, kejuruteraan kapal angkasa, aplikasi bioperubatan, perubatan dan lain-lain. Pembelajaran mendalam pula konsep yang mengajarkan komputer untuk menjalankan tugasan yang diklasifikasi secara semula jadi melalui gambar, teks dan suara. Antara contoh aplikasi pembelajaran mendalam seperti kereta tanpa pemandu (driveless car), klasifikasi gambar (image classification), pengecaman suara (speech recognition), terjemahan berbantu mesin (machine translation) dan lain-lain (Nawi, 2019). Konsep ini dapat mencapai ketepatan yang jitu dan terkadang dapat melebihi kecerdasan manusia. Di samping itu, konsep jaringan neural menerapkan sistem refleksi terhadap tingkah laku otak manusia. Ia membolehkan program komputer mengenal pasti corak dan meniru cara neuron biologi memberi isyarat kepada satu sama lain, seperti aplikasi pengesanan hujan, pengesanan keaslian wang, pengesanan penyakit dengan imbasan X-ray, pengesanan masalah kemurungan dan lain-lain (Annisa, Lubis & Najmita, 2020). Gambaran ringkas tiga konsep utama AI adalah seperti Rajah 1 di bawah:
+
+
+Rajah 1: Konsep Utama AI Pendidikan
+
+Isu Dan Cabaran Pembangunan Perisian Arab AI
+
+Komputer mempunyai keupayaan yang dapat menandingi kemampuan manusia. Ini terbukti dengan perkembangan teknologi AI dengan sistem NLP yang dapat memproses bahasa manusia secara semula jadi dalam rangkaian internet. Teknologi AI juga mampu memproses data yang besar atau Big Data termasuk ungkapan-ungkapan dalam bahasa Arab. Walau bagaimanapun, penggunaan bahasa Arab dilihat masih terhad dalam platform maya seperti komputer dan peranti mudah alih. Hal ini disebabkan beberapa isu dan cabaran pembangunan perisian bahasa Arab AI yang diketengahkan oleh pakar bidang Arabic Natural Language Processing (ANLP). Menurut Shaalan, Siddiqui, Alkhatib dan Abdel Monem (2018), antara isu dan cabarannya seperti kekaburan ortografi, morfologi, sintaksis, anafora dan semantik.
+
+a) Kekaburan Ortografi
+
+Kekaburan Ortografi Arab bermaksud kesamaran pada simbol ortografik atau dikenali dengan diakritik iaitu tanda atau simbol digunakan untuk membezakan bunyi dalam satu huruf. Dalam istilah bahasa Arab, diakritik merupakan tanda yang dapat menjelaskan bunyi sebutan huruf dan makna perkataan. Ia juga disebut sebagai tashkeel atau vokal pendek seperti penggunaan baris pada
+
+perkataan ?? ???
+
+(dia telah menulis),
+
+????? (telah ditulis) dan
+
+?? ???? (buku-buku). Ortografi yang kabur
+
+menyebabkan teks Arab tidak dapat dibaca dengan betul dan menjejaskan makna ayat. Namun begitu, kekaburan ini dapat diatasi seperti meletakkan diakritik secara spesifik dalam pemprosesan ANLP teks kepada ucapan atau perbualan lisan.
+
+b) Kekaburan Morfologi
+
+Bahasa Arab terkenal dengan morfologi yang sangat kaya dan ia mempunyai templatnya yang tersendiri atau dikenali dengan "Mizan Sorfi". Kekaburan morfologi menyebabkan kesukaran untuk membezakan antara struktur perkataan dan ayat kerana morfologi bahasa Arab amat fleksibel dan rumit. Namun begitu, isu morfologi yang rumit ini dapat diatasi dengan menjalankan proses derivasi secara spesifik mengikut peringkat. Derivasi atau terbitan bahasa Arab terdiri daripada penggunaan kata akar tiga/empat aksara, diilustrasi dalam bentuk pola dan diikat dengan penggunaan kata imbuhan. Ringkasan derivasi perkataan dalam bahasa Arab adalah seperti Jadual 1 di bawah:
+
+Jadual 1: Ilustrasi Peringkat Derivasi Perkataan Arab
+
+PerkataanTransliterasiKata AkarTransliterasiPolaImbuhan????Hãfiz???Hafaza_ _ ? _?????Kãtib???Kataba_ _ ? _??????Ma'lum???'Alima_ ? _ _ ?? ? ??????Madrus???Darasa_ ? _ _ ?? ? ?
+c) Kekaburan Sintaksis
+
+Asas peraturan tatabahasa Arab telah dibina oleh para ahli Nahu Arab untuk mengelakkan kesalahan dalam pembacaan Al-Quran. Walau bagaimanapun, penggunaan peraturan tatabahasa ini menyukarkan komputer untuk memproses teks Arab secara automatik dengan ANLP. Ini digambarkan dengan penggunaan ayat verbal dan ayat nominal dalam bahasa Arab (Shaalan, Siddiqui, Alkhatib & Abdel Monem, 2018). Contohnya seperti ayat verbal ?????? ????? (sedang belajar pelajar itu; yata'allamu al-taalib) mengandungi kata kerja yang diikuti dengan subjek. Berbeza dengan bahasa Inggeris, semua penggunaan ayatnya bermula dengan subjek dan diikuti dengan kata kerja seperti "the student is learning" (pelajar itu sedang belajar). Ayat nominal dalam bahasa Arab pula dimulakan dengan kata nama atau kata ganti nama. Terdapat dua jenis ayat nominal iaitu ayat nominal tanpa kata kerja dan ayat nominal dengan kata kerja. Penggunaan ayat nominal tanpa kata kerja menunjukkan ayat "menjadi" atau dalam istilah bahasa Inggeris disebut 'verb to be' seperti penggunaan ayat "the weather
+
+is wonderful". Namun, dalam bahasa Arab tiada penggunaan kata kerja tersebut, seperti contoh ayat
+indah). yang (cuaca ????? ????
+
+d) Kekaburan Anafora
+
+Penggunaan resolusi anafora dalam bahasa Arab bermaksud memadankan entiti atau kata ganti tertentu dengan kata nama atau nama yang dirujuk. Contoh penggunaan anafora dalam ayat bahasa Arab seperti:
+
+???? ?????? ???????? ??????
+Terjemahan Google: Saya melihat kucing itu, maka saya memberikannya makanan
+
+???? ?????? ???????? ??????
+Terjemahan Google: Saya melihat kucing itu, maka saya memberikan dia makanan
+
+Perbandingan perkataan 'memberikannya' yang dirujuk dalam bahasa Inggeris sebagai 'give it' dan 'memberikan dia' sebagai 'give her' menunjukkan kekaburan anafora dalam bahasa Arab. Penggunaan yang betul dalam istilah bahasa Melayu mahupun bahasa Inggeris adalah memberikannya atau 'give it'. Ini berhubung dengan kata nama bagi kucing yang dikategorikan sebagai haiwan, berbeza dengan penggunaan 'her' yang digunakan untuk kata nama orang. Terjemahan mesin sukar memproses anafora bagi kata ganti nama diri ketiga atau ?? yang merujuk kepada kata nama kucing pada ayat di atas.
+
+e) Kekaburan Semantik
+
+Kekaburan semantik bahasa Arab merangkumi ayat atau frasa yang digunakan perlu disesuaikan mengikut konteks agar dapat memberikan makna yang tepat. Contohnya seperti
+
+penggunaan ayat
+
+??? ???? ???? ?? ???????
+
+???
+
+(Ali menyayangi Ahmad lebih dari Ibrahim).
+
+Persoalannya, adakah bermaksud Ahmad lebih disayangi oleh Ali berbanding Ibrahim? Atau adakah bermaksud Ali lebih menyayangi Ahmad, berbanding Ibrahim yang turut menyayangi Ahmad?. Justeru, kekaburan semantik bahasa Arab ini merupakan antara cabaran dalam pembangunan perisian bahasa Arab ANLP dalam membezakan makna ayat mengikut konteks yang berbeza.
+
+Reka Bentuk Model Kit E-Muhadathah AI
+
+Pembangunan kit E-Muhadathah atau model simulasi perbualan bahasa Arab interaktif AI yang berasaskan telefon pintar memerlukan kerangka atau reka bentuk yang dapat dijadikan sandaran atau rujukan kepada pengkaji, seperti pembangunannya mengikut prosedur Model Instruksional Pengajaran ADDIE (Rossett, 1987). Model ADDIE dengan akronim yang dirungkai sebagai (Analyze, Design, Development, Implementation, Evaluation) menjelaskan lima peringkat prosedur iaitu analisis, reka bentuk, pembangunan, pelaksanaan dan penilaian. Pendekatan yang menyeluruh
+
+dengan proses penilaian yang berulang-ulang pada setiap fasa menjadikan model ini sistematik dan bersesuaian untuk pembangunan modul atau model pengajaran (Abu, Ahmad Rashid, & Saleh, 2020). Di samping itu, konsep utama AI yang diadaptasi dalam reka bentuk model kit E-Muhadathah seperti pembelajaran mesin dan pembelajaran mendalam yang merangkumi pemprosesan teks penulisan, perbualan lisan atau text-to-speech dengan sistem pengecaman perbualan lisan (speech recognition). Gambaran reka bentuk model kit E-Muhadathah AI adalah seperti Rajah 2 di bawah:
+
+
+
+
+(FASA 4 & 5)
+
+
+
+
+
+Rajah 2: Reka Bentuk Model Kit E-Muhadathah AI
+
+Berdasarkan dapatan kajian yang dikumpul dalam kajian ini, teknologi kecerdasan buatan memainkan peranan yang penting dalam memperkasa bahasa Arab secara atas talian. Ini dapat menyebarluas kandungan-kandungan bahasa Arab dalam rangkaian internet agar dapat digunakan untuk semua peringkat umur, sama ada peringkat kanak-kanak sehingga peringkat dewasa. Selain itu, hal ini menyokong kenyataan Sahrir (2016) yang berpendapat bahawa bahasa Arab bukan sekadar bahasa yang dikhususkan kepada penganut Islam, namun lebih luas lagi seperti dalam bidang profesional dan komunikasi antarabangsa. Sebagaimana kajian Khalati dan Al-Romany (2020) yang menyarankan kepentingan untuk memperluas bahasa Arab dalam rangkaian internet, berikutan hanya 1% kandungan bahasa Arab atas talian berbanding penuturnya sebanyak 5%. Di samping itu, penggunaan bahasa tersebut juga tidak hanya terhad kepada penutur Arab sahaja, ia perlu diperluas kepada penutur bukan Arab atau penutur asing, bahkan lebih dari itu seperti dalam konteks pembelajaran di kelas dan luar kelas, serta pembelajaran untuk tujuan-tujuan khusus dalam bidang perniagaan, perbankan, pelancongan dan lain-lain.
+
+Dalam konteks PdP bahasa Arab di Malaysia, integrasi konsep AI juga perlu dipertingkatkan dalam pembangunan perisian pendidikan, contohnya pembangunan kit E-Muhadathah. Seperti penerapan konsep pembelajaran mesin, pembelajaran mendalam dan jaringan neural dalam kajian (El Naqa & Murphy, 2015), penerokaan bidang ini perlu dikembangkan agar dapat diadaptasi dalam kemahiran- kemahiran bahasa Arab yang lain seperti Maharat al-Istima' (kemahiran mendengar), Maharat al- Qira'ah (kemahiran membaca) dan Maharat al-Kitabah (kemahiran menulis). Walaupun terdapat pelbagai isu dan cabaran pembangunan perisian bahasa Arab dengan teknologi AI atau khususnya ANLP seperti kajian (Khalati & Al-Romany, 2020), namun isu dan cabaran ini perlu diatasi dengan meneliti permasalahan bersama pakar-pakar dalam bidang AI dan bidang pembelajaran bahasa berbantukan komputer atau computer-assisted language learning (CALL), bidang inovasi dan teknologi pendidikan bahasa Arab dan lain-lain, bagi mencari penyelesaian terhadap isu dan cabaran dalam pembangunan perisian pendidikan bahasa Arab berasaskan teknologi AI.
+
+KESIMPULAN
+
+Secara ringkasnya, integrasi konsep AI dalam pembangunan perisian pendidikan bahasa Arab perlu diperluaskan dalam PdP bahasa Arab di Malaysia. Antara konsep utama AI dalam pendidikan seperti pembelajaran mesin, pembelajaran mendalam dan jaringan neural. Ketiga-tiga konsep itu merupakan elemen yang penting dalam membangunkan perisian pendidikan dengan teknologi AI sama ada berbentuk laman web, robotik, aplikasi telefon pintar atau peranti mudah alih. Selain itu, terdapat isu dan cabaran pembangunan perisian bahasa Arab berkonsep AI seperti kekaburan ortografi, morfologi, sintaksis, anafora dan semantik. Isu dan cabaran ini perlu diteliti para pakar AI dan bahasa Arab dalam mereka bentuk dan membangunkan perisian pendidikan bahasa Arab. Di samping itu, reka bentuk model kit E-Muhadathah AI juga diketengahkan dalam kajian ini dengan penerapan konsep pembelajaran mesin dan pembelajaran mendalam melalui aplikasi bahasa lisan atau perbualan, teks penulisan dan pengecaman perbualan. Justeru, kajian ini diharap dapat memberi implikasi dalam bidang pendidikan bahasa Arab bagi memperluas kandungan-kandungan bahasa Arab berbentuk modul dan model pembelajaran secara atas talian untuk bukan penutur khususnya di IPT Malaysia, di samping membantu para pendidik menerapkan pembelajaran bahasa Arab interaktif berpusatkan pelajar. Kajian ini juga mencadangkan agar penerokaan bidang AI terus dikembangkan dalam PdP bahasa Arab agar dapat merealisasikan matlamat melahirkan pelajar yang kompeten berkomunikasi dalam kalangan bukan penutur di IPT Malaysia.
+
+PENGHARGAAN
+
+Sekalung penghargaan diucapkan kepada Fakulti Bahasa dan Komunikasi, Universiti Pendidikan Sultan Idris, Tanjong Malim, Perak atas kebenaran kepada penyelidik dan para penyelia untuk
+
+menjalankan kajian peringkat Doktor Falsafah (Pendidikan Bahasa Arab). Penghargaan juga ditujukan khas kepada Zakat Dana As-Syakirin PETRONAS yang telah menaja penyelidikan.
+
+RUJUKAN
+
+Abu, A. T., Ahmad Rashid, R. A., & Saleh, S. (2020). Pembinaan modul pengajaran al-quran (Al-Alaq) menggunakan model instruksional ADDIE. International Journal of Civilizational Studies and Human Sciences. 3(3), 152-167.
+Ahmad, A. (2017). Mengenal artificial intelligence, machine learning, neural network dan deep learning. Yayasan Cahaya Islam, Jurnal Teknologi Indonesia, 1-5.
+Annisa, S., Lubis, Z., & Najmita, A. (2020). Perancangan aplikasi jaringan syaraf tiruan (Neural Network) untuk pedeteksi keaslian uang kertas. Journal of Electrical Technology, 5(1), 1-8.
+Atoh, N., Ramli, S., & Awang Hamat, M. Z. (2014). Guru bahasa Arab yang berkualiti: Satu tinjauan awal. Dalam Arifin, Z., Ahmad, M., Zailani, S., Omar, L., Mat, M. Z., Osman, H., Mustapa, A. M., & Nasir, M. S. Prosiding Seminar Pengajaran & Pembelajaran Bahasa Arab 2014 (pp. 1-7). Fakulti Pengajian Islam UKM & Fakulti Kontemporari Islam, UNISZA.
+El Naqa, I., & Murphy, M. J. (2015). What is machine learning?. Dalam Machine Learning in Radiation Oncology. (pp. 3-11). https://doi.org/10.1007/978-3-319-18305-3_1
+Khalati, M. M., & Al-Romany, T. A. H. (2020). Artificial intelligence development and challenges (Arabic language as a model).
+International Journal of Innovation, Creativity and Change, 13(5), 916-926.
+McCarthy, J., Minsky, M. L., Rochester, N., & Shannon, C. E. (1956). A proposal for the dartmouth summer research project on artificial intelligence. Dalam AI Magazine. (pp. 12-14).
+Naik, A. (2020, 10 May). A contemporary introduction to Natural Language Processing (NLP) in 2020. The Startup. https://medium.com/swlh/a-contemporary-introduction-to-natural-languageprocessing-nlp-in-2020-d93202502048
+Nasution, H. (2012). Implementasi logika fuzzy pada sistem kecerdasan buatan. Jurnal ELKHA. 4(2), 4-8.
+Nawi, A. (2019). Penerokaan awal terhadap isu dan impak penggunaan teknologi kecerdasan buatan terhadap kehidupan manusia. Asian Journal of Civilizational Studies, 1(4), 24-33.
+Ramli, S. Atoh, N., Zakaria, Z., & Ariffin, M. (2017). I-Kit bahasa Arab dalam kalangan pelajar ISM Bahasa Arab dengan pendidikan UPSI: Satu Analisis. Journal of Global Business and Social Entreprenuership (GBSE), 3(7), 79-89. https://doi.org/10.15282/ijleal.v9.308
+Rossett, A. (1987). Training needs assessment. Englewood Cliffs: Educational Technology Publications.
+Shaalan, K., Siddiqui, S., Alkhatib, M., & Abdel Monem, A. (2018). Challenges in Arabic Natural Language Processing. In. Computational Linguistics, Speech and Image Processing for Arabic Language. (pp. 59083). https://doi.org/10.1142/9789813229396_0003
+Shahrir, M. S. (2016, March 31). Kelebihan kuasai bahasa Arab. Berita Harian.
+
+
+
+
+
+
+
+

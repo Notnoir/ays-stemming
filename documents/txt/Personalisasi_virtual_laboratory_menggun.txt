@@ -1,0 +1,566 @@
+TEKNO
+
+Jurnal Teknologi Elektro dan Kejuruan
+
+http://journal2.um.ac.id/index.php/tekno | ISSN 1693-8739 / 2686-4657
+
+Personalisasi virtual laboratory menggunakan
+kecerdasan buatan
+Irawan Dwi Wahyono1
+1. Universitas Negeri Malang, Indonesia | irawan.dwi.ft@um.ac.id
+
+Abstrak
+Perkembangan teknologi pembelajaran di industri 4.0 dalam beberapa tahun terakhir ini berkembang
+pesat salah satunya adalah aplikasi virtual. Salah satu aplikasi pembelajaran virtual yang dikembangkan
+saat ini adalah laboratorium virtual. Penggunaan laboratorium virtual dalam Revolution 4.0 sangat
+berguna terutama lembaga pendidikan yang tidak memiliki cukup ruang dan peralatan. Penelitian
+laboratorium virtual telah dilakukan dalam beberapa tahun terakhir. Pengembangan laboratorium virtual
+yang dikembangkan adalah media, model dan bahan di laboratorium virtual. Laboratorium virtual yang
+ada adalah pembelajaran satu arah. Laboratorium virtual tidak memiliki umpan balik dengan pengguna
+terutama keinginan dan kemampuan pengguna di laboratorium virtual. Diperlukan pembelajaran
+laboratorium berdasarkan keinginan dan kemampuan pengguna. Model pembelajaran ini dikenal sebagai
+personalisasi. Penelitian ini mengembangkan laboratorium virtual yang dipersonalisasi dengan
+memanfaatkan kecerdasan buatan. Kemampuan dan kemauan pengguna diproses oleh kecerdasan
+buatan untuk menentukan model, media dan bahan yang cocok untuk pengguna. Hasil uji coba di
+laboratorium virtual ini memperoleh nilai akurasi menurut pengguna berdasarkan hasil personalisasi yang
+diperoleh sebesar 90,8%
+Kata Kunci
+virtual laboratorium, artificial intelligent, personalized, website
+
+TEKNO Vol. 29 Issue 1, p86-96 | Jurusan Teknik Elektro, Universitas Negeri Malang, Indonesia | Maret 2019
+I. D. Wahyono | Personalisasi virtual laboratory menggunakan kecerdasan buatan
+
+86
+
+TEKNO
+
+Jurnal Teknologi Elektro dan Kejuruan
+
+http://journal2.um.ac.id/index.php/tekno | ISSN 1693-8739 / 2686-4657
+
+1. Pendahuluan
+Perkembangan teknologi informasi di Revolusi industri 4.0 menyebabkan banyaknya
+aplikasi-aplikasi dalam dunia industri maupun pendidikan. Beberapa aplikasi digunakan untuk
+memudahkan manusia dalam mengelola sumber daya yang dimilikinya begitu juga didalam
+dunia industri maupun dunia pendidikan. Aplikasi dalam bidang riset dalam dunia industri
+maupun dunia pendidikan terus berkembang salah satunya adalah aplikasi laboratoritum yang
+digunakan sebagai media riset dan media pendidikan untuk kebutuhan manusia.
+Perkembangan aplikasi laboratorium telah banyak dikembangkan beberapa tahun terakhir ini.
+Aplikasi laboratorium yang dijalankan secara online maupun offline. Ada beberapa aplikasi
+laboratorium yang memerlukan resource besar maupun kecil tergantung fitur-fitur yang
+dimilikinya. Pengguna apilikasi mobile membutuhkan aplikasi laboraoritum yang bisa diakses
+dimana saja dan kapan saja.
+Beberapa penelitian telah melakukan pengembangan aplikasi laborarium. Beberapa memiliki
+kelebihan maupun kekurangan masing-masing baik itu dari segi konten, resource dan media
+yang digunakan. Beberapa penelitian juga mengembangankan aplikasi laboratorium cerdas
+yang mana memiliki kecerdasaan buatan dalam fitur-fitur penggunaaanya. Aplikasi laboritum
+cerdas membutuhkan reosurce yang besar sehingga tidak cocok untuk diaplikasi pada device
+mobile untuk digunakan dimana saja dan kapan saja. Beberapa kekurangan dari aplikasi
+laboratorium cerdas yaitu belum adanya interaksi antara pengguna dengan aplikasi itu sendiri.
+Interaksi itu dalam bentuk: pengguna dapat menggunakan aplikasi laboratorium sesuai
+keinginannnya dan kemampuan yang dimiliki pengguna dan bisa digunakan kapan saja dan
+dimana saja.
+Kecerdasaan buatan yang dibutuhkan dalam aplikasi labortaorium adalah algoritma yang
+memiliki computasi handal dan membutuhkan resource yang kecil yang bisa digunakan kapan
+saja dan dimana saja. Salah satu algoritma itu adalah Expert System. Expert System dalam
+aplikasi laboratorium adalah untuk mengklasifikasi kemampuan pengguna dalam aplikkasi.
+Klasifikasi itu dalam 3 kategori yaitu Tinggi, sedang dan rendah. Setelah itu pengguna
+berinteraksi dengan aplikasi laboratorium untuk menentukan lanjut pada modul-modul
+selanjutnya. Untuk itu dibutuhkan algoritma cerdas yaitu Expert System. Keputusan ini
+berdasarkan poin-poin yang dikumpulkan dan bonus-bonus yang dimiliki seperti aplikasi game
+yang bersifat interaktif.
+Penelitian ini mengembangkan aplikasi laborarium cerdas yang mana pengguna
+menggunakan aplikasi sesuai dengan kemampuan dan kemauan pengguna dan dapat
+digunakan kapan saja dan dimana saja. Sistem cerdas yang terdapat pada laboratorium ini
+menggunakan expert system. Expert system untuk menklasfikasi kemampuan pengguna dan
+kemauan pengguna. Klasifikasi ini dibagi dalam 3 kategori. Sedangkan untuk intearksi dengan
+pengguna dan untuk mennetukan kelanjutan pengguna dalam aplikasi seperti game aplikasi
+
+TEKNO Vol. 29 Issue 1, p86-96 | Jurusan Teknik Elektro, Universitas Negeri Malang, Indonesia | Maret 2019
+I. D. Wahyono | Personalisasi virtual laboratory menggunakan kecerdasan buatan
+
+87
+
+TEKNO
+
+Jurnal Teknologi Elektro dan Kejuruan
+
+http://journal2.um.ac.id/index.php/tekno | ISSN 1693-8739 / 2686-4657
+
+2. Metode
+Penelitian ini menggunakan model penelitian pengembangan pembelajaran Walter Dick and
+Lou Carey (2001). Model ini mengarah pada upaya pemecahan masalah belajar dan
+ter¬program melalui prosedur atau langkah-langkah kegiatan yang sistematis. Langkah-langkah
+tersebut adalah (Gambar 1): (1) Identifying Instructional Goal, (2) Conducting Instructional
+Analysis, (3) Analyze Learner and Context, (4) Write Performance Objectives, (5) Develop
+Assesment Instrumen, (6) Develop Instructional Strategy, (7) Develop and Select Instructional
+Material, (8) Design and Conduct Formative Evaluation of Instruction, (9) Revise Instruction,
+(10) Design and Conduct Summative Evaluation [8].
+Pada penelitian ini, tahapan yang digunakan hanya sampai pada tahapan ke-sembilan. Hal
+ini dilakukan dengan pertimbangan bahwa pengembangan model pembelajaran Virtual
+Laboratory yang dilakukan hanya sampai pada uji coba prototype produk.
+
+Gambar 1. Model Pengembangan Pembelajaran
+
+Pada penelitian ini uji coba produk pengembangan dilakukan melalui tiga tahapan, yaitu uji
+perseorangan, uji kelompok kecil, dan uji lapangan. Tahap uji perseorangan ini, dilakukan oleh
+ahli media pembelajaran, ahli materi dan ahli model pembelajaran. Uji coba perseorangan
+dilakukan untuk mengetahui kelayakan materi ajar, media pembelajaran dan rancangan model
+pembelajaran Virtual laboratory yang dikembangkan.
+Uji coba kelompok kecil bertujuan untuk melihat kelayakan rancangan model pembelajaran
+Virtual Laboratory khususnya kelayakan media pembelajaran berbasis web dan LMS yang
+digunakan pada pembelajaran mata kuliah mesin listrik. Pada kegiatan uji coba kelompok kecil
+ini, peneliti menggali informasi tentang segala kendala yang dihadapi peserta didik ketika
+mencoba atau menggunakan media pembelajaran berbasis web dan LMS, selain itu, peneliti
+TEKNO Vol. 29 Issue 1, p86-96 | Jurusan Teknik Elektro, Universitas Negeri Malang, Indonesia | Maret 2019
+I. D. Wahyono | Personalisasi virtual laboratory menggunakan kecerdasan buatan
+
+88
+
+TEKNO
+
+Jurnal Teknologi Elektro dan Kejuruan
+
+http://journal2.um.ac.id/index.php/tekno | ISSN 1693-8739 / 2686-4657
+
+juga mengidentifikasi kelemahan-kelemahan yang dimiliki LMS dari berbagai aspek menurut
+sudut pandang sekelompok peserta didik tersebut.
+Uji lapangan merupakan tahap lanjutan setelah dilakukan uji coba kelompok kecil. Pada
+tahap ini, pengembang meminta informasi dari peserta didik yang berjumlah minimal 20 orang
+dalam satu tempat tertentu secara bersamaan. Produk yang di uji cobakan pada uji lapangan
+merupakan produk hasil revisi pada perseorangan (evaluasi ahli) dan tahap uji coba kelompok
+kecil. Uji lapangan ini dilakukan untuk mengetahui layak tidaknya produk yang telah
+dikembangkan.
+Intrumen penelitian yang digu¬na¬kan dalam penelitian ini adalah angket. Angket digunakan
+pada proses validasi ahli (ahli materi, media dan model pembelajaran Virtual Laboratory), dan
+juga untuk melihat respon siswa terhadap model pembelajaran dan Learning Management
+System yang telah dikembangkan. Angket yang digunakan dalam penelitian ini berupa angket
+tertutup dimana alternatif jawaban telah disediakan sehingga responden tinggal memilih
+jawaban yang ada. Penghitungan skor angket dihitung dari skor jawaban untuk tiap-tiap
+pertanyaan. Jawaban pada angket menggunakan skala Likert yang terdiri dari 4 kategori
+pilihan.
+Teknik analisis data dalam pene¬litian ini menggunakan rumus persentase, dimana hasil dari
+perhitungan tersebut digunakan untuk melihat kelayakan aspek-aspek pembelajaran yang
+dinilai. Untuk menen¬tu¬kan persentase kelayakan indikator yang dinilai, rumus yang
+digunakan adalah rumus data per-item (Persamaan 1) [8]
+P=
+
+ x x 100%
+x
+
+Pers. (1)
+
+i
+
+Deskripsi:
+P
+= Skor persentase
+
+x
+
+ xi
+
+= jumlah responden dalam satu item
+= total of ideal value
+Tabel 1. Kriteria Tingkat Kelayakan
+Persentase
+Kualifikasi
+80 % - 100%
+Valid
+60 % - 79%
+Cukup valid
+50 % - 59%
+Kurang valid
+0% - 49%
+Tidak valid
+
+Keterangan
+Tidak Revisi
+Tidak Revisi
+Revisi
+Diganti
+
+a) Arsitektur Virtul Lab
+Virtual lab yang dibuat menggunakan LMS dengan bantuan moodle sebagai media
+pembelajaran interaktif seperti diperlihatkan dalam gambar 2. Siswa bisa menggunakan
+device yang terkoneksi dengan internet untuk mengakses Virtual Laboratorium, kemudian
+TEKNO Vol. 29 Issue 1, p86-96 | Jurusan Teknik Elektro, Universitas Negeri Malang, Indonesia | Maret 2019
+I. D. Wahyono | Personalisasi virtual laboratory menggunakan kecerdasan buatan
+
+89
+
+TEKNO
+
+Jurnal Teknologi Elektro dan Kejuruan
+
+http://journal2.um.ac.id/index.php/tekno | ISSN 1693-8739 / 2686-4657
+
+mendapatkan mendaftar sebagai anggota/dosen/pembimbing dengan fasilitas yang berbeda
+yang diatur oleh server dan disimpan dalam database.
+
+INTERNET
+SISWA
+
+SERVER
+
+DATABASE
+
+Gambar 2. Arsitektur Virtual Lab
+
+b) Model Virtual Lab
+Dalam aplikasi virtual laboratorium digunakan pada mata kuliah mesin listrik yang terdapat
+interaksi antara instruktur dan siswa dengan membedakan interaksi didalamnya yaitu
+instruktur sebagai pemberi materi pembelajaran dan konsultasi secara online kepada siswa.
+Sedangkan siswa hanya sebagai user yang harus terdaftar dalam virtual lab yang bisa
+melakukan interaksi baik online dengan intruktur maupun offline dengan instruktur. Model
+virtual lab diperlihatkan dalam gambar 3.
+
+Gambar 3. Model Virtual Lab
+
+Langkah-langkah dalam aplikasi ini sebagai berikut:
+1) Pengguna melakukan test awal yang dikenal disebut pre-test. Ini sebagai parameter
+penentuan penggunaan virtual lab.
+
+TEKNO Vol. 29 Issue 1, p86-96 | Jurusan Teknik Elektro, Universitas Negeri Malang, Indonesia | Maret 2019
+I. D. Wahyono | Personalisasi virtual laboratory menggunakan kecerdasan buatan
+
+90
+
+TEKNO
+
+Jurnal Teknologi Elektro dan Kejuruan
+
+http://journal2.um.ac.id/index.php/tekno | ISSN 1693-8739 / 2686-4657
+
+2) Parameter yang sudah entri kemudian dilakukan klasifikasi pengguna dengan
+menggunakan Expert System
+3) Hasil klasifikasi kemudian dicocokan pada database untuk menentukan klasifikasi modul
+yang sesuai dengan pengguna.
+4) Pengguna menjalankan aplikasi laboratorium sesuai kemampuan pengguna dengan modulmodul yang sesuai.
+5) Pengguna telah menyelesaiakan modul, pengguna bisa melanjutkan ke modul selanjutnya
+harus sesuai dengan parameter pada tabel 2 kemudian diolah menggunakan Expert
+System.
+6) Hasil pengolahan dari parameter-paramter yang didapat menggunakan Expert System
+menentukan modul selanjutkan yaitu : lanjut, ulang atau keluar
+3. Hasil
+Tampilan Virtual Laboratorium diperlihatkan dalam gambar 4.
+
+Gambar 4. Tampilan Virtual Laboratorium
+
+Virtual Laboratorium menyediakan juga menyediakan angket untuk dilakukan uji coba sesuai
+model penelitian pengembangan pembelajaran Walter Dick and Lou Carey yaitu angket untuk
+ahli media pembelajaran yang terdaftar pada Virtual Laboratorium sebagai dosen, angket untuk
+ahli materi yang terdaftar pada Virtual Laboratorium sebagai dosen, angket untuk ahli model
+pembelajaran yang terdaftar pada Virtual Laboratorium sebagai dosen, angket untuk kelompok
+kecil yang terdaftar pada Virtual Laboratorium sebagai siswa, dan angket untuk uji coba
+lapangan yang terdaftar pada Virtual Laboratorium sebagai siswa.
+
+TEKNO Vol. 29 Issue 1, p86-96 | Jurusan Teknik Elektro, Universitas Negeri Malang, Indonesia | Maret 2019
+I. D. Wahyono | Personalisasi virtual laboratory menggunakan kecerdasan buatan
+
+91
+
+TEKNO
+
+Jurnal Teknologi Elektro dan Kejuruan
+
+http://journal2.um.ac.id/index.php/tekno | ISSN 1693-8739 / 2686-4657
+
+a) Hasil Uji Coba Ahli Media Pembelajaran
+Data validasi ahli media diperoleh dari media Virtual Laboratory yang login sebagai dosen
+atau pembimbing melalui angket web pada pengajar mesin-mesin listrik sebanyak 2
+pengajar. Data hasil validasi ditunjukkan pada Tabel 2.
+Tabel 2. Data Hasil Uji Coba Ahli Media
+No.
+Aspek Penilaian
+1.
+Efektifitas media pembelajaran
+2.
+Kemenarikan media pembelajaran
+3.
+Efisiensi media pembelajaran
+Jumlah
+
+Jumlah
+8 aspek penilaian
+5 aspek penilaian
+4 aspek penilaian
+17 aspek penilaian
+
+Persentase Rata-rata
+100 %
+97,5 %
+96,9 %
+98,5 %
+
+Berdasarkan Tabel 1 tentang kriteria tingkat kelayakan, hasil yang diperoleh dari ahli media
+pembelajaran secara keseluruhan menyatakan bahwa media pembelajaran yang digunakan
+dalam pembelajaran sangat baik. Hasil rata-rata keseluruhan aspek penilaian yang
+diperoleh dari kedua ahli media adalah sebesar 98,5%, sehingga dapat dikatakan media
+pembelajaran yang digunakan pada pembelajaran pemrograman web dinamis dasar
+menggunakan model Virtual Laboratory telah valid dan tidak perlu revisi.
+b) Hasil Uji Coba Ahli Materi Pembelajaran
+Data validasi diperoleh dari media web Virtual Laboratory yang login sebagai dosen atau
+pembimbing dari angket web pada pengguna mesin-mesin listrik yaitu sebanyak 4 dosen
+pengajar. Berdasarkan Tabel 3 yang mengacu pada Tabel 1 tentang kriteria tingkat
+kelayakan, hasil yang diperoleh dari kedua ahli materi secara keseluruhan menyatakan
+bahwa materi yang dikembangkan pada rancangan model pembelajaran Virtual Laboratory
+sangat baik. Rata-rata persentase keseluruhan aspek penilaian dari kedua ahli materi
+adalah 89,7%, sehingga dapat dikatakan bahwa materi pada standar kompetensi line follwer
+dasar yang dikembangkan telah valid dan tidak perlu revisi.
+Tabel 3. Data Hasil Uji Coba Ahli Materi
+No
+Aspek Penilaian
+1
+2
+3
+
+Jumlah
+
+Materi media pembelajaran
+Evaluasi media pembelajaran
+Efisiensi dan Efektivitas media pembelajaran
+Jumlah
+
+10 aspek penilaian
+3 aspek penilaian
+7 aspek penilaian
+20 aspek penilaian
+
+Persentase
+Rata-rata
+83,75 %
+91,7 %
+93,75%
+89,7 %
+
+c) Hasil Uji Coba Ahli Model Pembelajaran
+Evaluasi ahli desain dan model pembelajaran dilakukan, bertujuan untuk menyempurnakan
+model pembelajaran Virtual Laboratory yang telah dikembangkan. Data validasi ahli model
+pembelajaran diperoleh dari web Virtual Laboratory dalam bentuk angket sebanyak 3
+dosen.
+
+TEKNO Vol. 29 Issue 1, p86-96 | Jurusan Teknik Elektro, Universitas Negeri Malang, Indonesia | Maret 2019
+I. D. Wahyono | Personalisasi virtual laboratory menggunakan kecerdasan buatan
+
+92
+
+TEKNO
+
+Jurnal Teknologi Elektro dan Kejuruan
+
+http://journal2.um.ac.id/index.php/tekno | ISSN 1693-8739 / 2686-4657
+
+Berdasarkan Tabel 4 yang mengacu pada Tabel 1 tentang kriteria tingkat kelayakan, hasil
+yang diperoleh dari ahli model pembelajaran secara keseluruhan menyatakan bahwa model
+pembelajaran Virtual Laboratory yang telah dirancang telah memnuhi kriteria penilaian.
+Rata-rata persentase yang diperoleh adalah sebesar 94,8%, sehingga dapat dikatakan
+rancangan bahwa rancangan model pembelajaran Virtual Laboratory telah valid dan tidak
+perlu revisi.
+Tabel 4. Data Hasil Validasi Ahli Model Pembelajaran Virtual Laboratory
+Aspek Penilaian
+Tujuan (%)
+Isi (%)
+Teknologi (%)
+Desain pesan (%)
+Keefektifan
+100
+100
+100
+100
+Kemenarikan
+75
+100
+100
+90
+Efisiensi
+100
+100
+83.3
+94,3
+
+d) Hasil Uji Coba Kelompok Kecil
+Pada bagian ini akan diuraikan hasil uji coba kelompok kecil yang diuji cobakan kepada
+mahasiswa PTE UM yang bergabung dalam mata kuliah mesin-mesin listrik Data diambil
+dari 10 mahasiswa. Data hasil validasi kelompok kecil ditunjukkan pada Tabel 5.
+Tabel 5. Data Hasil Uji Coba Kelompok Kecil
+No Aspek Penilaian
+Jumlah
+1
+LMS
+13 aspek penilaian
+2
+Materi LMS
+5 aspek penilaian
+Jumlah
+18 aspek penilaian
+
+Persentase Rata-rata
+82,3%
+78,5 %
+80,4 %
+
+Berdasarkan hasil analisis data didapatkan rata-rata skor total keseluruhan aspek penilaian
+sebesar 80,4 % yang mengacu pada Tabel 5 tentang kriteria validitas, maka pada uji coba
+kelompok kecil ini, LMS yang dikembangkan dapat dinyatakan valid.
+e) Hasil Uji Coba Lapangan
+Uji lapangan merupakan tahap lanjutan setelah dilakukan uji coba kelompok kecil. Pada
+bagian ini akan diuraikan hasil uji coba lapangan yang diuji cobakan kepada peserta mata
+kuliah mesin-mesin listrik sebanyak 24 siswa. Data hasil validasi ditunjukkan pada Tabel 6.
+Setelah dilakukan perbaikan pada LMS yang beracuan pada data hasil uji coba kelompok
+kecil (Tabel 5), maka beberapa aspek penilaian yang sebelumnya bernilai cukup valid
+(rentangan 60-79%), pada uji coba lapangan persentase dari beberapa aspek penilaian
+yang disajikan pada Tabel 6. mengalami peningkatan dan dapat dikatakan bahwa semua
+aspek penilaian telah valid (rentangan 80-100%).
+Tabel 6. Data Hasil Uji Coba Lapangan
+No Aspek Penilaian
+Jumlah
+1
+LMS
+13 aspek penilaian
+2
+Materi LMS
+5 aspek penilaian
+Jumlah
+18 aspek penilaian
+
+Persentase Rata-rata
+84,6%
+84,2 %
+84,4 %
+
+.
+TEKNO Vol. 29 Issue 1, p86-96 | Jurusan Teknik Elektro, Universitas Negeri Malang, Indonesia | Maret 2019
+I. D. Wahyono | Personalisasi virtual laboratory menggunakan kecerdasan buatan
+
+93
+
+TEKNO
+
+Jurnal Teknologi Elektro dan Kejuruan
+
+http://journal2.um.ac.id/index.php/tekno | ISSN 1693-8739 / 2686-4657
+
+Hasil uji coba pada ahli materi, ahli media, ahli model, kelompok kecil dan lapangan
+dilakukan analisa data dengan perbandingan pada pilot project Virtual Laboratorium sebagai
+berikut:
+1. Ahli media, aspek penilaian pada kemenarikan media dengan persentase 97,5 %
+disebabkan kurangnya animasi, sedangkan untuk efisiensi media dengan persentase
+96,9% disebabkan kurang pada kelengkapan, ada kenaikan 2,5% setelah dilakukan
+perbaikan.
+2. Ahli materi, aspek penilaian materi dengan persentase 83,75% disebabkan kekurangan
+dalam penggunaan bahasa, aspek evaluasi dengan persentase 91,7% disebabkan
+proses umpan balik, sedangkan aspek efisiensi dengan persentase 93,75% disebabkan
+pada motivasi, ada kenaikan 3% setelah dilakukan perbaikan.
+3. Ahli model, aspek kemenarikan dengan persentase 75% pada tujuan disebabkan
+kurang dari segi sasaran dan aspek efisiensi dengan persentase 83,3% pada teknologi
+disebabkan kurang fleksibelitas, ada kenaikan 7% setelah dilakukan perbaikan.
+4. Kelompok kecil, LMS dengan nilai 82,3% disebabkan kesedianan tutorial sedangkan
+materi LMS dengan presentase 78,5% kurangnya penggunaan gambar. Setelah
+dilakukan perbaikan ada kenaikan sebesar 6%. Hasil perbaikan diperlihatkan dalam uji
+lapangan dalam Tabel 7.
+Secara keseluruhan data hasil uji coba validasi ahli media, ahli materi, uji coba kelompok
+kecil, dan uji coba lapangan (Gambar 6), didapatkan data akhir sebesar 98,5% untuk ahli
+media, 89,7% untuk ahli materi, 94,8% untuk ahli model pembelajaran, 80,4% untuk uji coba
+kelompok kecil, dan 84,4% untuk uji coba lapangan. Hasil rata-rata yang diperoleh dari
+semua uji coba yang dilakukan adalah sebesar 90,8%. Berdasarkan Tabel 1 tentang kriteria
+validitas, maka secara keseluruhan rancangan model pembelajaran Virtual Laboratory dan
+juga komponen model pembelajaran berupa Learning Management System dan perangkat
+pembelajaran yang telah dikembangkan dinyatakan valid dan tidak perlu revisi.
+
+Gambar 5. Diagram Hasil Uji Coba
+
+TEKNO Vol. 29 Issue 1, p86-96 | Jurusan Teknik Elektro, Universitas Negeri Malang, Indonesia | Maret 2019
+I. D. Wahyono | Personalisasi virtual laboratory menggunakan kecerdasan buatan
+
+94
+
+TEKNO
+
+Jurnal Teknologi Elektro dan Kejuruan
+
+http://journal2.um.ac.id/index.php/tekno | ISSN 1693-8739 / 2686-4657
+
+4. Kesimpulan
+Virtual Laboratory merupakan gabungan dari pembelajaran tatap muka dan pembelajaran
+online yang memiliki seting pembelajaran yang beragam. Rancangan Virtual Laboratory yang
+dirancang mengacu pada seting pembelajaran yang mengklasifikasi¬kan seting pembelajaran
+kedalam empat kuadran, yaitu (1) Live Synchronous, (2) Virtual Synchronous, (3) Self-paced
+asynchronous, dan (4) Collaborative asynchronous
+Berdasarkan proses pengembangan dan analisis data hasil uji coba yang telah dilakukan,
+maka dapat disimpulkan:
+1) LMS sebagai komponen utama pada model pembelajaran Virtual Laboratory ini telah
+memenuhi kriteria sebagai media pembelajaran yang efektif dan efisien dengan rata-rata
+persentase validitas dari ahli media sebesar 98,5%.
+2) Materi yang telah dikembangkan pada model pembelajaran Virtual Laboratory ini telah
+memenuhi standar kompetensi dengan rata-rata persentase validitas dari ahli materi
+sebesar 89,7%
+3) Rancangan model pembelajaran Virtual Laboratory ini telah dikembangkan dengan baik
+dengan persentase validitas dari ahli desain dan model pembelajaran Virtual Laboratory
+sebesar 94,8%.
+4) Rancangan model pembelajaran Virtual Laboratory dan komponen model pembelajaran
+berupa LMS serta perangkat pembelajaran, telah dikembangkan dengan baik dengan
+rata-rata persentase dari semua uji coba yang dilakukan sebesar 82,4%.
+5) Rancangan model pembelajaran Virtual Laboratory ini telah layak digunakan dan
+diimplementasikan dengan rata-rata persentase dari semua uji coba yang dilakukan
+sebesar 90,8%..
+Daftar Rujukan
+Callaghan, M. J., Eguíluz, A. G., McLaughlin, G., & McShane, N. 2015. Opportunities and
+challenges in virtual reality for remote and virtual laboratories. In Proceedings of 2015 12th
+International Conference on Remote Engineering and Virtual Instrumentation (REV) (pp.
+235-237). IEEE.
+dela Cruz, D. R., & Mendoza, D. M. M. 2018. Design and Development of Virtual Laboratory: A
+Solution to the Problem of Laboratory Setup and Management of Pneumatic Courses in
+Bulacan State University College of Engineering. In 2018 IEEE Games, Entertainment,
+Media Conference (GEM) (pp. 1-23). IEEE.
+Rodriguez-Gil, L., García-Zubia, J., & Orduña, P. 2016. An architecture for new models of
+Online Laboratories: educative multi-user gamified hybrid laboratories based on Virtual
+Environments. In 2016 13th International Conference on Remote Engineering and Virtual
+Instrumentation (REV) (pp. 202-203). IEEE. Technology, Computer, and Electrical
+Engineering (ICITACEE) (pp. 230-234). IEEE.
+
+TEKNO Vol. 29 Issue 1, p86-96 | Jurusan Teknik Elektro, Universitas Negeri Malang, Indonesia | Maret 2019
+I. D. Wahyono | Personalisasi virtual laboratory menggunakan kecerdasan buatan
+
+95
+
+TEKNO
+
+Jurnal Teknologi Elektro dan Kejuruan
+
+http://journal2.um.ac.id/index.php/tekno | ISSN 1693-8739 / 2686-4657
+
+Rokhmawati, A., Kusumo, G. R., Wahyoho, I. D., & Irawati, R. 2018. Ultranus: A novel
+Indonesian cultural game using artificial intelligence. In 2018 International seminar on
+application for technology of information and communication (pp. 361-366). IEEE.
+Suwasono, S., Prihanto, D., Wahyono, I. D., & Nafalski, A. 2017. Virtual Laboratory for Line
+Follower Robot Competition. International Journal of Electrical and Computer
+Engineering, 7(4), 2253.
+Wahyono, I. D. 2019. Open online course adaptif berbasis framework. TEKNO, 28(2), 103-115.
+Wahyono, I. D., Fadlika, I., Taufani, A. R., & Elmunsyah, H. 2018. Research in Ubiquitous
+Network: Communication Optimization using Publish-Subscribe. In 2018 Electrical Power,
+Electronics, Communications, Controls and Informatics Seminar (EECCIS) (pp. 202-206).
+IEEE.
+Wahyono, I. D., Fadlika, I., Afandi, A. N., & Faiz, M. R. 2019. Preliminary study of wireless
+balloon network using adaptive position tracking technology for post disaster
+event. Telkomnika, 17(4).
+Wirawan, I. M., Herwanto, H. W., & Wahyono, I. D. 2017. Virtual programming laboratory UM
+(VLPUM) for programming competition. In 2017 5th International Conference on Electrical,
+Electronics and Information Engineering (ICEEIE) (pp. 158-162). IEEE.
+Wirawan, I. M., Taufani, A. R., Wahyono, I. D., & Fadlika, I. 2017. Online judging system for
+programming contest using UM framework. In 2017 4th International Conference on
+Information
+Wirawan, I. M., Wahyono, I. D., & Idfi, G. 2018. Research in Wireless Sensor Networks:
+Optimization Service Discovery using Attenuated Bloom Filter. In 2018 Electrical Power,
+Electronics, Communications, Controls and Informatics Seminar (EECCIS) (pp. 342-347).
+IEEE.
+Wirawan, I. M., Wahyono, I. D., Idfi, G., & Kusumo, G. R. 2018. IoT Communication System
+Using Publish-Subscribe. In 2018 International Seminar on Application for Technology of
+Information and Communication (pp. 61-65). IEEE.
+
+TEKNO Vol. 29 Issue 1, p86-96 | Jurusan Teknik Elektro, Universitas Negeri Malang, Indonesia | Maret 2019
+I. D. Wahyono | Personalisasi virtual laboratory menggunakan kecerdasan buatan
+
+96
+
+

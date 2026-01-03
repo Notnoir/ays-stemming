@@ -1,0 +1,618 @@
+                                                  Antroposen : Journal of Social Studies and Humaniora
+                                  Vol. 3, No. 1, Juni 2024: 13-25, DOI 10.33830/antroposen.v3i1.6780
+
+        Kecerdasan Buatan: Resiko, Tantangan Dan Penggunaan Bijak
+                                    Pada Dunia Pendidikan
+
+                                 Ahmad Abdul Rochim
+    Prodi Pendidikan Guru Sekolah Dasar, Institut Pangeran Dharma Kusuma Indramayu
+                                    ahmadabdulrochim@gmail.com
+
+
+Abstrak: Perkembangan teknologi telah mengubah banyak aspek kehidupan, salah satunya dunia
+pendidikan. Perubahan signifikan yang terjadi adalah munculnya kecerdasan buatan, yang telah
+menjadi bagian integral dari proses belajar mengajar. Artikel ini bertujuan untuk menggali
+pemahaman tentang kecerdasan buatan serta risiko yang terkait dengannya dalam konteks pendidikan.
+Pendekatan yang digunakan adalah melalui studi literatur dengan menganalisis artikel ilmiah yang
+relevan. Data yang terkumpul dianalisis untuk membahas dampak ketergantungan penggunaan
+kecerdasan buatan dalam pendidikan. Peneltian ini berlokasi di SMA PUI Gegesik, hasil penelitian
+menunjukkan bahwa terdapat beberapa risiko yang terkait dengan ketergantungan penggunaan
+kecerdasan buatan dalam pendidikan, termasuk potensi kesalahan dan ketidakakuratan dalam sistem
+kecerdasan buatan, masalah moral, dan dampak psikologis. Artikel ini juga mengusulkan beberapa
+tindakan pengunaan secara bijak kecerdasan buatan untuk mengatasi risiko-risiko tersebut. Artikel ini
+bertujuan memberikan pemahaman yang lebih baik tentang penggunaan kecerdasan buatan dalam
+pendidikan dan menawarkan panduan mengenai cara menghadapi risiko-risiko yang mungkin timbul.
+
+Kata kunci: kecerdesan buatan; risiko; tantangan; penggunaan bijak; pendidikan
+Abstract: The development of technology has changed many aspects of life, one of which is
+education. A significant change is the emergence of artificial intelligence, which has become an
+integral part of the teaching and learning process. This article aims to explore the understanding of
+artificial intelligence and the risks associated with it in the context of education. The approach used is
+through a literature study by analyzing relevant scientific articles. The data collected is analyzed to
+discuss the impact of the dependent use of artificial intelligence in education. This research is located
+at PUI Gegesik High School. The results show that there are several risks associated with the
+dependent use of artificial intelligence in education, including potential errors and inaccuracies in
+artificial intelligence systems, moral issues, and psychological impacts. The article also proposes
+some measures for wise use of artificial intelligence to overcome these risks. This article aims to
+provide a better understanding of the use of artificial intelligence in education and offer guidance on
+how to deal with the risks that may arise.
+
+Keywords: artificial intelligence; risk; challenge; wise use; education
+
+
+PENDAHULUAN
+      Perkembangan teknologi saat ini berlangsung dengan cepat, terutama sejak pandemi
+Covid-19 merebak. Kondisi ini telah mendorong masyarakat global, termasuk Indonesia,
+untuk memanfaatkan teknologi dalam berbagai aspek kehidupan (Pakpahan, 2021).
+Pemanfaatan teknologi pada era ini telah menghadirkan perubahan signifikan dalam dunia
+pendidikan dengan munculnya konsep transformasi pendidikan 5.0. Konsep ini melibatkan
+pemanfaatan kecerdasan buatan, Internet of Things, big data, dan teknologi lainnya, yang
+mana pemanfaatan kecerdasan buatan ini telah mengubah cara manusia berinteraksi dan
+bekerja. Kemajuan dalam teknologi kecerdasan buatan yang terhubung dengan Internet of
+
+
+                                                   13
+Ahmad Abdul Rochim, Kecerdasan Buatan: Resiko, Tantangan Dan Penggunaan Bijak Pada Dunia
+Pendidikan
+
+Things, telah mengubah cara manusia berpikir, bertindak, dan menjalani aktivitas sehari-hari
+mereka (Girasa, 2020).
+      Salah satu bentuk teknologi yang sedang berkembang pesat saat ini adalah kecerdasan
+buatan, yang sering disebut sebagai kecerdasan artifisial (AI). McCarthy (2007)
+mendefinisikan kecerdasan buatan sebagai bidang studi yang berkaitan dengan menciptakan
+kemampuan pada komputer untuk melakukan tugas-tugas yang pada awalnya hanya dapat
+dilakukan oleh manusia.Tujuan utama dari kecerdasan buatan adalah mereplikasi pemikiran
+dan perilaku manusia dalam bentuk algoritma dan perangkat lunak komputer.
+      Perubahan ini juga terlihat dalam konteks pendidikan, dimana cara belajar, mengajar,
+dan persiapan untuk karir di masa depan mengalami transformasi (Putra, 2023). Transformasi
+tersebut mengharuskan pendidikan saat ini beradaptasi dengan teknologi baru, dan
+memungkinkan memberikan pengalaman pembelajaran yang lebih dinamis dan interaktif. Hal
+tersebut sepadan dengan yang diujarkan oleh Bapak Nyoman Shuida, Staf Ahli Bidang
+Sumber Daya Kemaritiman Kementerian Koordinator Bidang Pembangunan Manusia dan
+Kebudayaan (Kemenko PMK), yaitu “Tentu harapannya para pendidik kita memiliki
+kemampuan teknologi dan komunikasi serta kompetensi digital yang lebih mumpuni dari
+peserta didik”, ujarnya saat mewakili Menko PMK memberikan sambutan pada acara
+Pembukaan Program Pelatihan Kemampuan Non Teknis Tenaga Pendidik yang diinisiasi
+oleh PP Ikatan Alumni ITS Surabaya (Mutiara, 2021).
+      Sehingga perkembangan teknologi yang pesat membawa sejumlah peluang dan
+tantangan bagi dunia pendidikan. Beberapa peluang yang muncul antara lain penggunaan
+teknologi yang memungkinkan kolaborasi yang lebih mudah antara pendidik dan peserta
+didik. Teknologi juga memungkinkan adanya pembelajaran online yang dapat meningkatkan
+aksesibilitas pendidikan, terutama bagi peseta didik yang terbatas oleh batasan geografis,
+fisik, atau keadaan lainnya (Erstad, 2018). Selain peluang yang ada, pendidik juga
+menghadapi tantangan untuk memahami dan mengintegrasikan teknologi dalam pendidikan
+secara optimal. Dalam era teknologi yang terus berubah, kompetensi digital guru menjadi hal
+yang sangat penting. Untuk itu, seorang pendidik harus menentukan cara terbaik untuk
+menggunakan teknologi dalam pengajaran guna meningkatkan pembelajaran peserta didik,
+yang sudah menjadi suatu tugas yang penting.
+      Namun, perlu diingat bahwa ada sejumlah risiko yang terkait dengan penggunaan
+kecerdasan buatan, salah satunya seperti potensi ketergantungan pada teknologi (Misnawati,
+2023), yang sebenarnya bisa menjadi kontraproduktif terhadap tujuan pembelajaran. Hal ini
+sepadan dengan yang diujarkan oleh Ketua Prodi Magister Pendidikan Matematika,
+Pascasarjana Universitas Pasundan Prof. Dr. H. R. Poppy Yaniawati, M.Pd “Akan muncul
+ketimpangan dalam kualitas pendidikan dan keunggulan kompetitif di antara peserta didik
+dari latar belakang yang berbeda, juga masalah nilai etika yang perlu diperhatikan dalam
+pendidikan, seperti transparansi, keadilan, keamanan, dan privasi data” (Reta, 2023).
+      Hal tersebut juga yang dirasakan oleh guru di SMA PUI Gegesik salah satunya Bapak
+Wildan At-Thoilah selaku Guru Pendidikan Agama Islam sebagaimana hasil wawancara pra
+observasi, mengatakan “Siswa sekarang ketika diberikan tugas selalu mengandalkan
+teknologi, sebabnya jawaban yang diberikan siswa selalu sama, dan terkadang ada yang
+malas untuk mengerjakan tugas” (hasil wawancara). Oleh karena itu, peneliti tertarik
+
+
+                                            14
+                                              Antroposen : Journal of Social Studies and Humaniora
+                              Vol. 3, No. 1, Juni 2024: 13-25, DOI 10.33830/antroposen.v3i1.6780
+
+mengambil judul penelitian “Kecerdasan Buatan: Resiko, Tantangan Dan Penggunaan Bijak
+Pada Dunia Pendidikan”.
+       Dan pembeda penelitian yang akan dilakukan dengan penelitian terdahulu, diantaranya;
+Pertama, penelitian oleh Aidah Novianti Putri dan Moh. Abdul Kholiq Hasan yang berjudul
+“Penerapan Kecerdasan Buatan sebagai Media Pembelajaran Bahasa Arab di Era Society 5.0”
+hasil penelitiannya menjelaskan bahwa kecerdasan buatan (Artificial Intelligence/AI) dapat
+diterapkan sebagai media pembelajaran bahasa Arab di era society 5.0 seperti membantu
+mengatasi keterbatasan manusia sebagai pengajar dalam proses pembelajaran dan sebagai
+media pembelajaran, seperti: Intelligent Tutoring System (ITS), Voice Assistant, Personalized
+Learning, Virtual Mentor, Smart Content, Automatic Assessment, dan Game Edukasi (Putri,
+2023). Perbedaannya penelitian ini hanya berfokus pada pemanfaatan AI pada proses
+pembelejaran, sedangkan penelitian yang akan diteliti berfokus pada resiko, tantangan dan
+penggunaan bijak kecerdasan buatan dalam pendidikan.
+       Kedua, penelitian oleh Nisrina Hikmawati, Moh. Imam Sufiyanto, dan Jamilah yang
+berjudul “Konsep Dan Implementasi Kecerdasan Buatan (Artificial Intelligence) Dalam
+Manajemen Kurikulum SD/MI” hasil penelitiannya menjelaskan apabila konsep manajemen
+kurikulum sekolah dasar berbasis Artificial Intelligence, maka dalam pembelajaran, teknologi
+Artificial Intelligence dapat berperan sebagai Sistem Tutor, Intelligent Tutee, alat/media
+pembelajaran, dan Panduan membuat kebijakan kurikulum dan pendidikan (Hikmawati,
+2023). Perbedaannya penelitian ini hanya menjelaskan manfaat penggunaan AI pada
+pembelaran di sekolah. sedangkan penelitian yang akan diteliti berfokus pada resiko,
+tantangan dan penggunaan bijak kecerdasan buatan dalam pendidikan.
+       Ketiga, penelitian oleh Yohannes Marryono Jamun yang berjudul “Dampak Teknologi
+Terhadap Pendidikan” hasil penelitiannya menjelaskan bahwa dampak negatif teknologi
+terhadap pendidikan yaitu terjadinya perubahan perilaku, etika, norma, aturan, atau moral
+kehidupan yang bertentangan dengan etika, norma, aturan, dan moral kehidupan (Jamun,
+2018). Perbedaannya penelitian ini hanya menjelaskan dampak negatif teknologi pada
+pendidikan. sedangkan penelitian yang akan diteliti berfokus pada resiko, tantangan dan
+penggunaan bijak kecerdasan buatan dalam pendidikan.
+       Keempat, penelitian oleh Sudarsi Lestari yang berjudul “Peran Teknologi Dalam
+Pendidikan Di Era Globalisasi” hasil penelitiannya menjelaskan bahwa teknologi dapat
+diimplementasikan dalam pendidikan contohnya dalam media pembelajaran, alat
+administratif, dan sumber belajar. Dampak positifnya adalah lebih efisien dalam masalah
+waktu, biaya, logistik dan masalah kelembagaan lainnya. Sedangkan dampak negatifnya
+adalah teknologi dapat merubah kehidupan sosial (Lestari, 2018). Perbedaannya penelitian ini
+hanya menjelaskan penerapan teknologi dalam pendidikan, dampak negatif dan positif
+teknologi pada pendidikan. sedangkan penelitian yang akan diteliti berfokus pada resiko,
+tantangan dan penggunaan bijak kecerdasan buatan dalam pendidikan.
+       Kelima, penelitian oleh M. Husaini yang berjudul “Pemanfaatan Teknologi Informasi
+Dalam Bidang Pendidikan (E-Education)” hasil penelitiannya menjelaskan internet layanan
+informasi dapat menjadi sebagai sumber belajar, media belajar yang dapat dipelajari sesuai
+dengan kecepatan belajar peserta didik. Media belajar tidak terbatas pada huruf dan gambar
+melainkan dapat dikombinasikan dengan grafik, animasi, video, audio secara bersama-sama
+
+
+                                              15
+Ahmad Abdul Rochim, Kecerdasan Buatan: Resiko, Tantangan Dan Penggunaan Bijak Pada Dunia
+Pendidikan
+
+sehingga media ini lebih dikenal dengan istilah multimedia. Pengaruh positip pemanfaatan
+internet untuk pendidikan dalam membangun SDM dunia pendidikan harus mampu
+mengikuti perkembangan aplikasi IPTEK (Husaini, 2014). Perbedaannya penelitian ini hanya
+menjelaskan pemanfaatn teknologi dalam pendidikan, dampak positif teknologi pada
+pendidikan. sedangkan penelitian yang akan diteliti berfokus pada resiko, tantangan dan
+penggunaan bijak kecerdasan buatan dalam pendidikan.
+      Untuk itu rumusan dalam peneilitian ini yaitu apa saja resiko kecerdasan buatan bagi
+siswa, serta bagaimana tantangan dan penggunaan bijak oleh para guru di SMA PUI Gegesik.
+Dan tujuan penelitian ini yaitu, untuk mengetahui apa saja resiko kecerdasan buatan bagi
+siswa, dan bagaimana guru menghadapi tantangan dan penggunaan bijak oleh guru di SMA
+PUI Gegesik.
+
+
+METODE PENELITIAN
+      Peneliti menggunakan pendekatan kualitatif untuk mendapatkan wawasan mengenai
+fenomena yang diamati. Dipilihnya jenis penelitian deskriptif kualitatif yang bertujuan untuk
+menggambarkan dan menjelaskan fenomena yang diteliti. Dan menggunakan desain
+penelitian studi khusus. Untuk pengumpulan data melalui wawancara oleh para guru dan
+pengamatan langsung ke sekolah .
+      Penelitian ini berlangsung di SMA PUI Gegesik, Cirebon, Jawa Barat yang
+dilaksanakan pada 21 September 2023. Teknik pengumpulan data pertama, Observasi
+Penggunaan observasi meliputi observasi langsung terhadap berbagai aspek yang berkaitan
+dengan para guru SMA PUI Gegesik. Kedua, Wawancara dilakukan dengan menggunakan
+instrumen penelitian yang telah disusun sebelumnya, yang fokus pada pertanyaanya seputar
+tatangan guru di SMA PUI Gegesik. Ketiga, Data documenter digunakan untuk melengkapi
+data yang diperoleh dari observasi dan wawancara. Dokumen ini memuat foto, video dan
+audio. Dalam konteks penelitian ini, dokumen digunakan untuk mencatat data.
+      Teknik analisis data yang digunakan dalam penelitian ini yaitu. Pertama, reduksi data
+yaitu proses analisis yang menelaah seluruh data yang terkumpul dalam bentuk wawancara,
+observasi, dan dokumentasi tentang resiko, tantangan dan penggunaan bijak kecerdasan
+buatan dalam pendidikan. Kedua, Penyajian Data yaitu menyajikan data dalam bentuk uraian
+singkat tentang resiko, tantangan dan penggunaan bijak kecerdasan buatan dalam pendidikan.
+Ketiga, Penarikan kesimpulan yaitu penemuan baru yang sebelumnya belum pernah
+ditemukan tentang resiko, tantangan dan penggunaan bijak kecerdasan buatan dalam
+pendidikan.
+
+
+HASIL DAN PEMBAHASAN
+Perkembangan Kecerdasan Buatan
+      Kecerdasan Buatan (Artificial Intelligence/AI) adalah suatu kapabilitas mesin untuk
+mengejar simulasi dari kecerdasan manusia dalam hal pembelajaran, penalaran, dan
+pengambilan keputusan.Hal ini melibatkan penggunaan algoritma dan teknik komputasi yang
+canggih untuk memproses data, mengidentifikasi pola, serta menghasilkan prediksi atau
+tindakan yang cerdas.Istilah "Kecerdasan Buatan" pastinya tidak jauh dari sosok John
+
+
+                                             16
+                                            Antroposen : Journal of Social Studies and Humaniora
+                            Vol. 3, No. 1, Juni 2024: 13-25, DOI 10.33830/antroposen.v3i1.6780
+
+McCarthy (1927-2011).Yaitu seorang ilmuwan komputer yang mengajar matematika di MIT
+dan Stanford University (Pabubung, 2023).
+      Russell & Norvig (2016) menjelaskan bahwa perkembangan awal kecerdasan buatan
+terjadi pada periode 1943-1955, ketika upaya dilakukan untuk menciptakan mesin yang
+mampu meniru kemampuan manusia. Salah satu pencapaian penting selama periode ini
+adalah pengembangan model jaringan saraf tiruan oleh McCulloch dan Pitts pada tahun 1943,
+serta ide proposal Dartmouth Summer Research Project on Artificial Intelligence yang
+diajukan oleh McCarthy, Minsky, Rochester, dan Shannon pada tahun 1955. Sejak tahun
+1986 hingga saat ini, pendekatan yang mendominasi adalah pendekatan terdistribusi dan
+integrasi dengan metode statistik.Metode-metode baru seperti jaringan saraf tiruan,
+pembelajaran mesin, dan algoritma genetika digunakan untuk meningkatkan kemampuan
+sistem kecerdasan buatan.Kemajuan dalam teknologi komputasi juga telah mempercepat
+perkembangan kecerdasan buatan.
+      Menurut Nilsson (2010), perkembangan kecerdasan buatan dapat dibagi menjadi
+beberapa periode penting sebagai berikut:
+  a. Perkembangan Awal (Abad ke-20 hingga 1950-an): Pada periode ini, terdapat usaha
+      awal dalam menciptakan mesin cerdas. Konsep mesin logika formal yang
+      diperkenalkan oleh matematikawan seperti Alan Turing dan John von Neumann
+      menjadi dasar untuk pengembangan kecerdasan buatan.
+  b. Era Sistem Berbasis Aturan (1950-an hingga 1960-an): Fokus utama pada periode ini
+      adalah pengembangan sistem yang berbasis aturan, di mana pengetahuan manusia
+      direpresentasikan dalam bentuk aturan logika dan dijalankan oleh mesin. Contohnya
+      adalah program Logic Theorist yang dikembangkan oleh Allen Newell dan Herbert A.
+      Simon.
+  c. Munculnya Pendekatan Koneksis (1960-an hingga 1970-an): Pada periode ini,
+      pendekatan koneksis yang berfokus pada jaringan saraf buatan mulai muncul. Tokoh-
+      tokoh seperti John McCarthy, Marvin Minsky, dan Oliver Selfridge menjadi penting
+      dalam perkembangan periode ini.
+  d. Era Pengetahuan dan Sistem Pakar (1970-an hingga 1980-an): Fase ini ditandai dengan
+      perhatian yang beralih ke representasi pengetahuan dan pengembangan sistem pakar.
+      Pengetahuan manusia diambil dan diintegrasikan ke dalam sistem untuk mengambil
+      keputusan yang cerdas. Pendekatan ini diterapkan dalam berbagai bidang seperti
+      kedokteran dan pemrosesan bahasa alami.
+  e. Munculnya Machine Learning (1980-an hingga 1990-an): Periode ini ditandai dengan
+      munculnya metode Machine Learning dan pendekatan berbasis data. Algoritma
+      Machine Learning digunakan untuk melatih komputer agar dapat belajar dari data dan
+      mengidentifikasi pola yang kompleks.
+  f. Perkembangan Terkini (1990-an hingga sekarang): Periode ini mencakup
+      perkembangan terbaru dalam kecerdasan buatan, termasuk peningkatan dalam
+      kapabilitas komputasi, kemajuan dalam pembelajaran mendalam (deep learning), dan
+      penggunaan teknik-teknik seperti pembelajaran penguatan (reinforcement learning).
+      Kemajuan ini telah memungkinkan pencapaian signifikan dalam bidang seperti
+      pengenalan wajah, pengenalan suara, dan kendaraan otonom.
+
+
+                                            17
+Ahmad Abdul Rochim, Kecerdasan Buatan: Resiko, Tantangan Dan Penggunaan Bijak Pada Dunia
+Pendidikan
+
+      Haenlein & Kaplan (2019) menyatakan bahwa terdapat tiga jenis kecerdasan buatan,
+berikut di bawah ini identifikasinya;
+  a. Kecerdasan Buatan Terbatas (Narrow AI): Ini adalah jenis kecerdasan buatan yang
+      memiliki fokus pada tugas-tugas yang sangat spesifik dan terbatas. Misalnya sistem
+      penerjemahan bahasa, kendaraan otonom yang mampu mengemudi sendiri, dan sistem
+      deteksi wajah.
+  b. Kecerdasan Buatan Umum (General AI): Jenis kecerdasan buatan ini memiliki
+      kemampuan untuk melakukan berbagai macam tugas seperti manusia, bahkan mungkin
+      melampaui kemampuan manusia dalam beberapa aspek. Pengembangan kecerdasan
+      buatan yang bersifat umum masih merupakan tujuan jangka panjang dan sedang dalam
+      tahap pengembangan.
+  c. Kecerdasan Buatan Super inteligensi (Super intelligence): Kecerdasan buatan ini jauh
+      melampaui kemampuan intelektual manusia dalam semua bidang. Super intelligence
+      merujuk pada kecerdasan buatan yang mampu mengatasi masalah yang jauh lebih
+      kompleks dan memiliki pemahaman yang lebih mendalam daripada manusia.
+
+Risiko Penggunaan Kecerdasan Buatan Dalam Pendidikan
+      Risiko penggunaan kecerdasan buatan (Artificial Intelligence/AI) pada dunia
+pendidikan sangat perlu diperhatikan, berikut di bawah ini risiko dari penggunaannya;
+  a. Risiko Kesalahan dan Ketidakakuratan Peserta Didik Memperoleh Pengetahuan
+       Kecerdasan buatan (Artificial Intelligence/AI) memanfaatkan data untuk memberikan
+ rekomendasi atau membuat keputusan. Namun, proses pengenalan dan pemrosesan data
+ dapat berpotensi menghasilkan kesalahan.Dan keputusan yang dihasilkan oleh sistem
+ kecerdasan buatan menjadi tidak akurat atau relevan. Dikarenakan data yang digunakan
+ tidak mewakili dengan baik, tidak lengkap, atau berasal dari sumber yang memiliki bias.
+ Tentunya, faktor ini dipengaruhi salah satunya oleh bagaimana algoritma AI tersebut dilatih
+ dengan data atau oleh preferensi manusia yang merancangnya (Munawar et al., 2023).
+       Adapun beberapa kesalahan yang dihasilkan oleh kecerdasan buatan, yaitu terkait
+ dengan ejaan dan tata bahasa, serta ketidakakuratan informasi, dapat muncul saat
+ kecerdasan buatan digunakan dalam penulisan ilmiah atau pembuatan tugas oleh peserta
+ didik.Akan tetapi, kecerdasan buatan juga memberikan bantuan dalam tugas seperti
+ merangkum, memparafrase, dan mereview literatur, sehingga penggunaannya harus disertai
+ dengan evaluasi oleh manusia atau penggunananya. Dalam hal inilah peran guru diperlukan
+ dalam pemeriksaan menyeluruh terhadap potensi kesalahan atau bias yang mungkin timbul
+ akibat penggunaan alat bantu berbasis kecerdasan buatan. Dan sebagai peserta didik juga
+ harus kritis memahami informasi saat melakukan literasi informasi, serta melakukan
+ verifikasi kebenaran informasi, karena memungkin informasi yang didapat akan tidak tepat.
+ (Pakpahan, 2017).
+       Hal tersebut di atas yang dialami oleh Ibu Ela selaku guru bahasa inggris di SMA PUI
+ Gegegik mengatakan “ketika saya memberikan tugas untuk menerjemahkan bahasa inggris
+ ke bahasa Indonesia, dengan memberikan waktu 10 menit untuk membuka kamus, tapi yang
+ terjadi malah siswa membuka Hp lantas menerjemahkannya dengan menggunakan Chat-
+ GPT, yang terjadi ketidak akuratan siswa dalam menerjemahkan….” (Hasil wawancara).
+  b. Risiko Moral Peserta Didik
+
+                                            18
+                                            Antroposen : Journal of Social Studies and Humaniora
+                            Vol. 3, No. 1, Juni 2024: 13-25, DOI 10.33830/antroposen.v3i1.6780
+
+       Akhir-akhir ini makin meningkatnya fenomena penggunaan chat bot dalam bentuk
+teks interaktif yang dapat membantu manusia untuk mendapatkan informasi yang mereka
+butuhkan. Dengan chat bot penggunanya dapat mengajukan pertanyaan dan mendapatkan
+jawabannya dengan cepat. Dalam hal tentunya peserta didik dapat memanfaat kecerdasan
+buatan sebagai mentor visual untuk membantu mereka memahami konsep dan belajar secara
+mandiri (Fal, 2023). Namun, terjadi masalah apabila penggunaan kecerdasan buatan
+tersebut, digunakan untuk membuat karya ilmiah, yang kemudian tanpa memparafrasekan
+karya ilmiah yang dibuat, pastinya dapat mengarah pada tindakan plagiasi.
+       Plagiarisme adalah pengambilan karangan, pendapat dan sebagainya milik orang lain
+kemudian menjadikannya seolah-olah karangan maupun pendapat sendiri (Adiyati &
+Supriyanto, 2020). Antoroputri dkk (2022) menjelaskan bahwa dibalik adanya tindakan
+plagiasi diantaranya adalah malas membaca literatur, tenggat waktu yang singkat, dan
+keinginan untuk mengerjakan secara instan.Hal tersebut difasilitasi oleh adanya kecerdasan
+buatan yang mampu menjawab permasalahan peserta didik secara instan. Adiyati &
+Supriyanto (2020) merangkum dampak negatif dari adanya tindakan plagiasi yang
+didiamkan, diantaranya akan menimbulkan persepsi bahwa plagiasi adalah hal yang biasa,
+dimana peserta didik tidak akan merasa bersalah walaupun telah melakukan pelanggaran
+tersebut. Selain itu plagiasi dapat menurunkan rasa percaya diri untuk dapat menciptakan
+karya yang orisinal.
+       Hal tersebut di atas yang dialami oleh Bapak Wildan selaku guru PAI di SMA PUI
+Gegegik mengatakan “…pas waktu ingin mengoreksi hasil ulangan siswa, pas dilihat
+jawaban yang ditulis siswa, satu sama lain itu sama tidak ada bedanya, sudah ketahuan
+selama mengerjakan saling menyontek atau saling mengirimkan jawaban melalui aplikasi,
+supaya tidak ketahuan guru….” (Hasil wawancara)
+ c. Risiko Psikologi Peserta Didik
+       Peningkatan penggunaan alat bantu berbasis kecerdasan buatan, seperti chat bot, telah
+membawa berbagai kemudahan bagi dunia pendidikan. Namun, perlu diwaspadai bahwa
+kemudahan ini dapat memicu ketergantungan.Schrock (2006) menggambarkan bahwa
+ketergantungan terjadi saat seseorang mengandalkan sumber daya tertentu, dalam hal ini
+kecerdasan buatan, untuk memenuhi kebutuhan atau mencapai tujuan.Ini mencerminkan
+tren penggunaan yang signifikan, seperti penggunaan kecerdasan buatan yang mencapai 100
+juta pengguna aktif dalam dua bulan setelah peluncurannya pada Januari 2023 (Prasasti,
+2023). Hal ini menunjukkan bahwa kecerdasan buatan telah menjadi populer dan
+dibutuhkan, termasuk dalam dunia pendidikan.
+       Penelitian yang dilakukan oleh Herdi (2021) mengungkapkan bahwa kenyamanan
+dalam penggunaan kecerdasan buatan memiliki pengaruh positif yang signifikan terhadap
+ketergantungan.Selanjutnya, ketergantungan dapat berdampak negatif, dan menimbulkan
+fenomena "technostress" yaitu stres yang timbul akibat dari ketergantungan yang berlebihan
+terhadap teknologi seperti telepon pintar dan perangkat sejenisnya.Terkait hal ini,
+kenyamanan peserta didik dalam menggunakan kecerdasan buatan, seperti dalam menjawab
+pertanyaan ujian, mengerjakan pekerjaan rumah, atau membuat esai akademik (Maulana et
+al., 2023), dapat menyebabkan fenomena technostress. Apabila hal demikian tidak dikelola
+
+
+
+                                            19
+Ahmad Abdul Rochim, Kecerdasan Buatan: Resiko, Tantangan Dan Penggunaan Bijak Pada Dunia
+Pendidikan
+
+ dengan baik, maka peserta didik akan mengalami tertekan, saat peserta didik tidak dapat
+ mengakses kecerdasan buatan untuk membantu dalam menyelesaikan tugas.
+      Hal tersebut di atas yang dialami oleh Bapak Anton selaku guru ekonomi di SMA PUI
+ Gegegik mengatakan “….saat mengawasi siswa mengerjakan soal ujian, saya
+ mengusahakan yang namanya gadjet itu harus dikumpulkan di meja guru, yang terjadi siswa
+ malah tidak dapat menjawab ujian dengan baik, dan bahkan ada yang malah tidak
+ mengerjakan sama sekali, hal itu menandakan siswa sudah kecanduan AI untuk
+ mempermudah menjawab soal….” (Hasil wawancara)
+
+Tantangan Pendidik Dalam Mengatasi Ketergantungan Peserta Didik Pada Kecerdasan
+Buatan
+      Semakin maraknya atau seringnya penggunaan kecerdasan buatan oleh peserta didik
+dalam menyelesaikan tugas dari pendidik, maka akan timbul ketergantungan pada kecerdasan
+buatan. Dan akan berdampak buruk bagi peserta didik contohnya meningkatnya perilaku
+plagiasi dan kurangnya keyakinan peserta didik pada kemampuan diri sendiri dalam
+menyelesaikan tugas. Fenomena demikian tentunya menjadi tantangan bagi pendidik, berikut
+di bawah ini jawaban tantangan kecanduan kecerdasan buatan;
+  a. Tantangan Mengatasi Perilaku Plagiasi Peserta Didik
+       Semakin sering peserta didik dalam menggunakan kecerdasan buatan, maka dalam
+ diri peserta didik akan timbul rasa malas dalam membaca literatur, dan keinginan
+ mengerjakan segala sesuatu secara instan meningkat. Hal demikian akan berdampak pada
+ meningkatnya peserta didik dalam melakukan plagiasi. Berikut ini beberapa upaya untuk
+ mengurangi atau mencegah plagiasi menurut Pratama (2019) (dalam Adiyati & Supriyanto,
+ 2020); Pertama, institusi pendidikan, dalam hal ini sekolah, perlu memiliki sistem yang
+ mampu mengecek tingkat plagiasi. Kedua, menentukan dan menerapkan sanksi akademik
+ terhadap pihak-pihak yang terbukti melakukan plagiasi. Ketiga, memberikan sosialisasi dan
+ pelatihan terkait dengan aturan penulisan karya ilmiah. Keempat, membekali pemahaman
+ mengenai teknik penulisan yang benar, khususnya terkait dengan materi sitasi.
+       Hal tersebut telah diterapkan Ibu eli selaku guru bahasa inggris di SMA PUI Gegesik
+ mengatakan “…Dengan kejadian siswa mempunyai jawaban yang sama saya selalu
+ mengecek hasil ujian siswa, terus memberikan sangsi apabila siswa ketahuan menyontek
+ dan menggunakan AI dalam menerjemahkan. Dan memberikan bekal juga kepada siswa
+ tentang bagaimana menerjemah yang baik dan benar..” (Hasil wawancara).
+  b. Tantangan Meningkatkan Efikasi Diri Peserta Didik
+       Efikasi diri peserta didik perlu ditingkatkan, yaitu keyakinan peserta didik akan
+ kemampuan diri sendiri dalam menyelesaikan tugas tanpa bantuan kecerdasan buatan.
+ Bandura & Schutack mengidentifikasi beberapa faktor yang dapat mempengaruhi efikasi
+ diri (Florina & Zagoto, 2019); Pertama, pengalaman keberhasilan, dalam hal ini guru
+ hendaknya memberikan tugas yang relatif mudah sehingga peserta didik dapat merasakan
+ kemampuan diri dalam menyelesaikan tugas secara mandiri. Kedua, pemodelan sosial,
+ dalam hal ini guru dapat memberikan pengakuan kepada peserta didik yang berhasil bekerja
+ mandiri sehingga menjadi contoh bagi peserta didik lainnya. Ketiga, adanya dorongan dari
+ individu lain (persuasi sosial), dalam hal ini guru menginstruksikan tugas kelompok kepada
+ peserta didik, serta memungkinkan para peserta didik berkolaborasi dan memberikan
+
+                                            20
+                                             Antroposen : Journal of Social Studies and Humaniora
+                             Vol. 3, No. 1, Juni 2024: 13-25, DOI 10.33830/antroposen.v3i1.6780
+
+ dukungan satu sama lain untuk menyelesaikan pekerjaan bersama. Keempat, kondisi
+ emosional, dalam hal ini lingkungan kelas harus disusun dengan teliti untuk menciptakan
+ kenyamanan bagi peserta didik, dan metode pembelajaran yang inovatif dan menarik,
+ sehingga dapat memperkuat keyakinan peserta didik akan kemampuan diri.
+       Hal tersebut telah diterapkan Bapak Anton selaku guru ekonomi di SMA PUI Gegesik
+ mengatakan “…saya pas memberikan tugas kepada siswa, ketika siswa mengerjakan sendiri
+ tanpa menggunakan AI saya memberikan hadiah, kemudian menjadikannya contoh yang
+ baik yang patut di tiru...” (Hasil wawancara).
+
+Peluang Kecerdasan Buatan Dalam Kegiatan Pembelajaran Peserta Didik dan Pendidik
+       Dari tantangan yang telah disebutkan di atas, para pakar menyatakan bahwa tidak
+terbantahkan, kecerdasan buatan telah berperan membantu pendidik dan peserta didik dalam
+proses pembelajaran di institusi pendidikan, baik itu secara individu maupun dalam
+kelompok. Berikut di bawah ini peluang yang ditawarkan kecerdasan buatan bagi peserta
+didik dan pendidik dalam proses belajar (Lin et al., 2021);
+   a. Pembelajaran Adaptif
+        Sistem pembelajaran adaptif memiliki kemampuan untuk merancang rencana
+  pembelajaran yang disesuaikan dengan kebutuhan dan tingkat pemahaman individu dari
+  peserta didik. Materi pembelajaran dan tingkat kesulitan dapat disesuaikan secara otomatis
+  berdasarkan perkembangan belajar peserta didik. Sebagai contoh, platform pembelajaran
+  Bahasa berbasis web interaktif seperti Duolingo menggunakan teknologi kecerdasan buatan
+  untuk menyesuaikan konten pembelajaran dan latihan sesuai dengan kemampuan bahasa
+  masing-masing pengguna.
+        Hal tersebut telah diterapkan Ibu eli selaku guru bahasa inggris di SMA PUI Gegesik
+  mengatakan “…sesekali saya pernah menggunakan AI dalam pembelajaran seperti
+  Duolingo, itu bagus untuk pembelajaran siswa, karena ada tingkatan dalam pengerjaan
+  soalnya….” (Hasil wawancara).
+   b. Pembelajaran Berbasis Permainan
+        Kecerdasan buatan (AI) dapat digunakan untuk menciptakan pengalaman
+  pembelajaran berbasis permainan (Games) yang menarik dan interaktif.Dengan
+  menganalisis tingkah laku dan perkembangan peserta didik selama mereka bermain game
+  pembelajaran, AI dapat menyesuaikan tingkat kesulitan dan tantangan agar sesuai dengan
+  kemampuan peserta didik.Sebagai contoh, Kahoot, sebuah platform pembelajaran interaktif
+  berbasis permainan, menyajikan pertanyaan dan pilihan jawaban yang disesuaikan dengan
+  kemampuan pengguna.
+        Hal tersebut telah diterapkan Bapak Wildan selaku guru PAI di SMA PUI Gegesik
+  mengatakan “…waktu pembelajaran terasa bosan, atau meteri sekiranya dapat dijadikan
+  permainan, saya selalu menerapkannya saat pembelajaran, harapannya siswa tidak bosan
+  saat belajar, dan dapat menangkap materi yang diajarkan..” (Hasil wawancara).
+   c. Evaluasi
+        Dengan menggunakan Algoritma Machine Learning, kecerdasan buatan (AI) dapat
+  mengevaluasi dan memberikan umpan balik terhadap hasil pekerjaan peserta didik secara
+  otomatis.Ini memberikan keuntungan signifikan dalam menghemat waktu pendidik,
+  sehingga peserta didik dapat segera mengetahui hasil evaluasi mereka. Sebagai contoh,
+
+                                             21
+Ahmad Abdul Rochim, Kecerdasan Buatan: Resiko, Tantangan Dan Penggunaan Bijak Pada Dunia
+Pendidikan
+
+ Coursera, sebuah platform pembelajaran daring, yang memanfaatkan sistem evaluasi
+ otomatis berbasis AI dalam menilai pekerjaan peserta didik untuk beberapa kursus
+ pemrograman.
+      Hal tersebut telah diterapkan Ibu Widia selaku wakkurikulum di SMA PUI Gegesik
+ mengatakan “…saat pembelajaran daring, pas waktu corona, semua kegiatan belajar
+ mengajarkan melalui daring, kami mengalami kewalahan dalam menilai hasil kerja siswa,
+ untungnya ada AI yang dapat otomatis menilai pekerjaan siswa, tahun kemarin pake
+ Coursera…” (Hasil wawancara).
+
+Penggunaan Bijak Kecerdasan Buatan Dalam Pendidikan
+       Penggunaan kecerdasan buatan (AI) dengan bijak sangat penting untuk mengurangi
+risiko dan memaksimalkan manfaatnya. Ada beberapa langkah yang dapat diambil untuk
+memastikan penggunaan kecerdasan buatan yang bijak, seperti memastikan keakuratan dan
+ketiadaan bias dalam teks yang dihasilkan oleh kecerdasan buatan, menghindari penggunaan
+kecerdasan buatan untuk tujuan yang tidak etis, dan mempertimbangkan implikasi sosial dan
+etis dari penggunaan kecerdasan buatan.
+       Penggunaan kecerdasan buatan dalam bidang pendidikan dapat memberikan berbagai
+manfaat bagi para pelajar dan pendidik. Dalam proses pembelajaran, kecerdasan buatan dapat
+digunakan untuk menyajikan penjelasan yang lebih mudah dipahami oleh siswa. Selain itu,
+kecerdasan buatan juga dapat memberikan rekomendasi pembelajaran yang disesuaikan
+dengan kebutuhan masing-masing siswa.Dengan demikian, penggunaan kecerdasan buatan
+(AI) dapat mempercepat dan meningkatkan efektivitas pembelajaran.
+       Namun, dalam penggunaan kecerdasan buatan, penting bagi pengguna untuk
+memastikan bahwa penggunaannya dilakukan dengan tepat dan bijak. Salah satu cara untuk
+memastikan penggunaan yang tepat adalah dengan memahami batasan kemampuan
+kecerdasan buatan. Meskipun kecerdasan buatan memiliki kemampuan yang sangat baik
+dalam menghasilkan teks, kecerdasan buatan tidak dapat menggantikan interaksi manusia
+dalam pengambilan keputusan yang kompleks. Oleh karena itu, pengguna harus
+menggunakan kecerdasan buatan hanya sebagai alat bantu dan tetap mengandalkan penilaian
+manusia untuk keputusan yang penting.
+        Hal tersebut telah diterapkan di SMA PUI Gegesik yang dapat dijadikan pembelajaran
+  dalam menggunakan AI dengan bijak, sebagaiman yang diutarakan Ibu Lela selaku kepala
+  sekolah SMA PUI Gegesik “…Dari adanya kasus corona tahun kemarin, kami disini belajar
+  bagaimana menggunakan AI, yang mana awalnya kami enggan untuk menggunakan AI,
+  tetapi karena keterpaksaan kondisi, akhirnya kami menggunakan AI. Dan sampai sekarang
+  kami masih menggunakan AI, misalnya dalam pelaksanaan ujian kami menggunakan
+  Google Form dalam membagikan soal dan siswa mengerjakan soal dapat menggunakan Hp,
+  dan akan tahu hasilnya siapa yang menyontek dan hanya diberikan satu kesempatan untuk
+  mengakses soal ujian. Praktik demikianlah yang harus dicontoh oleh sekolah lain dalam
+  menggunakan AI, harapanya siswa dapat belajar bahwa penggunaan AI dapat meningkatkan
+  skill mereka...” (Hasil wawancara).
+
+
+
+
+                                           22
+                                                 Antroposen : Journal of Social Studies and Humaniora
+                                 Vol. 3, No. 1, Juni 2024: 13-25, DOI 10.33830/antroposen.v3i1.6780
+
+KESIMPULAN
+      Kesimpulannya pemanfaatan kecerdasan buatan dalam bidang pendidikan akan
+membawa potensi besar dalam menciptakan pendekatan pembelajaran yang dapat
+disesuaikan dengan kebutuhan masing-masing peserta didik, yaitu pembelajaran yang
+dipersonalisasi dan adaptif. Dalam gambaran masa depan, pendidikan yang relevan dan
+adaptif akan menjadi kenyataan. Interaksi antara pendidik dan kecerdasan buatan akan
+menciptakan pengalaman pembelajaran yang lebih dinamis dan efektif. Selain itu, penting
+untuk memperhatikan aksesibilitas terhadap teknologi kecerdasan buatan agar kesenjangan
+teknologi tidak menghambat akses pendidikan yang adil. Dengan menggunakan teknologi
+kecerdasan buatan secara bijaksana, pendidikan dapat mengalami transformasi yang
+signifikan, meningkatkan keterlibatan peserta didik, mengurangi kesenjangan dalam
+pembelajaran, dan menciptakan pengalaman pembelajaran yang sesuai dengan kebutuhan
+masa depan. Oleh karena itu, penting bagi pendidik untuk bersiap dan mengadopsi inovasi ini
+dengan tanggung jawab demi mencapai masa depan pendidikan yang lebih baik.
+
+DAFTAR PUSTAKA
+Adiyati, G. C., and A. Supriyanto.(2020). Penyebab Dan Dampak Bagi Seseorang Yang Melakukan
+        Tindakan Plagiarisme Dalam Penulisan Karya Ilmiah. Masa Dan Pasca Pandemi Covid-19,
+        62–70.
+Antoroputri, Y.P., Priharsari., D., & Perdanakusuma, A.R. (2022). Eksplorasi Perspektif Mahasiswa
+        dalam Penggunaan Turnitin untuk Menghindari Plagiasi.Jurnal Pengembangan Teknologi
+        Informasi dan Ilmu Komputer, Vol. 6(11), 5191-5195.
+Easterby-Smith, Mark, Richard Thorpe, and Paul R Jackson.(2015). Management and Business
+        Research. 5th ed. London: SAGE Publications Ltd.
+Efendi, R. (2013). Self Efficacy: Studi Indigenous Pada Guru Bersuku Jawa. Journal of Social and
+        Industrial Psychology, Vol. 2(2), 61-67.
+Erstad, O., Gilje, Ø.,& Arnseth, H. C. (2018). Teaching and learning in the digital age: Online
+        challenges and possibilities. Scandinavian Journal of Educational Research, 62(2), 171-181.
+Fal, A.Q. (2023). Chat GPT, Kemajuan atau Ancaman di Bidang Pendidikan?.Diakses dari
+        https://retizen.republika.co.id/posts/215435/chat-gpt-kemajuan-atau-ancaman-di-
+        bidangpendidikan.
+Florina, S., & Zagoto, L. (2019). Efikasi Diri Dalam Proses Pembelajaran. Jurnal Review Pendidikan
+        dan Pengajaran, Vol.2(2), 386-391.
+Girasa, R. (2020). Artificial Intelligence as a Disruptive Technology. Palgrave Macmillan
+Haenlein, M., & Kaplan, A. M. (2019). A Brief History of Artificial Intelligence: On the Past, Present,
+        and Future of Artificial Intelligence. California Management Review, 61(4), 5-14.
+Herdianta, Y., Munawar, Z., & Putri, N.I. (2021).Analisis Manajemen Risiko Ancaman Kejahatan
+        Siber (Cyber Crime) dalam Peningkatan Cyber Defense. Jurnal Pertahanan & Bela Negara,
+        Vol. 7(2), 51-66.
+Hikmawati, Nisrina, Moh. Imam Sufiyanto, Jamilah, (2023). Konsep Dan Implementasi Kecerdasan
+        Buatan (Artificial Intelligence) Dalam Manajemen Kurikulum SD/MI. Abuya: Jurnal
+        Pendidikan Dasar. Vol 1(1)
+Holmes, W., Persson, J., Chounta, I.A., & Dimitrova, V. (2022). Artificial Intelligence and Education:
+        A Critical View through the Lens of Human Rights, Democracy and the Rule of Law. Paris:
+        Council of Europe.
+
+
+                                                  23
+Ahmad Abdul Rochim, Kecerdasan Buatan: Resiko, Tantangan Dan Penggunaan Bijak Pada Dunia
+Pendidikan
+
+Husaini, M., (2014). Pemanfaatan Teknologi Informasi Dalam Bidang Pendidikan (E-Education).
+         Jurnal Mikrotik, Vol 2(1).
+Ihsan, H. (2015). Validitas Isi Alat Ukur Penelitian: Konsep Dan Panduan Penilaiannya. Jurnal Ilmu
+         Pendidikan, Vol. 13(3), 173-179.
+J. C.-W. Lin, Y. Shao, Y. Djenouri, and U. Yun, (2021). ASRNN: A recurrent neural network with an
+         attention model for sequence labeling, Knowledge-Based Syst., vol. 212, p. 106548.
+Jamun, Yohannes Marryono, (2018). Dampak Teknologi Terhadap Pendidikan. Jurnal Pendidikan dan
+         kebudayaan Missio. Vol 10 (1)
+Khasanah, Dindan Ni'matul dan Yulia Winarti. (2021). Literature Review: Hubungan Kontrol Diri
+         dengan Kecanduan Smartphone pada Remaja. Borneo Student Research.vol. 3(1), 739-748
+Kurniawati, D. (2016). Hubungan Antara Efikasi Diri Dengan Kemandirian Belajar Siswa Kelas V Sd
+         Negeri Se-Kecamatan Srandakan Bantul Yogyakarta Tahun Ajaran 2015/2016.
+         Skripsi.Universitas Negeri Yogyakarta.
+Lestari, Sudarsri, (2018). Peran Teknologi Dalam Pendidikan Di Era Globalisasi. Jurnal Edureligia.
+         Vol 2 (2)
+Maulana, M.J. Darmawan, C., & Rahmat.(2023). Penggunaan ChatGPT dalam Pendidikan
+         Berdasarkan Perspektif Etika Akademik. Bhineka Tunggal Ika, Vol. 10(1), 58-66.
+McCarthy, J. (2007). What is Artificial Intelligence? In M. A. Boden (Ed.), The Philosophy of
+         Artificial Intelligence (pp. 17-34). Oxford University Press.
+Misnawati. (2023). ChatGPT: Keuntungan, Risiko, Dan Penggunaan Bijak Dalam Era Kecerdasan
+         Buatan. Prosiding Seminar Nasional Pendidikan, Bahasa, Sastra, Seni, dan Budaya
+         (Mateandrau). Vol. 2(1), 54-67.
+Munawar, Z., Soerjono, H., Putri, N.I., Hernawati.,& Dwijayanti, A. (2023). Manfaat Kecerdasan
+         Buatan ChatGPT Untuk Membantu Penulisan Ilmiah. Jurnal Teknologi Informasi, Vol. 10(1),
+         54-60.
+Mutiara, Puput. (2021). Tenaga Pendidik Wajib Kuasai Teknologi dan Komunikasi, Kemenko PMK
+         Online. diakses dari https://www.kemenkopmk.go.id/tenaga-pendidik-wajib-kuasai-teknologi-
+         dan-komunikasi
+Nilsson, N. J. (2010). The Quest for Artificial Intelligence: A History of Ideas and Achievements.
+         Cambridge University Press.
+Pabubung, M.R. (2023). Era Kecerdasan Buatan dan Dampak terhadap Martabat Manusia dalam
+         Kajian Etis. Jurnal Filsafat Indonesia, Vol. 6(1), 66-74.
+Pakpahan, R. (2017). Analisis Fenomena Hoax Diberbagai Media Sosial Dan Cara Menanggulangi
+         Hoax.Konferensi Nasional Ilmu Sosial & Teknologi.
+_____________(2021). Analisa Pengaruh Implementasi Artificial Intelligence Dalam Kehidupan
+         Manusia. Journal of Information System, Informatics and Computing, 5(2), 506-513.
+Prasasti, G.D. (2023). Riset Ungkap ChatGPT OpenAI Punya 100 Juta Pengguna di Januari 2023.
+         Diakses dari https://www.liputan6.com/tekno/read/5197530/riset-ungkap-chatgpt-openai-
+         punya-100-juta-pengguna-di-januari-2023.
+Putra, M.R.A. (2023). Ketergantungan Pendidikan pada Teknologi: Tantangan dan Kritik terhadap
+         Konsep Pendidikan 5.0. Prosiding Seminar Nasional “Peran Manajemen Pendidikan Untuk
+         Menyiapkan Sekolah Unggul Era Learning Society 5.0. Departemen Administrasi Pendidikan
+         Fakultas Ilmu Pendidikan. Universitas Negeri Malang.
+Putri, Aidah Novianti Putri dan Moh. Abdul Kholiq Hasan, (2023). Penerapan Kecerdasan Buatan
+         sebagai Media Pembelajaran Bahasa Arab di Era Society 5.0. Tarling: Journal of Language
+         Education. Vol 7 (1)
+
+
+
+                                               24
+                                                Antroposen : Journal of Social Studies and Humaniora
+                                Vol. 3, No. 1, Juni 2024: 13-25, DOI 10.33830/antroposen.v3i1.6780
+
+Reta, (2023). Menilik Potensi Dan Bahaya AI Di Dunia Pendidikan. Artikel Online Unpas. Diakses
+        dari https://www.unpas.ac.id/menilik-potensi-dan-bahaya-ai-di-dunia-pendidikan/
+Russell, S. J., & Norvig, P. (2016). Artificial Intelligence: A Modern Approach (3rd ed.). Pearson.
+Schrock,A. (2006). Myspace Or Ourspace: A Media System Dependency View Of Myspace. Thesis.
+        University Of Central Florida.
+Setiawan, A. & Luthfiyani, U.K. (2023). Penggunaan ChatGPT Untuk Pendidikan di Era Education
+        4.0: Usulan Inovasi Meningkatkan Keterampilan Menulis. Jurnal PETISI, Vol.4(1), 49-58.
+Syahran, R. (2015). Ketergantungan Online Game Dan Penanganannya. Jurnal Psikologi Pendidikan
+        & Konseling, Vol.1(1), 84-92.
+
+
+
+
+                                                25
+

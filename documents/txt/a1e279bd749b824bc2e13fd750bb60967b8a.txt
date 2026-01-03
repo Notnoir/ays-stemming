@@ -1,0 +1,1307 @@
+﻿JIPI (Jurnal Ilmu Perpustakaan dan Informasi) Vol. 8 No. 2 Tahun 2023 
+ISSN (online): 2528-021X 
+
+ 
+OPTIMALISASI TEMU KEMBALI INFORMASI DENGAN TEKNOLOGI 
+
+KECERDASAN BUATAN DI PERPUSTAKAAN  
+
+Kartika Puspita Sari 
+Interdiciplinary Islamic Studies, Universitas Islam Negeri (UIN) Sunan Kalijaga Yogyakarta 
+
+Email: puspitakartika5616@gmail.com  
+
+Anis Masruri 
+Universitas Islam Negeri Sunan Kalijaga Yogyakarta 
+
+Email: anis.masruri@uin-suka.ac.id 
+
+Desfiana Ramdhani Rosalia 
+Interdiciplinary Islamic Studies, Universitas Islam Negeri (UIN) Sunan Kalijaga Yogyakarta   
+
+Email: desfianramdhani@gmail.com 
+ 
+
+ 
+Abstract  
+
+Received : 16 October 2023 The purpose of this research is to describe how information retrieval using 
+Revised : 18 October 2023 artificial intelligence in STIPRAM Yogyakarta library is optimal because 
+Accepted : 25 October 2023 artificial intelligence (AI) technology has been widely used in libraries to 
+DOI 
+
+optimize information retrieval and improve user experience. This research 
+method is descriptive and qualitative, and uses observation and interview 
+
+ 
+techniques. The results of this study indicate that artificial intelligence in 
+the STIPRAM library is very influential for users so that it can help users 
+
+ and librarians in conducting research and work more easily because 
+information retrieval in the STIPRAM library can work optimally.  
+
+ Keywords: Artificial Intelligenc, Information Retrieval, Library 
+ 
+
+ 
+
+PENDAHULUAN  
+
+Teknologi kecerdasan buatan (AI) semakin banyak digunakan di perpustakaan untuk 
+
+mengoptimalkan pengambilan informasi dan meningkatkan pengalaman pengguna. AI dapat 
+
+digunakan untuk mengembangkan mesin pencari cerdas yang dapat dengan cepat dan akurat 
+
+mengambil informasi relevan dari database besar.  Perkembangan teknologi informasi dan 
+
+komunikasi (TIK) telah mengubah cara sumber daya perpustakaan diakses dan digunakan, 
+
+kecerdasan buatan (AI) telah menjadi alat yang ampuh untuk membantu mengoptimalkan 
+
+pengambilan informasi di perpustakaan dan meningkatkan pengalaman pengguna. 
+
+Algoritme yang didukung AI meningkatkan efisiensi dan akurasi pencarian informasi. 
+
+Dengan menganalisis sejumlah besar data dan perilaku pengguna, sistem AI dapat 
+
+menghasilkan hasil pencarian yang lebih relevan, membantu mahasiswa dan peneliti dengan 
+
+cepat dan efisien menemukan sumber daya yang mereka butuhkan. 
+
+Algoritme AI dapat menganalisis preferensi pengguna, riwayat penelusuran, dan 
+
+minat akademis untuk memberikan rekomendasi yang dipersonalisasi untuk buku, artikel, 
+
+dan makalah penelitian. Pendekatan yang dipersonalisasi ini memungkinkan peneliti untuk 
+
+menemukan sumber daya baru dan mengeksplorasi topik yang mungkin belum pernah 
+
+349 
+ 
+
+
+
+JIPI (Jurnal Ilmu Perpustakaan dan Informasi) Vol. 8 No. 2 Tahun 2023 
+ISSN (online): 2528-021X 
+
+ 
+mereka pertimbangkan sebelumnya, sehingga mendorong budaya pembelajaran dan 
+
+pertumbuhan intelektual yang berkelanjutan. Menurut (Dewi, Kecerdasan Buatan sebagai 
+
+Konsep Baru pada Perpustakaan, 2020)  Teknologi AI, seperti pemrosesan bahasa alami dan 
+
+visi mesin, memungkinkan perpustakaan mengotomatiskan proses pengatalogan, 
+
+mendigitalkan dokumen, dan mengatur informasi secara efisien. Hal ini menyederhanakan 
+
+tugas-tugas administratif dan meningkatkan aksesibilitas sumber daya, sehingga tersedia 
+
+bagi khalayak yang lebih luas. 
+
+Perpustakaan STIPRAM Yogyakarta, seperti halnya lembaga pendidikan dan 
+
+penelitian lainnya, saat ini menghadapi tuntutan yang semakin meningkat untuk 
+
+meningkatkan dan merampingkan layanan mereka bagi para penggunanya. Untuk memenuhi 
+
+tuntutan ini, perpustakaan telah mengambil keputusan untuk mengadopsi teknologi 
+
+kecerdasan buatan sebagai alat yang potensial untuk meningkatkan pengalaman pengguna 
+
+dan mengoptimalkan proses pencarian informasi. Sejak integrasi teknologi AI dimulai, 
+
+perpustakaan telah menyaksikan dampak positif yang luar biasa pada pemanfaatan sumber 
+
+daya mereka. Manfaat yang diperoleh pengguna perpustakaan termasuk peningkatan 
+
+efisiensi pencarian dan penemuan sumber daya yang lebih relevan. Sebagai hasilnya, 
+
+Perpustakaan STIPRAM telah bertransformasi dari sekadar tempat penyimpanan buku 
+
+menjadi pusat pengetahuan yang secara aktif berpartisipasi dalam upaya pendidikan dan 
+
+penelitian di kampus. Namun demikian, seperti halnya inovasi teknologi lainnya, 
+
+pemanfaatan teknologi kecerdasan buatan di perpustakaan juga memiliki beberapa 
+
+tantangan. Muncul pertanyaan mengenai pengelolaan dan perlindungan data pengguna yang 
+
+tepat. Selain itu, ada kebutuhan untuk mengembangkan sistem yang memungkinkan AI 
+
+berfungsi secara optimal dengan tetap menjunjung tinggi etika privasi. AI juga dapat 
+
+membantu mengoptimalkan pertumbuhan koleksi dengan menganalisis pola penggunaan dan 
+
+memprediksi permintaan sumber daya tertentu di masa depan. Di era data dan informasi yang 
+
+melimpah, pengguna perpustakaan di STIPRAM Yogyakarta menghadapi tantangan dalam 
+
+menavigasi koleksi yang berkembang pesat. Teknologi AI telah menjadi solusi yang 
+
+menjanjikan untuk membantu menyederhanakan dan mempercepat proses pencarian 
+
+informasi di perpustakaan. Maka dari itu penerapan teknologi kecerdasan buatan pada 
+
+Perpustakaan STIPRAM Yogyakarta bertujuan untuk meningkatkan efisiensi pencarian, 
+
+katalogisasi, dan akses sumber daya perpustakaan AI memungkinkan perpustakaan 
+
+memanfaatkan kekuatan analisis data untuk membuat keputusan yang lebih baik. 
+
+350 
+ 
+
+
+
+JIPI (Jurnal Ilmu Perpustakaan dan Informasi) Vol. 8 No. 2 Tahun 2023 
+ISSN (online): 2528-021X 
+
+ 
+Menurut (Schatz, 1997) Pustakawan yang telah terlatih mampu berkolaborasi dengan 
+
+layanan online untuk akses ke materi khusus dan mengirimkan laporan kepada para peneliti 
+
+yang meminta, meskipun layanan informasi spesifik telah lama menggunakan jaringan 
+
+komunikasi publik. Namun, dengan munculnya internet, pencarian literatur menjadi tersedia 
+
+secara langsung bagi berbagai ilmuan. Dengan menganalisis pola penggunaan, algoritme AI 
+
+dapat memberikan wawasan tentang penggunaan sumber daya, sehingga perpustakaan dapat 
+
+mengoptimalkan koleksinya, mengalokasikan anggaran secara lebih efektif, dan mengatur 
+
+penyesuaian layanan untuk memenuhi kebutuhan pengguna. Secara keseluruhan, AI 
+
+mengubah perpustakaan akademik dengan meningkatkan pencarian informasi, memberikan 
+
+rekomendasi yang dipersonalisasi, mengoptimalkan manajemen sumber daya, meningkatkan 
+
+pengalaman pengguna, memungkinkan pengambilan keputusan berdasarkan data, dan 
+
+mendukung kolaborasi dan berbagi pengetahuan. 
+
+Penelitian terdahulu terkait pembahasan yang sama dengan penelitian peneliti seperti 
+
+yang ditulis oleh (Dewi, 2020) Ada beberapa domain dalam ranah kecerdasan buatan yang 
+
+dapat digunakan secara efektif di perpustakaan. Masing-masing domain ini memiliki potensi 
+
+untuk diimplementasikan di perpustakaan. Implementasi domain semacam itu pasti akan 
+
+berdampak pada persepsi perpustakaan, karena implementasi kecerdasan buatan saat ini 
+
+dalam perpustakaan masih relatif jarang. Dalam aplikasi khusus ini, pustakawan mengambil 
+
+peran sebagai penghasut dan fasilitator wacana untuk pakar teknologi informasi, sehingga 
+
+memungkinkan realisasi perpustakaan melalui penggabungan kecerdasan buatan. Dengan 
+
+menggunakan kecerdasan buatan dalam jangka waktu sekarang, perpustakaan tidak 
+
+diragukan lagi akan muncul sebagai pelopor dalam domain literasi kecerdasan buatan. 
+
+Penelitian serupa dengan penelitian ini juga ditulis oleh (Aliwijaya & Suyono, 2023) 
+
+Teknologi AI memiliki potensi untuk meningkatkan layanan perpustakaan dan memenuhi 
+
+permintaan pengguna. Penerapannya dapat mempercepat proses pencarian dan pengambilan 
+
+informasi bagi pengguna sekaligus menawarkan rekomendasi koleksi perpustakaan yang 
+
+relevan. Studi ini mengungkapkan banyak contoh integrasi AI di perpustakaan, baik yang 
+
+sudah diterapkan maupun yang belum, yang akan membentuk masa depan perpustakaan. Hal 
+
+ini mencakup adopsi realitas virtual, chatbots, sistem pengenalan suara, robotika, dan sistem 
+
+analitik. Selain itu, dokumentasi aplikasi AI di domain lain memberikan peluang untuk 
+
+diterapkan di perpustakaan. Konsep yang diusulkan mengeksplorasi bagaimana AI dapat 
+
+berkolaborasi dengan pustakawan untuk memberikan layanan yang lebih unggul dan lebih 
+
+efisien kepada pengguna. 
+
+351 
+ 
+
+
+
+JIPI (Jurnal Ilmu Perpustakaan dan Informasi) Vol. 8 No. 2 Tahun 2023 
+ISSN (online): 2528-021X 
+
+ 
+Dan penelitian serupa juga ditulis oleh (Evan Devara, Rijanandi, Riyanto, & 
+
+Adhinata, 2021) Perpustakaan berfungsi sebagai tempat untuk membaca buku-buku yang 
+
+mencakup beragam koleksi, sehingga memberikan sumber pengetahuan yang beragam 
+
+kepada para pembaca. Namun, di era yang didominasi oleh teknologi, setiap orang pasti 
+
+mendambakan fasilitas yang lebih praktis. Dengan adanya Artificial Intelligence (AI), hal ini 
+
+dapat diimplementasikan dan diintegrasikan ke dalam sistem perpustakaan. Masalah yang 
+
+sering dihadapi oleh pengunjung perpustakaan adalah tantangan untuk menemukan literatur 
+
+yang sesuai dengan preferensi mereka, yang mencakup kriteria seperti judul, penggambaran 
+
+visual, genre, dan komposisi fisik. Kecerdasan buatan dapat membantu mengidentifikasi 
+
+literatur melalui rekomendasi dan peringkat, sehingga pembaca tidak perlu susah payah 
+
+mencari di rak-rak buku yang tersedia untuk mendapatkan bahan bacaan yang diinginkan. 
+
+Hal ini tentu saja memudahkan proses pencarian literatur bagi para pembaca. Sistem 
+
+rekomendasi yang digunakan adalah metode rekomendasi, yang menggabungkan 
+
+penyaringan dan pemeringkatan. Tujuan dari penelitian ini adalah untuk memudahkan 
+
+pengunjung perpustakaan dalam menemukan literatur yang diinginkan dengan mudah dan 
+
+cepat. 
+
+Kemajuan ini memungkinkan perpustakaan untuk terus memainkan peran penting 
+
+dalam mendukung penelitian ilmiah, pengajaran dan pembelajaran di era digital. Melalui 
+
+artikel ini, peneliti mengevaluasi bagaimana AI dapat mengoptimalkan pencarian informasi 
+
+di perpustakaan, mengurangi beban kerja staf perpustakaan, dan memberikan pengalaman 
+
+pencarian yang dipersonalisasi dan lebih efektif kepada pengguna. peneliti juga membahas 
+
+alat AI yang telah terbukti di perpustakaan di seluruh dunia dan bagaimana teknologi ini 
+
+dapat berhasil diterapkan di STIPRAM Yogyakarta. Dalam penjelasan lebih detailnya, 
+
+peneliti membahas konsep dasar AI yang relevan, kasus penggunaan di perpustakaan, dan 
+
+manfaat yang dapat diharapkan dari penerapan teknologi AI tersebut. Selain itu, kami 
+
+membahas potensi tantangan dan pertimbangan etis yang mungkin timbul selama penerapan 
+
+AI di perpustakaan. Penelitian ini bertujuan untuk memberikan pemahaman yang jelas 
+
+tentang bagaimana AI dapat membantu perpustakaan menjadi lebih efisien, lebih relevan, 
+
+dan lebih responsif terhadap kebutuhan pengguna.selain itu tujuan artikel ini di buat juga 
+
+untuk melihat perjalanan Perpustakaan STIPRAM Yogyakarta dalam mengadopsi teknologi 
+
+kecerdasan buatan. Artikel ini akan menguraikan keuntungan dan tantangan yang dihadapi 
+
+selama proses ini, serta merinci dampaknya terhadap layanan perpustakaan dan pengguna. 
+
+Selain itu, penelitian ini juga berusaha memberikan rekomendasi tentang bagaimana 
+
+352 
+ 
+
+
+
+JIPI (Jurnal Ilmu Perpustakaan dan Informasi) Vol. 8 No. 2 Tahun 2023 
+ISSN (online): 2528-021X 
+
+ 
+teknologi AI dapat dioptimalkan lebih lanjut di perpustakaan dengan tetap berpegang pada 
+
+prinsip-prinsip etika dan privasi. 
+
+ 
+
+KERANGKA TEORI 
+
+Temu Kembali Informasi 
+
+Proses pemulihan informasi memerlukan berbagai proses yang terkait dengan 
+
+representasi, penyimpanan, pencarian, dan pengambilan informasi yang berkaitan dengan 
+
+kebutuhan informasi pengguna. Informasi ini, yang dinyatakan dalam bentuk kueri, dicari 
+
+sesuai dengan pernyataan (Basuki, 1991) bahwa pengambilan informasi itu sendiri adalah 
+
+upaya yang bertujuan untuk memberikan dan memberikan informasi kepada pengguna. 
+
+Tujuan dari umpan balik informasi adalah untuk menyediakan pengguna dengan informasi 
+
+sebagai tanggapan atas permintaan atau berdasarkan kebutuhan spesifik mereka. Masuk akal 
+
+bahwa pengguna mungkin mengalami kesulitan dalam menemukan buku atau informasi 
+
+yang diinginkan; oleh karena itu, dengan bantuan alat pencarian dan peninjauan kembali, 
+
+mereka dapat mengakses informasi yang diperlukan. 
+
+Pencarian informasi mengacu pada proses menawarkan dan memberikan informasi 
+
+untuk disimpan dan diakses oleh pengguna. Kegiatan yang terkait dengan temu kembali 
+
+informasi terletak di antara entitas yang bertanggung jawab untuk menyediakan dokumen 
+
+atau data dan distribusi informasi yang dibutuhkan oleh pengguna (Pendit, 2007) Karena 
+
+pengguna layanan sangat bergantung pada temu balik informasi, maka sangat penting untuk 
+
+merancang kegiatan temu balik informasi dengan tujuan untuk memudahkan pengguna 
+
+dalam menemukan informasi yang dibutuhkan. Kegiatan temu kembali informasi di dalam 
+
+perpustakaan mencakup identifikasi dan pengambilan dokumen dari koleksi yang tersimpan, 
+
+sebagai reaksi terhadap permintaan informasi tertentu. Kerangka kerja temu kembali 
+
+informasi memiliki nilai yang signifikan dan merupakan komponen penting dalam 
+
+perpustakaan, karena ketiadaan kerangka kerja ini akan menyebabkan pengguna menghadapi 
+
+tantangan saat mencoba mengakses sumber daya informasi yang tersedia di perpustakaan. 
+
+ 
+
+Kecerdasan Buatan (AI) 
+
+Kecerdasan buatan diperkenalkan pada tahun 1956; namun, AI telah menjadi sangat 
+
+terkenal di era sekarang ini karena pertumbuhan data yang eksponensial, pengembangan 
+
+algoritme yang canggih, dan kemajuan dalam daya komputasi dan kemampuan penyimpanan. 
+
+Selama tahap awal penelitian AI pada tahun 1950-an, berbagai aspek seperti teknik 
+
+353 
+ 
+
+
+
+JIPI (Jurnal Ilmu Perpustakaan dan Informasi) Vol. 8 No. 2 Tahun 2023 
+ISSN (online): 2528-021X 
+
+ 
+pemecahan masalah dan metode simbolis dieksplorasi secara ekstensif. Selanjutnya, pada 
+
+tahun 1960-an, Departemen Pertahanan Amerika Serikat tertarik dengan bidang studi ini dan 
+
+memulai upaya untuk melatih komputer agar dapat meniru kemampuan penalaran manusia 
+
+yang mendasar.  Menurut (Haenlein, Kaplan, Tan, & Zhang, 2019) Kecerdasan buatan (AI) 
+
+menunjukkan kerangka kerja komprehensif yang memiliki kapasitas untuk secara akurat 
+
+memahami data ekstrinsik, memperoleh pengetahuan darinya dengan mahir. 
+
+Dengan bantuan kecerdasan yang diperoleh ini, AI mampu mencapai tujuan yang telah 
+
+ditentukan dan melaksanakan tugas yang ditunjuk melalui adaptasi yang dapat disesuaikan. 
+
+Menurut  (Artifical Intelegen Definitions, 2020) Kecerdasan dapat dicirikan sebagai kapasitas 
+
+untuk memperoleh pengetahuan dan melaksanakan metodologi yang sesuai untuk 
+
+menyelesaikan kesulitan dan mencapai tujuan, dengan mempertimbangkan keadaan di ranah 
+
+yang tidak pasti. Alam berada dalam keadaan fluks yang konstan. Robot industri yang telah 
+
+diprogram sebelumnya memiliki fleksibilitas, presisi, dan konsistensi, namun tidak memiliki 
+
+kecakapan kognitif. Artificial Intelligence (AI), John McCarthy, seorang profesor emeritus di 
+
+Universitas Stanford, didefinisikan olehnya sebagai persimpangan sains dan teknik untuk 
+
+membuat robot yang cerdik. 
+
+Manusia telah melakukan penelitian ekstensif dalam pemrograman mesin untuk 
+
+menunjukkan kecerdasan, seperti dalam domain catur, tetapi saat ini, titik fokus terletak pada 
+
+mesin yang mampu memperoleh pengetahuan yang mirip dengan manusia. 
+
+ 
+
+Perpustakaan  
+
+Menurut (Risparyanto, 2019) Perpustakaan merupakan tempat berkumpulnya 
+
+berbagai macam informasi; informasi ini dikumpulkan, disimpan, dirawat, dilestarikan, dan 
+
+disajikan baik dalam bentuk tercetak maupun melalui pemanfaatan media elektronik. 
+
+Informasi tersebut disusun dalam bentuk dokumen, seperti buku atau jenis dokumentasi 
+
+lainnya. Informasi yang ada di dalam perpustakaan dapat ditemukan kembali dengan 
+
+menggunakan berbagai metode atau alat bantu penelusuran, seperti katalog, bibliografi, dan 
+
+indeks. Informasi ini terus berkembang sesuai dengan perkembangannya, dan harus 
+
+ditangani secara profesional melalui penggunaan sistem penyimpanan yang beragam. 
+
+Temu kembali informasi dilakukan sesuai dengan waktu dan kondisi tertentu.  
+
+Perpustakaan dapat menawarkan informasi yang menarik baik dalam format fisik atau digital 
+
+melalui penggunaan alat pengambilan dan pengambilan informasi. Pengguna sistem umpan 
+
+balik informasi menunjukkan variasi yang cukup besar dalam kebutuhan informasi mereka. 
+
+354 
+ 
+
+
+
+JIPI (Jurnal Ilmu Perpustakaan dan Informasi) Vol. 8 No. 2 Tahun 2023 
+ISSN (online): 2528-021X 
+
+ 
+Pengguna sistem umpan balik informasi menunjukkan variasi yang cukup besar dalam 
+
+kebutuhan informasi mereka. Menurut (Piliang, 2013) Perpustakaan berfungsi sebagai pusat 
+
+informasi yang fokus pada distribusi informasi kepada pengguna. Salah satu metode 
+
+penyebaran informasi adalah melalui pencarian atau pengambilan informasi yang dilakukan 
+
+oleh pengguna. Sistem pengambilan semacam itu merupakan komponen penting dari 
+
+perpustakaan, karena mereka memfasilitasi akses ke sumber daya informasi yang tersedia. 
+
+Tanpa sistem pengambilan informasi, pengguna akan menghadapi tantangan dalam 
+
+mengakses beragam sumber informasi yang ditawarkan oleh perpustakaan. Fungsi temu 
+
+balik informasi memiliki posisi yang sangat penting dalam misi perpustakaan untuk 
+
+memfasilitasi penelitian, pendidikan, dan akses informasi bagi masyarakat. Perpustakaan 
+
+secara konsisten berevolusi dan menyesuaikan diri dengan kemajuan teknologi untuk 
+
+menjamin penemuan sumber daya tanpa hambatan bagi para pemustakanya. 
+
+ 
+METODE 
+
+Metodologi penelitian pada dasarnya melibatkan pengumpulan data yang memiliki 
+
+tujuan dan aplikasi tertentu, sedangkan metodologi yang digunakan dalam penelitian ini 
+
+adalah pendekatan kualitatif yang berpusat pada observasi, sehingga memberikan contoh pola 
+
+pikir ilmiah dalam proses penelitian. Menurut (Sulaiman, 2019) Penelitian ini menggunakan 
+
+metodologi kualitatif deskriptif dengan pendekatan studi kasus. Penelitian kualitatif 
+
+deskriptif, pada dasarnya, bertujuan untuk menjelaskan karakteristik suatu individu, keadaan, 
+
+gejala, atau kelompok tertentu dalam keadaan alamiah. Penggunaan metode kualitatif ini 
+
+menggarisbawahi penerapan alat dan teknik yang cermat yang sesuai dengan paradigma 
+
+ilmiah dan memfasilitasi perolehan data yang komprehensif dan bermakna. 
+
+Penelitian jenis ini bertumpu pada inkuiri kualitatif deskriptif, yang bertujuan untuk 
+
+menggambarkan secara sistematis dan akurat semua fakta yang relevan dan karakteristik 
+
+populasi tertentu, karena metode ini sesuai dengan data yang diperoleh, yaitu berupa 
+
+ungkapan verbal. Peneliti menggunakan jenis penelitian lapangan dengan melakukan 
+
+observasi lapangan dan melakukan wawancara. Menurut (Aminah & Roikan, 2019) peneliti 
+
+harus melakukan pertimbangan yang cermat ketika menggunakan istilah-istilah kualitatif 
+
+yang terkait dengan eksplorasi dan memahami fenomena dalam kerangka kerja ini. Oleh 
+
+karena itu, peneliti melakukan penelitian ini dengan memperhatikan informasi yang 
+
+dikumpulkan dari lapangan. Pengumpulan data tertulis mengandalkan teknik wawancara dan 
+
+metode observasi. Peneliti memilih pendekatan kualitatif deskriptif karena kemampuannya 
+
+untuk mengkonsolidasikan semua data yang dihasilkan secara deskriptif melalui ungkapan-
+
+355 
+ 
+
+
+
+JIPI (Jurnal Ilmu Perpustakaan dan Informasi) Vol. 8 No. 2 Tahun 2023 
+ISSN (online): 2528-021X 
+
+ 
+ungkapan tertulis, yang berasal dari narasumber dan informan yang telah diwawancarai dan 
+
+dianggap dapat dipercaya. 
+
+ 
+
+HASIL DAN PEMBAHASAN 
+
+Munculnya Big Data dan ledakan data telah memicu antusiasme organisasi modern. 
+
+Mereka bersaing untuk memanfaatkan data melalui berbagai aplikasi pemrosesan dan analisis 
+
+data untuk meningkatkan efisiensi dan keunggulan organisasi. Salah satu tren teknologi 
+
+informasi saat ini adalah kecerdasan buatan, bahkan dalam konteks perpustakaan. Kemajuan 
+
+teknologi dan informasi telah membantu manusia menyederhanakan pekerjaannya dan 
+
+meningkatkan kualitas pekerjaannya. Menurut (Sheikh, Prrins, & Schrijvers, 2023) AI adalah 
+
+teknologi yang beroperasi dengan tepat di dalam lingkungannya dan memiliki kemampuan 
+
+untuk menampilkan perilaku cerdas dengan cara menganalisis situasi lingkungannya serta 
+
+mengambil tindakan untuk mencapai tujuan tertentu. Namun, mendefinisikan AI dengan tepat 
+
+adalah sebuah tantangan karena AI adalah upaya untuk meniru atau mensimulasikan 
+
+kecerdasan manusia, yang masih belum sepenuhnya dipahami secara komprehensif. 
+
+Menurut (amalia, 2019) Pemanfaatan temu kembali informasi di perpustakaan sangat 
+
+penting bagi perpustakaan untuk mempertahankan permintaan mereka dan mencapai 
+
+signifikansi. Pemanfaatan temu kembali informasi dan komunikasi dengan cara yang 
+
+menguntungkan, imajinatif, dan konstruktif meningkatkan sinkronisasi kegiatan dan operasi 
+
+perpustakaan, memenuhi harapan pengguna perpustakaan atau komunitas pencipta, dan 
+
+mencapai kemanjuran layanan perpustakaan. Kemajuan temu kembali informasi 
+
+menyediakan perpustakaan dengan peluang luas untuk berinovasi dan merevolusi kegiatan 
+
+mereka. Prinsip-prinsip yang menjadi dasar profesi pustakawan tetap tidak berubah, namun 
+
+pendekatan untuk menerjemahkan prinsip-prinsip tersebut ke dalam kegiatan telah 
+
+mengalami transformasi mendasar. Tujuan perpustakaan untuk mengumpulkan, mengatur, 
+
+dan memfasilitasi akses ke sumber informasi tetap relevan; Namun, teknologi dan metode 
+
+yang digunakan untuk mencapai tujuan ini telah mengalami metamorfosis. 
+
+Menurut (Siahaan, et al., 2020) mesin atau komputer yang dianugerahi dengan 
+
+kapasitas untuk meniru perilaku manusia merupakan aset berharga untuk bidang kecerdasan 
+
+buatan. Keuntungan ini adalah katalis untuk kemajuan AI yang berkelanjutan, didorong oleh 
+
+upaya kolaboratif para ilmuwan dan profesional dalam domain teknologi informasi. Aplikasi 
+
+kecerdasan buatan memiliki potensi besar dalam konteks perpustakaan, karena perpustakaan 
+
+berfungsi sebagai gudang berbagai kekayaan intelektual dan data yang kaya serta informasi 
+
+pengguna dalam jumlah besar. Saat ini, perpustakaan mengelola konten digital dalam jumlah 
+
+356 
+ 
+
+
+
+JIPI (Jurnal Ilmu Perpustakaan dan Informasi) Vol. 8 No. 2 Tahun 2023 
+ISSN (online): 2528-021X 
+
+ 
+besar dari berbagai sumber. Selain itu, perpustakaan terhubung dengan pengguna dan jejaring 
+
+sosial, menghasilkan data dalam jumlah besar. 
+
+Menurut (Harisanty, Anna, Noor, & T.E, 2023) domain layanan referensi dan 
+
+dukungan penelitian, perpustakaan telah secara luas merangkul penerapan kecerdasan buatan 
+
+(AI). Diantara perpustakaan yang telah mengintegrasikan aplikasi AI ke dalam layanan 
+
+referensi mereka, aplikasi Plexus menonjol. Aplikasi ini berfungsi sebagai alat rujukan, 
+
+membantu pustakawan dalam memfasilitasi proses referensi. Pemanfaatan AI untuk 
+
+menjawab pertanyaan referensi terutama difokuskan pada penanganan pertanyaan tingkat 
+
+rendah, termasuk pertanyaan umum (FAQ), informasi terkait perpustakaan umum, serta 
+
+sumber daya terkait subjek dalam koleksi perpustakaan atau kueri semi-terstruktur. 
+
+Data transaksi perpustakaan juga semakin meningkat, sehingga diperlukan aplikasi 
+
+khusus untuk mengelola, menganalisis, dan kemudian menggunakan hasil analisis untuk 
+
+mengambil keputusan, meningkatkan layanan, meningkatkan kinerja dan kualitas sumber 
+
+daya, dan tujuan lainnya. Menurut (Sheikh, Prrins, & Schrijvers, 2023) penggunaan AI dalam 
+
+temu kembali informasi di perpustakaan harus dilakukan dengan bijak karena merumuskan 
+
+visi yang inklusif untuk kolaborasi dalam berbagi data, didukung oleh alokasi sumber daya 
+
+keuangan yang signifikan dan berdasarkan Undang-Undang Tata Kelola Data, guna 
+
+memastikan penggunaan AI yang bertanggung jawab dan transparan. Mengembangkan 
+
+regulasi data yang lebih komprehensif untuk mengatur proses pengumpulan, pengolahan, dan 
+
+distribusi data, sehingga memastikan bahwa sistem AI dibangun di atas fondasi informasi 
+
+yang dapat diandalkan dan didasarkan pada prinsip-prinsip etika. 
+
+Sebagai tenaga profesional di bidang ilmu perpustakaan, pustakawan memegang 
+
+peran penting sebagai anggota tim yang tidak terpisahkan, yang berperan sebagai katalisator 
+
+utama bagi usaha yang dinamis dan beragam yang terjadi di perpustakaan. Oleh karena itu, 
+
+keberhasilan perpustakaan dalam memenuhi kebutuhan informasi para pemustaka secara 
+
+efektif sangat bergantung pada kemampuan pustakawan dalam berinteraksi dengan 
+
+pemustaka terkait pengoptimalan temu kembali perpustakaan. Perpustakaan STIPRAM terus 
+
+melakukan pembaruan dan penyempurnaan regulasi terkait AI untuk mengikuti 
+
+perkembangan teknologi dan isu-etika yang timbul, dengan tujuan memastikan bahwa sistem 
+
+AI tetap menjalankan tanggung jawab dan dapat diandalkan. Menurut (Kadir & Triwahyuni, 
+
+2015)  temu kembali informasi dengan mengandalkan AI mengaitkan beberapa hal yang perlu 
+
+ada seperti: 
+
+ 
+
+ 
+
+357 
+ 
+
+
+
+JIPI (Jurnal Ilmu Perpustakaan dan Informasi) Vol. 8 No. 2 Tahun 2023 
+ISSN (online): 2528-021X 
+
+ 
+• Pencarian dan Katalog 
+
+Kecerdasan buatan dapat dimanfaatkan untuk meningkatkan pencarian dan 
+
+katalogisasi koleksi perpustakaan. Sistem pencarian cerdas menggunakan algoritma 
+
+AI untuk menawarkan pengguna hasil pencarian yang lebih relevan, sehingga 
+
+memfasilitasi pengambilan yang dipercepat dari materi yang diinginkan. Pemanfaatan 
+
+kecerdasan buatan dalam bidang pencarian dan pengorganisasian membantu para 
+
+pelanggan perpustakaan dalam mempercepat dan merampingkan proses pencarian 
+
+materi yang mereka butuhkan. Selain itu, hal ini juga memfasilitasi perpustakaan 
+
+dalam meningkatkan kendali mereka atas koleksi mereka dan memberikan 
+
+pengalaman yang lebih baik bagi para pengguna. 
+
+Peneliti mewawancarai pustakawan terkait sumberdaya informasi dan 
+
+penggunaan AI di perpustakaaan, dan pustakawan dengan senang hati menjelaskan 
+
+terkait kegunaan AI yang ada di perpustakaan. 
+
+“Sebenarnya perpustakaan STIPRAM sendiri sudah 
+memiliki pencarian katalog secara cepat dengan menggunakan 
+OPAC kak” (Pustakawan, Pencarian cepat, 2023). 
+
+OPAC menurut (Murrel, 2023) ialah alat pencarian untuk mencari buku, 
+
+majalah dan media lainnya yang ada di perpustakaan. Secara umum, penting untuk 
+
+dicatat bahwa OPAC tidak termasuk dalam payung kecerdasan buatan (AI). OPAC, 
+
+sebagai sistem perangkat lunak, bertindak sebagai perantara untuk mengakses 
+
+database katalog perpustakaan. Namun demikian, perpustakaan tertentu telah 
+
+mengambil inisiatif untuk memasukkan teknologi kecerdasan buatan ke dalam OPAC 
+
+dengan tujuan meningkatkan kemampuan pencarian dan menawarkan rekomendasi 
+
+yang dipersonalisasi kepada pengguna.  
+
+“Saya mulai beerja disini di opac itu memang langsung 
+sudang ada rekomendasi buku untuk para pemutaka sih kak 
+soalnya yang mengatur itu semua teknisi sehingga dari opac nya 
+sudah terotomatis” (Pustakawan, Pencarian cepat, 2023). 
+
+Sebagai ilustrasi, perpustakaan tertentu telah berhasil menerapkan algoritma 
+
+rekomendasi berbasis AI dalam OPAC mereka, sehingga membantu pengguna dalam 
+
+menemukan buku yang selaras dengan minat individu pengguna. Meskipun mungkin 
+
+benar bahwa OPAC sendiri tidak termasuk dalam ranah AI, perpustakaan memiliki 
+
+kemampuan untuk memanfaatkan teknologi kecerdasan buatan untuk meningkatkan 
+
+layanan pencarian dan katalog mereka, yang pada akhirnya memberi pemstaka 
+
+pengalaman yang lebih efisien dan relevan. Katalog akses publik online (OPAC) yang 
+
+358 
+ 
+
+
+
+JIPI (Jurnal Ilmu Perpustakaan dan Informasi) Vol. 8 No. 2 Tahun 2023 
+ISSN (online): 2528-021X 
+
+ 
+digerakkan oleh AI memberdayakan perpustakaan untuk memberikan layanan yang 
+
+lebih canggih dan mudah beradaptasi kepada para pelanggannya. Selain itu, mereka 
+
+juga berpotensi meningkatkan aksesibilitas, kemampuan pencarian, dan administrasi 
+
+sumber daya perpustakaan secara keseluruhan. 
+
+• Chatbots 
+
+Perpustakaan memiliki kemampuan untuk mengintegrasikan chatbots yang 
+
+didukung oleh AI untuk menjawab pertanyaan umum dari pengunjung. Chatbot 
+
+berbasis AI ini mampu memberikan informasi mengenai jam buka, koleksi, peraturan 
+
+perpustakaan, dan banyak lagi, menawarkan bantuan sepanjang waktu selama tujuh 
+
+hari seminggu. Penggabungan chatbot yang memanfaatkan kecerdasan buatan di 
+
+perpustakaan berkontribusi pada peningkatan ketersediaan informasi, optimalisasi 
+
+keefektifan operasional, dan membebaskan personel perpustakaan untuk 
+
+mencurahkan perhatian mereka pada tugas-tugas yang lebih rumit. Namun demikian, 
+
+sangat penting untuk memastikan penyediaan tanggapan yang akurat oleh chatbot dan 
+
+untuk membuat rencana kontingensi ketika pertanyaan pengguna lebih rumit dan 
+
+memerlukan intervensi manusia. Selain itu, perlindungan kerahasiaan pengguna harus 
+
+menjadi prioritas utama dalam pemanfaatan teknologi ini. 
+
+“Perpustakaan STIPRAM juga sudah menggunakan chatbot 
+berupa whatsUp yang bisa menjawab pertanyaan pemustaka 
+mengenai informasi yang ada di perpustakaan secara jarak jauh 
+dengan otomatis sehingga pemustaka tidak menunggu lama balasan 
+terkait apa yang ingin ditanyakan kak” (Pustakawan, ChatBots, 
+2023). 
+
+Menurut (Ismi, 2023) Chatbot mengacu pada platform virtual untuk terlibat 
+
+dalam percakapan, di mana salah satu peserta adalah entitas otomatis. Namun 
+
+demikian, entitas otomatis ini memiliki kemampuan untuk memahami instruksi dan 
+
+segera memberikan tanggapan yang akurat terhadap pertanyaan yang diajukan oleh 
+
+penggunat 
+
+• Analisis Penggunaan 
+
+Kecerdasan buatan dapat digunakan untuk menganalisis penggunaan 
+
+perpustakaan, mencakup data pinjaman dan kunjungan. Pendekatan analitis ini 
+
+memungkinkan perpustakaan untuk memahami kebutuhan pelanggan dan 
+
+mengoptimalkan alokasi sumber daya yang sesuai. Dengan integrasi kecerdasan 
+
+buatan, perpustakaan memiliki potensi untuk meningkatkan tingkat daya tanggap 
+
+359 
+ 
+
+
+
+JIPI (Jurnal Ilmu Perpustakaan dan Informasi) Vol. 8 No. 2 Tahun 2023 
+ISSN (online): 2528-021X 
+
+ 
+mereka terhadap kebutuhan pengguna dan mengoptimalkan pengelolaan sumber daya 
+
+mereka. Namun demikian, sangat penting untuk memprioritaskan perlindungan 
+
+privasi pengguna dan memastikan pemanfaatan data secara etis ketika menerapkan 
+
+analisis ini. 
+
+“nah, kalau di Perpustakaan STIPRAM sendiri 
+
+menggunakan analisis penggunaan menggunakan SLiMs kak jadi 
+
+setiap ada pinjam atau kunjungan itu bisa mengisi nama dan NIM 
+
+bagi mahasiswa yang menjadi pemustaka sehingga kita bisa 
+
+mendata secara otomatis semua pengunjung yang ada kak” 
+
+(Pustakawan, Analisis Pengguna, 2023).  
+
+Menurut (Nafradella, 2017) SLiMs adalah perangkat lunak yang sangat 
+
+menguntungkan untuk pengelolaan perpustakaan, itu tidak termasuk dalam domain 
+
+kecerdasan buatan (AI). SLiMs berfungsi sebagai sistem manajemen yang membantu 
+
+perpustakaan dengan tugas-tugas seperti katalogisasi, pinjaman, dan manajemen 
+
+inventaris; Namun, mereka tidak memiliki kapasitas kognitif atau kemampuan untuk 
+
+memperoleh pengetahuan yang mirip dengan sistem AI. Namun demikian, 
+
+perpustakaan STIPRAM memasukkan teknologi kecerdasan buatan atau elemen AI 
+
+ke dalam sistem SLiMs mereka untuk meningkatkan kemampuan pencarian, 
+
+memberikan rekomendasi buku, atau menganalisis pola penggunaan. Integrasi ini 
+
+akan memungkinkan SLiMs untuk memanfaatkan keunggulan yang ditawarkan oleh 
+
+teknologi AI. Perpustakaan menggunakan SLiMS, sebuah aplikasi perangkat lunak, 
+
+untuk mengatur koleksi sumber daya mereka secara efektif, aktivitas peminjaman, 
+
+proses katalogisasi, dan berbagai operasi rutin lainnya. Dengan memasukkan 
+
+kecerdasan buatan (AI) ke dalam SLiMS, banyak kemajuan dan keuntungan yang 
+
+dapat dicapai, meskipun pada saat ini jumlah sistem SLiMS yang sepenuhnya 
+
+digerakkan oleh AI mungkin terbatas. 
+
+• Identifikasi dan Pengenalan Teks 
+
+Kecerdasan buatan dapat dimanfaatkan untuk mengidentifikasi dan mengenali 
+
+konten tekstual dalam buku, artikel, atau dokumen lainnya. Teknologi Optical 
+
+Character Recognition (OCR) memberdayakan perpustakaan untuk mengubah materi 
+
+cetak menjadi teks yang dapat dicari secara digital dan dapat diakses. Pemanfaatan 
+
+Optical Character Recognition (OCR) dalam perpustakaan meningkatkan 
+
+aksesibilitas, eksplorasi, dan administrasi sumber daya, serta membantu konservasi 
+
+materi bersejarah. Namun demikian, seperti halnya dengan inovasi teknologi apa pun, 
+
+360 
+ 
+
+
+
+JIPI (Jurnal Ilmu Perpustakaan dan Informasi) Vol. 8 No. 2 Tahun 2023 
+ISSN (online): 2528-021X 
+
+ 
+sangat penting untuk menjamin perlindungan privasi data dan kepatuhan terhadap 
+
+peraturan yang relevan, terutama dalam kasus-kasus di mana dokumen mungkin 
+
+mencakup informasi pribadi atau sensitif. 
+
+“Kalau di STIPRAM sendiri sudah menggunakan AI 
+yaitu Adobe Acrobat karena untuk mengecek tugas mahasiswa 
+dimana ini sekolah pariwisata jadi setiap mahasiswa yang 
+bepergian mendokumentasikan dan membuat bahan penelitian 
+setelah melakukan perjalanan kak” (Pustakawan, identifikasi 
+pengenalan teks, 2023). 
+Adobe Acrobat memiliki fungsi pengenalan karakter optik (OCR) yang 
+
+memungkinkan pengguna untuk mengubah gambar yang berisi konten tekstual 
+
+menjadi format yang dapat dicari dan dimodifikasi. 
+
+• Otomatisasi Tugas Rutin 
+
+Perpustakaan dapat memanfaatkan kekuatan kecerdasan buatan untuk 
+
+mengotomatiskan tugas-tugas biasa, seperti mengeluarkan pengingat pengembalian, 
+
+mengelola inventaris, dan memantau kondisi fisik buku. Otomatisasi tugas-tugas yang 
+
+berulang memungkinkan petugas perpustakaan untuk mengarahkan perhatian mereka 
+
+pada tugas-tugas yang lebih rumit dan keterlibatan dengan pengguna. Selain itu, hal 
+
+ini meningkatkan pengalaman pengguna melalui penyediaan layanan yang lebih cepat 
+
+dan efektif. Meskipun demikian, pemanfaatan kecerdasan buatan dalam otomatisasi 
+
+tugas memerlukan pertimbangan yang cermat untuk penerapan etika dan perlindungan 
+
+privasi, terutama dalam konteks pemrosesan data pengguna. 
+
+“Perpustakaan STIPRAM sendiri menggunakan e-mail 
+yang akan dikirim ke pemustaka terkait keterlambatan 
+pengembalian buku dikarenakan sudah ada notifikasi bahwa 
+pemustaka tersebut harus mengembalikan koleksi yang dipinjam. 
+Lalu adanya sistem pengembalian kilat dimana pemustaka hanya 
+tinggal scan barcode untuk mengembalikan buku kak” 
+(Pustakawan, Otomatisasi Tugas Rutin, 2023). 
+
+Pengawasan dan Keamanan: Kamera yang dilengkapi dengan teknologi 
+
+pengenalan wajah dapat digunakan untuk memantau keamanan perpustakaan dan 
+
+mengidentifikasi individu yang berpotensi terlibat dalam pelanggaran. Penerapan 
+
+teknologi pengenal wajah di perpustakaan memiliki potensi untuk meningkatkan 
+
+keamanan dan tindakan pengawasan, meskipun hal ini memerlukan pertimbangan 
+
+yang cermat terhadap masalah privasi dan etika. Perpustakaan harus membuat 
+
+protokol yang jelas dan transparan terkait pemanfaatan teknologi ini, sekaligus 
+
+memastikan kepatuhan terhadap peraturan privasi yang relevan. 
+
+361 
+ 
+
+
+
+JIPI (Jurnal Ilmu Perpustakaan dan Informasi) Vol. 8 No. 2 Tahun 2023 
+ISSN (online): 2528-021X 
+
+ 
+“Di STIPRAM adanya fungsi alat detector jika ada 
+
+pemustaka yang membawa buku tetapi belum melakukan 
+peminjaman kak dan ada banyak CCT di setiap sudut 
+perpustakaan ini kak” (Pustakawan, Pengawasan dan Keamanan, 
+2023). 
+
+• Manajemen Pengetahuan 
+
+Kecerdasan buatan dapat digunakan untuk mengatur dan mengelola 
+
+pengetahuan di dalam perpustakaan, yang mencakup sumber daya digital, arsip, dan 
+
+database. Pemanfaatan kecerdasan buatan di bidang manajemen pengetahuan 
+
+memfasilitasi peningkatan efektivitas operasional, peningkatan kepuasan pengguna, 
+
+dan pelestarian koleksi perpustakaan. Namun demikian, sangat penting untuk 
+
+mempertimbangkan dilema etika, yang mencakup kerahasiaan pengguna dan 
+
+keamanan data, selama penerapan resolusi AI di perpustakaan. 
+
+“Di perpustakaan STIPRAM menyediakan akses mencari 
+jurnal secara cepat tanpa login dikarenakan perpustakaan 
+STIPRAM sudah bekerja sama dengan berbagai layanan jurnal 
+khusus akses buku dan jurnal kepariwisataan dan perhotelan kak. 
+Perpustakaan STIPRAM juga memiliki sistem pengecekan 
+turnitin untuk para peneliti agar tidak terkena plagiasi saat 
+menulis penelitian. Juga adanya seminar terkait cara mencari data 
+menggunakan AI tetapi tidak merekomendasikan untuk membuat 
+hasil penelitian dengan AI, AI hanya digunakan untuk belajar 
+saja” (Pustakawan, Manajemen Pengetahuan, 2023).  
+
+Pemanfaatan kecerdasan buatan di perpustakaan dapat meningkatkan efisiensi 
+
+operasional dan memberikan layanan yang unggul kepada pelanggan. Namun, sangat 
+
+penting untuk mempertimbangkan implikasi privasi dan etika yang terkait dengan 
+
+penerapan teknologi ini. Temu kembali informasi adalah aspek fundamental yang 
+
+sangat penting dalam memungkinkan individu untuk dengan mudah mengakses 
+
+beragam pengetahuan dan sumber daya yang mudah diakses di perpustakaan. Proses 
+
+ini berfungsi sebagai jembatan penting dalam menutup kesenjangan informasi dan 
+
+memberikan dukungan yang sangat diperlukan untuk upaya pendidikan dan 
+
+penelitian. Selain itu, penyediaan umpan balik informasi yang efektif sangat 
+
+membantu pengguna dalam pencarian mereka untuk menemukan jawaban 
+
+komprehensif atas pertanyaan mereka dan memberdayakan mereka untuk 
+
+memaksimalkan pemanfaatan sumber daya perpustakaan dengan cara yang sangat 
+
+efisien. 
+
+ 
+
+362 
+ 
+
+
+
+JIPI (Jurnal Ilmu Perpustakaan dan Informasi) Vol. 8 No. 2 Tahun 2023 
+ISSN (online): 2528-021X 
+
+ 
+PENUTUP 
+
+Simpulan 
+
+Penerapan teknologi kecerdasan buatan dalam sistem pencarian perpustakaan telah 
+
+menghasilkan keefektifan yang lebih tinggi dalam prosedur pencarian sumber daya. 
+
+Algoritma pencarian yang telah dioptimalkan oleh kecerdasan buatan telah memfasilitasi 
+
+pengguna dalam menemukan sumber daya yang lebih relevan dengan lebih cepat. Munculnya 
+
+sistem rekomendasi berbasis AI telah memberdayakan perpustakaan untuk menawarkan 
+
+rekomendasi buku yang lebih selaras dengan preferensi pengguna. Melalui bantuan 
+
+kecerdasan buatan, perpustakaan telah mahir dalam memantau pemanfaatan koleksi mereka 
+
+secara efektif. Analisis data penggunaan yang komprehensif telah memberikan wawasan yang 
+
+tak ternilai terkait kecenderungan pengguna dan kecenderungan dalam meminjam. 
+
+Pengenalan chatbots yang didukung AI telah terbukti berperan penting dalam meningkatkan 
+
+tingkat layanan pelanggan yang disediakan oleh perpustakaan. Pengguna sekarang dapat 
+
+dengan cepat dan kompeten mengajukan pertanyaan dan mendapatkan jawaban, bahkan di 
+
+luar jam operasional perpustakaan. Penelitian yang dimaksud menyiratkan bahwa 
+
+pemanfaatan teknologi kecerdasan buatan telah secara signifikan meningkatkan layanan yang 
+
+ditawarkan oleh Perpustakaan STIPRAM Yogyakarta. Adopsi ini telah menghasilkan 
+
+peningkatan efisiensi operasional dan memastikan bahwa pengguna menikmati aksesibilitas 
+
+yang lebih baik ke sumber daya perpustakaan. Selain itu, teknologi ini memiliki potensi untuk 
+
+terus berkembang, sehingga dapat terus memberikan kontribusi untuk meningkatkan 
+
+pengalaman pengguna di masa depan. Namun demikian, sangat penting untuk 
+
+mempertimbangkan dimensi privasi dan etika yang muncul dari penggunaan teknologi 
+
+kecerdasan buatan. Kemajuan teknologi kecerdasan buatan terus berlanjut dengan cepat dan 
+
+memberikan pengaruh yang besar pada berbagai sektor dan aspek keberadaan kita. Hal ini 
+
+menimbulkan prospek yang cukup besar untuk meningkatkan efektivitas, orisinalitas, dan 
+
+perbaikan dalam masyarakat kontemporer. Namun demikian, hal ini secara bersamaan 
+
+membutuhkan pertimbangan mendalam tentang masalah etika di samping tata kelola yang 
+
+cerdas. 
+
+ 
+Saran 
+
+Sistem manajemen temu kembali informasi perpustakaan yang digunakan oleh 
+
+Perpustakaan Yogyakarta, yang dikenal sebagai STIPRAM, telah membuat keputusan untuk 
+
+menggabungkan teknologi kecerdasan buatan. Penerapan teknologi AI ini telah memberikan 
+
+hasil yang sangat positif. Secara khusus, pengunjung perpustakaan sekarang dapat 
+
+363 
+ 
+
+
+
+JIPI (Jurnal Ilmu Perpustakaan dan Informasi) Vol. 8 No. 2 Tahun 2023 
+ISSN (online): 2528-021X 
+
+ 
+memperoleh manfaat dari pencarian yang lebih cepat dan lebih relevan. Pengenalan algoritme 
+
+AI telah merevolusi pengalaman pengguna, merampingkan proses pencarian sumber daya 
+
+yang relevan. Peningkatan ini merupakan bukti nyata dari pengaruh konstruktif sistem AI 
+
+dalam meningkatkan pemanfaatan koleksi perpustakaan secara optimal. Akibatnya, 
+
+perpustakaan STIPRAM mengalami peningkatan jumlah pengguna yang mencari informasi. 
+
+Melihat perkembangan ini, studi penelitian ini menganjurkan perpustakaan untuk terus 
+
+meningkatkan kualitas layanan mereka dengan menerapkan AI secara etis dan menahan diri 
+
+untuk tidak menggunakan teknologi tersebut secara berlebihan. Dengan memahami secara 
+
+menyeluruh perjalanan ini, kami berharap artikel ini dapat menjadi sumber inspirasi dan 
+
+panduan bagi perpustakaan lain yang mungkin sedang mempertimbangkan untuk menerapkan 
+
+teknologi AI. Hal ini pada akhirnya akan berkontribusi dalam meningkatkan kualitas layanan 
+
+mereka dan mendukung peran perpustakaan sebagai mitra intelektual dalam bidang 
+
+pembelajaran dan penelitian. 
+
+ 
+
+DAFTAR PUSTAKA 
+
+Aliwijaya, A., & Suyono, H. C. (2023). Peluang Implementasi Artifical Intelligence di 
+
+Perpustakaan: Kajian Literatur. Info Bibliotheca : Jurnal Perpustakaan dan Ilmu 
+
+Informasi, 1-17. doi:10.24036/ib.v4i2.397 
+
+amalia, R. A. (2019, Maret 19). pemanfaatan teknologi informasi di perpustakaan digital 
+
+dalam menghadapi tantangan era revolusi industri 4.0. Diambil kembali dari Dinas 
+
+Kearsipan dan Perpustakaan: https://dkpus.babelprov.go.id/content/pemanfaatan-
+
+teknologi-informasi-di-perpustakaan-digital-dalam-menghadapi-tantangan-era 
+
+Aminah, S., & Roikan. (2019). Pengantar Metode Penelitian Kualitatif Ilmu Politik. Kencana. 
+
+Artifical Intelegen Definitions. (2020, November 9). Diambil kembali dari HAI : 
+
+https://hai.stanford.edu/sites/default/files/2020-09/AI-Definitions-HAI.pdf 
+
+Basuki, S. (1991). Pengantar Ilmu Perpustakaan. Jakarta: Gramedia Pustaka Utama. 
+
+Dewi, A. O. (2020). Kecerdasan Buatan sebagai Konsep Baru pada Perpustakaan. ANUVA, 
+
+4(4), 454-460. Dipetik oktober 14, 2023, dari 
+
+http://ejournal.undip.ac.id/index.php/anuva 
+
+Dewi, A. O. (2020). Kecerdasan Buatan sebagai Konsep Baru pada Perpustakaan. ANUVA, 4, 
+
+2598-3040. Diambil kembali dari http://ejournal.undip.ac.id/index.php/anuva 
+
+Evan Devara, E. G., Rijanandi, T., Riyanto, R. B., & Adhinata, F. D. (2021). Pengembangan 
+
+Teknologi Rekomendasi Kecerdasan Buatanyang Digunakan pada Perpustakaan. 
+
+364 
+ 
+
+
+
+JIPI (Jurnal Ilmu Perpustakaan dan Informasi) Vol. 8 No. 2 Tahun 2023 
+ISSN (online): 2528-021X 
+
+ 
+Journal of Informatics and Vocational Education (JOIVE), 87-92. 
+
+doi:10.20961/joive.v4i3.53618 
+
+Haenlein, M., Kaplan, A., Tan, C. W., & Zhang, P. (2019). Artificial intelligence (AI) and 
+
+management analytics. Journal of Management Analytics, 6(4), 341-343. 
+
+doi:10.1080/23270012.2019.1699876 
+
+Harisanty, D., Anna, N., Noor, A., & T.E, P. (2023). Is adopting artificial intelligence in 
+
+libraries urgency or a buzzword? A systematic literature review. Journal of 
+
+Information Science. doi:https://doi.org/10.1177/01655515221141034 
+
+Ismi, T. (2023, juni 21). Chatbot: Definisi, Cara kerja, Manfaat. 
+
+doi:lints.com/id/lowongan/chatbot-adalah/#definisi-chatbot 
+
+Kadir, A., & Triwahyuni, T. C. (2015). Pengertian teknologi informasi.  
+
+Murrel, D. (2023). OPAC: History and uses. Studi.com. 
+
+doi:https://study.com/academy/lesson/online-public-access-catalog-definition-
+
+usage.html 
+
+Nafradella, C. (2017). Analisis Senayan Library Management System (SLiMs) dengan metode 
+
+Usability Testing pada perpustakaan Universitas Islam Negeri Raden Fatah 
+
+Palembang. Palembang: Universitas Islam Negeri Raden Fatah. Diambil kembali dari 
+
+http://repository.radenfatah.ac.id/9085/1/SKRIPSI.pdf 
+
+Pendit, L. P. (2007). Perpustakaan Digital (Perspektif Perpustakaan Perguruan Tinggi 
+
+Indonesia). Jakarta: Sagung Seto. 
+
+Piliang, M. (2013). SISTEM TEMU KEMBALI INFORMASI DENGAN 
+
+MENDAYAGUNAKAN MEDIA KATALOG PERPUSTAKAAN. Jurnal Iqra’, 
+
+7(2), 1-8. Diambil kembali dari https://core.ac.uk/download/pdf/53037189.pdf 
+
+Pustakawan. (2023, oktober 9). Analisis Pengguna. 
+
+Pustakawan. (2023, Oktober 9). ChatBots. 
+
+Pustakawan. (2023, oktober 9). identifikasi pengenalan teks. 
+
+Pustakawan. (2023, oktober 9). Manajemen Pengetahuan. 
+
+Pustakawan. (2023, oktober 9). Otomatisasi Tugas Rutin. 
+
+Pustakawan. (2023, oktober 9). Pencarian cepat. 
+
+Pustakawan. (2023, oktober 9). Pengawasan dan Keamanan. 
+
+Risparyanto, A. (2019). Model-model Temu Kemnbali Informasi (Information Retrieval). 
+
+UNILIB, 3(1), 49-57. Dipetik Oktober 15, 2023, dari 
+
+file:///C:/Users/kartika/Downloads/admin,+5+Anton+Risparyanto.pdf 
+
+365 
+ 
+
+
+
+JIPI (Jurnal Ilmu Perpustakaan dan Informasi) Vol. 8 No. 2 Tahun 2023 
+ISSN (online): 2528-021X 
+
+ 
+Schatz, B. R. (1997, Januari 17). information retrieval in digital libraries: bringing search to 
+
+the net. Bioinformatics, 275(5298), 327-334. doi:DOI: 10.1126/science.275.5298.327 
+
+Sheikh, H., Prrins, C., & Schrijvers, E. (2023). Mission AI the New System Technology. 
+
+Spinger. doi:https://doi.org/10.1007/978-3-031-2144-6 
+
+Siahaan, M., Jasa, C. H., Anderson, K., Rosiana, M. V., Lim, S., & Yudianto, W. (2020). 
+
+Penerapan Artificial Intelligence (AI) Terhadap Seorang Penyandang Disabilitas 
+
+Tunanetra. Journal of Informatioon System and Technology (JOINT), 1(2), 186-193. 
+
+doi:http://dx.doi.org/10.37253/joint.v1i2.4322 
+
+Sulaiman. (2019). Pengantar metodologi penelitian: panduan bagi peneliti pemula. Gowa: 
+
+Pustaka Almaida. 
+
+ 
+
+ 
+
+366

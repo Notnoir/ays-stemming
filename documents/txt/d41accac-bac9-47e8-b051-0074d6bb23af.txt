@@ -1,0 +1,362 @@
+By Suliyanto
+BAB I
+LATAR BELAKANG PENELITIAN
+Oleh:
+Prof. Dr. Suliyanto, SE, MM
+Program Studi Manajemen Magister Manajemen
+BAB I 
+PENDAHULUAN
+A. Latar Belakang Masalah
+B. Rumusan Masalah
+C. Ruang Lingkup Penelitian
+D.Tujuan Penelitian
+E. Manfaat Penelitian
+BAB I 
+PENDAHULUAN
+A. Latar Belakang Masalah
+B. Rumusan Masalah
+C. Ruang Lingkup Penelitian
+D.Tujuan Penelitian
+E. Manfaat Penelitian
+A. Latar Belakang Masalah
+Latar belakang masalah merupakan deskripsi yang 
+mengarahkan pembaca untuk mengetahui awal mula 
+akar permasalahan terjadi.
+Kalimat-kalimat yang disusun pada latar belakang 
+penelitian ditujukan untuk memberikan alasan perlunya 
+penelitian tersebut dilakukan.  
+Latar belakang berisi fakta-fakta (gejala) yang 
+menunjukkan adanya permasalahan.
+Latar belakang berisi alasan logis alternatif penyelesaian 
+masalah.
+Contoh Diagram Alir Penyusunan Latar 
+Belakang, Rumusan Masalah, Rumusan Masalah 
+Penelitian dan Pertanyaan Penelitian
+Isi Latar Belakang Penelitian
+Aplikatif
+Upah
+(X1)
+Ling.
+Kerja (X2)
+Kep.
+Kerja (M)
+Intention
+to Quit
+(Y)
+Pengantar
+Fakta/ Gejala
+Pernyataan masalah
+Alasan Pemilihan Var. 
+Bebas X1 (Fakta +Teori)
+Alasan Pemilihan Var. 
+Bebas X2  (Fakta +Teori)
+Alasan Pemilihan Var. 
+Mediasi M (Fakta +Teori)
+Paragraf Penutup
+Jelaskan urgensi penelitian
+ini bagi penyelesaian
+masalah
+Isi Latar Belakang Penelitian
+Aplikatif
+Man.
+Pengetahuan
+(X1)
+Komitmen
+Organisasi
+(X3)
+Kep.
+Kerja(M)
+Kinerja
+(Y)
+Pengantar
+Fakta ttg kinerja
+Pernyataan masalah
+Alasan Pemilihan Var. Man.Pengetahuan
+(Fakta +Teori/hasil penelitian sebelumnya)
+Alasan Pemilihan Var. Kualitas Kehidupan
+(Fakta + Teori/hasil penelitian sebelumnya)
+Komitmen Organisasi (Fakta + Teori/hasil
+penelitian sebelumnya)
+Paragraf Penutup
+Jelaskan urgensi penelitian ini bagi
+penyelesaian masalah
+Kualitas
+Kehidupan
+(X2)
+Kepuasan Kerja (Fakta + Teori/hasil
+penelitian sebelumnya)
+Isi Latar Belakang Penelitian
+Teoretis
+Pengantar
+Fakta/ Gejala
+Pernyataan masalah
+Alasan Pemilihan Var. 
+Moderasi M1 (Fakta +Teori)
+Alasan Pemilihan Var. 
+Moderasi M2 (Fakta +Teori)
+Kep.
+Pelanggan
+(X)
+Loyalitas
+(Y)
+Paragraf Penutup
+Variety
+Seeking
+(M1)
+Iklan 
+Produk
+Pesaing
+(M2)
+Kep.
+Pelanggan
+Loyalitas
+Jelaskan posisi penelitian
+dibandingkan dengan
+penelitian sebelumnya
+
+X
+Hal yang Perlu Dihindari pada Latar Belakang
+Tanpa pengantar yang memadai
+Tanpa didukung fakta/gejala
+Tidak menjelaskan fakta untuk mendukung alternative pemecahan
+masalah
+Tidak teori/hasil penelitian sebelumnya untuk meyakinkan bahwa
+alternative pemecahan masalah tidak coba-coba
+Tidak Menjelaskan Posisi Penelitian & Pengembangan (teoretis)
+Tidak menjelaskan urgensi penelitian untuk pemecahan masalah
+(aplikatif)
+B. Rumusan Masalah
+Rumusan masalah merupakan intisari permasalahan yang 
+akan diselesaikan dalam penelitian yang akan dilakukan. 
+Rumusan masalah diperoleh berdasarkan gejala, fakta-
+fakta yang telah diuraikan dalam latar belakang 
+penelitian.
+Dalam rumusan masalah terdapat dua hal yang perlu 
+ditulis:
+
+Intisari permasalahan, diteruskan dengan rumusan masalah 
+penelitan.
+
+Pertanyaan penelitian
+B. Rumusan Masalah
+Tingginya keinginan untuk keluar, rendahnya upah, kondisi lingkungan
+kerja yang belum kondusif, tingkat kepuasan kerja yang rendah, maka
+dapat
+dirumuskan
+masalah
+penelitiannya
+adalah
+“apa
+yang
+menyebabkan tingginya keinginan untuk keluar dari perusahaan XYZ?”.
+Berdasarkan rumusan masalah penelitian tersebut dapat dirumuskan
+pertanyaan penelitian sebagai berikut:
+1.
+Apakah upah bepengaruh negative terhadap keinginan untuk keluar?
+2.
+Apakah upah bepengaruh positif terhadap kepuasan kerja?
+3.
+Apakah Ling.kerja bepengaruh negative terhadap keinginan untuk
+keluar?
+4.
+Apakah Ling.kerja bepengaruh positif terhadap kepuasan kerja?
+5.
+Apakah kepuasan kerja berpengaruh negative terhadap keingian
+untuk keluar?
+HAL YANG PERLU DIHINDARI PADA PERUMUSAN 
+MASALAH
+1. Peneliti tidak melakukan perumusan masalah tetapi 
+langsung merumuskan pertanyaan penelitian. 
+Sehingga pertanyaan besar mengapa perlu dilakukan 
+penelitian tidak jelas.
+HAL YANG PERLU DIHINDARI PADA 
+PERUMUSAN MASALAH
+2.
+Rumusan masalah tidak sesuai dengan gejala dan fakta-fakta 
+yang disajikan dalam latar belakang penelitian. Kesalahan 
+semacam ini dapat dikatakan sebagai kesalahan diagnosa, 
+seperti halnya gejala yang ditunjukkan pasien adalah gejala 
+deman berdarah tetapi dokter malah mendiagnosa sebagai 
+gejala tipus.
+HAL YANG PERLU DIHINDARI PADA 
+PERUMUSAN MASALAH
+3.
+Peneliti mengajukan pertanyaan penelitian, yang 
+indikatornya sulit diukur secara statistik.
+C. Ruang Lingkup Penelitian
+Pembatasan masalah sering juga disebut dengan ruang
+lingkup penelitian (scope of research). 
+Permasalahan perlu dibatasi, hal ini karena biasanya
+sangat luas dan tidak memungkinkan untuk diteliti
+semua.  
+Agar penelitian dapat mengarah ke inti masalah yang 
+sesungguhnya sehingga penelitian yang dihasilkan
+menjadi lebih fokus dan tajam.
+Pembatasan masalah dalam penelitian bukan
+merupakan pembatasan akan waktu pelaksanaan
+penelitian, pembatasan ukuran sampel, dan pembatasan
+lokasi penelitian.
+Diagram Alur Proses Pembatasan
+Masalah Penelitian
+HAL YANG PERLU DIHINDARI PADA 
+PEMBATASAN MASALAH
+1.
+Pembatasan waktu penelitian dianggap sebagai pembatasan
+masalah.
+Contoh:
+Penelitian ini di batasi dari Bulan Januari sampai dengan Bulan
+Juni tahun 2016.
+2.
+Pembatasan ukuran sampel dianggap sebagai pembatasan
+masalah
+Contoh:
+Penelitian ini di hanya menggunakan sampel sebanyak 100 
+responden
+3.
+Pembatasan lokasi penelitian dianggap sebagai pembatasan
+masalah
+Contoh:
+Penelitian ini di hanya dilakukan di Kota Purwokerto
+D. Tujuan Penelitian
+1.
+Tujuan Umum
+Tujuan umum ditujukan untuk menjawab masalah
+penelitian yang telah dirumuskan.
+2.  Tujuan Khusus
+Tujuan khusus digunakan untuk menjawab pertanyaan-
+pertanyaan penelitian yang telah dirumuskan berdasarkan
+masalah penelitian.
+Hubungan antara Rumusan Masalah, 
+Pertanyaan Penelitian Tujuan Umum dan 
+Tujuan Khusus Penelitian
+By Suliyanto
+Untuk menjelaskan perbedaan hasil penelitian 
+tentang pengaruh kepuasan terhadap loyalitas
+D. Tujuan Penelitian
+1. Tujuan Umum
+Untuk
+menganailis
+factor
+yang
+menyebabkan
+tingginya
+keinginan untuk keluar dari perusahaan XYZ.
+2. Tujuan Khusus
+1.
+Untuk menganalisis bepengaruh upah terhadap keinginan
+untuk keluar?
+2.
+Untuk menganalisis bepengaruh upah terhadap kepuasan
+kerja?
+3.
+Untuk menganalisis bepengaruh upah terhadap keinginan
+untuk keluar?
+4.
+Apakah Ling.kerja bepengaruh negative terhadap kepuasan
+kerja?
+5.
+Apakah kepuasan kerja berpengaruh negative terhadap
+keingian untuk keluar?
+Pertanyaan
+Penelitian
+Tujuan Khusus
+HAL YANG PERLU DIHINDARI PADA TUJUAN 
+PENELITIAN
+1.
+Tujuan peneliti ditulis sebagai tujuan penelitian. Tujuan peneliti
+dengan tujuan penelitian merupakan hal yang berbeda. Tujuan
+peneliti tidak ada hubungannya dengan masalah penelitian, 
+sedangkan tujuan penelitian bertujuan untuk memecahkan
+masalah penelitian.
+2.
+Tujuan umum tidak relevan dengan rumusan masalah, atau
+tujuan khusus tidak sesuai dengan pertanyaan penelitian..
+E. Manfaat Penelitian
+Penelitian skripsi dan tesis memiliki dua manfaat yaitu 
+manfaat praktis dan manfaat teoritis. 
+Manfaat praktis menjelaskan kontribusi hasil penelitian bagi 
+subyek atau organisasi yang teliti, sedangkan manfaat 
+teoritis menjelaskan kontribusi hasil penelitian bagi 
+pengembangan ilmu pengetahuan.
+E. Manfaat Penelitian
+1. Manfaat Praktis
+Penelitian ini bermanfaat untuk merumuskan rekomendasi
+untuk menurunkan keinginan untuk keluar melalu kebijakan
+penguhan, lingkungan kerja dan kepuasan kerja.
+2. Manfaat Teoretis
+Penelitian dapat digunakan untuk mengembangkan
+penelitian sebelum dengan menempatkan kepuasan kerja
+sebagai variable mediasi.
+HAL YANG PERLU DIHINDARI PADA MANFAAT 
+PENELITIAN
+1. Manfaat penelitian terlalu umum atau nomatif, 
+sehingga tidak ada kaitan dengan masalah penelitian.
+2.
+Manfaat penelitian ditujukan bagi pihak-pihak yang tidak ada
+relevansinya dengan masalah penelitian yang dipecahkan
+dalam penelitian
+Salah !!!
+Salah !!
+Judul Penelitian
+Meskipun judul terletak di bagian paling awal 
+sebuah penelitian, bukan berarti bahwa judul 
+harus dibuat paling awal dalam proses 
+penelitian. 
+Judul penelitian dapat dibuat setelah 
+permasalahan dapat diidentifikasikan dengan 
+tepat, dilakukan pembatasan masalah dan  
+tujuan penelitian dirumuskan
+By Suliyanto
+Alur Merumuskan Judul
+By Suliyanto
+Beberapa pedoman dalam 
+memberikan judul
+Judul harus netral tidak memasukan subyektifitas dari 
+peneliti.
+Judul penelitian harus mencerminkan isi penelitian.
+Judul jangan terlalu panjang dan lebar, kurang lebih 20 
+sampai dengan 25 kata, karena kalau judul terlalu panjang 
+akan mengurangi minat calon pembaca.
+Judul dapat menjelaskan tentang jenis penelitian, obyek, 
+subyek, lokasi dan jika perlu waktu penelitian.
+By Suliyanto
+Contoh Judul:
+ANALISIS PENGARUH KUALITAS PELAYANAN TERHADAP 
+KEPUASAN NASABAH PADA BANK-BANK PEMERINTAH 
+DI PURWOKERTO  TAHUN 2020
+
+Analisis Pengaruh
+: Jenis penelitian asosiatif kausal
+
+Nasabah
+: Subyek
+
+Pelayanan dan Kepuasan
+: Obyek penelitian
+
+Bank Pemerintah di Purwokerto
+: Lokasi penelitian
+
+Tahun 2020
+: Waktu pelaksanaan penelitian
+By Suliyanto
+Kesalahan Dalam Penulisan Judul
+1.
+Judul penelitian menggunakan bahasa asing semua kecuali kata sambung.
+Contoh:
+Pengaruh Service Quality. Brand Equity dan Customer Satisfaction terhadap
+Brand Loyalty 
+2. Judul tidak netral, hal ini menimbulkan persepsi peneliti sudah mengetahui hasil
+penelitian sebelum penelitian dilakukan.
+Contoh:
+Peningkatan Tingkat Kesejahteraan Masyarakat sebagai Akibat Program 
+Pelatihan Kewirausahaan
+3.
+Judul terlalu panjang, sehingga menjadi tidak menarik minat calon pembaca.
+4. Judul tidak mencerminkan masalah dan tujuan penelitian.
+5.
+Peneliti membuat penelitian berangkat dari judul bukan dari masalah
+penelitian, sehingga mereka mencari subyek penelitian yang sesuai dengan judul
+yang direncanakan. Hal ini biasanya terjadi karena mahasiswa sudah memiliki
+referensi skripsi atau tesis tentang judul tersebut.
+By Suliyanto

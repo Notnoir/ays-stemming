@@ -1,0 +1,496 @@
+                                                                                            Terakreditasi SINTA Peringkat 4
+                                     Surat Keputusan Direktur Jenderal Pendidikan Tinggi, Riset, dan Teknologi, Nomor: 158/E/KPT/2021
+                                             masa berlaku mulai Volume 5 Nomor 2 Tahun 2018 sampai Volume 10 Nomor 1 Tahun 2023
+
+
+    Terbit online pada laman web jurnal: https://jurnal.plb.ac.id/index.php/tematik/index
+
+
+
+                            Jurnal       Teknologi I nformasi Komuni kasi ( e-Journal)
+                            Vol. 10 No. 1 (2023) 54 - 60                         ISSN Media Elektronik: 2443-3640
+
+ Manfaat Kecerdasan Buatan ChatGPT Untuk Membantu Penulisan Ilmiah
+               The Benefits of ChatGPT Artificial Intelligence To Help Scientific Writing
+
+               Zen Munawar1, Herru Soerjono2, Novianti Indah Putri3, Hernawati4, Andina Dwijayanti5
+                                       1,2Prodi Manajemen Informatika, Politeknik LP3I
+   3Prodi   Teknik Informatika, Fakultas Ilmu Komputer dan Sistem Informasi, Universitas Kebangsaan Republik Indonesia
+                   4Prodi Teknik Informatika, Fakultas Informatika dan Ilmu Komputer, Universitas Nurtanio
+                                           5Prodi Administrasi Bisnis, Politeknik LP3I
+               1munawarzen@gmail.com, 2herrusoerjono2022@gmail.com, 3noviantiindahputri2021@gmail.com,
+                                   4dienhernawati@gmail.com, 5andinadwijayanti@plb.ac.id
+
+
+
+Abstract
+Scientific writing is an activity that requires clarity, precision, and caution, because the nature of this activity requires research,
+analysis, and synthesis of information from several literatures. This study aims to use the benefits of Chatbot artificial
+intelligence in scientific writing. ChatGPT is a chatbot, developed by OpenAI, that uses the Generative Pre-trained
+Transformer (GPT) language model to respond and respond to natural language, with ChatGPT being able to complete writing
+and understand academic publications. These chatbots in particular can be useful tools in scientific writing, assisting
+researchers and scientists in organizing materials, creating early drafts, and/or certifying. Chatbots have many uses in
+scientific writing, including hypothesis generation, literature frameworks, problem solving, paraphrasing and summaries,
+editing, and selecting journals. However Chatbots should never be used as a substitute for human judgment and the results
+should always be reviewed by experts before being used in decision making or any important application. In addition, several
+ethical issues have arisen regarding the use of this tool, such as the risk of plagiarism and inaccuracies, as well as the potential
+imbalance in accessibility between developing and developed countries, if using the software is paid for. The result of this
+research is that ChatGPT has the potential to streamline the authoring and protection process, it is important for reviewers
+and editors to be aware of the potential challenges. Although already using artificial intelligence as a tool, it is necessary to
+continue to assess the scientific accuracy, validity and originality of each manuscript carefully.
+Keywords: artificial intelligence; scientific writing; machine learning; deep learning; chatbots
+
+Abstrak
+Penulisan ilmiah merupakan kegiatan yang membutuhkan kejelasan, ketelitian, dan kehati-hatian, karena alam kegiatan
+tersebut perlu melakukan penelitian, analisis, dan sintesis informasi dari beberapa literatur. Penelitian ini bertujuan
+menggunakan manfaat kecerdasan buatan Chatbot dalam penulisan ilmiah. ChatGPT merupakan chatbot, yang dikembangkan
+oleh OpenAI, menggunakan model bahasa Generative Pre-trained Transformer (GPT) untuk memahami dan merespons
+masukan bahasa alami, dengan ChatGPT dapat menyederhanakan penulisan dan penerbitan akademis. Chatbot ini secara
+khusus bisa alat yang berguna dalam penulisan ilmiah, membantu peneliti dan ilmuwan dalam mengatur materi, membuat draf
+awal, dan/atau mengoreksi. Chatbot memiliki banyak kegunaan dalam penulisan ilmiah aantara lain pembuatan hipotesis,
+tinjauan literatur, pemecahan masalah, parafrase dan ringkasan, pengeditan, dan pemilihan jurnal. Namun demikian Chatbot
+tidak boleh digunakan sebagai pengganti penilaian manusia dan hasilnya harus selalu ditinjau oleh para ahli sebelum digunakan
+dalam pengambilan keputusan atau aplikasi penting apa pun. Selain itu, beberapa masalah etika muncul tentang penggunaan
+alat ini, seperti risiko plagiarisme dan ketidakakuratan, serta potensi ketidakseimbangan dalam aksesibilitasnya antara negara
+berkembang dan negara maju, jika menggunakan perangkat lunak tersebut berbayar. Hasil dari penelitian ini adalah ChatGPT
+memiliki potensi untuk merampingkan proses penulisan dan peninjauan, penting bagi peninjau dan editor untuk menyadari
+potensi tantangan. Meskipun sudah menggunakan kecerdasan buatan sebagai alat bantu namun perlu terus menilai keakuratan
+ilmiah, validitas, dan orisinalitas setiap naskah dengan hati-hati.
+Kata kunci: kecerdasan buatan; penulisan ilmiah; penerbitan; pembelajaran mesin; pembelajaran mendalam; chatbots
+
+
+
+             Diterima Redaksi: 10-05-2023 | Selesai Revisi: 22-05-2023 | Diterbitkan Online: 01-06-2023
+                                                        54
+              Zen Munawar, Heru Soerjono, Novianti Indah Putri, Hernawati, Andina Dwijayanti
+              Tematik : Jurnal Teknologi Informasi Komunikasi (e-Journal) Vol. 10 No. 2 (2023)
+
+1. Pendahuluan                                            demikian diperoleh kontribusi yaitu penggunaan
+                                                          Chatbot. Selanjutnya menyampaikan berdasarkan latar
+Secara historis, kemajuan ilmu pengetahuan bertumpu
+                                                          belakangnya saat ini, yang bermanfaat untuk
+pada dua metodologi: analisis atau deduksi teoretis dan
+                                                          mengungkap pertanyaan pertama mengapa ChatGPT
+analisis atau induksi empiris [1]. Salah satu manfaat
+                                                          menjadi topik menarik dalam beberapa bulan terakhir.
+utama menggunakan alat kecerdasan buatan adalah
+                                                          Penelitian ini berfokus pada manfaat penggunaan
+dapat membantu mengurangi waktu dan upaya yang
+                                                          kecerdasan buatan Chatbot untuk penulisan ilmiah.
+diperlukan untuk menulis dan meninjau makalah
+                                                          Semoga hasilnya diketahui potensi penggunaan
+ilmiah. Dengan cara mengotomatisasikan aspek-aspek
+                                                          ChatGPT dalam penulisan ilmiah, seperti pembuatan
+tertentu dari proses, seperti pemformatan dan
+                                                          draf, penelitian literatur, dan tinjauan bahasa. Hal ini
+pengaturan teks, alat ini dapat membebaskan peneliti
+                                                          karena adanya pertumbuhan teknologi eksponensial
+untuk fokus pada aspek yang lebih kritis dari pekerjaan
+                                                          sebagai kemampuan yang belum pernah terjadi
+mereka. Kecerdasan buatan terus berkembang pesat,
+                                                          sebelumnya dalam pembuatan, pengumpulan, dan
+semakin jelas bahwa alat kecerdasan buatan seperti
+                                                          analisis data, serta konvergensi antara interaksi manusia
+Chatbot akan berdampak signifikan pada cara artikel
+                                                          dan Chatbot.
+ilmiah ditulis dan ditinjau. Chatbot adalah perangkat
+lunak sistem elektronik         yang mensimulasikan       2.2. ChatGPT dalam penulisan ilmiah
+percakapan dengan menanggapi kata kunci atau frasa
+                                                          ChatGPT sudah dapat membantu peneliti dan ilmuwan
+yang dikenalinya dan dapat diintegrasikan ke dalam
+                                                          untuk menulis artikel dan abstrak, dalam literatur
+berbagai platform, seperti situs web, aplikasi seluler,
+                                                          penelitian, untuk meringkas data atau informasi, untuk
+dan platform perpesanan. Chatbot Generative Pre-
+                                                          menyediakan saran untuk struktur, referensi, dan judul,
+trained Transformer (ChatGPT), yang dikembangkan
+                                                          dalam bahasa ulasan untuk membuat teks lebih mudah
+oleh OpenAI, adalah jenis perangkat lunak kecerdasan
+                                                          dibaca, atau bahkan untuk menghasilkan draf lengkap
+buatan      yang dirancang untuk mensimulasikan
+                                                          makalah [3].
+percakapan dengan pengguna manusia. Chatbot ini
+bekerja melalui algoritma yang diprogram untuk            ChatGPT dapat menghasilkan teks pada berbagai
+memahami input bahasa alami dan menjawab dengan           macam topik. Baru-baru ini, seluruh surat kepada editor
+respons yang sesuai, baik yang telah ditulis sebelumnya   telah ditulis oleh ChatGPT, menjawab pertanyaan
+atau yang baru dibuat oleh kecerdasan buatan. ChatGPT     penulis [2]. Kecerdasan palsu tidak dapat menghasilkan
+terus ditingkatkan dengan teknik penguatan,               ide-ide baru, tetapi bisa mengatur dan mengembangkan
+pemrosesan bahasa alami, dan pembelajaran mesin,          yang peneliti, menciptakan draf awal. Namun, ini
+untuk meningkatkan kemampuannya dalam memahami            tampaknya       menjadi     permulaan     titik   untuk
+dan menanggapi kebutuhan pengguna secara                  pengembangan teks berbasis manusia, sebagai teks
+menyeluruh. Konkretnya, Anda dapat menanyakan apa         otomatis yang dihasilkan jauh dari pengganti
+saja secara percakapan dan menerima balasan tertulis      pengetahuan, kreativitas, dan pemikiran kritis manusia
+yang cepat dan memadai seperti manusia untuk              sebagai ahli. Untuk pencarian literatur, penelitian
+pertanyaan atau permintaan Anda seperti: (a) menulis      ChatGPT dan asisten kecerdasan buatan (seperti
+teks kecil tentang topik tertentu; (b) mendapatkan        "elicit.org") dapat membantu peneliti dalam proses
+informasi tentang topik yang diminati; (c) membuat        review dengan menemukan makalah akademik,
+email atau pesan dengan nada tertentu, konten tertentu,   meringkas kesimpulan mereka, dan menyoroti area
+dan ditujukan untuk orang tertentu; (d) mengoreksi        ketidakpastian (yaitu, meringkas uji klinis acak baru-
+bentuk teks atau mengubah kata-katanya; (e)               baru ini tentang penggunaan oksigenasi membran
+memecahkan masalah. Dengan demikian, chatbot ini          ekstrakorporeal untuk serangan jantung refrakter [4],
+juga dapat digunakan dalam penulisan ilmiah [2].          Gbr. 1). Hal ini dapat membantu dokter, sebagai contoh,
+Memang, ChatGPT bisa menjadi alat yang menjanjikan        untuk mendapatkan pemahaman dengan cepat keadaan
+dan kuat untuk tugas-tugas seperti pembuatan draf         pengetahuan saat ini tentang topik tertentu, dan untuk
+otomatis, ringkasan artikel, dan terjemahan bahasa,       mengidentifikasi potensi kesenjangan yang perlu
+yang mungkin berguna dalam kegiatan akademik untuk        ditangani, meskipun ringkasan yang disediakan
+membuat tulisan bekerja lebih cepat dan lebih mudah.      mungkin cukup umum dan tidak kritis menganalisis
+Namun, penggunaan alat ini dalam penulisan ilmiah         perbedaan antara studi.
+menimbulkan beberapa masalah etika dan karenanya
+                                                          Selama proses penulisan, ChatGPT dapat membantu
+harus diatur.
+                                                          menghasilkan sebuah draft awal dari sebuah karya
+                                                          ilmiah dan bahkan menyarankan judul. Dengan
+2. Metode Penelitian
+                                                          memberikan informasi mentah, ChatGPT juga bisa
+2.1. Pengumpulan Data                                     membantu dalam menyusun bagian tentang metode
+                                                          yang digunakan dalam studi, membenarkan ukuran
+Pengumpulan data dalam penelitian ini berdasarkan
+                                                          sampel dan menggambarkan analisis data teknik. Dari
+literasi digital dari penelitian sebelumnya, dengan
+                                                          pengalaman penulis, saat naskah telah diselesaikan,
+                               DOI: https://doi.org/ 10.38204/tematik.v10i1.1291
+                     Lisensi: Creative Commons Attribution 4.0 International (CC BY 4.0)
+                                                        55
+               Zen Munawar, Heru Soerjono, Novianti Indah Putri, Hernawati, Andina Dwijayanti
+               Tematik : Jurnal Teknologi Informasi Komunikasi (e-Journal) Vol. 10 No. 2 (2023)
+
+ChatGPT sangat efektif untuk proses pengeditan;             ciri-ciri ini, pendeteksi plagiarisme kecerdasan buatan
+pemformatan dan pengeditan bahasa, menulis ulang            dapat mengidentifikasi makalah berbahasa Inggris non-
+kalimat yang sangat rumit menjadi lebih jelas cara, dan     asli sebagai teks yang dihasilkan kecerdasan buatan.
+bahkan meringkas seluruh teks secara berurutan untuk        Akan menarik untuk menemukan sensibilitas alat ini
+menulis abstrak yang cocok, layak menggunakan ini           dalam mendeteksi penulis teks yang ditulis oleh kedua
+pendekatan, meskipun hasilnya tidak selalu                  kelompok ini.
+memuaskan, tapi mereka pasti menghemat waktu.
+                                                            Namun demikian, teks yang dihasilkan chatbot
+ChatGPT baru-baru ini diminta untuk menyiapkan
+                                                            mungkin tidak memiliki frasa halus dan pilihan kata
+ringkasan debit reguler [5], tetapi kualitas konten belum
+                                                            yang mungkin digunakan oleh penulis manusia untuk
+dievaluasi secara khusus.
+                                                            menyampaikan makna atau nada tertentu. Mungkin
+Evaluasi terstruktur untuk menentukan kualitas output       juga tidak jelas dan mengandung ketidakkonsistenan
+belum dilakukan. Proses penulisan yang lebih rumit,         yang tidak akan ada dalam makalah yang ditulis
+seperti sistematis review dan meta-analisis,                manusia. Sebaliknya, jika makalah tersebut
+membutuhkan intervensi manusia dan ChatGPT                  mengandung tingkat kesalahan struktural dan tata
+mungkin berguna terutama untuk pengeditan. Aplikasi         bahasa yang tinggi, hal itu mungkin menunjukkan
+potensial kecerdasan buatan di masa depan ada di            bahwa itu ditulis oleh manusia (tetapi tidak boleh
+otomatis pembuatan gambar, tabel, dan elemen visual         sebaliknya). Terakhir, jika makalah membahas topik
+lainnya naskah, yang dapat membantu dalam meringkas         yang sangat spesifik dan sangat teknis, kecil
+data. Unsur-unsur ini penting untuk kejelasan dan           kemungkinan chatbot dapat menghasilkan teks seperti
+pemahaman naskah, tetapi mereka sering memakan              itu, karena memerlukan pemahaman yang mendalam
+waktu untuk membuat.                                        tentang topik tersebut dan kemampuan untuk
+                                                            menghasilkan analisis dan kesimpulan ilmiah.
+Yang terpenting, proses penulisan sebuah karya ilmiah
+membutuhkan, untuk saat ini, bimbingan dan                  2.4. Pertimbangan Etis
+pengawasan peneliti manusia yang ahli di bidangnya
+                                                            Kekhawatiran etis juga bisa membatasi penggunaan
+untuk memastikan akurasi, koherensi, dan kredibilitas
+                                                            chatbots ini untuk penulisan ilmiah [8]. Proses
+konten sebelum digunakan atau diserahkan untuk
+                                                            memperoleh pengetahuan dari orang lain dan menulis
+publikasi.   Chatbots     dapat    membantu     tetapi
+                                                            artikel baru atau ulasan melibatkan manusia
+membutuhkan masukan peneliti, dan input yang tidak
+                                                            menggabungkan apa yang telah mereka pelajari dari
+memadai akan menyebabkan hasil yang tidak memadai.
+                                                            orang lain dan ide-ide mereka. Wajar bagi manusia
+Untuk alasan ini, chatbots dan AI pada umumnya tidak
+                                                            untuk mengulangi temuan, pernyataan, dan karya tulis
+boleh menggantikan keahlian, penilaian, kepribadian,
+                                                            orang lain, dan dengan demikian mendekati melakukan
+dan pada akhirnya tanggung jawab.
+                                                            plagiarisme dengan menyajikan ide tanpa referensi
+2.3. Perbandingan Chatbot dengan Manusia                    yang tepat ke penulis aslinya. Sistem AI atau ChatGPT
+                                                            dapat melakukan plagiarisme berdasarkan definisi ini,
+Sebagai AI, ChatGPT memiliki keunggulan unggul
+                                                            tetapi juga dapat diprogram untuk menghindari
+dalam hal cepat memahami informasi secara mendalam
+                                                            penyalinan orang lain dengan mengulang karya mereka
+dan menghubungkan bukti untuk mencapai kesimpulan,
+                                                            dengan cara yang mirip dengan yang dilakukan penulis
+dibandingkan dengan manusia yang memiliki
+                                                            manusia. Namun, menggunakan program untuk
+keterbatasan dalam kemampuannya membaca berbagai
+                                                            merumuskan ulang kalimat dan tulisan untuk
+literatur yang komprehensif dan membedakan
+                                                            mengurangi persentase plagiarisme (yaitu, meminta
+hubungan antara potongan-potongan informasi yang
+                                                            perangkat lunak untuk menulis ulang bagian yang
+tampaknya terpisah. Selain itu, mungkin sulit untuk
+                                                            ditulis oleh penulis lain dengan kata yang berbeda) tidak
+mengenali apakah sebuah makalah ditulis oleh chatbot
+                                                            dapat dianggap dapat diterima dalam penelitian ilmiah.
+atau manusia [6], karena chatbot menggunakan teknik
+                                                            Jika kita mendefinisikan “plagiarisme” hanya sebagai
+canggih, seperti pemrosesan bahasa alami (NLP) dan
+                                                            tindakan menyalin karya orang lain, hanya mengulangi
+pembelajaran mesin, untuk menghasilkan teks yang
+                                                            apa yang tertulis, terlepas dari metode yang digunakan,
+mirip dengan teks manusia. menulis. Untuk mendeteksi
+                                                            dan tanpa menambahkan sesuatu yang bersifat pribadi,
+penulis adalah tugas yang kompleks dan membutuhkan
+                                                            itu adalah pelanggaran integritas akademik. Untuk itu,
+pembacaan kritis yang menyeluruh untuk mencapai
+                                                            editor jurnal harus menggunakan program untuk
+suatu kesimpulan. Namun, beberapa karakteristik
+                                                            mendeteksi konten tertulis menggunakan AI untuk
+mungkin mengungkapkan bahwa sebuah makalah
+                                                            mendeteksi plagiarisme dengan lebih baik. Kedua,
+ditulis oleh chatbot, seperti kurangnya nuansa, gaya,
+                                                            kurangnya pemikiran manusia yang ahli dan kritis di
+atau orisinalitas, yang memungkinkan identifikasi oleh
+                                                            balik karya ilmiah (yang merupakan dasar dari metode
+detektor keluaran AI dan peninjau manusia yang skeptis
+                                                            ilmiah) dapat menyebabkan risiko melanggengkan atau
+[7]. Menariknya, ciri-ciri penulisan yang sama dapat
+                                                            memperkuat bias dan ketidakakuratan data yang ada,
+ditemukan dalam teks yang ditulis dalam bahasa yang
+                                                            memberikan hasil yang tidak adil dan menghambat
+bukan bahasa ibu seseorang. Dengan berfokus pada
+
+                                DOI: https://doi.org/ 10.38204/tematik.v10i1.1291
+                      Lisensi: Creative Commons Attribution 4.0 International (CC BY 4.0)
+                                                         56
+               Zen Munawar, Heru Soerjono, Novianti Indah Putri, Hernawati, Andina Dwijayanti
+               Tematik : Jurnal Teknologi Informasi Komunikasi (e-Journal) Vol. 10 No. 2 (2023)
+
+pertumbuhan ilmiah. Apapun kegunaan AI, kami                diabadikan oleh ChatGPT terutama mengingat
+percaya bahwa kehadiran seorang ahli di bidangnya           prasangka terbuka yang muncul dari model generasi
+dalam melakukan kegiatan ilmiah dan penulisan               bahasa sebelumnya [10].
+merupakan landasan yang diperlukan bahkan untuk
+menjamin kualitas karya. Ketiga, pengembangan alat          3. Hasil dan Pembahasan
+AI yang luar biasa dapat menyebabkan peningkatan
+                                                            3.1. Hasil
+jumlah publikasi yang signifikan dari beberapa peneliti,
+tetapi tidak disertai dengan peningkatan nyata dalam        ChatGPT memiliki potensi untuk merampingkan proses
+pengalamannya di bidang tersebut. Oleh karena itu,          penulisan dan peninjauan, penting bagi peninjau dan
+masalah etika dapat muncul terkait perekrutan               editor untuk menyadari potensi tantangan dan jebakan
+profesional oleh institusi akademik yang menilai            yang mungkin mereka hadapi.Selanjutnya diperlukan
+jumlah publikasi daripada kualitasnya. Keempat,             batas kemungkinan penggunaan manfaat aplikasi ini
+apakah ChatGPT harus disebutkan dalam penulis               alat harus diperjelas.
+naskah yang ditulis menggunakan pendekatan ini masih
+belum ditentukan secara memadai. Terakhir, jika saat        Penting bagi peninjau dan editor untuk tetap waspada
+ini ChatGPT dan layanan chatbot lainnya gratis, tidak       dalam memastikan bahwa penggunaan alat ini tidak
+ada jaminan bahwa mereka tidak akan membayar di             membahayakan integritas ilmiah artikel yang mereka
+masa mendatang. Pemberlakuan biaya untuk                    ulas. Salah satu masalah potensial yang mungkin
+mengakses chatbots ini dapat menyebabkan perbedaan          muncul saat menggunakan alat kecerdasan buatan
+lebih lanjut antara negara berpenghasilan tinggi dan        adalah risiko kesalahan atau bias yang dimasukkan ke
+rendah (serta antara profesional yang lebih junior          dalam teks. Meskipun algoritma kecerdasan buatan
+hingga profesional yang lebih tua), untuk produksi          dirancang agar objektif, algoritme tersebut mungkin
+ilmiah, yang mengakibatkan fasilitasi yang tidak adil       masih dipengaruhi oleh data yang digunakan untuk
+bagi negara-negara tersebut dengan konsekuensi yang         melatihnya, atau oleh bias manusia yang mendesainnya.
+tidak dapat diprediksi.                                     Oleh karena itu, penting bagi peninjau dan editor untuk
+                                                            memeriksa dengan cermat artikel yang mereka ulas
+2.5. Pembuatan Abstrak                                      untuk setiap kesalahan atau bias yang mungkin
+Pembuatan abstrak dengan model bahasa besar seperti         disebabkan oleh alat kecerdasan buatan.
+ChatGPT adalah alat yang ampuh untuk membuat                Secara keseluruhan, penggunaan alat kecerdasan buatan
+abstrak ilmiah yang dapat dibaca, meskipun                  kemungkinan besar akan berdampak signifikan pada
+menyertakan data yang dihasilkan. Abstrak yang              cara artikel ilmiah ditulis dan ditinjau di tahun-tahun
+dihasilkan tidak selalu memperingatkan model                mendatang. Sementara alat-alat ini memiliki potensi
+pendeteksian plagiarisme, karena teks dibuat lagi, tetapi   untuk sangat merampingkan proses, penting bagi
+seringkali dapat dideteksi menggunakan model                peninjau dan editor untuk tetap waspada dalam
+pendeteksian kecerdasan buatan, dan terkadang               memastikan bahwa standar ilmiah jurnal dipertahankan.
+diidentifikasi oleh seseorang. Teks yang dihasilkan         Dengan menyadari potensi tantangan dan jebakan yang
+dapat membantu meringankan beban penulisan dengan           mungkin mereka hadapi, peninjau dan editor dapat
+memberikan garis besar untuk diedit oleh seorang            membantu memastikan bahwa penggunaan alat
+ilmuwan, tetapi membutuhkan tinjauan yang cermat            kecerdasan buatan meningkatkan, bukan mengurangi,
+untuk akurasi faktual. Penggunaan optimal dan batasan       integritas ilmiah makalah yang mereka ulas.
+etis dari tulisan yang dihasilkan kecerdasan buatan
+masih harus ditentukan seiring berkembangnya diskusi        3.2. Pembahasan
+dalam komunitas ilmiah.                                     Penggunaan teknologi digital telah dirasakan
+Teknologi ChatGPT dapat digunakan dengan cara yang          manfaatnya pada beberapa tahun terakhir [11].
+etis dan tidak etis. Mengingat kemampuannya untuk           Tantangan yang mungkin muncul saat menggunakan
+menghasilkan abstrak dengan angka yang dapat                alat kecerdasan buatan untuk menulis dan meninjau
+dipercaya, itu dapat digunakan oleh organisasi seperti      karya ilmiah adalah potensi alat ini digunakan untuk
+pabrik kertas untuk sepenuhnya memalsukan                   memanipulasi atau mendistorsi catatan ilmiah. Sangat
+penelitian. Di sisi lain, teknologi dapat digunakan         dimungkinkan peneliti yang menggunakan alat
+bersama dengan pengetahuan ilmiah peneliti sendiri          kecerdasan buatan untuk membuat artikel palsu atau
+sebagai alat untuk mengurangi beban penulisan dan           memanipulasi hasil eksperimen. Untuk mencegah
+pemformatan. Ini dapat digunakan oleh para ilmuwan          penyalahgunaan tersebut, penting bagi peninjau dan
+yang menerbitkan dalam bahasa yang bukan bahasa ibu         editor untuk menyadari potensi penyalahgunaan alat
+mereka, untuk meningkatkan pemerataan. Namun,               kecerdasan buatan dan mengambil langkah-langkah
+model kecerdasan buatan telah terbukti sangat sensitif      untuk memastikan integritas catatan ilmiah.
+terhadap bias dalam data pelatihan [9] , dan data lebih     ChatGPT adalah chatbot yang diluncurkan oleh
+lanjut diperlukan untuk menentukan potensi bias yang        OpenAI (San Francisco, CA) pada November 2022
+
+                                DOI: https://doi.org/ 10.38204/tematik.v10i1.1291
+                      Lisensi: Creative Commons Attribution 4.0 International (CC BY 4.0)
+                                                         57
+              Zen Munawar, Heru Soerjono, Novianti Indah Putri, Hernawati, Andina Dwijayanti
+              Tematik : Jurnal Teknologi Informasi Komunikasi (e-Journal) Vol. 10 No. 2 (2023)
+
+[12]. OpenAI merilis model chatbot, “ChatGPT”, yang      ilmiah dapat dibuat lebih mudah, lebih cepat, dan lebih
+dapat berinteraksi dengan manusia melalui percakapan.    menyenangkan? Solusi yang mungkin adalah
+Model chatbot dioptimalkan dengan teknik                 menggunakan ChatGPT, chatbot kecerdasan buatan,
+pembelajaran pengawasan dan penguatan. ChatGPT           untuk meningkatkan kualitas manuskrip dan dokumen.
+menggunakan teknik kecerdasan buatan dengan
+pembelajaran mendalam untuk menghasilkan respons
+seperti manusia terhadap pertanyaan bahasa alami,
+menjadikannya model bahasa yang sangat besar [13].
+Model pembelajaran mendalam dilatih di komputasi
+awan dengan metode tearawasi [14]. Teknik
+pembelajaran mesin dan pembelajaran mendalam
+digunakan melalui antarmuka berbasis teks. Kami
+mendorong Anda untuk mencoba dan berinteraksi
+dengan alat tersebut sendiri untuk memahami kekuatan
+dan keterbatasan yang mereka manfaatkan. Meskipun
+keluaran yang disediakan oleh alat tersebut sangat
+menarik, alat ini masih jauh dari sempurna dan
+mengalami kesalahan dan bias yang besar.                        Gambar 1. ChatGPT Membantu Konsep Penelitian
+                                                                       Sumber : (Hasil Penelitian, 2023)
+Meskipun demikian, jelas bahwa dalam waktu dekat,
+kita akan melihat karya ilmiah setidaknya sebagian       Pada gambar 1 menunjukkan bahwa ChatGPT dapat
+disusun oleh alat-alat tersebut yang diserahkan ke       membantu peneliti dalam melakukan beberapa kegiatan
+jurnal. Sebagai penulis, kita perlu memastikan bahwa     untuk penulisan ilmiah yaitu ekstraksi ide, tinjauan
+kita tidak menggunakan alat ini untuk menyusun bagian    literatur, analisis, desain penelitian, dan ringkasan.
+mana pun dari karya ilmiah, sampai alat ini divalidasi   Dengan kemajuan dalam komputasi kinerja tinggi,
+secara internal dan eksternal untuk tujuan ini dan       dimungkinkan untuk mengekstrak dan memperoleh
+sampai benar-benar akurat. Bahkan alat-alat ini          data yang diperlukan dari kumpulan data yang
+kemungkinan akan terbatas pada tugas-tugas tertentu      dikumpulkan. Proses ekstraksi informasi ini disebut
+yang tidak membahayakan integritas dan orisinalitas      sebagai pembelajaran mesin. Penggunaan perangkat
+pekerjaan dan tunduk pada pengawasan manusia yang        keras dan perangkat lunak manajemen data tercanggih
+teliti.                                                  yang dirancang terutama untuk menangani informasi
+Sebagai pembaca, peninjau, dan editor, kita harus        yang begitu besar dan rumit [17]. Pembelajaran mesin
+menyadari kemungkinan bahwa alat-alat ini sudah          adalah subtipe kecerdasan buatan, dan alih-alih
+digunakan secara tidak tepat. Kita perlu terus menilai   dikodekan secara eksplisit dengan aturan dan
+keakuratan ilmiah, validitas, dan orisinalitas setiap    pernyataan, pembelajaran mesin belajar menyelesaikan
+makalah dengan hati-hati. Mungkin di masa                tugas dengan mengidentifikasi pola dalam data. Di sisi
+mendatang, kita juga akan melihat alat yang dilatih      lain, jenis pembelajaran mesin tertentu yang dikenal
+untuk mengenali teks yang dihasilkan oleh bot            sebagai pembelajaran mendalam didasarkan pada
+kecerdasan buatan. Alat penghitung ini juga              jaringan saraf tiruan, yang terinspirasi oleh sistem saraf
+kemungkinan akan reaktif, dan mungkin dalam              manusia. Pembelajaran mendalam, merupakan dari
+beberapa kasus, tertunda sehubungan dengan evolusi       cabang pembelajaran mesin telah menunjukkan hasil
+teknologi bot kecerdasan buatan yang berkelanjutan.      yang menjanjikan dalam penelitian [18].
+                                                         Arsitektur jaringan model dikatakan "dalam" karena
+Sepertinya kecerdasan buatan menawarkan peluang
+                                                         memiliki beberapa lapisan. Pembelajaran mesin
+besar dalam setiap aspek kehidupan kita. Kita perlu
+                                                         tradisional melibatkan pembelajaran model dari fitur
+merangkul saat-saat menyenangkan yang kita jalani dan
+                                                         data yang diturunkan secara manual, sedangkan
+memperhatikan potensi jebakan yang dihasilkan oleh
+                                                         pembelajaran mendalam melibatkan pembelajaran dari
+proses otomatis sebagai konsekuensi yang tidak
+                                                         data input mentah, termasuk ekstraksi fitur. Oleh karena
+diinginkan.
+                                                         itu, deep learning dapat mengungguli machine learning
+Kecerdasan buatan dapat didefinisikan sebagai            dalam melakukan tugas yang kompleks [19].
+serangkaian tindakan yang dimaksudkan untuk              Aplikasi ChatGPT dalam penulisan ilmiah dapat
+melakukan tugas tertentu [15]. Kecerdasan buatan         membantu dalam melakukan konsep penelitian,
+adalah cabang ilmu komputer yang berpotensi meniru       penulisan ilmiah atau penulisan akademik, mengedit
+kecerdasan manusia untuk membuat prediksi dan            dan proofreading, serta mempublikasikan, seperti
+membuat keputusan yang rumit [16]. Bagi banyak           terlihat pada gambar 2. Dalam kegiatan penulisan
+peneliti, penulisan manuskrip adalah salah satu bagian   Ilmiah dapat berupa asisten penulis, terjemahan bahasa,
+tersulit dari proses penelitian. Bagaimana penulisan
+
+                               DOI: https://doi.org/ 10.38204/tematik.v10i1.1291
+                     Lisensi: Creative Commons Attribution 4.0 International (CC BY 4.0)
+                                                        58
+               Zen Munawar, Heru Soerjono, Novianti Indah Putri, Hernawati, Andina Dwijayanti
+               Tematik : Jurnal Teknologi Informasi Komunikasi (e-Journal) Vol. 10 No. 2 (2023)
+
+konverter teks informal ke akademik, mengutip,             ChatGPT dapat menjadi alat yang menjanjikan dan
+interpretasi data, pembuatan judul dan kata kunci, serta   ampuh untuk tugas-tugas seperti pembuatan draf
+manajemen referensi.                                       otomatis, ringkasan artikel, dan terjemahan bahasa [5].
+                                                           Penggunaan ChatGPT mengarah pada percepatan
+                                                           proses penulisan akademik dan ilmiah bagi penulis,
+                                                           terutama bagi mahasiswa dan peneliti karir awal. Salah
+                                                           satu keunggulan utama ChatGPT adalah dapat dengan
+                                                           cepat menganalisis data dalam jumlah besar. Misalnya,
+                                                           peneliti dapat menganalisis ribuan makalah penelitian
+                                                           menggunakan model dalam waktu kurang dari separuh
+                                                           waktu yang diperlukan untuk membaca secara manual.
+                                                           Hal ini memungkinkan peneliti untuk menghemat
+                                                           banyak waktu dan fokus pada aspek penelitian lainnya.
+                                                           [6]. ChatGPT dapat memberikan saran untuk
+                                                           meningkatkan tulisan dan penerbitan Anda dengan
+                                                           cepat serta peluang keberhasilan Anda.
+
+                                                           4. Kesimpulan
+                                                           ChatGPT adalah perangkat lunak kecerdasan buatan
+                                                           yang berpotensi dapat membantu dalam proses
+     Gambar 2. Aplikasi ChatGPT Dalam Penulisan Ilmiah
+              Sumber : (Hasil Penelitian, 2023)            penulisan ilmiah dan dapat membantu dalam tinjauan
+                                                           literatur, mengidentifikasi pertanyaan penelitian,
+Dalam Mengedit dan Proofreading terdiri dari kegiatan      memberikan gambaran tentang keadaan lapangan saat
+: penambah kosakata, pemeriksa tata bahasa, pemeriksa      ini, dan membantu tugas-tugas, seperti pemformatan
+ejaan, pemeriksa konsistensi, dan pemeriksa kutipan.       dan tinjauan bahasa. Karena alat chatbot akan diadopsi
+Kegiatan untuk persiapan mempublikasikan penulisan         secara luas dalam waktu dekat, sangat penting untuk
+ilmiah bisa dalam hal sebagai berikut ini : pencari        memiliki peraturan akademik internasional untuk
+jurnal, pemformatan gaya jurnal, tinjauan sejawat          mengatur penggunaannya dalam penulisan ilmiah dan
+jurnal, pemeriksa kepatuhan etis, dan pemeriksa            menetapkan mekanisme untuk mengidentifikasi dan
+kepatuhan teknis. Dengan demikian ChatGPT                  menghukum penggunaan yang tidak etis. Chatbots
+menawarkan beberapa keunggulan untuk penulisan             hanyalah alat, mereka dapat membantu peneliti manusia
+ilmiah, misalnya: Kecepatan: ChatGPT dapat                 tetapi tidak boleh digunakan sebagai pengganti
+menghasilkan teks dengan cepat dan efisien, sehingga       keahlian, penilaian, dan kepribadian peneliti manusia.
+menghemat waktu dan tenaga penulis. ChatGPT juga           Penelitian ini menyajikan gambaran yang jelas dan
+membantu pengguna menemukan informasi yang                 komprehensif tentang potensi penggunaan ChatGPT
+relevan dari berbagai sumber, seperti halaman web,         dalam penulisan ilmiah. Pendahuluan memberikan latar
+dokumen akademik, buku, dll. Kreativitas: Model            belakang yang baik tentang chatbots dan ChatGPT dan
+kecerdasan buatan dapat menghasilkan teks orisinal,        bagaimana hal itu dapat digunakan dalam berbagai
+beragam, dan menarik yang merangsang kreativitas dan       tugas.
+imajinasi penulis. ChatGPT juga membantu
+menghasilkan ide, hipotesis, pertanyaan, dan perspektif    Penelitian ini selanjutnya membahas potensi
+baru bagi penulis untuk dijelajahi lebih lanjut. Umpan     penggunaan ChatGPT dalam penulisan ilmiah, seperti
+balik: ChatGPT dapat memberikan umpan balik dan            pembuatan draf, penelitian literatur, dan tinjauan
+saran pada teks penulis, misalnya untuk memperbaiki        bahasa. Telah dibahas masalah etika dan batasan
+kesalahan tata bahasa dan ejaan, untuk meningkatkan        penggunaan ChatGPT dalam penulisan ilmiah. Sebagai
+kejelasan dan koherensi, untuk menambahkan detail          rekomendasi adiperlukan untuk meninjau kembali
+dan contoh.                                                penulisan ilmiah tersebut, memeriksa kesalahan tata
+                                                           bahasa dan ejaan, dan memastikan bahwa kutipan dan
+ChatGPT juga dapat menjawab pertanyaan tindak              referensi diformat dengan benar. Penting untuk
+lanjut, menghilangkan kesalahan, menantang asumsi          memiliki kesimpulan yang tepat yang merangkum
+yang salah, dan menolak permintaan yang tidak pantas.      gagasan utama dan perspektif masa depan. Perlu
+Keterlibatan: ChatGPT dapat membuat tulisan ilmiah         diperhatikan bahwa ChatGPT harus selalu digunakan
+yang lebih menyenangkan dan menarik dengan meniru          bersama dengan keahlian dan penilaian pakar manusia,
+format dialog alami antara penulis dan asisten             dan hasilnya harus divalidasi sebelum digunakan dalam
+kecerdasan buatan. ChatGPT juga dapat menggunakan          penulisan ilmiah.
+humor, emosi, dan kepribadian untuk membuat
+interaksi menjadi lebih menyenangkan dan manusiawi.
+
+
+                                DOI: https://doi.org/ 10.38204/tematik.v10i1.1291
+                      Lisensi: Creative Commons Attribution 4.0 International (CC BY 4.0)
+                                                         59
+                  Zen Munawar, Heru Soerjono, Novianti Indah Putri, Hernawati, Andina Dwijayanti
+                  Tematik : Jurnal Teknologi Informasi Komunikasi (e-Journal) Vol. 10 No. 2 (2023)
+
+Daftar Rujukan                                                               reasoning won’t fix it,” Front. Psychollogy, vol. 11, pp. 1–5,
+                                                                             2020.
+[1]  Z. Munawar, “Simulasi,” in Manajemen Sains, 1st ed., P. T.       [11]   Z. Munawar, Y. Herdiana, Y. Suharya, and N. Indah Putri,
+     Cahyono, Ed. Bandung: Yayasan Cendikia Mulia Mandiri,                   “Pemanfaatan Teknologi Digital Di Masa Pandemi Covid-19,”
+     2023, p. 131.                                                           Temat. J. Teknol. Inf. Komun., vol. 8, no. 2, pp. 160–175, 2021.
+[2] M. R. King, “The future of AI in medicine: a perspective from     [12]   OpenAI, “ChatGPT: Optimizing Language Models for
+     a Chatbot,” Ann. Biomed. Eng., vol. 51, no. 1, pp. 291–305,             Dialogue,” Read about ChatGPT Plus, 2022. [Online].
+     2022.                                                                   Available: https://openai.com/blog/chatgpt/. [Accessed: 03-
+[3] M. Hutson, “Could AI help you to write your next paper?,” Nat.           Mar-2023].
+     Res., vol. 611, no. 7934, pp. 192–193, 2022.                     [13]   M. S. Abdel-Messih and M. N. K. Boulos, “ChatGPT in
+[4] M. M. Suverein, T. S. R. Delnoij, R. Lorusso, and G. J. B. B.            clinical toxicology,” JMIR Med. Educ., vol. 9, no. e46876, pp.
+     Bruinsma, “Early Extracorporeal CPR for Refractory Out-of-              1–4, 2023.
+     Hospital Cardiac Arrest,” New Engl J. Med., vol. 388, no. 4,     [14]   Z. Munawar, “Big Data Cloud Platform,” in Sains Data, 1st
+     pp. 299–309, 2023.                                                      ed., R. Komalasari, Ed. Bandung: Kaizen Media Publishing,
+[5] S. B. Patel and K. Lam, “ChatGPT: the future of discharge                2023, pp. 45–52.
+     summaries?,” Lancet Digit Heal., vol. 5, no. 3, pp. 107–108,     [15]   T. T. Nguyen, N. Larrivée, and A. Lee, “Use of artificial
+     2023.                                                                   intelligence in dentistry: current clinical trends and research
+[6] H. Else, “Abstracts written by ChatGPT fool scientists,”                 advances,” J. Can. Dent. Assoc. (Tor)., vol. 87, no. 87, pp. 1–
+     Nature, vol. 613, no. 7944, 2023.                                       8, 2021.
+[7] C. A. Gao et al., “Comparing scientific abstracts generated by    [16]   N. Venkateshbabu, A. Aminoshariae, and J. Kulild, “Artificial
+     ChatGPT to original abstracts using an artificial intelligence          Intelligence in Endodontics: Current Applications and Future
+     output detector, plagiarism detector, and blinded human                 Directions,” J. Endod., vol. 47, no. 9, 2021.
+     reviewers,” Digit. Med., vol. 6, no. 75, pp. 1–5, 2023.          [17]   Zen Munawar, Big Data Analytics : Konsep, Implementasi,
+[8] M. Hammad, “The impact of artificial intelligence (AI)                   dan Aplikasi Terkini, 1st ed. Bandung: Kaizen Media
+     Programs on writing scientific research,” Ann. Biomed. Eng.,            Publishing, 2023.
+     vol. 51, no. 3, pp. 459–460, 2023.                               [18]   Z. Munawar and N. I. Putri, “Keamanan IoT Dengan Deep
+[9] F. M. Howard, J. Dolezal, and S. Kochanny, “The impact of                Learning dan Teknologi Big Data,” Temat. J. Teknol. Inf.
+     site-specific digital histology signatures on deep learning             Komun., vol. 7, no. 2, pp. 161–185, Dec. 2020.
+     model accuracy and bias,” Nat. Commun., vol. 12, no. 1, pp. 1–   [19]   H. Mohammad-Rahimi, R. Rokhshad, and S. Bencharit, “Deep
+     14, 2021.                                                               learning: a primer for dentists and dental researchers,” J. Dent.,
+[10] J. M. Bishop, “Artificial Intelligence is stupid and causal             vol. 130, no. 1, p. 104430, 2023.
+
+
+
+
+                                    DOI: https://doi.org/ 10.38204/tematik.v10i1.1291
+                          Lisensi: Creative Commons Attribution 4.0 International (CC BY 4.0)
+                                                             60
+

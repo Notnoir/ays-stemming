@@ -1,0 +1,640 @@
+﻿Pembuatan Kecerdasan Buatan untuk Permainan Catur Jawa 
+Dengan Menggunakan Algoritma MiniMax 
+
+ 
+Brian Al Bahr 
+
+ 
+Program Studi Informatika 
+
+Sekolah Teknik Elektro dan Informatika, Institut Teknologi Bandung 
+Jl. Ganesha 10,Bandung 
+
+e-mail: if16093@students.if.itb.ac.id 
+ 
+ 
+
+ABSTRAK kecerdasan buatan. Manusia masih saja mencoba 
+
+ mengembangkan / mendapatkan sesuatu (teknologi) yang 
+
+Banyak sekali algoritma yang digunakan untuk baru, yang dapat berpikir seperti manusia. Hal ini terjadi 
+
+mengimplementasikan kecerdasan buatan. Salah satu karena adanya ketidakpuasan dalam diri manusia, manusia 
+
+dari algoritma itu adalah minimax. Algoritma ingin mendapatkan sesuatu dengan cara yang lebih 
+
+minimax merupakan salah satu implementasi dari mudah. Lagipula memang ada keterbatasan-keterbatasan 
+
+depth first search. Algoritma minimax terutama dalam diri manusia, seperti otak manusia yang hanya 
+
+diaplikasikan pada permainan yang melibatkan dua mampu berpikir dengan frekuensi kira-kira 100 Hz dan 
+
+orang, dan lebih khusus lagi, permainan dua orang karena manusia mempunyai rasa capai. Bandingkan 
+
+yang saling berganti giliran bermain seperti checkers, dengan komputer sekarang yang mampu mengolah data 
+
+tic-tac-toe, catur, catur jawa dan lain sebagainya. dengan frekuensi 4 GHz. Komputer juga tidak mempunyai 
+
+Permainan-permainan tersebut dapat dideskripsikan rasa capai walau pun harus mengolah data yang sama 
+
+dengan sejumlah aturan dan premis. Dengan itu, kita berulang-ulang. 
+
+dapat mengetahui, pada titik tertentu permainan, Bentuk implementasi yang paling mudah untuk diukur 
+
+langkah-langkah yang mungkin berikutnya. tingkat keberhasilan (kecerdasan buatan) dan cukup 
+
+Permainan tersebut berbagi karakteristik yang sama, digemari oleh sebagian besar publik yaitu pada games 
+
+yakni “permainan dengan penuh informasi”. Dengan atau permainan. Salah satu algoritma yang dapat 
+
+cara inilah penulis akan berusaha membuat sebuah diimplementsaikan sebagai kecerdasan buatan dalam 
+
+kecerdasan buatan untuk permainan catur jawa, yang sebuah permainan adalah algoritma minimax. Lebih 
+
+lagi, memiliki karakteristik yang sama dengan khusus lagi, algoritma minimax sangat baik diterapkan 
+
+permainan yang telah disebutkan di atas. Pada suatu pada permainan yang melibatkan 2 orang dan bermain 
+
+titik di makalah ini juga terdapat cara untuk bergantian, misalnya pada permainan catur, othello, 
+
+mengoptimasi algoritma minimax agar memiliki backgammon, catur jawa, dan lain sebagainya. 
+
+performansi yang lebih baik, salah satunya dengan Pada kesempatan kali ini, penulis akan 
+
+menggunakan alpha-beta. mengimplementasikan algoritma minimax pada 
+
+ permainan catur jawa. Catur jawa adalah permainan yang 
+
+Kata kunci: minimax, alpha-beta cutoffs, catur jawa, sangat menyenangkan, permainan ini sudah dapat 
+
+depth first search, kecerdasan buatan. dimainkan bermodalkan pensil dan kertas. Satu pemain 
+
+ mendapat simbol ‘X’ dan yang lain mendapat simbol ‘O’. 
+
+ Pemain secara bergantian bebas untuk menempatkan 
+
+ simbol-simbol tersebut pada tempat yang telah disediakan. 
+Tujuan dari permainan ini adalah mendapatkan 4 buah 
+
+1.  PENDAHULUAN 
+simbol yang sama pada satu baris, satu kolom, atau pada 
+
+ 
+diagonal yang sama. 
+
+Istilah kecerdasan buatan atau AI adalah sesuatu tiruan 
+Proses utama algoritma minimax yaitu pencarian nilai 
+
+atau buatan yang cerdas. Cerdas di sini kemungkinan 
+terbaik berdasarkan nilai-nilai yang telah diberikan pada 
+
+maksudnya adalah kepandaian atau ketajaman dalam 
+tiap-tiap langkah. Nilai-nilai tersebut dibangkitkan 
+
+berpikir, seperti halnya otak manusia dalam berdasarkan basis pengetahuan yang dimiliki oleh 
+menyelesaikan suatu masalah. Kecerdasan buatan dapat algoritma tersebut. Dengan penerapan algoritma minimax 
+diterapkan atau dimplementasikan ke dalam berbagai 
+
+sebagai pondasi suatu kecerdasan buatan pada permainan 
+bentuk aplikasi. 
+
+catur jawa, maka diharapkan akan dihasilkan suatu 
+Walau pun menyadari bahwa kecerdasan buatan bisa 
+
+permainan yang interaktif. Alat bantu yang akan 
+jadi adalah suatu ancaman untuk manusia, tapi manusia digunakan penulis dalam mengimplementasikan algoritma 
+masih saja mengembangkan apa yang disebut dengan 
+
+MAKALAH IF2251 STRATEGI ALGORITMIK TAHUN 2008 
+
+
+
+minimax pada permainan catur jawa ini adalah bahasa   
+
+pemrograman GerakMax (PosisiPermainan game) { 
+Java. 
+
+  if (PermainanSelesai(game)) { 
+ 
+
+    return EvalGameState(game); 
+2.  METODE   } 
+
+2.1 Algoritma Minimax   else { 
+    best_move < - {}; 
+
+ 
+    moves <- BangkitkanGerakan(game); 
+
+Algoritma minimax diaplikasikan pada permainan yang     ForEach moves { 
+
+melibatkan dua orang. Permainan-permainan tersebut        move <- GerakMin(LakukanGerakan(game)); 
+
+dapat dideskripsikan dengan sejumlah aturan dan premis.        if (Nilai(move) > Nilai(best_move)) { 
+          best_move < - move; 
+
+Dengan itu, kita dapat mengetahui, pada titik tertentu        } 
+permainan, langkah-langkah yang mungkin berikutnya.     } 
+
+Permainan tersebut berbagi karakteristik yang sama, yakni     return best_move; 
+
+“permainan dengan penuh informasi”. Setiap pemain   } 
+} 
+
+mengetahui semua langkah-langkah yang mungkin dari   
+pemain lawannya. GerakMin (PosisiPermainan game) { 
+
+Sebelum menjelaskan algoritma minimax, pengenalan   best_move <- {}; 
+  moves <- BangkitkanGerakan(game); 
+
+mengenai pohon pencarian dibutuhkan. Pohon pencarian 
+  ForEach moves { 
+
+adalah cara untuk merepresentasikan pencarian. Kotak      move <- GerakMax(LakukanGerakan(game)); 
+disebut sebagai simpul dan simpul-simpul tersebut      if (Nilai(move) > Nilai(best_move)) { 
+
+merepresentasikan titik keputusan pada pencarian. Simpul         best_move < - move; 
+     } 
+
+dihubungkan dengan cabang. Pencarian dimulai pada 
+  } 
+
+simpul akar, ditunjukkan pada bagian atas pada gambar 1.   return best_move; 
+
+Pada setiap simpul keputusan, simpul berikutnya yang } 
+
+mungkin untuk pencarian dibangkitkan, sampai tidak ada  
+lagi keputusan yang mungkin. Simpul yang ‘Nilai’ pada algoritma di atas merepresentasikan 
+merepresentasikan akhir pencarian disebut sebagai simpul seberapa baik permainan bergerak. Pemain MAX akan 
+daun. mencoba memilih gerakan dengan nilai maksimum pada 
+
+ akhirnya sedangkan pemain MIN akan memilih gerakan 
+yang lebih baik baginya, karena itu MIN akan 
+meminimkan keluaran dari MAX (minimizing MAX’s 
+outcome). 
+
+ 
+2.2 Optimasi Algoritma 
+ 
+
+Pembangkitan seluruh pohon pencarian hanya 
+dimungkinkan jika dan hanya jika permainan yang 
+diimplementasikan sangat sederhana. Pada kebanyakan 
+
+ permainan, hal ini tidak mungkin, oleh karena itu, ada 
+Gambar 1. Representasi pohon pencarian untuk permainan 
+
+logika sedikit optimasi yang harus ditambahkan pada algoritma 
+
+ tersebut. 
+
+Pada algoritma ini ada dua pemain yang terlibat, kita Kendati demikian, optimasi ini datang dengan sebuah 
+
+asumsikan MAX dan MIN. Pohon pencarian efek samping. Dengan mengoptimasi, kita menukar 
+
+dibangkitkan, depth-first, dimulai dari posisi permainan informasi seluruhnya tentang permainan dengan 
+
+saat ini sampai pada akhir posisi permainan. Lalu, kondisi kemungkinan dan jalan pintas. Kita tidak lagi memilih 
+
+permainan final dievaluasi sebagai sudut pandang MAX, jalan yang menghasilkan kemenangan tetapi memilih jalan 
+
+seperti tergambar pada gambar 1. Setelah itu, simpul- yang ‘menuju’ ke arah kemenangan. Jika pengoptimasian 
+
+simpul di atas simpul daun diisi secara bottom up dengan tidak dipilih dengan bijak, atau salah pengaplikasian, bisa-
+
+nilai pada simpul anak-anaknya. Simpul yang dimiliki bisa kecerdasan yang dibuat menjadi bodoh dan malahan 
+
+pemain MAX menerima nilai maksimum dari simpul lebih baik memilih langkah sebarang daripada 
+
+anak-anaknya dan pemain MIN memperoleh nilai menggunakan kecerdasan buatan. 
+
+minimum dari nilai-nilai yang dimiliki simpul anak- Optimasi dasar adalah dengan cara membatasi 
+
+anaknya. Berikut gambaran algoritmanya: kedalaman pohon pencarian. Mengapa ini bisa menolong? 
+
+ Membangkitkan seluruh pohon pencarian bisa memakan 
+MinMax (PosisiPermainan game) { waktu yang sangat lama. Jika permainan memiliki faktor 
+  return GerakMax (game); pencabangan 3 (masing-masing simpul memiliki 3 buah 
+} simpul anak), maka pohon pada tingkat n akan memiliki 
+
+MAKALAH IF2251 STRATEGI ALGORITMIK TAHUN 2008 
+ 
+
+
+
+simpul sebanyak 3n buah. Pohon pencarian ini juga akan   } 
+
+menghasilkan simpul sebanyak jumlah setiap jumlah   else { 
+    best_move < - {}; 
+
+simpul pada setiap tingkat. Memori tidak akan cukup     moves <- BangkitkanGerakan(game); 
+untuk menampung pohon pencarian pada kebanyakan     ForEach moves { 
+
+permainan, seperti catur yang memiliki banyak faktor        move <- GerakMin(LakukanGerakan(game)); 
+       if (Nilai(move) > Nilai(best_move)) { 
+
+pencabangan. Walaupun memori mencukupi, tapi proses 
+          best_move < - move; 
+
+pembangkitan pohon pencarian akan membutuhkan waktu        } 
+
+yang sangat lama. Jika setiap simpul membutuhkan 1     } 
+
+detik untuk dianalisis, untuk pohon dengan faktor     return best_move; 
+  } 
+
+pencabangan 3 dan tingkat=5 akan menghasilkan waktu } 
+pembangkitan sebanyak 1+3+9+27+81+243 = 364 * 1 =   
+
+364 detik atau sekitar 6 menit! Waktu 6 menit terlalu lama GerakMin (PosisiPermainan game) { 
+
+untuk sebuah permainan. Pemain akan meninggalkan if 
+(PermainanSelesai(game)||(batasKedalamanTercapai(
+
+permainan jika harus menunggu masing-masing 6 menit ))) { 
+untuk setiap gerakan dari komputer.       return EvalGameState(game,MIN); 
+
+Optimasi kedua adalah dengan menggunakan fungsi     } 
+else{ 
+
+yang mengevaluasi posisi permainan saat ini dari sudut 
+best_move <- {}; 
+
+pandang suatu pemain. Cara ini dilakukan dengan cara   moves <- BangkitkanGerakan(game); 
+memberikan nilai tertentu pada state tertentu pada   ForEach moves { 
+
+permainan, seperti menghitung jumlah biji catur yang ada      move <- GerakMax(LakukanGerakan(game)); 
+     if (Nilai(move) > Nilai(best_move)) { 
+
+di papan, atau hal lain seperti memberi nilai tertentu pada 
+        best_move < - move; 
+
+posisi permainan.      } 
+
+Selain mengevaluasi posisi tertentu pada permainan,   } 
+
+fungsi ini juga dapat mengkalkulasi bagaimana suatu   return best_move; 
+ } 
+
+kondisi dalam permainan dapat membantu mengakhiri } 
+permainan. Dengan kata lain, berapa peluang bagi kita  
+untuk memenangkan permainan pada posisi tertentu Celah terbesar yang mungkin terjadi setelah 
+dalam permainan. Dalam kasus ini, fungsi ini disebut mengaplikasikan optimasi algoritma minimax adalah 
+sebagai fungsi estimasi (prekiraan). masalah kedalaman yang terbatas. Posisi permainan yang 
+
+Fungsi ini akan menggunakan metode heuristik. kelihatan amat baik mungkin saja berubah menjadi sangat 
+Heuristik adalah pengetahuan yang kita punya dari buruk. Hal ini dapat terjadi karena algoritma tidak mampu 
+permainan yang akan membantu membangkitkan fungsi untuk melihat bahwa gerakan yang diambil setelah 
+evaluasi yang lebih baik. Sebagai contoh, dalam checkers, beberapa langkah ke depan dapat menghasilkan 
+biji pada posisi ujung papan tidak bisa dimakan, dan keuntungan yang amat besar bagi pemain lawan. 
+karena itu nilainya akan lebih tinggi bila biji itu berada Algoritma tidak melihat gerakan yang berakibat fatal 
+pada posisi unjung papan. Salah satu alasan fungsi tersebut karena algoritma ini dibutakan oleh batas 
+evaluasi harus bisa mengevaluasi posisi permainan untuk kedalaman. 
+kedua pemain adalah karena kita tidak tahu pemain mana  
+yang memiliki batas kedalaman. 2.3 Mempercepat Algoritma 
+
+Kendati demikian, pembuatan dua fungsi (masing-
+ 
+
+masing satu untuk pemain) dapat dihindari jika permainan 
+Masih ada beberapa cara yang masih dapat dilakukan 
+
+simetrik. Ini berarti bahwa ‘kehilangan’ dari suatu pemain 
+untuk mengurangi waktu pencarian. Kita lihat gambar 2. 
+
+sebanding dengan ‘perolehan’ dari pemain yang satunya. 
+Nilai untuk simpul A adalah 3, dan nilai yang ditemukan 
+
+Contoh permainan ini adalah permainan ZERO-SUM. 
+pertama kali untuk upapohon yang dimulai dari simpul B 
+
+Pada permainan-permainan seperti ini, satu fungsi sudah 
+adalah 2. Maka, karena simpul B ada pada tingkat MIN, 
+
+mencukupi karena pemain yang lain hanya perlu 
+kita tahu bahwa dengan nilai yang dipilih untuk B harus 
+
+menegasikan kembalian dari fungsi yang pertama. Berikut 
+lebih kecil atau sama dengan 2. Tapi kita juga tahu bahwa 
+
+algoritma minimax setelah dioptimasi: 
+simpul A memiliki nilai 3, dan simpul A dan B keduanya 
+
+ 
+memiliki simpul parent yang sama pada tingkat MAX. 
+
+MinMax (PosisiPermainan game) { 
+  return GerakMax (game); Hal ini dapat diartikan bahwa jalur yang dimulai dari 
+} simpul B tudak akan dipilih karena 3 lebih baik daripada 2 
+  pada simpul MAX. Oleh karena itu, pencarian anak-anak 
+GerakMax (PosisiPermainan game) { 
+
+simpul B tidak perlu dilakukan dan kita dapat dengan 
+  if 
+(PermainanSelesai(game)||(batasKedalamanTercapai( aman mengabaikan sisa anak-anak simpul B.  
+))) {  
+    return EvalGameState(game,MAX); 
+
+MAKALAH IF2251 STRATEGI ALGORITMIK TAHUN 2008 
+ 
+
+
+
+if 
+(PermainanSelesai(game)||(batasKedalamanTercapai(
+))) { 
+      return EvalGameState(game,MIN); 
+    } 
+else{ 
+best_move <- {}; 
+  moves <- BangkitkanGerakan(game); 
+  ForEach moves { 
+
+ move <- 
+GerakMax(LakukanGerakan(game),alp,bet); 
+
+      if (Nilai(move) > Nilai(best_move)) { 
+
+Gambar 2. Pencarian minimax yang menunjukkan bahwa         best_move < - move; 
+ bet <- Nilai(move) 
+
+cabang dapat di-potong 
+     } 
+
+      if (bet < alp) 
+Optimasi ini dikenal dengan nama pemotongan Alpha-  return best_move; 
+
+Beta (alpha beta cutoffs) dan berikut adalah cara   } 
+
+mengaplikasikannya:   return best_move; 
+ } 
+
+1. Dapatkan nilai alpha dan beta. Alpha adalah nilai } 
+yang berisi nilai maksimum yang ditemukan. Beta  
+adalah nilai yang berisi nilai minimum yang Seberapa baik minimax dengan alpha-beta cutoffs jika 
+ditemukan. dibandingkan dengan minimax normal benar-benar 
+
+2. Pada tingkat MAX, sebelum mengevaluasi jalur bergantung pada urutan pencarian dilakukan. Jika cara 
+anak, bandingkan dulu nilai yang dikembalikan pembangkitan posisi permainan tidak menciptakan 
+dengan jalur sebelumnya dengan nilai beta. Jika situasi dimana algoritma bisa mengambil keuntungan 
+nilainya lebih besar, batalkan pencarian untuk simpul dari alpha-beta cutoffs, maka peningkatan algoritma 
+ini. tidak akan kelihatan. Kendati demikian, jika evaluasi 
+
+3.  Pada tingkat MIN, sebelum mengevaluasi jalur fungsi dan pembangkitan posisi permainan mengarah 
+anak, bandingkan dulu nilai yang dikembalikan pada alpha-beta cutoffs, maka peningkatan algoritma 
+dengan jalur sebelumnya dengan nilai alpha. Jika akan sangat baik. 
+nilainya lebih kecil, batalkan pencarian untuk simpul  
+ini. 3. Implementasi Algoritma 
+
+Berikut adalah pseudocode algoritma minimax dengan  
+alpha-beta cutoffs. Pada pengimplementasian algoritma minimax pada 
+ permainan catur jawa ini, penulis menggunakan bahasa 
+
+MinMax (PosisiPermainan game) { 
+  return GerakMax (game); pemrograman Java. Pada pengimplementasiannya, catur 
+} jawa yang dibuat penulis diberi batasan-batasan khusus. 
+  Batasan-batasan ini antara lain : lebar papan hanya 
+GerakMax (PosisiPermainan game,int alp,int bet) { dibatasi 7 kotak saja dan tinggi papan hanya 6 kotak saja. 
+  if 
+(PermainanSelesai(game)||(batasKedalamanTercapai( Permainan juga selalu dimulai dari bawah untuk 
+))) { menyederhanakan persoalan. 
+    return EvalGameState(game,MAX); Pemain akan memulai permainan dengan cara memilih 
+  } 
+
+salah satu kolom dari tujuh buah kolom yang tersedia. 
+  else { 
+    best_move < - {}; Pemain akan mendapatkan simbol ‘X’. Komputer pun 
+    moves <- BangkitkanGerakan(game); akan segera melakukan gerakan untuk melawan pemain 
+    ForEach moves { sesuai dengan algoritma minimax yang 
+
+move <-    
+diimplementasikan. Demikian selanjutnya sampai salah 
+
+GerakMin(LakukanGerakan(game),alp,bet); 
+       if (Nilai(move) > Nilai(best_move)) { satu pemain (kita atau komputer) memperoleh 4 simbol 
+          best_move < - move; yang sama (‘X’ untuk kita dan ‘O’ untuk komputer) pada 
+ alp <- Nilai(move); baris yang sama, pada kolom yang sama, atau pada 
+       } 
+ if (bet > alp) diagonal yang sama. 
+  return best_move; Method-method yang dipakai dalam 
+    } mengimpelementasikan algoritma ini pada intinya hanya 
+    return best_move; tiga buah, yakni konstruktor caturJawa, fungsi miniMax 
+  } 
+} sebagai algoritma inti pada kecerdasan buatan pada 
+  permainan catur jawa ini, dan method fourInARow yang 
+GerakMin (PosisiPermainan game,int alp,int bet) { berfungsi  untuk menghitung apakah suatu pemain telah 
+
+MAKALAH IF2251 STRATEGI ALGORITMIK TAHUN 2008 
+ 
+
+
+
+memperoleh simbol empat buah yang berurutan. Untuk   if(tinggiKolom[kolom]>=tinggi) return 0; 
+
+memperjelas, mari kita lihat algoritmanya :     recurDepth++; 
+   papan[kolom][tinggiKolom[kolom]]=player; 
+
+Berikut adalah variabel global yang digunakan:    tinggiKolom[kolom]++;      
+  if(fourInARow()>0) { 
+
+private static final int lebar=7, tinggi=6;     if(player==2) 
+
+private static final int maxReccur=6;        value=maxReccur+1-recurDepth; 
+private int[][] papan=new int[lebar][tinggi];     else value=-maxReccur-1+recurDepth; 
+
+private int[] tinggiKolom=new int[lebar];  }      
+private static int recurDepth=0;  if(recurDepth<maxReccur && value==0) { 
+
+private static BufferedReader in;   value=maxReccur+1; 
+
+      for(int x=0; x<lebar; x++) { 
+   if(tinggiKolom[x]>=tinggi) continue; 
+
+Berikut adalah konstruktor caturJawa : 
+   int v=miniMax(3-player, x); 
+
+        if(value==(maxReccur+1)) value=v; 
+public caturJawa() {        else if(player==2) {if(value>v)value=v;} 
+ int kolom;    else if(v>value) value=v; 
+  int player=1;   } 
+   Vector<Integer> gerakan=new Vector<Integer>();  }  
+   while(true) {  recurDepth--; 
+  if(player==1) {  tinggiKolom[kolom]--; 
+      printPapan();  papan[kolom][tinggiKolom[kolom]]=0; 
+       do {    return value; 
+         System.out.print("Masukkan gerakan (1- } 
+
+7): ");  
+    kolom=readInt()-1; Dan yang terakhir, fungsi FourInARow :  
+       }while(kolom<0||kolom>=lebar|| 
+
+ 
+tinggiKolom[kolom]>=tinggi); 
+
+     } else { int fourInARow() { 
+
+       gerakan.removeAllElements();  int num, player;  
+
+       kolom=0;    for(int y=0; y<tinggi; y++) { 
+
+       int prevValue=-maxReccur-1;     num=0; player=0; 
+
+       for(int x=0; x<lebar; x++) {     for(int x=0; x<lebar; x++) { 
+
+       if(tinggiKolom[x]>=tinggi) continue;      if(papan[x][y]==player) num++; 
+
+     int value=miniMax(2, x);       else { num=1; player=papan[x][y]; } 
+
+       if(value>prevValue) {       if(num==4 && player>0) return player; 
+
+        gerakan.removeAllElements();   } 
+
+         prevValue=value;  }      
+
+    }  for(int x=0; x<lebar; x++) { 
+
+        if(value==prevValue)      num=0; player=0; 
+
+    gerakan.add(new Integer(x));      for(int y=0; y<tinggi; y++) { 
+
+   }       if(papan[x][y]==player) num++; 
+
+        if(gerakan.size()>0) {       else { num=1; player=papan[x][y]; } 
+
+    Collections.shuffle(gerakan);    if(num==4 && player>0) return player; 
+
+         kolom=(gerakan.get(0)).intValue();     } 
+
+        }  }      
+
+        if(gerakan.size()==0) {  for(int xStart=0, yStart=2; xStart<4; ) { 
+
+         System.out.println("Permainan seri");     num=0; player=0; 
+
+         break;     for(int x=xStart, y=yStart; x<lebar && 
+
+        } y<tinggi; x++, y++) { 
+
+      }    if(papan[x][y]==player) num++; 
+
+                   else { num=1; player=papan[x][y]; } 
+
+papan[kolom][tinggiKolom[kolom]]=player;       if(num==4 && player>0) return player; 
+
+   tinggiKolom[kolom]++;     } 
+
+    int menang=0;     if(yStart==0) xStart++; 
+
+    menang=fourInARow();     else yStart--; 
+
+    if(menang>0) {  }  
+
+     printPapan();  for(int xStart=0, yStart=3; xStart<4; ) { 
+
+       System.out.println("Player"+player+"     num=0; player=0; 
+
+menang");     for(int x=xStart, y=yStart; x<lebar && 
+
+   break; y>=0; x++, y--) { 
+
+  }     if(papan[x][y]==player) num++; 
+
+    player=3-player;         else { num=1; player=papan[x][y]; } 
+
+ }         if(num==4 && player>0) return player; 
+
+}       } 
+
+        if(yStart==tinggi-1) xStart++; 
+       else yStart++; 
+
+Algoritma miniMax-nya adalah sebagai berikut: 
+ } 
+
+  return 0; 
+int miniMax(int player, int kolom) {  } 
+ int value=0;  
+
+MAKALAH IF2251 STRATEGI ALGORITMIK TAHUN 2008 
+ 
+
+
+
+Algoritma lengkap caturJawa.java ini dapat diunduh di mengimplementasikan alpha-beta cutoffs pada algoritma 
+http://students.if.itb.ac.id/~if16093/caturJawa.java  minimax di atas, maka kasus yang terjadi selalu 
+
+Pada konstruktor caturJawa, yang dilakukan adalah merupakan kasus terburuk di mana setiap simpul memiliki 
+menunggu masukan user kemudian mengantisipasi 7 buah kemungkinan gerakan dengan kedalaman 6. Selain 
+masukan user itu dengan memanggil method miniMax dan itu, algoritma ini juga menggunakan method fourInARow 
+kemudian membandingkan hasil keluaran method yang memiliki kompleksitas O(mp) dengan m adalah lebar 
+miniMax tersebut. Karena method ini digunakan untuk papan dan p adalah tinggi papan. Oleh sebab itulah 
+
+n
+memaksimalkan langkah komputer, maka yang dicari algoritma miniMax ini memiliki kompleksitas O(7 ) * 
+adalah nilai yang maksimum dari semua keluaran O(mp) = O(mp7n) dengan n adalah kedalaman maksimum 
+miniMax ini. dalam pohon pencarian. 
+
+Fungsi heuristik pada prosedur miniMax adalah dengan Dengan menggunakan alpha-beta cutoffs, kita dapat 
+mencari langkah paling cepat menghasilkan akhir mengurangi kebutuhan waktu jika dan hanya jika urutan 
+permainan. Akhir permainan ini ditentukan dengan pembangkitannya mengarah ke arah berakhirnya 
+menggunakan method FourInARow (jika sudah ada 4 permainan. Jadi, alpha-beta cutoffs ini hanya berguna 
+simbol berurutan maka permainan berakhir). Jika sedang pada beberapa kasus saja, tidak selalu berguna pada setiap 
+berada pada langkah komputer (MAX), algoritma akan kasus yang umum. Dengan pengimplementasian alpha-
+mencari nilai minimum yang dihasilkan oleh pemain dan beta cutoffs, kompleksitas tetap saja O(mp7n). 
+jika berada pada langkah pemain algoritma akan mencari  
+nilai maksimum yang dihasilkan oleh komputer.Fungsi 5. KESIMPULAN 
+miniMax ini merupakan fungsi rekursif dengan  
+maksimum kedalaman 6. Kedalaman ini dimaksudkan 
+
+Algoritma minimax mungkin bukan jawaban terbaik 
+untuk mengoptimasi algoritma miniMax yang dibuat. untuk semua jenis permainan yang membutuhkan 
+
+ kecerdasan buatan yang menyerupai manusia. Kendati 
+demikian, algoritma ini sangat cocok untuk 
+diimplementasikan pada permainan-permainan yang 
+melibatkan dua orang, di mana setiap pemain mengetahui 
+semua langkah-langkah yang mungkin dari pemain 
+lawannya seperti catur, catur jawa, checkers, dan lain 
+sebagainya. 
+
+Perhitungan algoritma yang membutuhkan waktu 
+pencarian yang lama ini dapat dioptimasi dengan beberapa 
+cara, misalnya dengan menggunakan alpha-beta cutoffs 
+atau membatasi kedalaman pohon pencarian. 
+Kompleksitas algoritma minimax bergantung pada 
+kedalaman maksimum pohon pencarian. Kecerdasan 
+buatan untuk permainan catur jawa dapat dibuat dengan 
+menggunakan algoritma minimax. 
+
+ 
+  
+
+ REFERENSI 
+ 
+[1]  http://ai-depot.com. Diakses pada tanggal 9 Mei 2008 pukul 
+
+10.00 WIB. 
+[2] http://www.aihorizon.com. Diakses pada tanggal 9 Mei 
+
+2008 pukul 10.00 WIB. 
+[3]  http://www.codeproject.com. Diakses pada tanggal 9 Mei 
+
+2008 pukul 10.00 WIB. 
+ 
+
+Gambar 3. Tampilan program catur jawa dengan [4] http://informatika.org/~rinaldi. Diakses pada tanggal 9 Mei 
+
+menggunakan algoritma minimax 2008 pukul 13.00 WIB. 
+
+ [5] http://lyree.wordpress.com. Diakses pada tanggal 9 Mei 
+2008 pukul 13.00WIB. 
+
+4. Analisis Kompleksitas [5] Munir, Rinaldi, “Strategi Algoritmik”, edisi 2007, Program 
+ Studi Teknik Informatika STEI ITB, 2007 
+Kompleksitas waktu komputer untuk menentukan  
+
+gerakan selanjutnya sangat ditentukan oleh algoritma  
+minimax yang digunakan. Karena penulis tidak  
+
+MAKALAH IF2251 STRATEGI ALGORITMIK TAHUN 2008

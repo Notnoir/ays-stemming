@@ -1,0 +1,310 @@
+DEVOTE:
+
+Vol. 3, No. 3, 2024
+
+Jurnal Pengabdian Masyarakat Global
+
+e-ISSN: 2962-4029
+
+pp. 152-158
+
+
+
+ejournal.nusantaraglobal.ac.id/index.php/devote
+
+
+
+PENINGKATAN PEMAHAMAN ASPEK HUKUM LITERASI
+
+KEUANGAN DIGITAL BAGI SISWA SMA YAPEMRI KOTA DEPOK
+
+Bernadete Nurmawati1), KMS Herman2), Muhammad Laras Widyanto3), Lucky Ferdiles4)
+
+1Universitas Bung Karno
+
+2,4 Universitas Borobudur
+
+3Universitas Mercu Buana
+
+*Corresponding Author: benurmawati@gmail.com Article Info
+
+ABSTRAK
+
+
+
+Perkembangan teknologi era digital saat ini berkembang pesat, menyebabkan
+
+Article History:
+
+perubahan signifikan dalam perilaku keuangan masyarakat dengan munculnya sistem Received September 04, 2024
+
+keuangan digital. Literasi keuangan menjadi penting dalam pengelolaan keuangan Revised September 18. 2024
+
+pribadi termasuk investasi, mengelola utang, dan perencanaan keuangan jangka Accepted September 30, 2024
+
+panjang. Literasi keuangan memungkinkan seseorang untuk membuat keputusan finansial yang bijaksana. Di era digital, peningkatan literasi keuangan juga menjadi kebutuhan untuk memanfaatkan layanan keuangan digital, seperti Layanan Keuangan Digital (LKD) yang memfasilitasi berbagai transaksi pembayaran dan keuangan secara elektronik melalui berbagai platform digital. Namun, penggunaan layanan
+
+Keywords:
+
+keuangan digital juga memiliki risiko terhadap potensi cyber crime, sehingga Understanding
+
+dibutuhkan kewaspadaan. Melalui sosialisasi, pemahaman literasi keuangan digital Digital Financial Literacy
+
+dapat ditingkatkan, sebagaimana yang dilakukan oleh Tim Pelaksana Pengabdian kepada Masyarakat yang memberikan edukasi kepada siswa-siswi SMA YAPEMRI Legal Aspects
+
+Kota Depok mengenai literasi keuangan digital dalam aspek hukum. Kegiatan ini bertujuan untuk meningkatkan pemahaman siswa siswi tentang literasi keuangan dan berbagai isu dalam bidang keuangan digital, seperti risiko keamanan siber, penipuan online, dan pelanggaran data pribadi. Selain itu, siswa-siswi juga diajarkan tentang pentingnya menjaga integritas data, memahami hak dan kewajiban hukum dalam transaksi digital, serta cara mengidentifikasi dan mengatasi kejahatan siber yang mungkin terjadi saat menggunakan layanan keuangan digital.
+
+
+
+
+
+ABSTRACT
+
+Copyright © 2024, The Author(s).
+
+The rapid development of technology in the digital era has brought significant This is an open access article
+
+changes to financial behavior in society with the emergence of digital financial under the CC–BY-SA license systems. Financial literacy has become essential in managing personal finances, including investments, debt management, and long-term financial planning.
+
+
+
+Financial literacy enables individuals to make wise financial decisions. In the digital era, improving financial literacy is also necessary to utilize digital financial services, such as Digital Financial Services (DFS), which facilitate various payment and financial transactions electronically through various digital platforms. However, the use of digital financial services also carries risks, particularly the potential for cybercrime, requiring heightened awareness. Through socialization efforts, understanding digital financial literacy can be enhanced, as demonstrated by the Community Service Implementation Team, which provided education to students of YAPEMRI High School in Depok City on digital financial literacy in its legal aspects.
+
+This activity aims to increase students' understanding of financial literacy and various issues in the digital financial domain, such as cybersecurity risks, online fraud, and personal data breaches. Additionally, students were taught the importance of maintaining data integrity, understanding legal rights and obligations in digital transactions, and identifying and addressing potential cybercrimes when using digital financial services.
+
+How to cite: Nurmawati, B., Herman, K., Widyanto, M. L., & Ferdiles, L. (2024). PENINGKATAN PEMAHAMAN ASPEK HUKUM LITERASI KEUANGAN DIGITAL BAGI SISWA SMA YAPEMRI KOTA DEPOK. Devote : Jurnal Pengabdian Masyarakat Global, 3(3), 152–158.
+
+https://doi.org/10.55681/devote.v3i3.3184
+
+
+
+
+
+doi.org/10.55681/devote.v3i3.3184
+
+| 152
+
+
+
+Nurmawati et al
+
+doi.org/10.55681/devote.v3i3.3184
+
+
+
+
+
+PENDAHULUAN
+
+Perkembangan teknologi era digital saat ini berkembang pesat dan mendorong peningkatan penggunaan teknologi digital dan perubahan yang signifikan dalam masyarakat. Perubahan signifikan telah terjadi dalam perilaku keuangan masyarakat, terutama sejak berkembangnya era digital banyak melahirkan sistem keuangan digital. Perubahan ini bukan hanya mempengaruhi cara interaksi dengan uang, tetapi juga memberikan dampak luas pada pengelolaan keuangan pribadi dan investasi.
+
+Pengambilan keputusan dalam pengelolaan keuangan pribadi oleh individu sendiri merupakan bagian penting dari literasi keuangan. Literasi keuangan mengacu pada pemahaman dan pengetahuan seseorang tentang berbagai aspek keuangan, termasuk pengelolaan uang, investasi, pengelolaan utang, dan perencanaan keuangan jangka panjang. Seseorang membuat keputusan finansial, seperti menentukan anggaran, menabung, berinvestasi, atau mengelola utang, mereka menerapkan pengetahuan dan keterampilan literasi keuangan mereka. Keputusan-keputusan ini mencerminkan sejauh mana seseorang memahami dan mampu mengelola keuangannya dengan bijak. Literasi keuangan yang baik memungkinkan individu untuk membuat keputusan yang lebih cerdas dan terinformasi, yang pada akhirnya dapat meningkatkan kesejahteraan finansial mereka. Hal tersebut sejalan dengan (Pertiwi, 2020) bahwa jika seseorang memiliki literasi keuangan yang baik (well literate) maka dapat melihat uang dengan sudut pandang yang berbeda serta dapat mengatur kondisi keuangannya.
+
+Literasi Keuangan dapat diartikan sebagai pengetahuan keuangan dengan tujuan mencapai kesejahteraan. Hal ini dapat dimaknai bahwa persiapan perlu dilakukan untuk menyongsong globalisasi, lebih spesifiknya globalisasi masalah dalam bidang keuangan (Asisi, 2020). Sedangan menurut Safitri & Wahyudi (2022), literasi keuangan merupakan pengetahuan, keterampilan, dan keyakinan yang mempengaruhi sikap dan perilaku untuk meningkatkan kualitas pengambilan keputusan dan pengelolaan keuangan dalam rangka mencapai kesejahteraan.
+
+Lembaga Otoritas Jasa Keuangan dalam Imam (2018) menyatakan bahwa: “Secara definisi Literasi diartikan sebagai kemampuan memahami, jadi Literasi Keuangan adalah kemampuan untuk mengelola dana yang dimiliki agar berkembang dan hidup bisa lebih sejahtera dimasa yang akan datang, OJK menyatakan bahwa misi penting dari program Literasi Keuangan adalah untuk melakukan edukasi dibidang keuangan kepada masyarakat Indonesia agar dapat mengelola keuangan secara cerdas, supaya rendahnya pengetahuan tentang industri keuangan dapat diatasi dan masyarakat tidak mudah tertipu pada produk-produk investasi yang menawarkan keuntungan tinggi dalam jangka waktu yang pendek tanpa mempertimbangkan adanya resiko”.
+
+Dalam era digital ini, literasi keuangan menjadi sangat penting untuk memaksimalkan penggunaan teknologi keuangan. Transformasi signifikan dalam layanan keuangan telah menghadirkan kemudahan dan kenyamanan bagi masyarakat. Salah satu contohnya adalah Layanan Keuangan Digital (LKD), yang beroperasi secara elektronik untuk memfasilitasi berbagai transaksi pembayaran dan keuangan. Dengan adanya LKD, berbagai aktivitas keuangan dan pembayaran dapat dilakukan dengan lebih mudah dan praktis melalui platform digital, seperti aplikasi di smartphone.
+
+LKD adalah layanan jasa sistem pembayaran dan/atau keuangan terbatas yang dilakukan tidak melalui kantor fisik. LKD dapat diakses dan disampaikan melalui saluran digital, termasuk pembayaran, kredit, tabungan, pengiriman uang, dan asuransi. LKD juga mencakup layanan keuangan seluler, seperti internet banking, phone banking, SMS banking, dan mobile banking. Menurut Seftaria & Azra (2017), LKD adalah kegiatan layanan jasa sistem pembayaran atau keuangan terbatas yang dilakukan tidak melalui kantor fisik, namun dengan menggunakan DEVOTE: Jurnal Pengabdian Masyarakat Global
+
+| 153
+
+
+
+Nurmawati et al
+
+doi.org/10.55681/devote.v3i3.3184
+
+
+
+sarana teknologi antara lain mobile based maupun web based dan jasa pihak ketiga (agen), dengan target layanan masyarakat unbanked dan underbanked (Bank Indonesia) Dengan menggunakan layanan keuangan digital, seseorang dapat mengumpulkan data, melakukan transaksi, dan akses ke sistem keuangan dengan mudah. Namun, layanan ini memiliki celah yang dapat dimanfaatkan oleh pelaku kejahatan dalam sistem, sehingga perlu waspada terhadap potensi cyber crime. Cyber crime adalah kejahatan yang dilakukan dengan menggunakan teknologi informasi dan komunikasi, termasuk kejahatan terhadap kerahasiaan, integritas, dan ketersediaan informasi (Rowe, 2019).
+
+Dengan memanfaatkan layanan keuangan digital, seseorang dapat dengan mudah mengumpulkan data, melakukan transaksi, dan mengakses sistem keuangan. Namun, layanan ini juga memiliki celah yang bisa dimanfaatkan oleh pelaku kejahatan dalam sistem, sehingga kewaspadaan terhadap potensi kejahatan siber sangat diperlukan. Menurut Rowe (2019), cyber crime adalah tindakan kriminal yang dilakukan menggunakan teknologi informasi dan komunikasi, termasuk pelanggaran terhadap kerahasiaan, integritas, dan ketersediaan informasi.
+
+Berdasarkan latar belakang tersebut, sangat diperlukan sosialisasi untuk meningkatkan pemahaman mengenai literasi keuangan digital dari aspek hukum. Tim Pelaksana Pengabdian kepada Masyarakat (PkM) yang terdiri dari kolaborasi dosen dari Universitas Bung Karno, Universitas Borobudur, dan Universitas Mercu Buana Jakarta merasa terpanggil untuk melaksanakan kegiatan pengabdian dengan memberikan edukasi kepada siswa-siswi SMA YAPEMRI Kota Depok mengenai literasi keuangan digital dalam aspek hukum. Kegiatan ini bertujuan untuk memberikan pemahaman kepada siswa sebagai bekal penting bagi masa depan mereka.
+
+METODE PELAKSANAAN
+
+Metode yang diterapkan dalam kegiatan ini meliputi sosialisasi melalui ceramah dan diskusi tanya jawab (Havis & Tohir, 2021), tentang pemahaman literasi keuangan digital dalam aspek hukum, yang kemudian diakhiri dengan evaluasi. Ceramah merupakan metode pengajaran di mana guru menyampaikan materi secara lisan kepada siswa mengenai topik tertentu (Nata, 2011).
+
+Diskusi melibatkan siswa dalam membahas dan memecahkan masalah melalui pernyataan atau pertanyaan yang menantang. Dalam kegiatan PkM ini, metode tanya jawab digunakan sebagai pendekatan interaktif, memungkinkan dialog langsung antara Tim PkM dan siswa SMA Yapempri. Diskusi dan tanya jawab bertujuan untuk mendorong partisipasi aktif dan meningkatkan pemahaman materi di kalangan siswa SMA Yapempri.
+
+HASIL DAN PEMBAHASAN
+
+Pelaksanaan PkM dilaksanakan pada hari Jumat tanggal 26 Juli 2024 di SMA Yapempri Kota Depok. Peserta kegiatan ini adalah siswa siswi kelas XII IPS3. Kegiatan sosialisasi ini terdiri dari 2 (dua) sesi, pada sesi pertama disampaikan materi tentang perkembangan teknologi dan pentingnya literasi keuangan digital. Dalam sesi ini, pemateri menyampaikan materi dengan powerpoint untuk mendukung pemahaman siswa siswi dengan baik.
+
+
+
+DEVOTE: Jurnal Pengabdian Masyarakat Global
+
+| 154
+
+
+
+
+
+Nurmawati et al
+
+doi.org/10.55681/devote.v3i3.3184
+
+
+
+
+
+Gambar 1. Penyampaian Materi
+
+
+
+Materi pertama disampaikan secara umum berkaitan dengan literasi keuangan digital.
+
+Literasi keuangan digital adalah kemampuan seseorang untuk memahami, mengelola, dan menggunakan teknologi digital dalam pengelolaan keuangan pribadi atau bisnis. Ini mencakup pemahaman tentang berbagai alat, layanan, dan aplikasi digital yang membantu dalam membuat keputusan keuangan yang bijak. Berikut adalah beberapa aspek penting dari literasi keuangan digital:
+
+1. Pemahaman Teknologi Keuangan
+
+Literasi keuangan digital melibatkan kemampuan untuk menggunakan teknologi keuangan (fintech) seperti aplikasi mobile banking, dompet digital (e-wallet), platform investasi online, dan alat manajemen keuangan pribadi.
+
+2. Pengelolaan Informasi Keuangan
+
+Literasi keuangan digital juga berarti memiliki keterampilan untuk mengumpulkan, menganalisis, dan memahami informasi keuangan yang tersedia secara digital.
+
+3. Keamanan dan Privasi Digital
+
+Aspek penting dari literasi keuangan digital adalah memahami bagaimana melindungi data pribadi dan keuangan saat menggunakan layanan digital. Ini mencakup pengetahuan tentang kata sandi yang kuat, pengenalan phishing, serta penggunaan enkripsi dan protokol keamanan lainnya untuk melindungi informasi sensitif.
+
+4. Pengelolaan Risiko Finansial
+
+Literasi keuangan digital juga melibatkan kemampuan untuk mengidentifikasi dan mengelola risiko yang terkait dengan penggunaan teknologi keuangan. Misalnya, memahami risiko terkait investasi online, pinjaman digital, atau transaksi keuangan melalui platform digital.
+
+Dengan mengadopsi metode pengelolaan keuangan yang tepat, seseorang diharapkan dapat memaksimalkan manfaat dari uang yang dimilikinya. Dengan literasi keuangan digital yang baik, DEVOTE: Jurnal Pengabdian Masyarakat Global
+
+| 155
+
+
+
+Nurmawati et al
+
+doi.org/10.55681/devote.v3i3.3184
+
+
+
+seseorang akan terhindar dari masalah keuangan, karena permasalahan finansial tidak selalu disebabkan oleh rendahnya pendapatan, melainkan seringkali terjadi karena ketidakmampuan dalam mengelola keuangan dengan baik.
+
+Pada sesi kedua, siswa siswi diberikan edukasi mengenai permasalahan atau fenomena yang terjadi dalam bidang keuangan digital dalam aspek hukum. Pemaparan materi yang disampaikan bertujuan untuk memberikan pemahaman terkait berbagai isu hukum yang muncul dalam keuangan digital, seperti risiko keamanan siber, penipuan online, pelanggaran data pribadi.
+
+Selain itu, siswa siswi juga diajarkan tentang pentingnya menjaga integritas data, memahami hak dan kewajiban hukum dalam transaksi digital, serta bagaimana mengidentifikasi dan mengatasi cyber crime yang mungkin terjadi dalam penggunaan layanan keuangan digital. Berikut Kejahatan digital yang paling sering terjadi dalam konteks keuangan digital meliputi: 1.Phishing
+
+Phishing adalah upaya penipuan untuk mendapatkan informasi sensitif seperti username, password, dan detail kartu kredit dengan menyamar sebagai entitas tepercaya. Ini sering dilakukan melalui email, pesan teks, atau situs web palsu yang tampak sah.
+
+2.Penipuan Identitas (Identity Theft)
+
+Kejahatan di mana penjahat mencuri informasi pribadi seseorang untuk melakukan transaksi keuangan, membuka rekening bank, atau mengajukan kredit atas nama korban tanpa izin dengan menggunakan nomor identifikasi pribadi (seperti KTP) yang dicuri untuk membuka akun pinjaman online, mengakibatkan korban harus menanggung hutang yang bukan miliknya.
+
+3.Card Skimming
+
+Card skimming adalah tindakan pencurian data kartu ATM/debit dengan cara menyalin informasi yang terdapat pada strip magnetis secara illegal. Kejahatan ini menggunakan perangkat kecil yang disebut skimmer untuk mencuri informasi kartu kredit atau debit saat kartu tersebut dimasukkan ke dalam ATM atau mesin pembayaran.
+
+4.Carding
+
+Kejahatan yang melibatkan penggunaan kartu kredit atau debit curian untuk melakukan transaksi online.
+
+Kejahatan-kejahatan ini sering terjadi pada teknologi digital dalam transaksi keuangan, sehingga untuk melindungi diri dari kejahatan pada transaksi keuangan, pengguna harus selalu waspada dan menerapkan langkah-langkah keamanan yaitu melindungi data pribadi. Beberapa langkah preventif untuk menghindari cyber crime termasuk gunakan kata sandi yang kuat dan unik, hindari membagikan informasi pribadi, periksa URL sebelum mengklik tautan, gunakan jaringan WiFi yang aman, waspada terhadap pesan phishing, perbarui perangkat lunak secara rutin, dan patuhi aturan privasi yang berlaku.
+
+Saat ini perlindungan data pribadi secara spesifik sudah diatur dalam undang-undang.
+
+Sebelumnya, perlindungan data pribadi sebagian kecil sudah diatur dalam UU No. 19 Tahun 2016
+
+Tentang Perubahan Atas Undang-Undang Nomor 11 Tahun 2008 Tentang Informasi dan Transaksi Elektronik (UU ITE), yang tercantum dalam Pasal 26 ayat (1) dan (2) yang menyatakan bahwa:
+
+DEVOTE: Jurnal Pengabdian Masyarakat Global
+
+| 156
+
+
+
+
+
+Nurmawati et al
+
+doi.org/10.55681/devote.v3i3.3184
+
+
+
+(1) Kecuali ditentukan lain oleh peraturan perundang-undangan, penggunaan setiap informasi melalui media elektronik yang menyangkut data pribadi seseorang harus dilakukan atas persetujuan orang yang bersangkutan.
+
+(2) Setiap orang yang dilanggar haknya sebagaimana dimaksud pada ayat (1) dapat mengajukan gugatan atas kerugian yang ditimbulkan berdasarkan Undang-Undang ini (Butarbutar & Nurmawati, 2023).
+
+Mengacu pada Pasal 26 UU ITE, jika data pribadi seseorang digunakan tanpa persetujuan, hal tersebut dapat menjadi pelanggaran hukum. Hal ini menegaskan betapa pentingnya menjaga kerahasiaan dan keamanan data pribadi dalam setiap transaksi digital.
+
+Selanjutnya sesi pemaparan materi ditutup dengan sesi tanya jawab dengan peserta, siswa siswi sangat antusias dengan memberikan feedback yang baik. Bagi siswa siswi yang memiliki pertanyaan lebih lanjut, disediakan waktu khusus untuk konsultasi dengan pemateri setelah sesi tanya jawab. Selain itu, siswa siswi yang memberikan pertanyaan terbaik akan mendapatkan door prize sebagai bentuk apresiasi atas partisipasi aktif mereka. Dengan penutupan sesi pemaparan materi ini, diharapkan siswa siswi memiliki pemahaman yang lebih baik tentang literasi keuangan digital serta isu-isu hukum yang muncul dalam keuangan digital, sehingga mereka dapat lebih bijak dan waspada dalam menghadapi tantangan di era digital.
+
+
+
+
+
+Gambar 2. Siswa mendapatkan door
+
+Gambar 3. Foto bersama siswa siswi
+
+prize
+
+
+
+
+
+Di akhir kegiatan ini, Tim PkM melakukan evaluasi dan menyimpulkan bahwa kegiatan ini berjalan dengan baik. Hal ini dapat dilihat dari tanggapan siswa siswi yang menunjukkan pemahaman yang lebih baik terkait literasi keuangan digital dan permasalahan hukum dalam keuangan digital. Pelaksanaan kegiatan ini diharapkan dapat memberikan dampak positif jangka panjang bagi siswa siswi SMA YAPEMRI Kota Depok, terutama dalam meningkatkan pemahaman mereka tentang literasi keuangan digital dan permasalahan hukum. Dengan pengetahuan yang diperoleh, siswa siswi diharapkan mampu mengelola keuangan mereka dengan lebih baik, memahami risiko yang ada, serta melindungi diri dari potensi kejahatan digital. Selain itu, kegiatan ini juga diharapkan dapat menumbuhkan kesadaran akan pentingnya menjaga keamanan data pribadi dalam transaksi keuangan digital, sehingga mereka dapat menjadi pengguna teknologi yang lebih bijak dan bertanggung jawab.
+
+KESIMPULAN DAN SARAN
+
+Kegiatan pengabdian kepada masyarakat yang melibatkan dosen-dosen dari Universitas Bung Karno, Universitas Borobudur, dan Universitas Mercu Buana telah dilaksanakan dengan DEVOTE: Jurnal Pengabdian Masyarakat Global
+
+| 157
+
+
+
+Nurmawati et al
+
+doi.org/10.55681/devote.v3i3.3184
+
+
+
+baik. Kegiatan ini disambut dengan antusias oleh Yayasan Pendidikan Masyarakat Republik Indonesia (YAPEMRI) sebagai pengelola lembaga, dan oleh para guru serta siswa-siswi SMA YAPEMRI. Program pengabdian ini memberikan manfaat yang besar, terutama bagi siswa kelas XII IPS3 SMA YAPEMRI Kota Depok, dalam memperdalam pemahaman mereka mengenai literasi keuangan dan berbagai isu dalam keuangan digital dari aspek hukum, seperti risiko keamanan siber, penipuan online, dan pelanggaran data pribadi. Selain itu, para siswa siswi juga dibekali pengetahuan tentang pentingnya menjaga integritas data, memahami hak dan kewajiban hukum dalam transaksi digital, serta cara mengidentifikasi dan menangani kejahatan siber yang mungkin terjadi dalam penggunaan layanan keuangan digital.
+
+
+
+DAFTAR PUSTAKA
+
+Aravik, H. & Tohir,A. (2021) Pelatihan Pemanfaatan ID Author Bagi Dosen, AKM: Aksi Kepada Masyarakat, 2(1), 19-26.
+
+Asisi, I. (2020). Pengaruh Literasi Keuangan, Gaya Hidup Dan Pengendalian Diri Terhadap Perilaku Konsumtif Mahasiswa Prodi Manajemen Fakultas Ekonomi Universitas Pasir Pengaraian. Jurnal Ilmiah Manajemen Dan Bisnis, 2(1), 107– 118.
+
+Butarbutar, R dan Nurmawati, B. (2023). Perlindungan Data Pribadi Konsumen Pinjaman Online: Suatu Analisis , Eligible: Journal of Social Sciences, LLDIKTI Wilayah III DKI Jakarta, 2(1), 181-192
+
+Imam Ghozali. (2018). Aplikasi Analisis Multivariate Dengan Program SPSS 25 Edisi 9.
+
+Semarang: Universitas Diponegoro.
+
+Nata, A. (2011). Perspektif Islam Tentang Strategi Pembelajaran. Jakarta: Kencana.
+
+Nusa, G. H., & Martfiyanto, R. (2021). The effect Of Financial, Knowledge, Behavior and Attitude to Financial Literacy on Accounting Bachelor Students Universitas Jenderal Achmad Yani Yogyakarta. Bilancia: Jurnal Ilmiah Akuntansi, 5(2), 226–237. 74
+
+Pertiwi, U. M. (2020). Penerapan Financial Technology Dan Peningkatan Literasi Keuangan Untuk Strategi Penguatan Bisnis UMKM di Kalimantan Barat. … Dari Https://Pascasarjanafe. Untan. Ac. Id …, 365–376. http://pascasarjanafe.untan.ac.id/wp-content/uploads/2021/01/34.pdf
+
+Rowe, N. C. (2019). Honeypot deception tactics. Autonomous Cyber Deception: Reasoning, Adaptive Planning, and Evaluation of HoneyThings, 35–45
+
+Seftarita, C. & Azra, U. ( 2017). Analisis Peluang Penggunaan Layanan Keuangan Digital (Lkd) Pada Masyarakat Kabupaten Aceh Besar Provinsi Aceh, Jurnal E-KOMBIS | 3(1), 1-16
+
+Safitri, N. W. N., & Wahyudi, A. (2022). Literasi Keuangan Dan Faktor Penentunya: Studi Kasus Masyarakat Di Labuan Bajo. E-Jurnal Manajemen Universitas Udayana, 11(9), 1657.
+
+https://doi.org/10.24843/ejmunud.2022.v11.i09.p04
+
+
+
+DEVOTE: Jurnal Pengabdian Masyarakat Global
+
+| 158
+
+
+
+
+

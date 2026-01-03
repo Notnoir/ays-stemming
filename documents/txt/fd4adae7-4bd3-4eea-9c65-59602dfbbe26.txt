@@ -1,0 +1,945 @@
+ 
+1 
+ PRAKTIK PENELITIAN HUKUM:  
+PERSPEKTIF SOSIOLEGAL 1 
+ 
+Sulistyowati Irianto 2 
+ 
+ 
+Akademisi hukum di Indonesia  masih ada yang berada dalam proses 
+pencarian identitas metode penelitiannya sampai hari ini. Mereka masih 
+mencari seperti apakah metode ilmu hukum yang “benar”? Diantaranya ada 
+yang bertanya, bagaimanakah metode penelitian ilmu hukum murni yang tidak 
+tercemar metode ilmu sosial. Pertanyaan ini  muncul, setidaknya karena  
+ketidakjelasan persoalan kedudukan paradigmatik ilmu hukum dalam universe 
+teori ilmu-ilmu sosial maupun humaniora (meta metodologi) di kalangan 
+akademik  hukum.  Hal ini dikarenakan lemahnya pengajaran metodologi 
+penelitian ilmu hukum di Indonesia pada umumnya.  
+ 
+Pengajaran yang seharusnya berisi materi tentang epistemologi hukum 
+beserta konsekuensi metodologisnya, bagaimana kedudukan aliran teori 
+pemikiran hukum  dalam paradigma keilmuan  dan meta metodologi,   
+tidak terjadi. Dengan demikian mahasiswa hukum kurang diajak untuk  
+memahami cara berpikir akademik (academic-, scientific thinking) agar 
+mampu membangun logika berpikir yang dituangkan dalam penulisan. Hal ini 
+banyak terlihat dari produk tugas akhir yang berupa penelitan dari para sarjana 
+hukum, baik di tingkat sarjana, magister maupun doktoral.   
+ 
+Bila kita mengamati berbagai karya ilmiah mahasiswa fakultas hukum di 
+hampir seluruh perpustakaan hukum di Indonesia, maka hal yang paling 
+menonjol adalah, adanya format yang hampir seragam. Ternyata, format 
+menjadi  hal utama yang mereka perhatikan. Lebih memprihatinkan lagi, 
+khususnya dalam bagian metodologi atau metode penelitian, selalu dapat 
+dijumpai format, bahkan kalimat yang serupa. Misalnya selalu saja dapat 
+dijumpai kalimat seperti ini “...dalam penelitian ini digunakan  data primair, 
+sekunder, tersier”. Kemudian diuraikan masing-masing apa maksudnya data 
+primair, sekunder, dan tersier. Juga ditemukan kalimat semacam ini , “...data 
+tersier adalah kamus, majalah, buku-buku” 3. Format yang telah menjadi 
+                                                        
+1 Pernah diterbitkan dalam Irianto, Sulistyowati & Shidarta (eds), 2011. “Metode Penelitian 
+Hukum: Konstelasi & Refleksi”. Jakarta: Yayasan Obor Indonesia 
+2 Dekan Sekolah Pascasarjana Multidisipliner, Universitas Indonesia 
+3 Meskipun secara literer pengertian data tersier adalah benar demikian, namun perlukah 
+penggunaan buku  majalah, kamus, dikategrikan dan dilaporkan sebagai data ? Bukankah 
+sudah pasti seluruh proses penulisan ilmiah merupakan  proses dialektikan antara teori dan 
+data, yang sudah pasti menggunakan berbagai sumber bacaan, dan tidak perlu lagi 
+menyebutkan sumberbacaan tersebut  sebagai sumber data. Hal yang harus dilakukan 
+tentulah menggunakannya dan menyebutkan referensinya menurut kelaziman tradisi ilmiah.  
+ 
+2 
+“fosil”  (fosilized) semacam ini menunjukkan terjadinya stagnasi dalam praktik 
+metode peneliltian hukum di Indonesia pada umumnya.  
+ 
+ 
+Banyak 
+dijumpai 
+dalam 
+karya 
+mahasiswa 
+hukum, 
+teks 
+peraturan 
+perundang-undangan atau kebijakan, dimasukkan begitu saja untuk 
+memenuhi ketebalan sebuah karya ilmiah. Dalam bagian itu, tidak ada  
+penjelasan memadai dan  tujuan analisis yang jelas,  untuk tujuan apa 
+dimuat   dokumen hukum, atau pasal-pasal peraturan perundang-undangan 
+tertentu.  Karya-karya penelitian ilmu hukum tersebut menjadi sangat kering 
+dan sumir meskipun sangat tebal sajian fisiknya. Demikian pula sekiranya ada 
+putusan pengadilan yang dijadikan sebagai data, maka bahan tersebut disalin 
+begitu 
+saja, 
+seringkali 
+ 
+tidak 
+ada 
+analisis 
+yang 
+memadai 
+yang 
+memperlihatkan bahwa kasus hukum tersebut dibedah sedemikian rupa, 
+direkonstruksi sehingga jelas duduk perkaranya, terkait dengan masalah 
+penelitian yang dirumuskan, dan apa proses pembelajaran dari pertimbangan 
+dan putusan hakim dari suatu kasus.  
+ 
+Tulisan ini berisi petunjuk praktis tentang bagaimana suatu rancangan 
+penelitian yang baik dapat dibuat,  terutama  dalam ranah sosiolegal. 
+Secara khusus pendekatan yang dipilih adalah pendekatan kualitatip karena 
+dalam ranah sosiolegal, yang berkembang adalah berbagai metode “baru”, 
+hasil  perkawinan antara metode ilmu hukum dengan ilmu sosial yang lebih 
+bersifat kualitatip (lihat bab 7 buku ini).  
+ 
+Di antara “metode hibrida” yang lahir dari  metode ilmu hukum dan metode 
+ilmu sosial itu adalah metode kualitatip sosiolegal (Ziegert, 2005), etnografi 
+sosiolegal (Flood, 2005), wacana hukum sejarah mikro   (Scheffer, 2005), 
+analisis teks (Banakar & Travers, 2005),  studi kasus untuk meneliti budaya 
+hukum (Banakar, 2005). Atau yang paling banyak dikembangkan oleh para 
+antropolog hukum adalah etnografi hukum, termasuk juga  metode etnografi 
+hukum feminis (Bano, 2005, Griffiths, 2005). Para ahli pluralisme hukum juga 
+mengembangkan metode etnografi dalam perspektif global (multi-sited 
+ethnography) seperti penelitian terhadap aktor yang menyebabkan hukum 
+bergerak  (Glick-Schiller, 2005, Nuijten, 2005, Zips, 2005, Wiber, 2005)  
+ 
+Bagaimana seharusnya membuat suatu penelitian ? 
+Ada begitu banyak buku metode penelitian yang tersedia, yang memberi 
+panduan teknis bahkan secara detail, bagaimana suatu penelitian harus 
+dibuat. Ada semakin banyak pengarang yang menyumbang kepada 
+penggunaan metode kualitatip dalam peneltian mereka (Bogdan & Bliken, 
+1982; Creswell, 1994, Denzin & Lincoln, 1994, Glaser & Strauss, 1967 
+Neuman, 1997, Sarantakos, 1994). 
+ 
+ 
+3 
+Dari begitu banyak buku, ada kelaziman yang sudah menjadi tradisi akademik, 
+yang disepakati dunia ilmiah di manapun. Kelaziman bukanlah aturan (format) 
+yang ketat, karena karya akademik dalam ilmu sosial dan humaniora 
+khususnya, bila formatnya  dibatasi secara ketat justru akan  mematikan 
+kreativitas dan  gagasan baru. Substansi dari tradisi akademik yang 
+disepakati bersama itu lebih merupakan esensi dari apa yang seharusnya ada 
+dalam suatu penelitian, dan bukan soal format. Sebelum lebih jauh 
+membicarakan tentang penelitian, sangat dianjurkan agar anda membaca 
+terlebih dahulu pemetaan paradigma yang diikutip dari Sarantakos (1997), 
+dalam Bab 10 buku ini. 
+ 
+Penelitian adalah suatu bangunan logika, yang dari awal sampai akhir harus 
+merupakan rangkaian yang saling menjelaskan satu sama lain. Harus ada 
+suatu kesatuan alur dari awal sampai akhir.  Kesatuan alur itu bersumber dari 
+thesis yang dibuat, yang menjadi tulang punggung dari keseluruhan  
+penelitian.  
+ 
+Dalam penelitian kualitatip, penelitian merupakan naskah yang “telanjang” 
+dalam arti, laporan penelitian disajikan sedemikian rupa, sehingga pembaca 
+berkesempatan mengidentifikasi kualitas setiap bagian dari suatu laporan 
+penelitian. Pembaca berkesempatan menilai sejak dari bab pendahuluan  
+yang berisi thesis, teori, metode penelitian, yang diikuti oleh bab-bab 
+penyajian data, analisis sampai kesimpulan. Terbuka kesempatan bagi 
+pembaca untuk mengetahui apakah suatu thesis itu dibuat secara logis, tepat, 
+dan metode penelitiannya juga sesuai untuk dapat menjawab thesisnya, dan 
+apakah  datanya menunjang, dan terakhir apakah kesimpulannya tepat4.  
+ 
+RANCANGAN PENELITIAN 
+Bagian awal dan penting yang harus dibuat dalam suatu  penelitian adalah  
+rancangan penelitian. Kedudukan  proposal dalam suatu penelitian sangat 
+penting: “Indeed, we shall argue that research design should be a reflexive 
+process which operates throughout every stage of a project (Hammersley & 
+Atkinson, 1997: 24). Dengan kata lain, tidak ada bagian dalam setiap tahap 
+penelitian yang tidak dibicarakan terlebih dahulu dalam rancangan penelitian.  
+Oleh karena itu tulisan ini bertujuan untuk mengemukakan secara garis besar  
+tentang prinsip-prinsip penting dalam membuat rancangan penelitian yang 
+                                                        
+4  Berbeda dengan penelitain kuantitatip, dimana berbagai gejala “diwakilkan” kepada 
+variabel-variabel. Selanjutnya variabel akan dijabarkan ke dalam berbagai definisi operasional, 
+indikator dan kemudian ke dalam pertanyaan dalam kuesioner. Tujuannya adalah pengujian 
+dan pembuktian hipotesa.  Data direduksi ke dalam angka, supaya dapat dihitung hubungan 
+kausal di antara berbagai variabel yang diteliti. Penghitungan dilakukan secara ketat dengan 
+rumus-rumus statistik. Hasil yang didapatkan adalah apakah hipotesa yang dirumuskan 
+terbukti atau tidak. Dengan demikian tidak ada kesempatan bagi kisah-kisah kemanusiaan 
+untuk dimunculkan, Responden diwakilkan ke dalam nomor dan angka-angka.  
+ 
+4 
+baik. 
+ 
+Penyusunan rancangan penelitian merupakan upaya permulaan yang bersifat 
+trial and error. Oleh karena itu revisi berkali-kali dalam penulisan rancangan 
+penelitian merupakan hal yang biasa. Hasil bacaan, informasi baru dan  
+perenungan terhadap peristiwa keseharian berkaitan dengan tema penelitian, 
+terus menerus bertambah, sehingga tumbuhlah gagasan-gagasan baru. Hal 
+ini  menyebabkan rancangan penelitian merupakan bagian dari penelitian 
+yang terus menerus mengalami perubahan, bahkan sampai saat terakhir 
+ketika suatu laporan penelitian dinyatakan selesai.  
+ 
+Rancangan penelitian terdiri dari empat komponen yang secara esensial 
+menurut tradisi ilmiah harus ada, yaitu argumentasi mengapa suatu tema 
+penelitian dipilih (baik secara teoretik maupun praktikal), masalah penelitian, 
+legitimasi teoretik,  dan metode penelitian. Empat komponen ini bisa diberi 
+(sub) judul yang bervariasi, dan letaknyapun sangat bebas. Dalam berbagai 
+karya disertasi dan magister di banyak universitas di berbagai negara,  bisa 
+dijumpai sub judul dan pembabakan yang bervariasi. Misalnya legitimasi 
+teoretik terlebih dahulu, atau bahkan metode penelitian terlebih dahulu 
+kemudian diikuti oleh komponen-komponen lain. Disamping itu  suatu 
+rancangan penelitian dapat ditambah dengan komponen lain yang sifatnya 
+tambahan, seperti ruang lingkup penelitian, manfaat  penelitian, sistematika 
+penulisan, dan sebagainya. Komponen ini dapat ditambahkan sesuai dengan 
+kebutuhan.  
+ 
+Khususnya dalam penelitian etnografi (yang melahirkan etnografi hukum), 
+dianjurkan 
+untuk 
+mengumpulkan 
+data 
+yang 
+luas 
+dan 
+mendalam 
+sebanyak-banyaknya terlebih dahulu, daripada  menyibukkan diri dengan 
+persoalan teoretikal (Hammersley & Atikinson, 1997). Namun pada akhirnya 
+seorang peneliti berdasarkan pemikiran dan kemungkinan data awalnya  
+harus menuangkannya ke dalam suatu karya ilmiah. Di situlah dibutuhkan 
+kemampuan untuk mendialogkan data yang diperolehnya dengan bacaan 
+teoretiknya, ke dalam rancangan penelitian dan selanjutnya laporan penelitian.  
+ 
+Komponen esensial yang harus terkandung dalam rancangan penelitian itu 
+akan dijelaskan secara ringkas satu persatu di bawah ini.  
+ 
+Argumentasi  penelitian (teoretikal dan praktikal) 
+Penelitian selalu dimulai dengan problem atau seperangkat isu yang disebut 
+sebagai “foreshadowed problems” (Malinowski dalam Hammersley & 
+Atkinson, 1997). Problem ini menggelitik keingintahuan peneliti, dan 
+“mengganggunya“ dengan berbagai pertanyaan.  Kemudian peneliti mulai 
+memikirkan teori-teori apa yang terkait dengan isu  yang berputar-putar di 
+ 
+5 
+kepalanya itu, dan akan diangkatnya menjadi tema penelitian. Melalui hal ini 
+dibangunlah argumentasi mengapa tema tertentu penting untuk diteliti.  
+ 
+Argumentasi ini menjadi latar belakang penelitian, yang menjelaskan 
+mengapa suatu tema tertentu dipilih untuk diteliti. Penjelasan dan nalar yang 
+dipentingkan di sini adalah kemampuan untuk  meyakinkan pembaca bahwa 
+tema atau topik penelitian tertentu memang penting, berguna, sehingga layak 
+untuk diteliti. Argumentasi yang bersifat teoretikal (bisa ditambah dengan 
+praktikal) akan menjadi kekuatan awal dari suatu rancangan penelitian. Perlu 
+dipahami bahwa  (rancangan) penelitian yang baik, adalah ketika sejak awal 
+pembaca sudah bisa paham tentang apa sebenarnya isi gagasan dari suatu 
+penelitian. Bila peneliti sejak lembar-lembar pertama dari tulisannya mampu 
+membuat pembaca paham tentang gagasan utamanya, maka pembaca akan 
+bisa diyakinkan tentang  kekuatan penelitiannya.  
+ 
+Penelitian dalam bidang sosiolegal misalnya  mempersoalkan wacana Rule 
+of Law  yang terkait dengan beberapa paradigma pembangunan hukum dan 
+akses keadilan (Access to Justice) dan pemberdayaan hukum (legal 
+empowerment). Banyak sekali isu yang dapat diteliti dalam lapangan ini saja, 
+seperti soal reformasi hukum, reformasi lembaga peradilan dan penegakan 
+hukum, korupsi, bantuan hukum bagi orang miskin, penyelesaian sengketa di 
+pengadilan dan luar pengadilan. Dalam ranah ini adalah  juga masalah akses 
+masyarakat kepada keadilan di berbagai sektor kehidupan seperti 
+sumberdaya alam, pendidikan, kesehatan, layanan dan bantuan hukum, dan  
+ketiadaan pengetahuan tentang hukum, dan kaitannya dengan upaya 
+pengentasan kemiskinan dari perspektif hukum. Pilihan terhadap lokus 
+penelitian juga terbentang luas,  mulai dari lembaga (penegakan hukum), 
+para aktor dalam lembaga hukum, pemerintahan,  juga warga masyarakat 
+luas pencari keadilan, termasuk para korban dalam kasus-kasus hukum, 
+diantaranya perempuan dan orang miskin.   
+ 
+Masalah Penelitian 
+Bagian ini merupakan hal yang paling sulit untuk dirumuskan dalam suatu 
+penelitian. Di dalam masalah penelitian dari suatu rancangan penelitian 
+akademik,  dapat ditemukan thesis dari seorang peneliti. Masalah penelitian  
+merupakan pusat, tulang punggung,  atau jantung dari suatu penelitian. 
+Mengapa ? Karena semua tahap dan kegiatan dalam suatu penelitian 
+merupakan upaya untuk menjelaskan masalah penelitian yang dirumuskan. 
+ 
+Bagaimana seorang peneliti bisa sampai pada thesisnya yang tertuang dalam 
+masalah penelitiannya ? Sebenarnya masalah penelitian mencerminkan dasar 
+pijakan teoritikal  seseorang karena perumusannya memang diilhami oleh 
+teori-teori relevan yang pernah dibaca atau dikuasai oleh peneliti.  Masalah 
+penelitian adalah hasil dari sintesa gagasan teoretik dengan pengalaman 
+ 
+6 
+keseharian, yang menimbulkan pertanyaan-pertanyaan teoretikal baru bagi 
+peneliti. Gagasan apa yang dapat dikembangkan dari suatu teori ? 
+Konsep-konsep apa yang dikuasai oleh peneliti dan  dapat digunakan untuk 
+memahami tema penelitian.   
+ 
+Tujuan dibuatnya suatu masalah penelitian adalah agar dapat dicapai  suatu 
+pengertian mengenai prinsip-prinsip umum, atau pola-pola dari data yang 
+ditemukan. 
+Dengan 
+demikian 
+sebenarnya 
+peneliti 
+mendefinisikan 
+permasalahannya.  
+ 
+Masalah penelitian terdiri dari permasalahan utama, yang bersifat konseptual 
+dan abstrak, yang harus diterjemahkan terlebih dahulu ke dalam beberapa 
+pertanyaan penelitian agar dapat diteliti.  
+ 
+Berkut ini adalah sebuah contoh tentang bagaimana suatu masalah penelitian 
+dapat dibuat. Tema dari penelitian ini adalah akses keadilan bagi buruh migran 
+perempuan Indonesia, yang menjadi pekerja domestik  di Negara  Uni 
+Emirat Arab (UAE)5 
+ 
+Penelitian ini adalah suatu kajian tentang bagaimana ases keadilan bagi 
+pekerja domestik perempuan Indonesia di Uni Emirat Arat (UAE) 
+terkendala oleh sistem hukum dan sistem yudisial di kedua negara, 
+(ketiadaan) substansi hukum yang mengatur keberadaan mereka, dan 
+bagaimanakah konteks sosio-kultural  dari komunitas Emirat memberi 
+penjelasan  terhadap relasi di antara para pihak  yang terlibat dalam 
+urusan sektor buruh migran 
+ 
+Masalah-masalah ini akan dikaji dengan cara menjelaskan bagaimana  
+buruh migran perempuan sebagai fokus,  disituasikan dalam relasi 
+kekuasaan yang tidak setara dengan para aktor: dalam rumah tangganya 
+(majikan dan keluarganya), berbagai pihak dalam komunitas termasuk 
+pengerah tenaga kerja asing, dan negara atau para penegak hukum 
+terkait dalam sektor migrasi buruh migran. Hubungan-hubungan itu terjadi 
+dalam dalam konteks pasar global yang diantaranya ditandai oleh  
+fenomena  migrasi 
+ 
+ 
+ 
+ 
+Pertanyaan Penelitian 
+                                                        
+5 Rancangan penelitian yang dibuat oleh Pusat Kajian Wanita dan Gender, Universitas Indonesia, 2009 
+ 
+7 
+Karena masalah penelitian utama  bersifat teoretis,  konseptual dan abstrak, 
+maka  untuk bisa diteliti harus diterjemahkan terlebih dahulu ke dalam 
+bahasa yang lebih operasional dan konkrit. Penerjemahan inilah yang 
+dirumuskan melalui beberapa pertanyaan penelitian.  Tujuan dibuatnya 
+pertanyaan penelitian adalah untuk menjelaskan, memahami, mendalami 
+suatu proses, menggambarkan pengalaman (Creswell, 1994).  
+ 
+Dalam merumuskan pertanyaan penelitian, sebagai penjabaran dari masalah 
+penelitian yang konseptual, harus dipertimbangkan beberapa hal. Pertama, 
+pertanyaan apa yang penting untuk dapat “menerjemahkan” suatu masalah 
+penelitian (thesis). Mengapa pertanyaan itu yang dimunculkan. Kedua, sangat 
+penting 
+untuk 
+mempertimbangkan 
+implikasi 
+metodologis 
+dari 
+suatu 
+pertanyaan penelitian. Bagaimana pertanyaan penelitian tersebut  dapat 
+dijawab atau dijelaskan. Data apa yang dibutuhkan dan bagaimana cara 
+mencari dan menganalisisnya ? 
+  
+Dalam hal ini juga harus diantisipasi pertanyaan peneliltian akan berkembang 
+dan berubah selama penelitian berlangsung. Oleh karena itu harus 
+dirumuskan dengan memberi ruang atas berbagai kemungkinan tetapi cukup 
+spesifik.   
+ 
+Sebagai catatan, dalam penelitian kualitatif pertanyaan penelitian ini berperan 
+sebagai panduan kerja. Jika diikuti oleh hipotesa, maka hipotesa tersebut 
+merupakan hipotesa kerja (hipotesa nol), tidak untuk diuji. Juga perlu diingat  
+untuk tidak menggunakan  jargon kuantitatif seperti kata “pengaruh”, atau 
+kata yang mengacu pada hubungan sebab-akibat. Meskipun demikian perlu 
+dipahami bahwa penelitian kualitatip tidak tabu pada kuantita. Bahkan 
+dimungkinkan suatu masalah penelitian yang dirumuskan dalam penelitian 
+kualitatip disebabkan (diawali) oleh suatu gejala  yang menarik yang 
+ditemukan dalam  data sebaran berupa angka-angka statistik.  
+ 
+Creswell (1994) memberikan beberapa petunjuk tentang kriteria yang harus 
+dipenuhi ketika membuat  pertanyaan penelitian, yaitu:  
+• Jelas: konsep dan istilah yang digunakan jelas, mudah dipahami, 
+mengarahkan pemikiran pada tujuan tertentu yang jelas, tidak ambigu 
+atau dipahami secara berbeda-beda oleh orang yang berbeda 
+• Bersifat khusus: konsep yang digunakan berada dalam tataran yang 
+cukup spesifik atau khusus, untuk dapat dikaitkan dengan indikator data 
+• Dapat dijawab: kita dapat melihat data yang diperlukan untuk dapat 
+menjawab pertanyaan dan bagaiman data tersebut dapat diperoleh 
+(terkait dengan metode pengumpulan data) 
+• Saling berhubungan: pertanyaan dan sub-pertanyaan terhubung satu 
+sama lain dalam cara yang bermakna, tidak terlepas dan  tanpa kaitan 
+satu sama lain 
+ 
+8 
+• Relevan 
+secara 
+substansial: 
+pertanyaan-pertanyaan 
+yang 
+dikembangkan merupakan pertanyaan penting, menarik, perlu dalam 
+upaya mengembangkan pemahaman  
+ 
+Dari contoh masalah penelitian tentang akses keadilan bagi pekerja domestik 
+perempuan Indonesia di UAE di atas, dapat dikembangkan beberapa 
+pertanyaan penelitian. 
+ 
+Pertanyaan penelitian tentang substansi hukum  
+1. Bagaimana pekerja domestik yang tidak terampil direpresentasikan 
+dalam banyak instrumen hukum seperti konvensi internasional, hukum 
+UAE dan Indonesia, kesepakatan multilateral dan bilateral dan 
+kontrak-kontrak kerja ? Bagaimanakah identitas perempuan, termasuk 
+seksualitas dan nilai-nilainya, diproyeksikan oleh hukum ? 
+2. Apakah hukum merefleksikan realitas dan pengalaman perempuan ? 
+Apakah hukum melindungi atau merugikan perempuan ? Dalam hal 
+apa ? 
+3. Seberapa jauh semua kebijakan berkaitan dengan pekerja domestik ini 
+menyediakan 
+akses 
+keadilan, 
+termasuk 
+perlindungan 
+hukum, 
+konsultasi dan bantuan hukum ketika mereka membutuhkannya ?  
+ 
+Pertanyaan penelitian hukum empirik (penelitian di UAE) 
+4. Bagaimana instrumen hukum yang ada, termasuk kebijakan, “bekerja” 
+(beroperasi) dalam keseharian para pekerja domestik ini, dan 
+bagaimana dampaknya bagi mereka ? 
+ 
+5. Bagaimana konteks sosial budaya  berdampak terhadap relasi-relasi 
+di antara pekerja domestik  perempuan dengan para pihak yang 
+terlibat 
+seperti 
+majikan, 
+pengerah 
+tenaga 
+kerja, 
+(perwakilan) 
+pemerintah Indonesia di UAE dan pemerintah UAE sendiri ? 
+ 
+6. Bagaimana hukum adat dan tradisi pada masyarakat  UAE dapat 
+diidentifikasi untuk dapat melihat stuktur dan hirarkhi sosial di antara 
+pekerja domestik perempuan dengan majikannya ? Bagaimana 
+perempuan ditempatkan dalam tatanan hukum lokal tersebut ?  
+ 
+7. Sebagai orang asing di suatu Negara, bagaimana mereka menghadapi 
+hukum UAE termasuk hukum adatnya yang kemungkinan berbeda dan 
+berkonflik dengan hukum di tanah airnya sendiri  ? 
+ 
+8. Berkaitan dengan masalah seperti terjadinya pelanggaran terhadap 
+hukum UAE, kemana mereka mencari pertolongan dan mengapa ? 
+Kebutuhan hukum seperti apa yang tidak mereka dapatkan dan 
+bantuan hukum seperti apa yang dibutuhkan untuk melindungi 
+ 
+9 
+mereka ? 
+ 
+9. Dapatkah 
+mekanisme 
+penyelesaian 
+sengketa 
+atau 
+terobosan-terobosan hukum disediakan ketika mekanisme formal sulit 
+diakses ? Dalam bentuk apa ? 
+ 
+Legitimasi Teoretik 
+Mengapa membutuhkan teori ? Teori dibutuhkan untuk dapat memahami 
+hakekat dari  permasalahan yang kita teliti. Teori merupakan pedoman yang 
+mengarahkan peneliti untuk menduga-duga konsep-konsep apa yang dapat 
+menjelaskan masalah penelitian yang dirumuskan. Dengan demikian 
+sebenarnya teori dan kerangka teori yang kita bangun,  menghasilkan suatu 
+model/kerangka  analisis,  yang pada umumnya merupakan sintesa dari 
+logika, teori-teori dan gejala-gejala di lapangan. Tanpa memiliki teori, kita tidak 
+akan mampu “membaca”, memaknai data.. Teori benar-benar dibutuhkan 
+untuk menuntun kita menemukan jawaban-jawaban (baru) terhadap 
+pertanyaan yang sudah kita mulai sejak awal.   
+ 
+Dengan memiliki teori dan membangunnya dalam suatu kerangka berpikir, 
+maka kita memiliki  cara untuk mempedomani bagaimana mengorganisasi 
+dan menginterpretasi hasil-hasil peneltian, dan menghubungkannya dengan 
+hasil-hasil peneltian terdahulu yang relevan. Dalam hal ini teori adalah 
+bangunan imaginer yang akan membantu kita untuk menganalisis data 
+(mengkategorisasi, mengklasifikasi)                       
+ 
+Dalam penelitian kualitatip, teori lebih diartikan sebagai  teori pola (diolah dari 
+Neuman,1997), yaitu: 
+• Tidak menekankan pemikiran deduktif logis (teori sebab-akibat) 
+• Mengandung serangkaian konsep dan hubungan yang saling terkait 
+tetapi tidak mengharuskan pernyataan sebab-akibat 
+• Membentuk sebuah sistem yang rapat dan saling memperkuat yang 
+terdiri dari konsep-konsep yang dapat saling menjelaskan 
+• Menentukan urutan tahapan atau bagian 
+• Merupakan sistem idee yang memberi informasi 
+• Tempatkan teori atau pola dalam penelitian dan rencanakan untuk 
+membandingkan penelitian tersebut dengan penelitian lain 
+ 
+Kerangka teori atau konseptual dapat ditulis dalam bentuk teks (verbal) dan 
+boleh juga disertai gambar. Di bawah ini adalah beberapa  saran dalam 
+menyusun kerangka konseptual menurut Miles dan Huberman (1984) 
+• Seorang peneliti harus bersiap membuat beberapa  kerangka 
+berulang-ulang 
+ 
+10
+• Penelitian yang dilakukan di banyak lokasi (misalnya  studi kasus 
+dengan banyak lokasi), anggota kelompok  dapat menciptakan 
+kerangka mereka sendiri dan kemudian diperbandingkan 
+• Ketika melakukan analisis data, kembangkan kerangka orientasi anda 
+sendiri, kemudian tambahkan penelitian berdasarkan teori dan 
+penelitian empiris yang sudah pernah dilakukan  
+ 
+Bagaimana pada umumnya para mahasiswa membuat kerangka teori ?  
+Selama ini banyak dijumpai mereka membuat definisi konsep-konsep tertentu 
+secara sumir 6 .  Bahkan mereka menyalin  definisi dari konsep-konsep 
+tersebut dalam beberapa kalimat saja, terkadang juga diambil dari kamus 
+bahasa, bukan dari buku teks atau literatur. Atau yang pada umumnya terjadi 
+adalah mereka menyalin pendapat seorang ahli tanpa memperdebatkannya 
+dengan pemikirannya sendiri atau ahli lain.  
+ 
+Atau mereka menyalin pengertian suatu konsep dengan mengacu pada 
+undang-undang. Hal ini sangat penting, asalkan ada analisisnya. Dalam setiap 
+kata yang tertuang dalam pasal-pasal tertentu dari suatu perundangan yang 
+disalin itu,  bagaimana pemaknaan dan implikasinya ? terhadap siapa ?  
+ 
+Hal yang lazim ditulis dalam bagian legitimasi teoretik ini pada umumnya 
+adalah mendefinisikan konsep yang digunakan dalam penelitian secara detail, 
+dijelaskan mengapa suatu konsep  esensinya adalah demikian. Ada latar 
+belakang atau asumsi-asumsi dasar apa dalam school of thought seorang ahli 
+yang konsepnya kita kutip. Kemudian pemikiran kritis apa yang dapat kita 
+munculkan untuk menanggapi konsep tersebut. Apakah kita menolak atau 
+menyetujuinya, dan dalam hal apa ? Dengan demikian timbul kemungkinan 
+lahirnya konsep hasil sintesa dari pemikiran kita sendiri yang lebih cocok 
+dengan data penelitian kita. Dengan demikian kita menyumbang kepada 
+kemungkinan lahirnya perkembangan teori ”baru”. Bukankah begitu perjalanan 
+dunia ilmiah:  suatu teori yang lahir, akan tumbang karena ada 
+temuan-temuan baru, kemudian akan lahir teori baru berdasarkan revisi, yang 
+kelak kemungkinan akan tumbang lagi,  dan begitu seterusnya seperti suatu 
+siklus.  
+ 
+Setelah beberapa konsep dikaji, ”diuji”, diulas dalam pemikiran kritis, kita 
+harus membuat kerangkanya. Prinsip dalam membuat kerangka adalah 
+bagaimanakah beberapa konsep yang sudah kita uraikan itu, dapat 
+dipasang-pasangkan secara logis agar dapat menjelaskan thesis atau 
+masalah penellitian kita.  
+ 
+                                                        
+6 Bahkan istilah-istilah umum yang tidak memerlukan penjelasan , 
+ 
+11
+Contoh  
+Meneruskan   contoh di atas,  teori-teori yang digunakan adalah (1) 
+berbagai konsep, pandangan dan pemikiran  tentang isu akses keadilan 
+bagi perempuan, dan hubungannya dengan paradigma pembangunan 
+hukum dan berbagai perdebatannya, dan (2) beberapa konsep lain   
+yang berkaitan dengan isu relasi kekuasaan antara perempuan dan para 
+pihak yang terkait dengan keberadaannya sebagai buruh migran  dan 
+pekerja domestik. Para pihak tersebut adalah  orang-orang dalam rumah 
+tangga di mana dia bekerja, komunitas atau masyarakat UAE dan para 
+pihak yang terlibat dalam sektor buruh migran, termasuk jasa pengarah 
+tenaga kerja. Kemudian juga relasi perempuan dan negara (UAE dan 
+Indonesia). Perspektif yang digunakan adalah perspektif perempuan, 
+mengkonfirmasi semua data dengan pengalaman perempuan.    
+ 
+Setelah diuraikan panjang lebar tentang legitimasi teoretiknya, maka kerangka 
+teori dapat digambarkan seperti di bawah ini.  
+ 
+ 
+  
+  Pasar global-migrasi 
+ 
+ 
+ Negara 
+ 
+   Masyarakat/ 
+    komunitas 
+ 
+  Rumah tangga 
+ 
+ 
+ 
+ 
+ 
+                  à  
+Formal 
+Akses Keadilan  
+                  à   
+Informal 
+ 
+ 
+4.Metode Penelitian 
+Pemandangan yang biasa kita jumpai dalam bagian ini adalah mahasiswa 
+menyalin berbagai bacaan atau bahan tentang  kuliah metodologi. Padahal 
+sebenarnya bagian ini haruslah berisi tentang hal-hal apa saja yang (akan) 
+ 
+12
+dilakukan oleh peneliti dalam rangka mencari data untuk dapat menjawab 
+berbagai pertanyaan penelitian. Termasuk di dalamnya adalah rencana 
+analisis, bila data sudah ditemukan, terhadap data tersebut akan dilakukan 
+apa.  
+ 
+Dalam penelitian sosiolegal, yang metode penelitiannya merupakan kombinasi 
+antara  metode penelitian hukum doktriner dan metode penelitian hukum 
+empirik (yang meminjam metode ilmu sosial), maka yang dilakukan peneliti 
+adalah studi dokumen, yang  disertai dengan studi lapangan.  
+ 
+Studi dokumen: 
+Bila 
+melakukan 
+studi 
+dokumen, 
+sebaiknya 
+mengemukakan 
+dokumen-dokumen 
+apa 
+yang 
+akan 
+digunakan, 
+dan 
+bagaimana 
+menggunakannya (sistem klasifikasi, kategori), dan untuk tujuan apa studi 
+tersebut dilakukan. Biasanya tujuannya adalah untuk:  
+• menginventarisasi peraturan hukum positip   
+• mengetahui konsistensi  peraturan perundang-undangan berdasarkan 
+hierarkhinya 
+• mengetahui apakah suatu peraturan perundangan berbenturan dengan 
+peraturan perundangan lain,  
+• memahami 
+falsafah 
+yang 
+mendasari 
+suatu 
+peraturan 
+perundang-undangan atau pasal-pasalnya, sistem hukum, asas-asas 
+hukum, dan kerangka berpikir tentang hukum yang mengatur suatu 
+permasalahan,  yang berkaitan dengan tema penelitian.  
+ 
+Kemudian bagaimana menganalisis data dokumen hukum tersebut ? 
+Pasal-pasal dalam peraturan perundang-undangan dan kebijakan  dianalisis 
+secara kritikal dan dijelaskan makna dan implikasinya terhadap subyek 
+hukum. Bagaimanakah subyek hukum diproyeksikan dalam pasal tersebut, 
+dan   bagaimanakah makna yang terkandung dalam pasal-pasal  tersebut 
+merugikan  atau menguntungkan subyek hukum tertentu, dan dengan cara 
+bagaimana (lihat Irianto, 2009, bab 7 dalam buku ini) 
+ 
+Vonis pengadilan juga menjadi bahan yang sangat penting dalam studi 
+dokumen. 
+ 
+Metode 
+yang 
+dilakukan 
+adalah 
+mengkaji 
+kasus-kasus 
+persidangan berdasarkan teks putusan hakim. Peneliti juga  mencari apakah 
+pertimbangan hakim yang mendasari putusannya, di dalamnya terdapat 
+proses pembelajaran. Caranya adalah dengan mengkonstruksi suatu kasus, 
+mengidentifikasi pihak-pihak yang bertikai, duduk perkara, argumentasi para 
+pihak, pertimbangan hakim dan putusannya. Pertanyaan-pertanyaan analisis 
+kritis yang dimunculkan diantaranya adalah: bagaimanakah subyek hukum 
+dan inti perkara ditempatkan oleh hakim melalui pertimbangan dan 
+putusannya 
+ 
+ 
+13
+Studi Lapangan: 
+Hal yang perlu dikemukakan bila melakukan studi lapangan adalah, pertama, 
+metode dan teknik penelitian yang digunakan dan alasannya. Kedua, deskripsi 
+mengenai setting penelitian, diantaranya adalah lokasi penelitian, karakteristik  
+informan (dalam rangka isu etik, identitasnya disamarkan), dan alasan 
+mengapa memilihnya sebagai informan. Ketiga, pengalaman penelitian, 
+termasuk bagaimana cara membangun rapor (hubungan baik) dengan 
+informan, tahap-tahap penelitian. Penting juga dalam bagian ini untuk 
+mengetengahkan  refleksi metodologis berupa bahan pembelajaran yang 
+penting dari pengalaman penelitian yang dilakukan.  
+ 
+Prosedur pengumpulan data kualitatip (diolah dari Creswell, 1994)7 
+• Kumpulkan catatan pengamatan dengan melakukan pengamatan 
+atau pengamatan terlibat 
+• Lakukan wawancara terbuka dan buat catatan wawancara 
+• Buat jurnal selama studi penelitian 
+• Minta informan membuat jurnal selama studi penelitian (bila 
+mungkin) 
+• Kumpulkan surat pribadi atau catatan penting dari informan (bila 
+mungkin) 
+• Analisis dokumen umum (memo resmi, laporan, materi arsip) 
+• Periksa otobiografi dan biografi 
+• Rekam situasi sosial atau individu/kelompok 
+• Periksa foto atau kaset video 
+• Minta informan memotret atau merekam dengan kaset video (bila 
+diperlukan) 
+ 
+Analisis Data 
+Berbeda dengan penelitian kuantitatif di mana analsis data baru bisa dilakukan 
+setelah semua data terkumpul, dalam penelitian kualitatip analisis data 
+                                                        
+7  Lihat juga suatu buku yang ditulis baik tentang metode penelitian kualitatip, dalam   
+Poerwandari, Kristi (2005). Pendekatan  Kualitatip untuk Penelitian Perilaku Manusia, Depok: 
+Fakultas Psikologi, Universitas Indonesia. Ada banyak  buku baru tentang penelitian  
+etnografi yang ditulis oleh para antropolog terkenal, Di antaranya adalah Hammersley, Martyn 
+& Paul Atkinson. 1997. Ethnography. Principles in Practice. 2nd edition. New York: Routledge,  
+Bruner, Edward M, Culture on Tour (2005), Chicago: university of Chicago Press, Buroway, 
+et.al, Global Ethnography: Forces, Connections, and Imaginations in a Postmodern World. 
+Barkeley: university of California Press, (2000), Tsing, Anna Lowenhaupt, Friction: An 
+Ethnography of Global Connection, New Jersey: Princeton University Press (2005) 
+ 
+ 
+ 
+ 
+ 
+14
+dilakukan dalam suatu proses sejak kegiatan  pengumpulan data, reduksi 
+data, penyajian data, dan penarikan kesimpulan (Miles & Huberman, 1994:12) 
+ 
+Pada dasarnya analisis data adalah pertama, kegiatan melakukan 
+klasifikasi/ketegorisasi data berdasarkan tema-tema yang muncul dari catatan 
+lapangan  dan temuan-temuan penelitian. Kedua, kegiatan melakukan 
+konfirmasi antara teori dan data. Di sini terjadi dialektika antara teori dan data.  
+ 
+Berikut ini adalah petunjuk praktis dalam melakukan analisis data, diolah dari  
+Bogdan dan Biklen, (1982): 
+ 
+• Sebutkan dalam rencana bahwa analisis data akan dilakukan 
+bersamaan dengan pengumpulan dan interpretasi data, dan 
+penulisan naratif 
+• Sebutkan bagaimana proses analisis kualitatif akan didasarkan 
+pada “pengurangan” dan “interpretasi”  data 
+• Sebutkan rencana untuk menyalin informasi dalam bentuk 
+penyajian data  yang sistematis 
+• Identifikasi prosedur pengkodean yang akan digunakan untuk 
+mengurangi informasi menjadi tema atau kategori. Contoh kode 
+kategori adalah: kode-kode berdasarkan  konteks, sudut 
+pandang subyek penelitian, jalan pikiran subyek tentang orang 
+dan benda, proses, kegiatan, strategi, struktur hubungan, dan 
+sebagainya.  
+ 
+Contoh 
+Mengikuti contoh tentang akses keadilan bagi pekerja domestik perempuan 
+Indonesia di UAE seperti di atas, beberapa hal penting akan dipaparkan 
+berkaitan dengan metode penelitian. 
+ 
+Penelitian ini akan terdiri dari tiga tahap. 
+Pertama, adalah studi dokumen. Dengan  menggunakan perspektif 
+gender dalam hukum,  masalah hukum akan diletakan dengan cara 
+melakukan identifikasi dan analisis terhadap berbagai peraturan 
+perundang-undangan yang terkait dengan buruh migran baik di UAE 
+maupun Indonesia.  
+ 
+Kedua, studi lapangan untuk melakukan identifikasi dan analisis 
+bagaimana 
+hukum 
+bekerja 
+dan 
+berimplikasi 
+terhadap 
+hubungaan-hubungan di antara perempuan pekerja domestik (buruh 
+migran) dengan banyak pihak. Oleh karena itu akan diamati: 
+1. Kinerja  dari  atase perburuhan di UAE 
+2. Bagaimana masalah hukum diselesaikan ? Dalam konteks apa 
+mekanisme negara diterapkan. Bagaimana perwakilan Indonesia dan 
+ 
+15
+otoritas lain berfungsi ? Dalam konteks apa mediasi atau mekanisme 
+non-litigasi diberlakukan ? siapa yang telibat dalam mekanisme 
+non-litigasi tersebut dan mengapa ? 
+ 
+Ketiga, studi lapangan untuk mendapatkan data empirik tentang 
+pengalaman perempuan dengan perspektif gender dalam hukum 
+(gendered perspective in law) untuk dapat memahami:  
+1. konteks sosial budaya komunitas dan masyarakat UAE  (hubungan 
+pekerja domestik dengan majikan, pengerah tenaga kerja, otoritas 
+negara 
+2. bagaimana mereka melakukan strategi menghadapi berbagai macam 
+aturan hukum. 
+3. bagaimana terjadi ketiadaan akses keadilan dan mengapa 
+ 
+Metode dan teknik 
+Penelitian dokumenter  dilakukan dengan menganalisis isi dari instrumen 
+hukum dan kebijakan terkait, baik yang dikeluarkan oleh pemerintah UAE 
+maupun Indonesia. Perspektif gender dalam hukum akan digunakan untuk 
+membedah setiap kata yang tertuang dalam pasal-pasal tersebut untuk 
+mengetahui apa maknanya dan bagaimana implikasinya terhadap 
+perempuan dan semua pihak yang terkait 
+ 
+Etnografi hukum akan menjadi metode utama dalam penelitian lapangan 
+untuk mengetahui bagaimana hukum bekerja dalam konteks sosial, politik, 
+dan budaya. Bagaimana hukum berdampak terhadap para pihak, dan 
+bagaimana pengalaman perempuan dapat digali untuk memahami strategi 
+mereka menghadapi berbagai pihak, dalam situasi pasar global yang 
+menyebabkan keberadaan mereka di UAE. Dalam hal ini akan didapat juga 
+pembelajaran tentang etnografi perspektif global yang memperbaharui 
+etnografi konvensional..     
+ 
+Sebagai suatu catatan, semakin detail tahap-tahap dalam metode penelitian 
+dikemukakan, semakin memudahkan peneliti untuk melakukan pekerjaannya 
+dalam mengumpulkan data. Metode penelitian yang detail akan menjadi 
+pedoman yang sangat kuat.  
+ 
+Hal terakhir yang harus dibuat dalam rancangan penelitian adalah daftar 
+pustaka. Mengikuti  kaidah-kaidah atau standar yang baku dalam membuat 
+daftar pustaka adalah keharusan dalam suatu penulisan ilmiah.  
+ 
+Bagaimana hubungan antara rancangan penelitian dan bab-bab lain 
+berikutnya dalam suatu penelitian ? 
+Komponen esensial dalam rancangan penelitian, bila dirasa terlalu banyak, 
+dapat dikeluarkan dari bagian pendahuluan (yang semula adalah rancangan 
+ 
+16
+penelitian), dan dijadikan  bab berikutnya. 
+ 
+Selanjutnya, harus dipastikan bahwa semua yang sudah ”dijanjikan” dalam 
+rancangan penelitian harus diwujudkan  dalam bab-bab berikutnya. Salah 
+satu bab yang diperlukan adalah yang menggambarkan  seting penelitian 
+secara komprehensif, umum, namun tetap relevan dengan masalah penelitian 
+yang dirumuskan. Deskripsi tentang seting penelitian ini bisa berupa lokasi 
+penelitian atau wacana umum tentang tema-tema penelitian, khususnya 
+terkait dengan masalah hukum dan kemasyarakatan.  Meskipun tema dan 
+fokus penelitian adalah tentang isu hukum, tetapi hubungan antara hukum dan 
+konstelasi ekonomi, politik, sosial, dan budaya sangat relevan untuk 
+dieksplorasi dalam  setting penelitian. Bab tentang seting penelitian yang 
+komprehensif ini akan memberi pemahaman tentang lahir dan hidupnya 
+hukum dalam arena atau konstelasi sosial, politik dan budaya  tertentu. 
+Dalam hal ini dapat digambarkan bagaimana hukum terjalin dalam 
+hubungan-hubungan politik antar aktor.  
+ 
+Kemudian juga penting untuk melihat keterkaitan antara studi kasus skala 
+kecil yang kita teliti dengan peristiwa-peristiwa besar di tingkat regional dan 
+nasional, bahkan internasional. Bagaimana hukum dan kebijakan dari ”luar” 
+berdampak terhadap munculnya peristiwa tertentu di tingkat lokal, yang 
+digambarkan dalam suatu studi kasus mikro yang diteliti.  
+ 
+Bab-bab lain yang diperlukan adalah bab tentang penyajian data sekaligus 
+analisisnya, yang berisi penjelasan  atau jawaban terhadap masing-masing 
+pertanyaan penelitian yang telah dirumuskan dalam rancangan penelitian. 
+Penjelasan yang diharapkan adalah komprehensif, detail, dan yang akhirnya 
+akan 
+menghasilkan 
+gambaran 
+tentang 
+pola-pola, 
+potret-potret, 
+dan  
+kecenderungan dari data yang diperoleh dalam penelitian.  
+ 
+Akan jauh lebih baik bila suatu penelitian diakhiri oleh bab yang berisi analisis 
+yang menghubungkan secara logis dan analitis bab pendahuluan dan bab-bab 
+selanjutnya yang berisi temuan yang  diuraikan secara panjang lebar. Bab ini 
+kemudian akan diakhiri oleh suatu kesimpulan, yang berisi pembelajaran 
+penting secara teoretikal (maupun praktikal) tentang temuan-temuan 
+penelitian. Kesimpulan yang baik adalah yang berisi penjelasan dan jawaban 
+singkat terhadap masalah penelitian, yang ditulis dengan kalimat yang  padat 
+dan ringkas, dan ditulis secara reflektif konseptual. Setelah ditemukan 
+kesimpulan, pada umumnya  penelitian diakhiri oleh saran atau rekomendasi.    
+ 
+Kesimpulan 
+Penelitian adalah suatu bangunan yang terdiri dari berbagai bagian yang 
+harus dapat disambungkan satu sama lain. Fondasi utamanya adalah 
+rancangan penelitian, dan lebih khusus lagi adalah masalah penelitian (thesis). 
+ 
+17
+Tidak ada satupun bagian  dalam bangunan tersebut yang tidak diletakkan 
+dasarnya dalam rancangan penelitian. Bila penelitian sudah jadi, maka 
+rancangan penelitian akan berubah menjadi  bab utama dari penelitian. 
+Thesis yang dirumuskan secara baik (jelas, logis, terdukung secara teoretikal), 
+akan menjadi fondasi yang baik bagi suatu penelitian. Metode penelitian yang 
+dirumuskan secara baik (jelas, rinci), akan menjadi pedoman yang 
+memudahkan jalannya proses penelitian. Penelitian yang baik akan 
+melahirkan pembelajaran teoretikal dan metodologi yang berharga. Disitulah 
+letak sumbangan kita bagi ilmu pengetahuan.  
+ 
+ 
+ 
+18
+ 
+ 
+Daftar Pustaka 
+ 
+Banakar, Reza. 2005. “Studying Cases Empirically: A Sociological Method for 
+Studying Discrimination Cases in Sweden”, dalam Reza Banakar & Max 
+Travers (ed), Theory and Method in Socio-Legal Research. Onati: Hart 
+Publishing Oxford and Portland Oregon, hlm. 1-26.  
+ 
+Banakar, Reza dan Max Travers .2005.  Law, Sociology and Method dalam 
+Reza Banakar & Max Travers (ed), Theory and Method in Socio-Legal 
+Research. Onati: Hart Publishing Oxford and Portland Oregon, hal 1-26  
+ 
+Bano, Samia. 2005. ‘Standpoint’, ‘Difference’, and Feminist Research dalam 
+Reza Banakar & Max Travers (ed), Theory and Method in Socio-Legal 
+Research. Onati: Hart Publishing Oxford and Portland Oregon, hal 91-112 
+ 
+Benda-Beckmann F, K. Benda-Beckmann and  Anne Griffiths. 2005. 
+Introduction dalam  Benda-Beckmann F, K. Benda-Beckmann and  Anne 
+Griffiths Mobile People Mobile Law. Expanding Legal Relations in a 
+Contracting World. USA: Ashgate 
+ 
+Bogdan R.C. & S.K. Bliken. 1982. Qualitative Research for Education. An 
+Introduction to Theory and Method. Boston: Allyn & Bacon 
+ 
+Bradney A. 2003. Conversations, Choices and Changes: The Liberal Law 
+School in the Twenty-First Century. Oxford: Hart Publishing. 
+ 
+Bruner, Edward M. 2005. Culture on Tour, Chicago: university of Chicago 
+Press,  
+ 
+Buroway, Michael, et.al, 2000. Global Ethnography: Forces, Connections, and 
+Imaginations in a Postmodern World. Barkeley: university of California Press  
+ 
+Campbell CM dan Wiles P. 1976. “The Study of Law in Society in Britain”  
+dalam Law and Society Review 553. 
+ 
+Creswell, John W, Research Design , Qualitative and Quantitative Approaches, 
+London: Sage Publication, 1994 
+ 
+Cook T, and  Reinhardt, C.S. (eds). 1979. Qualitative and Quantitative 
+Methods in Evaluation Research, Beverly Hills, London: Sage Publications 
+ 
+Denzin, Norman K & Yvonna S.Lincoln. 1994. Handbook of Qualitative 
+ 
+19
+Research. London: Sage Publication 
+ 
+Flood, John. 2005. socio-Legal Ethnography, dalam Reza Banakar & Max 
+Travers (ed), Theory and Method in Socio-Legal Research. Onati: Hart 
+Publishing Oxford and Portland Oregon, hal 27- 32 
+ 
+Glazer, B.B. dan A.L. Strauss. 1967. The Discovery of Grounded Theory, 
+Straties for Qualitative Reserach. New York: Aldine Publishing Company 
+ 
+Glick Schiller, Nina. 2005. Transborder Citizenship: An Outcome of Legal 
+Pluralism within Transnational Social Fields,  dalam Benda-Beckmann F, 
+Keebet Benda-Beckmann dan Anne Griffiths (eds),  Mobile People, Mobile 
+Law, Expanding Legal Relations in a Contracting World, England: Ashgate, hal 
+27-50 
+ 
+Griffiths, Anne. 2005. Using Ethnography as a Tool in Legal Research, dalam 
+Reza Banakar & Max Travers (ed), Theory and Method in Socio-Legal 
+Research. Onati: Hart Publishing Oxford and Portland Oregon, hal 113-132  
+ 
+Hammersley, Martyn & Paul Atkinson. 1997. Ethnography. Principles in 
+Practice. 2nd edition. New York: Routledge  
+ 
+Miles, M.B. & Huberman, A.M. 1984. Qualitative Data Analysis:  A 
+Sourcebook of New Method. Beverly Hills: Sage Publication 
+ 
+Neuman, Lawrence, W. 1997. Social Research Methods. Qualitative and 
+Quantitative Approaches. 3 rd edition. USA: Allyn & Bacon 
+ 
+Nuijten, Monique, Transnational Migration and the Re-Framing of normative 
+Values.2005.  dalam Benda-Beckmann F, K. Benda-Beckmann and  Anne 
+Griffiths Mobile People Mobile Law. Expanding Legal Relations in a 
+Contracting World. USA: Ashgate, hal 51-68 
+ 
+Poerwandari, Kristi. 2005.  Pendekatan Kualitatip untuk Penelitian Perilaku 
+Manusia. Depok: LPSP3 Fakultas Psikologi, Universitas Indonesia 
+ 
+Sadli, Saparinah & Marilyn Porter. 1999. Metodologi Penelitian Berperspektif 
+Perempuan Dalam Riset Sosial, Jakarta:  Program Studi Kajian Wanita, PPS 
+UI 
+ 
+Sarantakos Sotirios. 1997. Social Research, Melbourne: Macmillan Education 
+Australia, PTY LTD 
+ 
+Scheffer, Thomas. 2005. Courses of Mobilization: Writing Systematic 
+ 
+20
+Micro-Histories of Legal Discourse, dalam  Reza Banakar & Max Travers (ed), 
+Theory and Method in Socio-Legal Research. Onati: Hart Publishing Oxford 
+and Portland Oregon, hal 75- 90 
+ 
+Tsing, Anna Lowenhaupt. 2005.  Friction: An Ethnography of Global 
+Connection, New Jersey: Princeton University Press  
+ 
+Ziegert, Klaus A. 2005.  Systems Theory and Qualitative Socio-Legal 
+Research, dalam Reza Banakar & Max Travers (ed), Theory and Method in 
+Socio-Legal Research. Onati: Hart Publishing Oxford and Portland Oregon, hal 
+49-68 
+ 
+Zips, Werner. 2005. ‘Global Fire’: Repatriation and Reparations from A 
+Rastafari (Re) Migrant’s Perspective, dalam Benda-Beckmann F, Keebet 
+Benda-Beckmann dan Anne Griffiths (eds),  Mobile People, Mobile Law, 
+Expanding Legal Relations in a Contracting World, England: Ashgate,  hal 
+69-90 
+ 
+ 

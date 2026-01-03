@@ -1,0 +1,351 @@
+                          KECERDASAN BUATAN
+I.    DASAR ARTIFICIAL INTELLIGENCE (AI)
+      Pada dasarnya AI adalah suatu pengetahuan yang membuat
+      komputer dapat meniru kecerdasan manusia sehingga komputer
+      dapat melakukan hal-hal yang dikerjakan manusia dimana
+      membutuhkan suatu kecerdasan; misalkan melakukan analisa
+      penalaran untuk mengambil suatu kesimpulan atau keputusan atau
+      penerjemahan dari satu bahasa ke bahasa lain.
+      Kecerdasan buatan merupakan suatu cabang dalam bidang sains
+      komputer Sains yang mengkaji tentang bagaimana untuk
+      melengkapi sebuah komputer dengan kemampuan atau kepintaran
+      seperti manusia. Sebagai contoh, bagaimana komputer bisa belajar
+      sendiri dari pengalaman dan data-data yang telah dikumpulkannya,
+      bagaimana komputer mampu berkomunikasi dan mengucapkan
+      kata demi kata. Dengan kemampuan ini, diharapkan komputer
+      mampu mengambil keputusan sendiri untuk berbagai kasus yang
+      ditemuinya. Industri AI ini berkembang semenjak tahun 1980an,
+      meskipun sudah dimulai dari tahun 1970an Evolusi AI berjalan
+      dalam dua jalur yang berbeda. Pertama, untuk menciptakan sistem
+      komputer      yang  meniru    proses  berpikir   manusia   untuk
+      menyelesaikan permasalahan umum. Misalnya program permainan
+      catur. Kedua, mengkombinasikan pemikiran terbaik para ahli pada
+      sepotong software yang dirancang untuk memecahkan persoalan
+      yang spesifik. Biasanya disebut juga dengan expert system, atau
+      sistem pakar. Misalnya bagaimana seorang dokter menentukan
+      penyakit seseorang, mulai dari tanya jawab, pemeriksaan kondisi
+      tubuh seperti mata, tekanan darah, suhu tubuh dan sebagainya.
+      Langkah-langkah ini pula yang berusaha diterapkan ke komputer
+      yang mampu berpikir seperti pakar tersebut.
+
+
+
+
+Mengenal Teknologi Informasi   Entot Suhartono, Skom              Hal. 1
+      Definisi AI
+      -   AI adalah bidang studi yang berusaha menerangkan dan meniru
+          perilaku kecerdasan dalam bentuk proses komputasi. (Scahlkoff
+          -1990)
+      -   AI adalah studi tentang cara membuat komputer melakukan
+          sesuatu yang sampai saat ini, orang dapat melakukannya lebih
+          baik. (Rich dan Knight – 1991)
+      -   AI adalah cabang ilmu komputer yang berhubungan dengan
+          otomatisasi perilaku yang cerdas. (Luger dan Stubblefield –
+          1993)
+      -   AI adalah bidang studi yang berhubungan dengan penangkapan,
+          pemodelan, dan penyimpanan kecerdasan manusia dalam
+          sebuah sistem teknologi sehingga sistem tersebut dapat
+          memfasilitasi proses pengambilan keputusan yang biasanya
+          dilakukan oleh manusia. (Haag dan Keen – 1996)
+
+
+      Tujuan AI meliputi:
+      1. membuat mesin lebih pintar
+      2. memahami kecerdasan, dan
+      3. membuat mesin lebih berguna
+      Sekarang ini, tujuan AI tidak sekedar membuat komputer dapat
+      berpikir, tetapi juga bisa melihat, mendengar, berjalan, bermain,
+      dan bahkan merasakan.
+      Atribut perilaku cerdas adalah
+      -   Berpikir dan bernalar
+      -   Memakai penalaran untuk memecahkan persoalan
+      -   Menyerap dan menerapkan pengetahuan
+      -   Memperlihatkan kreativitas dan imajinasi
+      -   Bekerja dengan situasi yang kompleks dan membingungkan
+      -   Melakukan tanggapan dengan cepat dan berhasil terhadap
+          situasi baru.
+      -   Mengenali elemen-elemen yang relatif penting dalam suatu
+          situasi
+      -   Menangani informasi yang rancu, tak lengkap, atau salah.
+      Atribut-atribut di atas juga diantaranya ingin diterapkan pada
+      komputer.
+
+
+II. AI DAN KECERDASAN MANUSIA
+      AI memiliki beberapa kelebihan dibandingkan kecerdasan alami
+      (manusia), kelebihan tersebut adalah
+
+Mengenal Teknologi Informasi   Entot Suhartono, Skom                 Hal. 2
+       -    AI lebih bersifat permanen
+       -    AI menawarkan kemudahan untuk digandakan dan disebarkan
+       -    AI dapat lebih murah daripada kecerdasan alami
+       -    AI lebih bersifat konsisten dan teliti
+       -    AI dapat didokumentasikan
+
+
+III. BIDANG-BIDANG APLIKASI AI
+       Sampai saat ini AI telah digunakan untuk:
+       -    Membuat aplikasi komputer yang memudahkan pemakai
+       -    Meningkatkan kemampuan problem solving secara cepat dan
+            konsisten
+       -    Membantu      menyelesaikan   masalah          yang      tidak     dapat
+            diselesaikan secara konvensional
+       -    Membantu menyelesaikan masalah yang mengandung data tidak
+            lengkap atau kurang jelas
+       -    Menangani informasi yang berlebihan dengan cara merangkum/
+            mengikhtisar dan menginterprestasi informasi
+       -    Meningkatkan produktivitas dalam melaksanakan banyak tugas
+       -    Membantu melaksanakan pencarian data              atau     suatu    pola
+            berdasarkan jumlah data yang sangat besar.
+       Beberapa contoh penerapan AI:
+   -       Komputer Deep Blue yang dilengkapi program catur pada tahun
+           1997 dan sudah digunakan melawan pecatur juara dunia Garry
+           Kasparov.
+   -       Logic Theorist adalah program yang mampu membuktikan
+           beberapa teorema yang ada pada bab pertama Pricipia
+           Matematica karya Whitehead dan Russell.
+   -       SYSTRAN adalah program yang dapat digunakan untuk menterje-
+           mahkan dari dan ke bahasa Jerman, Perancis, Italia, Jepang,
+           Korea, Rusia, Portugis, dan Spanyol.
+   -       Delco Electronics menciptakan sebuah mobil yang dapat menge-
+           mudikan sendiri. Mobil ini menggunakan pendeteksi tepi untuk
+           tetap bertahan dijalan.
+   -       Volkswagen AG (Jerman)            menciptakan    sistem     pengemudi
+           kendaraan otomatis
+
+
+
+
+Mengenal Teknologi Informasi      Entot Suhartono, Skom                         Hal. 3
+   Domain tugas-tugas AI, menurut Rich dan Knight (1991) adalah
+   A. Tugas-tugas biasa
+           a. Presepsi
+                  Visi
+                  Percakapan
+           b. Bahasa alami
+                  Pemahaman
+                  Pembangkitan
+                  Penerjemahan
+           c. Penalaran
+           d. Pengontrolan robot
+   B. Tugas-tugas formal
+           a. Permainan
+                  Catur
+                  Backgamon
+                  Checker
+                  Go
+           b. Matematika
+                  Geometri
+                  Logika
+                  Kalkulus Integrasi
+                  Pembuktian sifat-sifat program
+   C. Tugas-tugas ahli
+           a. Teknik
+                  Perancangan
+                  Penemuan Kesalahan
+                  Perencanaan Manufaktur
+           b. Analisis Pengetahuan
+           c. Diagnosis Pengobatan
+           d. Analisis Keuangan
+O’Brien (2001) mengelompokkan domain aplikasi utama AI, seperti
+pada diagram berikut ini yang mencakup materi-materi baru seperti
+algoritma genetika dan agen cerdas.
+
+
+
+
+Mengenal Teknologi Informasi     Entot Suhartono, Skom            Hal. 4
+   1. Pengolahan Bahasa Alami
+       Pengolahan bahasa alami (natural language processing atau NLP)
+       adalah bidang AI yang berurusan dengan pemahaman bahasa
+       manusia.
+       Contoh : SYSTRAN, Babel Fish Translations, Intellect
+       Babel Fish Translations program penerjemah bahasa dilingkungan
+       web yang merupakan produk dari Altavista.
+       Intellect dikembangkan oleh AICorp, pogram ini digunakan untuk
+       mendapatkan informasi berdasarkan pertanyaan dalam bahasa
+       Inggris. Sistem ini bekerja atas dasar kamus bahasa Inggris dan
+       mampu mengenali makna kata-kata seperti those, them, dan
+       their.
+   2. Visi Komputer
+       Istilah lain dari visi komputer adalah presepsi visual atau
+       pengenalan gambar. Visi komputer adalah salah satu bidang AI
+       yang berkaitan dengan pengenalan terhadap suatu objek dan
+       kemudian digunakan untuk pengambilan keputusan.
+
+                                     KAMERA            Program AI
+
+                   Objek
+
+                                                       Keputusan
+
+
+       Dalam dunia industri, visi komputer digunakan untuk melakukan
+       sortir produk secara otomatis.
+   3. Pengenalan Percakapan (Voice/ Speech Recognition)
+       Pegenalan percakapan adalah suatu proses yang memungkinkan
+       komputer dapat mengenali suara.
+       Penerapan teknologi ini antara lain digunakan untuk pengetikan
+       dokumen melalui suara dan anilisis suara dalam program
+       pembelajaran bahasa asing.
+       Saat ini teknologi sintesis suara juga telah banyak digunakan, di
+       mana komputer dimungkinkan dapat berbicara.
+   4. Robotika
+       Robotika merupakan piranti elektromekanik yang dapat diprogram
+       untuk melakukan otomatisasi terhadap suatu tugas yang biasa
+       dilakukan oleh manusia. Robot banyak digunakan dalam dunia
+       industri mobil.
+
+
+
+
+Mengenal Teknologi Informasi   Entot Suhartono, Skom                Hal. 5
+       Robot sekarang sudah dilengkapi AI sehingga bisa melakukan
+       pengambilan keputusan seperti halnya manusia.
+
+
+
+
+       Contoh robot:
+       -   RoboCup adalah robot yang mampu bermain bola
+       -   Scrubmate adalah robot yang dapat membersihkan kamar
+           mandi. Robot ini dilengkapi dengan peralatan pembersih,
+           sensor mata ultrasonik dan kontrol terkomputerisasi.
+       -   Sojourner adalah kendaraan robot beroda enam yang
+           digunakan oleh NASA dalam eksplorasi di planet Mars. Robot
+           ini dilengkapi dengan mata laser dapat mengambil sampel
+           atmosfir dan tanah kemudian mengirimkan data dan foto ke
+           bumi.
+       -   SICO - robot yang dikenal dengan Robot Therapist ini dapat
+           membantu anak-anak yang memiliki masalah-masalah emosi.
+
+
+
+Mengenal Teknologi Informasi   Entot Suhartono, Skom             Hal. 6
+       Dalam dunia robotika, dikenal istilah Android dan Animatronik.
+       Android atau disebut juga humanoid adalah robot yang
+       menyerupai orang, sedangkan Animatronik adalah robot yang
+       menyerupai binatang.
+   5. Sistem Pakar
+       Sistem pakar adalah suatu sistem yang meniru kepakaran
+       (keahlian) seseorang dalam bidang tertentu dalam menyelesaikan
+       suatu permasalahan. (Horn – 1986)
+       Menurut Weiss dan Kulikowski (1984), sistem pakar adalah sistem
+       yang:
+       -   menangani masalah-masalah kompleks                     dan   nyata,   yang
+           memerlukan interprestasi seorang pakar.
+       -   menyelesaikan masalah-masalah tersebut dengan mengguna-
+           kan model komputer yang memakai panalaran manusia ahli
+           dan menghasilkan kesimpulan yang sama dengan kesimpulan
+           yang dihasilkan manusia ahli jika menghadapi masalah-
+           masalah yang sama.
+       Terkadang   sistem  pakar   disebut   juga                  sistem    berbasis
+       pengetahuan (knowledge-based system).
+       Contoh sistem pakar:
+       -   BERT merupakan sistem pakar untuk merancang bangunan
+       -   DART/DASD           digunakan     untuk         mendiagnogsis    kerusakan
+           komputer
+       -   DELTA merupakan sistem pakar untuk mendiagnosis kerusakan
+           pada mesin-mesin disel pada General Electric
+       -   DENDRAL sistem pakar untuk menganilisis molekul suatu
+           senyawa kimia
+       -   EL sistem pakar yang dapat digunakan untuk menganalisis
+           rangkaian elektronika yang mengandung transistor, diode, dan
+           resistor.
+       -   FOLIO sistem pakar yang digunakan untuk mengevaluasi
+           investasi saham
+       -   HEATINGS sistem pakar yang digunakan untuk mengendalikan
+           proses pembakaran batu bara
+       -   REBES sistem pakar yang membantu detektif menangani
+           masalah kejahatan.
+       Aplikasi sistem pakar dapat dikelompokkan dalam beberapa
+       kategori sebagai berikut:
+       -   Interprestasi, memberikan deskripsi terhadap suatu situasi
+           melalui pengamatan.
+       -   Prediksi, perkiraan atau peramalan terhadap akibat dari suatu
+           situasi di masa mendatang.
+
+Mengenal Teknologi Informasi       Entot Suhartono, Skom                         Hal. 7
+       -   Diagnosis, pendugaan terhadap suatu         kesalahan   atau
+           gangguan sistem melalui pengamatan.
+       -   Perancangan, melakukan konfigurasi objek berdasarkankendala
+           yang ada.
+       -   Perencanaan, pembuatan rencana untuk mencapai sasaran.
+       -   Pemantauan, melakukan pembandingan anatara pengamatan
+           dan rencana.
+       -   Debugging, melakukan penelusuran terhadap suatu kesalahan
+           dan menemukan cara penyelesaiannya.
+       -   Reparasi, melakukan perbaikan (recovery)
+       -   Instruksi, melakukan diagnosis, debuggin, dan pembetulan
+           kinerja murid pada sistem pembelajaran.
+       -   Kontrol, melakukan pengendalian terhadap sistem
+       Model Konseptual Sistem Pakar
+
+
+
+
+   6. Logika Kabur (Fuzzy Logic)
+       Adalah suatu teknik yang digunakan untuk menangani ketidak-
+       pastian pada masalah-masalah yang memiliki banyak jawaban.
+       Teknik ini dikembangkan oleh Lofti A Zadeh, 1965.
+       Contoh aplikasi:
+       -   Pengontrol kereta bawah tanah di Sendai, Jepang
+       -   Pengatur mekanisme otofokus pada kamera atau camcoder
+           untuk menghilangkan gangguan karena fokus gambar bergetar.
+       -   Sistem pengereman mobil (Nissan)
+       -   Penghematan konsumsi daya listrik pada AC (Mitsubishi Heavy
+           Industries, Tokyo)
+       -   Pemilihan saham
+   7. Jaringan Syaraf (Neural Network)
+       Terkadang disebut artificial neural network/ ANN atau komputasi
+       syaraf (neural computing) adalah suatu bidang AI yang meniru
+       pola pemrosesan di dalam otak manusia berbasiskan pada
+       pengenalan pola.
+
+Mengenal Teknologi Informasi   Entot Suhartono, Skom                Hal. 8
+       ANN adalah sekumpulan elemen pemroses dengan masing-masing
+       subkelompok melakukan komputasi tersendiri dan melewatkan
+       hasilnya ke subkelompok berikutnya. Setiap subkelompok bersifat
+       independen.
+       Didalam ANN, sekelompok elemen pemroses disebut lapisan
+       (layer) terdiri lapisan masukan dan lapisan keluaran, dan lapisan
+       ditengah dinamakan lapisan tersembunyi.
+       Berbagai aplikasi ANN : Validasi tanda tangan, data mining
+       (menemukan pola pada sekumpulan data yang besar),
+       pengenalan wajah, pemilihan saham dan obligasi.
+   8. Algoritma                Genetika       (Komputasi             adaptif/adaptive
+      computing)
+       Adalah suatu pendekatan yang meniru kemampuan makhluk
+       hidup dalam beradaptasi dengan lingkungan sehingga terbentuk
+       proses evolusi untuk mengatasi masalah dengan lebih baik.
+       Cara yang digunakan :
+       -   Mutasi : mencoba kombinasi                       proses   secara   acak   dan
+           mengevaluasi hasilnya.
+       -   Crossover : mengombinasikan bagian dari hasil yang baik
+           dengan harpan dapat memperoleh hasil yang baik.
+       -   Seleksi : memilih proses-proses yang baik dan membuang
+           yang jelek.
+       Contoh Aplikasi
+          Para insinyur General Electric menggunakannya untuk
+           merancang mesin pesawat terbang berturbin jet, yang melibat-
+           kan persamaan-persamaan dengan kurang lebih 100 variabel
+           dan 50 kekangan.
+          Dept. Psikologi New Mexico State University mengembangkan
+           algoritma genetika untuk mengidentifikasi tersangka berdasar-
+           kan gambar rekaan dari saksi.
+   9. Sistem AI Hibrida (Hybrid Intelligent System)
+       Sistem yang menggabungkan beberapa teknologi AI untuk
+       memanfaatkan atau memadukan keunggulan masing-masing
+       teknologi.
+       Contoh:
+       -   Soft computing yang menggabungkan ANN, logika kabur,
+           algoritma genetika, dan teknik AI konvensional.
+       -   Neurofuzzy penggabungan pemakaian ANN dan logika kabur.
+           Sistem ini banyak digunakan oleh perusahaan Jepang seperti
+           matsushita dan sharp yang telah menerapkan pada produk-
+           produk mesin cuci dan lemari es.
+
+
+
+Mengenal Teknologi Informasi        Entot Suhartono, Skom                            Hal. 9
+

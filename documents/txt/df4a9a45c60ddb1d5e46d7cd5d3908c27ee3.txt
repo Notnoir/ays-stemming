@@ -1,0 +1,495 @@
+Jurnal Akuntansi dan Keuangan West Science
+Vol. 2, No. 03, September 2023, pp. 213~221
+
+
+        Transformasi Praktik Akuntansi Melalui Teknologi: Peran
+         Kecerdasan Buatan, Analisis Data, dan Blockchain dalam
+                     Otomatisasi Proses Akuntansi
+
+          Trinandari Prasetya Nugrahanti1, Nindy Puspitasari2, IGP Ratih Andaningsih3
+                       1IKPIA Perbanas Institute Jakarta; trinandari@perbanas.id
+
+                        2   Institut Bisnis dan Ekonomi Indonesia; nindy.puspitasari@me.com
+                                        3Universitas Borobudur; ratihiai@ymail.com
+
+
+
+
+ Info Artikel                               ABSTRAK
+ Article history:                           Lanskap bisnis global yang dinamis menuntut adaptasi berkelanjutan
+                                            terhadap kemajuan teknologi. Dalam konteks ini, perusahaan
+ Received September 2023
+                                            multinasional di Jakarta, Indonesia, berada di garis depan dalam
+ Revised September 2023
+                                            mengubah praktik akuntansi melalui adopsi teknologi mutakhir,
+ Accepted September 2023
+                                            termasuk Kecerdasan Buatan (Artificial Intelligence/AI), Analisis Data,
+                                            dan Blockchain. Penelitian ini menyelidiki sejauh mana adopsi
+ Kata Kunci:                                teknologi, manfaat dan tantangan yang terkait, serta implikasinya
+                                            terhadap proses akuntansi dalam konteks perusahaan multinasional di
+ Praktik Akuntansi, Teknologi,              Jakarta. Melalui pendekatan metode campuran yang mencakup survei
+ Kecerdasan Buatan, Analisa                 dan wawancara, penelitian ini mengungkapkan tingkat adopsi
+ Data, Blockchain, Otomatisasi,             teknologi yang tinggi yang didorong oleh motivasi seperti
+ Proses                                     mendapatkan keunggulan kompetitif, meningkatkan efisiensi, dan
+                                            memastikan kepatuhan terhadap peraturan. Meskipun adopsi
+                                            teknologi menawarkan manfaat penting, termasuk peningkatan
+ Keywords:                                  efisiensi dan akurasi, adopsi teknologi juga menghadirkan tantangan
+ Accounting                practices,       terkait privasi data, kompleksitas integrasi, dan manajemen
+ technology,                artificial      perubahan. Budaya organisasi dan perbedaan spesifik industri
+ intelligence,      data    analysis,       memainkan peran penting dalam membentuk strategi adopsi
+ blockchain,             automation,        teknologi. Studi ini memberikan rekomendasi untuk perusahaan-
+ processes                                  perusahaan di Jakarta, menekankan pentingnya keamanan data,
+                                            manajemen perubahan, dan pengembangan keterampilan. Selain itu,
+                                            penelitian ini juga menyarankan penelitian di masa depan untuk
+                                            mengeksplorasi dampak jangka panjang dari adopsi teknologi dan
+                                            teknologi baru dalam praktik akuntansi. Penelitian ini berkontribusi
+                                            pada wacana yang berkembang tentang transformasi berbasis
+                                            teknologi dalam akuntansi dan menawarkan wawasan yang dapat
+                                            ditindaklanjuti untuk perusahaan multinasional yang beroperasi di
+                                            lingkungan bisnis yang dinamis.
+
+
+
+                                            ABSTRACT
+
+                                            The dynamic global business landscape demands continuous
+                                            adaptation to technological advances. In this context, multinational
+                                            companies in Jakarta, Indonesia, are at the forefront of transforming
+                                            accounting practices through the adoption of cutting-edge
+                                            technologies, including Artificial Intelligence (AI), Data Analytics, and
+                                            Blockchain. This research investigates the extent of technology
+                                            adoption, its associated benefits and challenges, as well as its
+                                            implications for accounting processes in the context of multinational
+                                            companies in Jakarta. Through a blended methods approach that
+                                            includes surveys and interviews, the study reveals high rates of
+                                            technology adoption driven by motivations such as gaining
+
+
+Journal homepage: https://wnj.westscience-press.com/index.php/jakws
+Jurnal Akuntansi dan Keuangan West Science                                                                214
+
+
+                                     competitive advantage, increasing efficiency, and ensuring regulatory
+                                     compliance. While technology adoption offers important benefits,
+                                     including increased efficiency and accuracy, technology adoption also
+                                     presents challenges related to data privacy, integration complexity, and
+                                     change management. Organizational culture and industry-specific
+                                     differences play an important role in shaping technology adoption
+                                     strategies. The study provides recommendations for companies in
+                                     Jakarta, emphasizing the importance of data security, change
+                                     management, and skills development. In addition, the study also
+                                     suggests future research to explore the long-term impact of technology
+                                     adoption and new technologies in accounting practices. This research
+                                     contributes to the growing discourse on technology-based
+                                     transformation in accounting and offers actionable insights for
+                                     multinational companies operating in dynamic business environments.
+
+
+                                                      This is an open access article under the CC BY-SA license.
+
+
+
+
+ Corresponding Author:
+
+ Name: Fazrian Thursina
+ Institution: Universitas Linggabuana PGRI Sukabumi
+ Email: ajrinajrin2@gmail.com
+
+
+
+
+    1. PENDAHULUAN
+          Praktik akuntansi modern telah dipengaruhi secara signifikan oleh kemajuan teknologi,
+yang mengarah pada adopsi berbagai perangkat lunak dan teknologi untuk meningkatkan efisiensi,
+akurasi, dan kepatuhan. Beberapa teknologi yang umum digunakan dalam praktik akuntansi
+modern antara lain. Sistem ini mengintegrasikan berbagai fungsi bisnis, termasuk akuntansi,
+keuangan, sumber daya manusia, dan manajemen rantai pasokan, ke dalam satu platform, yang
+memungkinkan manajemen data yang efisien dan pengambilan keputusan yang lebih baik (Cleary
+et al., 2022; Jaman & Pertiwi, 2023; Supriandi & Iskandar, 2021; Ashari and Nugrahanti 2022). Solusi
+berbasis cloud memungkinkan akuntan untuk mengakses data keuangan dan melakukan tugas-
+tugas akuntansi dari mana saja, kapan saja, menggunakan perangkat apa saja yang memiliki akses
+internet. Teknologi ini juga memfasilitasi kolaborasi dan berbagi data secara real-time di antara
+anggota tim (Cleary et al., 2022). Teknologi AI dan ML semakin banyak digunakan dalam perangkat
+lunak akuntansi untuk mengotomatiskan tugas-tugas yang berulang, menganalisis data dalam
+jumlah besar, dan memberikan wawasan untuk pengambilan keputusan. Hal ini dapat membantu
+akuntan untuk fokus pada tugas-tugas yang lebih strategis dan bernilai tambah (Cleary et al., 2022).
+         Alat analisis data tingkat lanjut digunakan untuk menganalisis data keuangan dan
+mengidentifikasi tren, pola, dan anomali. Hal ini dapat membantu akuntan membuat keputusan
+dengan informasi yang lebih baik dan memberikan prakiraan keuangan yang lebih akurat (Cleary
+et al., 2022). Teknologi RPA mengotomatiskan tugas-tugas rutin dan berulang dalam proses
+akuntansi, seperti entri data, rekonsiliasi, dan pembuatan laporan, yang mengarah pada
+peningkatan efisiensi dan mengurangi kesalahan manusia (Cleary et al., 2022). Teknologi Blockchain
+memiliki potensi untuk merevolusi praktik akuntansi dengan menyediakan platform yang aman,
+transparan, dan anti-rusak untuk mencatat dan memverifikasi transaksi keuangan. Hal ini dapat
+meningkatkan akurasi dan keandalan data keuangan dan mengurangi risiko penipuan (Kleinman
+
+
+                                                              Vol. 2, No. 03, September 2023: pp. 213-221
+Jurnal Akuntansi dan Keuangan West Science                                                        215
+
+
+et al., 2016). Teknologi ini mengubah cara kerja akuntan, memungkinkan mereka untuk mengelola
+data keuangan dengan lebih efisien, membuat keputusan berdasarkan informasi yang lebih baik,
+dan memastikan kepatuhan terhadap persyaratan peraturan (Cleary et al., 2022).
+        Teknologi AI, Analisis Data, dan Blockchain memang telah muncul sebagai kekuatan
+penting dalam membentuk kembali praktik akuntansi tradisional. Algoritme yang didukung AI
+dapat mengotomatiskan entri data, menganalisis tren keuangan, dan meningkatkan pengambilan
+keputusan (Hasan, 2021). Alat Analisis Data memberikan wawasan dari kumpulan data yang sangat
+besar, memungkinkan strategi keuangan yang lebih terinformasi (Shin & Ennis, 2021). Teknologi
+Blockchain menawarkan pencatatan yang aman, transparan, dan anti-rusak, merevolusi cara
+pencatatan dan verifikasi transaksi (Bellucci et al., 2022).
+         Aplikasi AI dalam akuntansi dan audit diharapkan dapat memberikan manfaat seperti
+efisiensi, produktivitas, dan akurasi yang lebih baik, namun juga menghadirkan tantangan seperti
+ketidaksetaraan pendapatan dan kekayaan, kepunahan pekerjaan tradisional, dan tenaga kerja yang
+tidak terampil (Hasan, 2021). Analisis data dalam kursus akuntansi membantu siswa mempelajari
+keterampilan analisis data dan mengekstrak wawasan dari data bisnis, seperti ketidaksetaraan
+pendapatan Perusahaan (Shin & Ennis, 2021).
+        Blockchain memiliki banyak implikasi potensial untuk praktik dan penelitian akuntansi,
+termasuk pembukuan tiga entri, transaksi yang tidak dapat diubah, otomatisasi tugas yang
+berulang, representasi mata uang kripto dalam laporan keuangan, manajemen rantai nilai, audit dan
+pelaporan sosial dan lingkungan, dan inovasi model bisnis (Bellucci et al., 2022). Seiring dengan
+perkembangan teknologi ini, sangat penting bagi para pendidik, regulator, dan badan-badan
+profesional untuk mengatasi pergeseran paradigma dan mempersiapkan para siswa, kebijakan, dan
+profesional masa depan untuk menghadapi tantangan dunia yang penuh dengan data besar,
+teknologi blockchain, dan kecerdasan buatan (Hasan, 2021). Hal ini termasuk
+mengkonseptualisasikan kembali kurikulum akuntansi, merumuskan kebijakan revolusioner, dan
+mendesain ulang proses pengembangan dan pelatihan professional (Hasan, 2021).
+        Terlepas dari meningkatnya antusiasme terhadap transformasi berbasis teknologi di bidang
+akuntansi, terdapat kebutuhan untuk memahami secara komprehensif bagaimana perusahaan
+multinasional di Jakarta beradaptasi dan memanfaatkan AI, Analisis Data, dan Blockchain dalam
+praktik akuntansi mereka. Interaksi yang rumit antara teknologi ini dan nuansa prosedur akuntansi
+dalam lingkungan bisnis Jakarta yang unik memerlukan penyelidikan mendalam.
+
+
+    2. TINJAUAN PUSTAKA
+        2.1 Kecerdasan Buatan (AI) dalam Akuntansi
+         Sistem bertenaga AI memang telah merevolusi praktik akuntansi dalam beberapa tahun
+terakhir, menawarkan beberapa manfaat seperti otomatisasi tugas yang berulang, kemampuan
+analisis data yang lebih baik, dan wawasan keuangan secara real-tim (Almufadda & Almezeini,
+2022; Gotthardt et al., 2020; Mansor et al., 2022; Marshall & Lambert, 2018; Yulianty 2020). Sistem ini
+dapat mengotomatiskan proses akuntansi rutin seperti entri data, rekonsiliasi, dan pemrosesan
+faktur, sehingga mengurangi kesalahan manusia dan memungkinkan akuntan untuk fokus pada
+tugas-tugas yang bernilai lebih tinggi. AI dapat menganalisis kumpulan data yang besar dengan
+cepat, mengidentifikasi tren dan anomali yang mungkin tidak terlihat dengan metode tradisional,
+sehingga memungkinkan peramalan dan pengambilan keputusan yang lebih akurat. Dasbor yang
+didukung AI memberikan wawasan keuangan secara real-time, memungkinkan organisasi untuk
+bereaksi dengan cepat terhadap perubahan kondisi pasar dan membuat keputusan berdasarkan
+data.
+
+
+
+                                                            Vol. 2, No. 03, September 2023: pp. 213-221
+Jurnal Akuntansi dan Keuangan West Science                                                      216
+
+
+        Namun, adopsi AI dalam akuntansi menghadapi tantangan seperti masalah privasi data,
+kompleksitas integrasi, dan kebutuhan untuk meningkatkan keterampilan akuntan agar dapat
+bekerja bersama sistem AI (Gotthardt et al., 2020; Mansor et al., 2022; Ashari and Nugrahanti 2020).
+Terlepas dari tantangan-tantangan ini, teknologi AI terus mentransformasi industri akuntansi,
+dengan implikasi pada proses audit, layanan klien, inovasi, pertumbuhan, dan kemampuan
+beradaptasi sistem berbasis cloud. Ketika organisasi terus merangkul AI, mereka harus mengatasi
+tantangan-tantangan ini untuk memastikan implementasi yang sukses dan memaksimalkan
+manfaat AI dalam praktik akuntansi.
+        2.2 Analisis Data dalam Akuntansi
+        Analisis Data, yang mencakup penggalian data, pemodelan prediktif, dan analisis statistik,
+memainkan peran penting dalam praktik akuntansi modern. Hal ini memberdayakan organisasi
+untuk mengekstrak wawasan yang berarti dari kumpulan data yang besar, sehingga
+memungkinkan mereka untuk membuat keputusan keuangan yang tepat (Jabari & Suyunus, 2018;
+Shin & Ennis, 2021).
+        Alat Analisis Data dapat mengidentifikasi tren dan pola historis dalam data keuangan,
+sehingga membantu dalam peramalan dan penganggaran keuangan yang akurat. Analitik tingkat
+lanjut dapat digunakan untuk mendeteksi aktivitas penipuan melalui deteksi anomali dan
+pengenalan pola, sehingga meningkatkan keamanan keuangan (Kreitchmann et al., 2019; Rashid,
+2021). Analisis Data dapat membuat jejak audit yang terperinci, meningkatkan transparansi dan
+kepatuhan terhadap persyaratan peraturan. Tantangan yang terkait dengan Analisis Data di bidang
+akuntansi meliputi masalah kualitas data, kebutuhan akan keahlian khusus, dan kekhawatiran
+tentang privasi dan keamanan data (Rashid, 2021; Shin & Ennis, 2021).
+        2.3 Teknologi Blockchain dalam Akuntansi
+        Teknologi Blockchain, yang paling dikenal sebagai teknologi yang mendasari mata uang
+digital seperti Bitcoin, menawarkan sistem buku besar yang anti-rusak dan transparan.
+Penerapannya dalam akuntansi mendapatkan daya tarik karena potensinya untuk menghilangkan
+penipuan, mengurangi upaya rekonsiliasi, dan meningkatkan kepercayaan dalam transaksi
+keuangan (Kwilinski, 2019; Nezhyva et al., 2021). Blockchain mencatat transaksi dengan cara yang
+aman dan tidak dapat diubah, mengurangi risiko aktivitas penipuan dan kesalahan. Kontrak pintar
+pada blockchain dapat mengotomatiskan proses rekonsiliasi, mengurangi waktu dan usaha yang
+dibutuhkan untuk merekonsiliasi catatan keuangan. Transparansi dan desentralisasi blockchain
+meningkatkan kepercayaan antara pihak-pihak yang terlibat dalam transaksi keuangan, sehingga
+berpotensi mengurangi kebutuhan akan perantara (Baba et al., 2021; Zheng, 2021). Tantangan untuk
+adopsi blockchain secara luas dalam akuntansi termasuk masalah skalabilitas, masalah regulasi, dan
+kebutuhan akan standar di seluruh industry (Iskandar et al., 2022; Kurniawan et al., 2023).
+
+
+    3. METODE PENELITIAN
+        Penelitian ini menggunakan pendekatan penelitian metode campuran untuk memberikan
+pemahaman yang komprehensif tentang adopsi dan dampak teknologi Artificial Intelligence (AI),
+Data Analytics, dan Blockchain dalam praktik akuntansi di perusahaan multinasional di Jakarta.
+Penelitian dengan metode campuran menggabungkan teknik pengumpulan dan analisis data
+kuantitatif dan kualitatif untuk melakukan triangulasi temuan dan memberikan perspektif yang
+lebih kuat dan holistik.
+        Data kuantitatif dikumpulkan melalui survei terstruktur yang didistribusikan kepada para
+profesional akuntansi, manajer keuangan, dan spesialis TI di perusahaan multinasional di Jakarta.
+Tahap kuantitatif dari penelitian ini bertujuan untuk mengukur tingkat adopsi teknologi,
+
+
+                                                          Vol. 2, No. 03, September 2023: pp. 213-221
+Jurnal Akuntansi dan Keuangan West Science                                                     217
+
+
+mengidentifikasi tren, dan mengeksplorasi korelasi potensial antara adopsi teknologi dan berbagai
+karakteristik perusahaan.
+        Teknik pengambilan sampel acak bertingkat digunakan untuk memastikan keterwakilan
+dari berbagai sektor industri, ukuran perusahaan, dan tingkat adopsi teknologi. Ukuran sampel
+akan ditentukan berdasarkan perhitungan kekuatan statistik untuk memastikan keandalan temuan.
+       Instrumen survei dirancang untuk mengumpulkan data tentang tingkat adopsi teknologi,
+manfaat dan tantangan yang dirasakan, serta dampak teknologi terhadap proses akuntansi.
+Pertanyaan akan disusun dengan menggunakan skala Likert, pertanyaan pilihan ganda, dan
+pertanyaan terbuka untuk mengumpulkan wawasan kuantitatif dan kualitatif.
+       3.1 Pengumpulan Data
+        Survei diberikan secara elektronik, dan peserta akan memiliki opsi untuk menyelesaikannya
+secara anonim. Tanggapan survei akan dikumpulkan menggunakan platform survei online dan
+disimpan dengan aman.
+       3.1.1 Penelitian Kualitatif
+        Data kualitatif dikumpulkan melalui wawancara semi-terstruktur dengan para pemangku
+kepentingan utama, termasuk eksekutif akuntansi senior, manajer keuangan, spesialis TI, dan
+auditor dari perusahaan multinasional di Jakarta. Penelitian kualitatif memungkinkan eksplorasi
+yang lebih dalam mengenai pengalaman, motivasi, dan faktor-faktor kontekstual yang
+mempengaruhi adopsi teknologi.
+       3.1.2 Pengambilan sampel
+        Pengambilan sampel secara purposif akan digunakan untuk memilih peserta wawancara
+yang memiliki pengetahuan dan pengalaman yang signifikan dalam adopsi teknologi dan praktik
+akuntansi di organisasi mereka masing-masing. Sampel akan mewakili keragaman industri dan
+tingkat adopsi teknologi.
+       3.2 Analisis Data
+       3.2.1 Analisis Data Kuantitatif
+       Data kuantitatif yang dikumpulkan melalui survei dianalisis menggunakan perangkat
+lunak SPSS. Teknik analisis berikut ini akan digunakan:
+        Statistik Deskriptif: Statistik deskriptif, termasuk frekuensi, persentase, rata-rata, dan
+standar deviasi, akan dihitung untuk meringkas tanggapan survei dan mengukur tingkat adopsi
+teknologi.
+       3.2.2 Analisis Data Kualitatif
+         Data kualitatif yang diperoleh dari wawancara akan dianalisis dengan menggunakan
+analisis tematik. Langkah-langkah berikut akan diambil untuk menganalisis data kualitatif:
+        Transkripsi Data: Rekaman wawancara akan ditranskrip kata demi kata untuk membuat
+transkrip tertulis.
+        Pengodean Terbuka: Data akan menjadi sasaran pengkodean terbuka, di mana kode awal
+akan dibuat untuk mengidentifikasi tema, pola, dan pernyataan penting dalam transkrip.
+       Pengodean Selektif: Pada tahap akhir analisis, pengodean selektif akan diterapkan untuk
+mengembangkan pemahaman yang komprehensif tentang data kualitatif, mengidentifikasi tema
+dan narasi inti.
+
+
+
+                                                         Vol. 2, No. 03, September 2023: pp. 213-221
+Jurnal Akuntansi dan Keuangan West Science                                                     218
+
+
+
+
+    4. HASIL DAN PEMBAHASAN
+                                 Tabel 1. Demografi Responden
+                   Demografi                %    Demografi                %
+                   Jenis Kelamin                 Lama Eksperien
+                   Laki – Laki              52% 0 – 5 tahun               22%
+                   Perempuan                48% 6 – 10 tahun              29%
+                   Usia (tahun)                  11 – 15 tahun            20%
+                   < 25                     12% 16 – 20 tahun             15%
+                   26 - 35                  38% > 21 tahun                14%
+                   36 – 45                  29% Jobdesk
+                   46 – 55                  16% Profesional Akuntan       38%
+                   > 55                     5%   Finansial Manajer        29%
+                   Tingkat Pendidikan            IT Spesialis             18%
+                   S1                       41% Auditors                  15%
+                   S2                       37% Sektor Perusahaan
+                   S3                       6%   Keuangan                 24%
+                   Sertifikasi              16% Teknologi                 18%
+                   Ukuran Perusahaan             Manufaktur               14%
+                   Perusahaan Kecil         21% Kesehatan                 12%
+                   Perusahaan Menengah 37% Retail                         10%
+                   Perusahaan Besar         42% Lainnya                   22%
+
+        Karakteristik demografis responden penelitian ini mencerminkan sampel profesional yang
+beragam dan representatif yang bekerja di perusahaan multinasional di Jakarta. Keragaman ini
+memastikan bahwa temuan penelitian mencakup spektrum yang luas dari pengalaman, sudut
+pandang, dan keahlian, yang berkontribusi pada kelengkapan dan relevansi hasil penelitian.
+        4.1 Hasil Kuantitatif
+        4.1.1 Tingkat Adopsi Teknologi
+        Hasil survei menunjukkan tingkat adopsi teknologi yang tinggi di antara perusahaan
+multinasional di Jakarta. Responden diminta untuk menilai adopsi teknologi AI, Data Analytics, dan
+Blockchain di organisasi mereka dengan skala 1 (Rendah) hingga 5 (Tinggi). 63% responden menilai
+adopsi AI organisasi mereka sebagai "Tinggi" (4 atau 5), sementara 27% menilai "Sedang" (3). Hanya
+10% yang mengindikasikan tingkat adopsi AI yang "Rendah". 58% responden melaporkan adopsi
+Data Analytics "Tinggi", 30% menilai sebagai "Sedang", dan 12% menunjukkan adopsi "Rendah".
+48% responden melaporkan adopsi "Tinggi" terhadap teknologi Blockchain, 35% mengindikasikan
+adopsi "Sedang", dan 17% melaporkan adopsi "Rendah".
+        Temuan ini menunjukkan bahwa sebagian besar perusahaan multinasional di Jakarta telah
+menggunakan teknologi ini dalam proses akuntansi mereka.
+        4.1.2 Manfaat dan Tantangan yang Dirasakan
+        Responden ditanya tentang manfaat dan tantangan yang dirasakan terkait dengan adopsi
+teknologi di bidang akuntansi. Manfaat yang paling sering dikutip meliputi: 78% responden
+menyatakan bahwa adopsi teknologi telah meningkatkan efisiensi dalam proses akuntansi. 67%
+melaporkan peningkatan akurasi dan berkurangnya kesalahan. 62% menyatakan bahwa teknologi
+memberikan wawasan waktu nyata ke dalam data keuangan.
+        4.1.3 Tantangan utama yang dilaporkan oleh responden meliputi
+
+
+
+
+                                                         Vol. 2, No. 03, September 2023: pp. 213-221
+Jurnal Akuntansi dan Keuangan West Science                                                      219
+
+
+        54% menyatakan kekhawatiran tentang privasi dan keamanan data. 49% menghadapi
+kesulitan dalam mengintegrasikan teknologi dengan sistem yang ada. 38% melaporkan kurangnya
+tenaga terampil untuk memanfaatkan teknologi ini secara efektif.
+
+         4.2 Hasil Kualitatif
+         4.2.1 Motivasi untuk Adopsi
+         Keunggulan Kompetitif: Banyak perusahaan mengadopsi teknologi untuk mendapatkan
+keunggulan kompetitif di pasar, terutama di industri dengan perubahan yang cepat dan transaksi
+keuangan yang kompleks.
+         Efisiensi dan Pengurangan Biaya: Peningkatan efisiensi dan pengurangan biaya merupakan
+faktor pendorong utama, dengan perusahaan yang ingin merampingkan proses akuntansi mereka.
+         Kepatuhan terhadap Peraturan: Kepatuhan terhadap peraturan, terutama di industri
+dengan persyaratan pelaporan yang ketat, merupakan pendorong yang signifikan untuk adopsi
+teknologi.
+         4.2.2 Strategi Implementasi
+         Integrasi Bertahap: Sebagian besar perusahaan mengadopsi pendekatan bertahap,
+mengintegrasikan teknologi secara bertahap daripada merombak total sistem yang ada.
+         Pelatihan dan Peningkatan Keterampilan: Perusahaan berinvestasi dalam pelatihan dan
+peningkatan keterampilan tim akuntansi dan TI mereka agar dapat menggunakan dan mengelola
+teknologi baru secara efektif.
+         Pemilihan Vendor: Pemilihan vendor dan solusi teknologi yang cermat memainkan peran
+penting dalam keberhasilan implementasi.
+         4.2.3 Tantangan yang Dihadapi
+         Privasi dan Keamanan Data: Masalah privasi dan keamanan data merupakan tantangan
+yang sering disebutkan, terutama dalam industri yang menangani data keuangan yang sensitif.
+         Kompleksitas Integrasi: Mengintegrasikan teknologi baru dengan sistem lama terbukti
+menjadi proses yang rumit dan memakan waktu.
+         Manajemen Perubahan: Resistensi terhadap perubahan di kalangan karyawan menjadi
+tantangan tersendiri, dan perusahaan perlu berinvestasi dalam strategi manajemen perubahan.
+         Pembahasan
+         Tingkat Adopsi dan Motivasi yang Tinggi
+         Salah satu temuan yang paling mencolok dari penelitian ini adalah tingginya tingkat adopsi
+teknologi yang dilaporkan oleh perusahaan-perusahaan multinasional di Jakarta. Sebagian besar
+responden mengindikasikan tingkat adopsi "Tinggi" atau "Sedang" untuk teknologi AI, Data
+Analytics, dan Blockchain. Hal ini menunjukkan pengakuan yang kuat atas potensi manfaat yang
+dapat diberikan oleh teknologi-teknologi ini terhadap praktik akuntansi.
+         Motivasi yang mendorong adopsi teknologi memiliki banyak aspek dan sejalan dengan tren
+global di dunia korporat. Keunggulan kompetitif, peningkatan efisiensi, dan pengurangan biaya
+merupakan motivator yang umum, yang menekankan keinginan perusahaan multinasional di
+Jakarta untuk tetap menjadi yang terdepan di pasar yang berubah dengan cepat. Selain itu,
+kebutuhan akan kepatuhan terhadap peraturan, terutama di sektor-sektor dengan persyaratan
+pelaporan yang ketat, merupakan pendorong yang kuat untuk adopsi teknologi.
+         Manfaat dan Tantangan
+         Temuan penelitian ini menguatkan manfaat yang dirasakan dari adopsi teknologi dalam
+praktik akuntansi. Responden melaporkan adanya peningkatan yang signifikan dalam hal efisiensi,
+akurasi, dan ketersediaan wawasan keuangan secara real-time. Manfaat-manfaat ini selaras dengan
+literatur yang lebih luas tentang transformasi berbasis teknologi dalam akuntansi, yang menekankan
+potensi otomatisasi dan analisis data yang lebih baik untuk merampingkan proses keuangan dan
+menginformasikan pengambilan keputusan.
+
+
+
+                                                          Vol. 2, No. 03, September 2023: pp. 213-221
+Jurnal Akuntansi dan Keuangan West Science                                                                   220
+
+
+         Namun, penelitian ini juga mengungkapkan serangkaian tantangan yang dihadapi
+perusahaan multinasional di Jakarta saat mengadopsi teknologi AI, Analisis Data, dan Blockchain.
+Salah satu yang paling utama adalah kekhawatiran akan privasi dan keamanan data. Mengingat
+sensitivitas data keuangan, terutama di sektor-sektor seperti keuangan dan perawatan kesehatan,
+menjaga informasi dari pelanggaran dan akses yang tidak sah tetap menjadi perhatian utama.
+         Kompleksitas integrasi muncul sebagai tantangan signifikan lainnya. Perusahaan
+multinasional sering kali memiliki sistem lama yang kompleks, dan mengintegrasikan teknologi
+baru dengan sistem ini dapat memakan waktu dan sumber daya yang intensif. Tantangan ini
+menggarisbawahi pentingnya perencanaan yang matang dan implementasi strategis.
+         Faktor manusia juga memainkan peran penting, karena resistensi terhadap perubahan di
+kalangan karyawan dilaporkan terjadi. Adopsi teknologi yang sukses tidak hanya membutuhkan
+infrastruktur teknologi tetapi juga budaya organisasi yang mendukung yang mendorong inovasi
+dan menerima perubahan.
+
+    5. KESIMPULAN
+         Transformasi praktik akuntansi di perusahaan multinasional di Jakarta melalui adopsi
+teknologi Artificial Intelligence (AI), Data Analytics, dan Blockchain menandakan titik penting
+dalam lanskap bisnis global. Penelitian ini telah mengungkap beberapa temuan utama yang
+menggarisbawahi pentingnya pergeseran teknologi ini. Pertama dan terutama, penelitian kami
+mengungkapkan tingkat adopsi teknologi yang sangat tinggi di kalangan perusahaan multinasional
+di Jakarta. Motivasi yang mendorong adopsi ini beragam, mencakup keunggulan kompetitif,
+efisiensi operasional, dan kepatuhan terhadap peraturan. Manfaatnya sangat besar, termasuk
+peningkatan efisiensi, peningkatan akurasi, dan wawasan real-time ke dalam data keuangan.
+Namun, adopsi teknologi bukannya tanpa tantangan. Kekhawatiran terkait privasi dan keamanan
+data membayangi, terutama dalam industri yang menangani informasi keuangan yang sensitif.
+Kompleksitas integrasi dengan sistem lama dan resistensi karyawan terhadap perubahan menjadi
+hambatan yang berat. Peran budaya organisasi muncul sebagai faktor penting dalam keberhasilan
+adopsi teknologi. Perusahaan dengan budaya inovasi dan manajemen perubahan yang proaktif
+akan lebih siap untuk menavigasi kompleksitas dalam mengintegrasikan teknologi baru ke dalam
+praktik akuntansi mereka.
+
+DAFTAR PUSTAKA
+Almufadda, G., & Almezeini, N. A. (2022). Artificial Intelligence Applications in the Auditing Profession: A
+     Literature Review. Journal of Emerging Technologies in Accounting, 19(2), 29–42.
+Ashari, Hasan, and Trinandari Prasetya Nugrahanti. 2022. “Menurunnya Prestasi Akademis Mahasiswa
+     Akuntansi Pada Pembelajaran Daring Di Masa Pandemi Covid-19.” Jurnal Revenue: Jurnal Ilmiah
+     Akuntansi 2(2): 233–51.
+Ashari, Hasan, and Trinandari Prasetyo Nugrahanti. 2020. “Analisis Kesiapan Bank Perkreditan Rakyat (BPR)
+     Menghadapi Era Industri 4.0.” Jurnal Riset Akuntansi Dan Keuangan 8(2): 221–38.
+Baba, A. I., Neupane, S., Wu, F., & Yaroh, F. F. (2021). Blockchain in accounting: challenges and future prospects.
+     International Journal of Blockchains and Cryptocurrencies, 2(1), 44–67.
+Bellucci, M., Cesa Bianchi, D., & Manetti, G. (2022). Blockchain in accounting practice and research: systematic
+     literature review. Meditari Accountancy Research, 30(7), 121–146.
+Cleary, P., Quinn, M., Rikhardsson, P., & Batt, C. (2022). Exploring the Links Between IT Tools, Management
+     Accounting Practices and SME Performance: Perceptions of CFOs in Ireland. Accounting, Finance &
+     Governance Review, 28.
+Gotthardt, M., Koivulaakso, D., Paksoy, O., Saramo, C., Martikainen, M., & Lehner, O. (2020). Current state and
+     challenges in the implementation of smart robotic process automation in accounting and auditing. ACRN
+     Journal of Finance and Risk Perspectives.
+Hasan, A. R. (2021). Artificial Intelligence (AI) in accounting & auditing: A Literature review. Open Journal of
+     Business and Management, 10(1), 440–465.
+
+
+                                                                   Vol. 2, No. 03, September 2023: pp. 213-221
+Jurnal Akuntansi dan Keuangan West Science                                                                       221
+
+
+Iskandar, Y., Joeliaty, J., Kaltum, U., & Hilmiana, H. (2022). Systematic review of the barriers to social enterprise
+     performance using an institutional framework. Cogent Business & Management, 9(1), 2124592.
+Jabari, A., & Suyunus, M. (2018). Fraud Detection: Using Of Data Mining In Accounting Information System.
+     Universitas Airlangga.
+Jaman, U. B., & Pertiwi, E. (2023). Kedaulatan Pajak Negara Indonesia Terhadap Perusahaan Multinasional
+     Digital. Jurnal Aktiva: Riset Akuntansi Dan Keuangan, 5(1), 32–42.
+Kleinman, G., Lin, B., & Bloch, R. (2016). Accounting Standards Enforcement in an International Setting: Testing
+     the Impact of Cultural, Religious, Political and Legal Environment on National Regulatory Efforts.
+     Religious, Political and Legal Environment on National Regulatory Efforts (February 5, 2016).
+Kreitchmann, R. S., Abad, F. J., Ponsoda, V., Nieto, M. D., & Morillo, D. (2019). Controlling for response biases
+     in self-report scales: Forced-choice vs. psychometric modeling of Likert items. Frontiers in Psychology, 10,
+     2309.
+Kurniawan, -, Maulana, A., & Iskandar, Y. (2023). The Effect of Technology Adaptation and Government
+     Financial Support on Sustainable Performance of MSMEs during the COVID-19 Pandemic. Cogent Business
+     & Management, 10(1), 2177400. https://doi.org/https://doi.org/10.1080/23311975.2023.2177400
+Kwilinski, A. (2019). Implementation of blockchain technology in accounting sphere. Academy of Accounting and
+     Financial Studies Journal, 23, 1–6.
+Mansor, N. A., Hamid, Y., Anwar, I. S. K., Isa, N. S. M., & Abdullah, M. Q. (2022). The awareness and knowledge
+     on artificial intelligence among accountancy students. Int. J. Acad. Res. Bus. Soc. Sci, 12, 1629–1640.
+Marshall, T. E., & Lambert, S. L. (2018). Cloud-based intelligent accounting applications: accounting task
+     automation using IBM watson cognitive computing. Journal of Emerging Technologies in Accounting, 15(1),
+     199–215.
+Nezhyva, M., Zaremba, O., & Nehodenko, V. (2021). Application of blockchain technology in accounting and audit:
+     international and domestic experience.
+Rashid, C. A. (2021). The importance of statistical analysis in accounting research. Journal of Global Social Sciences,
+     2(7), 71–84.
+Shin, S., & Ennis, K. (2021). Data Analytics in Accounting: Visualizing Corporate Income Inequality. AIS
+     Educator Journal, 16(1), 19–39.
+Supriandi, S., & Iskandar, Y. (2021). ANALISIS NILAI PERUSAHAAN PADA PERUSAHAAN
+     MANUFAKTUR (Studi Nilai Perusahaan pada 10 Perusahaan Manufaktur BEI). Referensi: Jurnal Ilmu
+     Manajemen Dan Akuntansi, 9(1), 23–30.
+Yulianty, Rochimah. 2020. “Pengaruh Sustainability Reporting Terhadap Nilai Perusahaan Dengan Kinerja
+     Keuangan Sebagai Variabel Intervening.” Jurnal Riset Perbankan, Manajemen, dan Akuntansi 4(1): 12–24.
+Zheng, R. (2021). Applications research of blockchain technology in accounting system. Journal of Physics:
+     Conference Series, 1955(1), 12068.
+
+
+
+
+                                                                     Vol. 2, No. 03, September 2023: pp. 213-221
+

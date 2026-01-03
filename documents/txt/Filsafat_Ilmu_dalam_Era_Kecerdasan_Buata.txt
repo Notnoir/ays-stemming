@@ -1,0 +1,240 @@
+Filsafat Ilmu dalam Era Kecerdasan Buatan: Tantangan dan Peluang
+M. Rhifky Wayahdi1, Mahyuddin K. M. Nasution2
+1,2
+Program Studi Ilmu Komputer, Fakultas Ilmu Komputer dan Teknologi Informasi,
+Universitas Sumatera Utara
+1
+muhammadrhifkywayahdi@gmail.com, 2mahyuddin@usu.ac.id
+
+Abstrak
+
+Kecerdasan Buatan (AI) telah mengalami perkembangan yang pesat dan berpengaruh
+signifikan terhadap berbagai aspek kehidupan manusia, termasuk dalam bidang
+penelitian, kesehatan, dan pendidikan. Artikel ini membahas tantangan dan peluang yang
+dihadapi oleh filsafat ilmu dalam konteks kemajuan AI. Tantangan utama yang
+diidentifikasi meliputi pertanyaan epistemologis mengenai validitas pengetahuan yang
+dihasilkan oleh algoritma AI, isu etika dan tanggung jawab terkait kesalahan yang
+mungkin terjadi, serta perubahan paradigma ilmiah yang memerlukan integrasi AI tanpa
+mengorbankan integritas penelitian. Di sisi lain, AI juga menawarkan peluang untuk
+inovasi dalam metode penelitian, mendorong dialog interdisipliner antara filsafat, ilmu
+pengetahuan, dan teknologi, serta memberikan ruang untuk refleksi kritis terhadap
+asumsi-asumsi yang mendasari pengembangan teknologi. Dengan pendekatan yang kritis
+dan reflektif, filsafat ilmu berperan penting dalam memahami dan mengevaluasi dampak
+AI, serta membimbing pengembangan dan penerapan teknologi ini agar sejalan dengan
+nilai-nilai kemanusiaan dan tujuan ilmiah yang lebih luas. Penelitian ini bertujuan untuk
+memberikan wawasan yang lebih dalam mengenai interaksi antara AI dan filsafat ilmu,
+serta implikasi etis dan epistemologis yang muncul dari penggunaan teknologi ini.
+Kata kunci: Filsafat ilmu, Kecerdasan buatan, Epistemologi, Etika, Tantangan dan
+peluang.
+
+Pendahuluan
+
+Kecerdasan Buatan (artificial intelligence) atau biasa kita kenal dengan AI terus
+mengalami kemajuan yang sangat pesat, sehingga mampu mengubah kebiasaan hidup
+manusia. Berbicara tentang AI, sangat erat kaitannya dengan ruang lingkup yang lebih
+luas yaitu ilmu komputer. Ilmu komputer merupakan cabang ilmu disiplin teknologi yang
+bertujuan menciptakan tools pemecahan masalah [1]. Dalam AI tertanam algoritma yang
+mampu belajar secara mandiri [2][3], sehingga memungkinkan untuk mengelola dan
+menyebarkan pola data atau informasi, mengevaluasi dirinya sendiri [2], serta melakukan
+penalaran dan mengambil keputusan [4] layaknya manusia [5]. Namun, AI tidak bisa
+menghasilkan ide-ide baru, hanya mampu mengelola dan mengembangkan ide orang lain
+[6].
+AI dapat dijelaskan sebagai kumpulan dari banyak teknologi [7]. Teknologi berbasis
+AI semakin diminati para peneliti [8] untuk diimplementasikan pada banyak bidang riset
+[9], misalnya prediksi performa mahasiswa [2], diagnosa penyakit kanker [10], mencari
+rute atau jalur terpendek [11], klasifikasi gambar [12], prediksi suhu [13], kesehatan dan
+edukasi [4], dan lain sebagainya. Untuk keberlanjutan, tampaknya teknologi AI ini
+
+memang akan sangat menguntungkan karena mampu meningkatkan daya tarik yang
+signifikan di berbagai sektor [9][7]. Kecerdasan buatan telah menjadi salah satu inovasi
+paling signifikan yang mempengaruhi berbagai aspek kehidupan manusia, mulai dari
+industri, kesehatan, hingga pendidikan.
+Dalam konteks ini, filsafat ilmu berperan penting dalam memahami dan
+mengevaluasi dampak AI terhadap pengetahuan, metode ilmiah, dan etika. Artikel ini
+bertujuan untuk mengeksplorasi tantangan dan peluang yang dihadapi oleh filsafat ilmu
+dalam era kecerdasan buatan, serta bagaimana pemikiran filosofis dapat membantu kita
+memahami implikasi dari teknologi ini. Sebagai inti dari pencarian kebenaran dengan
+mempelajari dan mengungkapkan sebuah pemikiran [14], filsafat ilmu berfungsi sebagai
+tinjauan kritis terhadap pendapat-pendapat ilmiah mutakhir dengan membandingkan
+kriteria yang dikembangkan dari berbagai pandangan. Pentingnya filsafat ilmu terletak
+pada kemampuannya untuk membedakan isu-isu ilmiah dari isu-isu non-ilmiah serta
+memberikan nilai dan orientasi yang jelas bagi setiap disiplin ilmu. Kecerdasan buatan
+(dan filosofinya) memiliki tradisi yang panjang dan mapan dalam bidang komputer dan
+ilmu kognitif serta filosofi komputasi [15].
+
+Tantangan Filsafat Ilmu di Era Kecerdasan Buatan
+1.
+
+Pertanyaan tentang Epistemologi
+Salah satu tantangan utama yang dihadapi filsafat ilmu adalah pertanyaan
+epistemologis yang muncul dari penggunaan AI dalam penelitian dan pengambilan
+keputusan. Dalam beberapa tahun terakhir, meningkatnya ketertarikan pada hubungan
+antara epistemologi dan masalah-masalah sosial telah melahirkan sejumlah pertanyaan
+penelitian yang baru [16]. Bagaimana kita dapat memastikan bahwa pengetahuan yang
+dihasilkan oleh algoritma AI adalah valid dan dapat dipercaya? Apakah AI dapat dianggap
+sebagai sumber pengetahuan yang sah, ataukah ia hanya alat yang merefleksikan bias dan
+keterbatasan manusia? Pertanyaan-pertanyaan ini menuntut kita untuk merevisi
+pemahaman kita tentang apa yang dianggap sebagai pengetahuan. Kebutuhan akan AI
+yang adil dan jujur terkait dengan pemahaman sistem AI, yaitu mengubahnya dari yang
+tidak transparan menjadi dapat diawasi. Namun, isu transparansi sering terpisah dari
+aspek teknis dan filosofi ilmu pengetahuan, mengakibatkan keterputusan antara etika dan
+epistemologi AI [17].
+2.
+
+Etika dan Tanggung Jawab
+Kecerdasan buatan juga membawa tantangan etis yang signifikan. Penggunaan AI
+dalam berbagai bidang, seperti pengawasan, penegakan hukum, dan pengambilan
+keputusan medis, menimbulkan pertanyaan tentang tanggung jawab moral. Siapa yang
+bertanggung jawab jika AI membuat kesalahan? Apakah pengembang, pengguna, atau AI
+itu sendiri? Filsafat ilmu harus berperan dalam merumuskan kerangka etis yang dapat
+membimbing penggunaan AI secara bertanggung jawab. Prinsip-prinsip etika yang harus
+dikenali antara lain transparansi, keadilan dan kesetaraan, non-maleficence (tidak
+merugikan), tanggung jawab, privasi, manfaat (beneficence), serta kebebasan dan
+otonomi [18].
+
+3.
+
+Perubahan Paradigma Ilmiah
+Kehadiran AI juga dapat mengubah paradigma ilmiah yang telah mapan. Dengan
+kemampuan untuk menganalisis data dalam jumlah besar dan menemukan pola yang
+tidak terlihat oleh manusia, AI dapat menggeser cara kita melakukan penelitian. Ini
+menimbulkan pertanyaan tentang metode ilmiah yang tradisional dan bagaimana kita
+dapat mengintegrasikan AI ke dalam proses penelitian tanpa mengorbankan integritas
+ilmiah. Prinsip etika dan tanggung jawab penting di sini, pihak yang mengembangkan
+dan menerapkan teknologi AI harus bertanggung jawab atas konsekuensi dari penggunaan
+sistem tersebut. Ini termasuk tanggung jawab moral dan hukum untuk memastikan bahwa
+teknologi digunakan dengan cara yang etis dan bertanggung jawab [18].
+
+Peluang Filsafat Ilmu di Era Kecerdasan Buatan
+1.
+
+Inovasi dalam Metode Penelitian
+Di sisi lain, kecerdasan buatan menawarkan peluang untuk inovasi dalam metode
+penelitian. Dengan kemampuan analisis data yang canggih, AI dapat membantu ilmuwan
+dalam mengidentifikasi hipotesis baru dan mempercepat proses penelitian. Filsafat ilmu
+dapat berkontribusi dengan mengembangkan kerangka teoritis yang mendukung integrasi
+AI dalam penelitian, serta mengeksplorasi bagaimana AI dapat memperkaya pemahaman
+kita tentang fenomena ilmiah. Dalam beberapa tahun terakhir, minat para peneliti
+terhadap teknologi berbasis AI semakin meningkat, mendorong mereka untuk
+menerapkannya dalam berbagai bidang penelitian. Hal ini mencakup berbagai disiplin
+ilmu, mulai dari kesehatan, pendidikan, hingga ilmu sosial, di mana AI dapat memberikan
+solusi inovatif dan efisien untuk tantangan yang dihadapi. Dengan kemampuannya untuk
+menganalisis data besar dan mengotomatiskan proses, AI menawarkan potensi yang
+signifikan untuk meningkatkan kualitas, inovasi, dan efektivitas penelitian di berbagai
+sektor [8][9].
+2.
+
+Dialog Interdisipliner
+Era kecerdasan buatan mendorong dialog interdisipliner antara filsafat, ilmu
+pengetahuan, dan teknologi. Filsafat ilmu dapat berfungsi sebagai jembatan untuk
+menghubungkan berbagai disiplin ilmu, membantu kita memahami implikasi sosial dan
+budaya dari AI. Dengan demikian, filsafat ilmu dapat berperan dalam menciptakan
+kebijakan yang lebih baik dan lebih inklusif terkait penggunaan AI. Filsafat ilmu
+memainkan peran penting dalam menganalisis dampak AI terhadap pengetahuan, metode
+ilmiah, dan etika dalam konteks dialog interdisipliner. Pemikiran filosofis membantu kita
+memahami implikasi teknologi ini dengan membandingkan berbagai perspektif ilmiah
+[14][15]. Dialog antar disiplin sangat penting untuk memastikan bahwa perkembangan
+AI sejalan dengan nilai-nilai kemanusiaan dan tujuan ilmiah yang lebih luas.
+3.
+
+Refleksi Kritis terhadap Teknologi
+Filsafat ilmu juga memberikan ruang untuk refleksi kritis terhadap teknologi. Dalam
+menghadapi tantangan yang ditimbulkan oleh AI, pemikiran filosofis dapat membantu
+kita mempertanyakan asumsi-asumsi yang mendasari pengembangan dan penerapan
+teknologi. Ini penting untuk memastikan bahwa kemajuan teknologi tidak mengorbankan
+nilai-nilai kemanusiaan dan etika. Sebagai contoh, integrasi sistem AI dan chatbot dalam
+
+dunia akademis telah menarik perhatian besar dalam beberapa tahun terakhir. Teknologi
+ini berpotensi merevolusi penelitian dan pendidikan dengan mengotomatiskan tugastugas yang monoton, membantu analisis data, serta menciptakan metode pembelajaran
+dan penilaian yang inovatif. Namun, penerapan AI di sektor akademik juga menghadapi
+berbagai tantangan dan kontroversi [19]. Sehingga pemikiran filosofis yang kritis
+diperlukan di sini.
+
+Kesimpulan
+
+Kecerdasan Buatan (AI) telah menjadi inovasi signifikan yang mempengaruhi
+berbagai aspek kehidupan manusia, termasuk penelitian, kesehatan, dan pendidikan,
+namun juga menghadirkan tantangan kompleks dalam konteks filsafat ilmu. Tantangan
+ini mencakup pertanyaan epistemologis mengenai validitas pengetahuan yang dihasilkan
+oleh AI, isu etika dan tanggung jawab terkait kesalahan yang mungkin terjadi, serta
+perubahan paradigma ilmiah yang menuntut integrasi AI tanpa mengorbankan integritas
+penelitian. Di sisi lain, AI menawarkan peluang untuk inovasi dalam metode penelitian,
+mendorong dialog interdisipliner antara filsafat, ilmu pengetahuan, dan teknologi, serta
+memberikan ruang untuk refleksi kritis terhadap asumsi-asumsi yang mendasari
+pengembangan teknologi. Dengan pendekatan yang kritis dan reflektif, filsafat ilmu
+berperan penting dalam memahami dan mengevaluasi dampak AI, serta membimbing
+pengembangan dan penerapan teknologi ini agar sejalan dengan nilai-nilai kemanusiaan
+dan tujuan ilmiah yang lebih luas.
+
+Daftar Pustaka
+[1]
+
+[2]
+
+[3]
+
+[4]
+[5]
+[6]
+[7]
+
+M. K. M. Nasution, R. Hidayat, and R. Syah, “Computer Science,” vol. 12, no. 3,
+2022
+R. C. Deo, Z. M. Yaseen, N. Al-Ansari, T. Nguyen-Huy, T. A. M. P. Langlands, and
+L. Galligan, “Modern Artificial Intelligence Model Development for
+Undergraduate Student Performance Prediction: An Investigation on Engineering
+Mathematics Courses,” IEEE Access, vol. 8, pp. 136697–136724, 2020, doi:
+10.1109/ACCESS.2020.3010938
+E. Selenko, S. Bankins, M. Shoss, J. Warburton, and S. L. D. Restubog, “Artificial
+Intelligence and the Future of Work: A Functional-Identity Perspective,” Curr Dir
+Psychol Sci, vol. 31, no. 3, pp. 272–279, Jun. 2022, doi:
+10.1177/09637214221091823
+M. Dave and N. Patel, “Artificial intelligence in healthcare and education,” Br Dent
+J, vol. 234, no. 10, pp. 761–764, May 2023, doi: 10.1038/s41415-023-5845-2
+B. Zhang, J. Zhu, and H. Su, “Toward the third generation artificial intelligence,”
+Science China Information Sciences, vol. 66, no. 2, p. 121101, 2023, doi:
+10.1007/s11432-021-3449-x
+M. Salvagno, F. S. Taccone, and A. G. Gerli, “Can artificial intelligence help for
+scientific writing?,” Crit Care, vol. 27, no. 1, Dec. 2023, doi: 10.1186/s13054-02304380-2
+A. K. Kar, S. K. Choudhary, and V. K. Singh, “How can artificial intelligence impact
+sustainability: A systematic literature review,” J Clean Prod, vol. 376, p. 134120,
+2022, doi: https://doi.org/10.1016/j.jclepro.2022.134120
+
+[8]
+
+J. P. Boada, B. R. Maestre, and C. T. Genís, “The ethical issues of social assistive
+robotics: A critical literature review,” Technol Soc, vol. 67, Nov. 2021, doi:
+10.1016/j.techsoc.2021.101726
+[9] V. Galaz et al., “Artificial intelligence, systemic risks, and sustainability,” Technol
+Soc, vol. 67, Nov. 2021, doi: 10.1016/j.techsoc.2021.101741
+[10] M. R. Wayahdi and F. Ruziq, “KNN and XGBoost Algorithms for Lung Cancer
+Prediction,” Journal of Science Technology (JoSTec), vol. 4, no. 1, pp. 179–186,
+Dec. 2022, doi: 10.55299/jostec.v4i1.251
+[11] M. R. Wayahdi, S. H. N. Ginting, and D. Syahputra, “Greedy, A-Star, and Dijkstra’s
+Algorithms in Finding Shortest Path,” International Journal of Advances in Data
+and Information Systems, vol. 2, no. 1, pp. 45–52, Feb. 2021, doi:
+10.25008/ijadis.v2i1.1206
+[12] M. R. Wayahdi, D. Syahputra, and S. H. N. Ginting, “ EVALUATION OF THE KNEAREST NEIGHBOR MODEL WITH K-FOLD CROSS VALIDATION ON
+IMAGE CLASSIFICATION”, [Online]. Available: http://infor.seaninstitute.org/
+index.php/infokum/index
+[13] M. R. Wayahdi, M. Zarlis, and P. H. Putra, “Initialization of the Nguyen-widrow
+and Kohonen Algorithm on the Backpropagation Method in the Classifying Process
+of Temperature Data in Medan,” in Journal of Physics: Conference Series, Institute
+of Physics Publishing, Jul. 2019. doi: 10.1088/1742-6596/1235/1/012031
+[14] M. K. M. Nasution, “Pengantar ke Filsafat Ilmu - Sains Komputer,” 2023.
+10.13140/RG.2.2.17498.72648
+[15] D. F. A. Husaeni and M. Munir, “Literature Review and Bibliometric Mapping
+Analysis: Philosophy of Science and Technology Education,” Indonesian Journal
+of Multidisciplinary Research 3(2) (2023) 219-234.
+[16] B. Toole, “Recent Work in Standpoint Epistemology,” Analysis, Volume 81, Issue
+2, April 2021, Pages 338–350, https://doi.org/10.1093/analys/anab026
+[17] F. Russo, E. Schliesser, and J. Wagemans, “Connecting ethics and epistemology of
+AI,” AI & SOCIETY (2024) 39:1585–1603, https://doi.org/10.1007/s00146-02201617-6
+[18] C. Adams, P. Pente, G. Lemermeyer, and G. Rockwell, “Ethical principles for
+artificial intelligence in K-12 education,” Computers and Education: Artificial
+Intelligence 4 (2023) 100131
+[19] C. Kooli, “Chatbots in Education and Research: A Critical Examination of Ethical
+Implications and Solutions,” Sustainability 2023, 15, 5614. https://doi.org/10.3390/
+su15075614
+
+

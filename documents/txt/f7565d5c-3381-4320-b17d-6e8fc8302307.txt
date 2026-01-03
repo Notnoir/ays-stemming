@@ -1,0 +1,1265 @@
+H
+ 
+A
+I
+N
+R
+D
+U
+A
+W
+Y
+ 
+A
+T
+N
+U
+I
+T
+A
+T
+E
+M
+ 
+M
+K
+A
+T
+T
+P
+I
+K
+P
+A
+P
+P
+Y
+A
+O
+T
+G
+R
+Y
+A
+A
+K
+DIKLAT GURU PENGEMBANG MATEMATIKA SMK 
+JENJANG LANJUT TAHUN 2009
+Quality System
+Quality
+Endorsed
+Company
+ISO 9001: 2000
+ Lic no:QEC 23961
+SAI Global
+TM
+Oleh: FADJAR SHADIQ, M.App.Sc.
+DEPARTEMEN PENDIDIKAN NASIONAL
+DIREKTORAT JENDERAL PENINGKATAN MUTU PENDIDIK DAN TENAGA KEPENDIDIKAN
+PUSAT PENGEMBANGAN DAN PEMBERDAYAAN PENDIDIK 
+DAN TENAGA KEPENDIDIKAN MATEMATIKA
+2009
+PENELITIAN TINDAKAN KELAS
+KATA PENGANTAR 
+ 
+ 
+Puji syukur kami panjatkan ke hadirat Tuhan Yang Maha Esa, karena atas 
+karunia-Nya, bahan ajar ini dapat diselesaikan dengan baik. Bahan ajar ini 
+digunakan pada Diklat Guru Pengembang Matematika SMK Jenjang Lanjut 
+Tahun 2009, pola 120 jam yang diselenggarakan oleh PPPPTK Matematika 
+Yogyakarta. 
+ 
+Bahan ajar ini diharapkan dapat menjadi salah satu rujukan dalam usaha 
+peningkatan mutu pengelolaan pembelajaran matematika di sekolah serta dapat 
+dipelajari secara mandiri oleh peserta diklat di dalam maupun di luar kegiatan 
+diklat. 
+ 
+Diharapkan dengan mempelajari bahan ajar ini, peserta diklat dapat menambah 
+wawasan dan pengetahuan sehingga dapat mengadakan refleksi sejauh mana 
+pemahaman terhadap mata diklat yang sedang/telah diikuti.  
+ 
+Kami mengucapkan terima kasih kepada berbagai pihak yang telah 
+berpartisipasi dalam proses penyusunan bahan ajar ini. Kepada para pemerhati 
+dan pelaku pendidikan, kami berharap bahan ajar ini dapat dimanfaatkan dengan 
+baik guna peningkatan mutu pembelajaran matematika di negeri ini.  
+ 
+Demi perbaikan bahan ajar ini, kami mengharapkan adanya saran untuk 
+penyempurnaan bahan ajar ini di masa yang akan datang. Saran dapat 
+disampaikan kepada kami di PPPPTK Matematika dengan alamat: Jl. Kaliurang 
+KM. 6, Sambisari, Condongcatur, Depok, Sleman, DIY, Kotak Pos 31 YK-BS 
+Yogyakarta 55281. Telepon (0274) 881717, 885725, Fax. (0274) 885752. email: 
+p4tkmatematika@yahoo.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Kepala, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Kasman Sulyono 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NIP. 130352806 
+ 
+ 
+ii
+DAFTAR ISI 
+ 
+PENGANTAR-------------------------------------------------------------------------------i 
+DAFTAR ISI -------------------------------------------------------------------------------ii 
+PETA KOMPETENSI ------------------------------------------------------------------- iii 
+INFORMASI ------------------------------------------------------------------------------ iv  
+BAB I 
+PENDAHULUAN --------------------------------------------------------1 
+A. Latar Belakang ------------------------------------------------------1 
+B. Tujuan Penulisan ---------------------------------------------------2 
+C. Ruang Lingkup ------------------------------------------------------3 
+BAB II 
+ PENELITIAN TINDAKAN KELAS-----------------------------------5 
+A. Beberapa Pengertian ----------------------------------------------5 
+B. Kriteria Perencanaan Penelitian Tindakan -------------------6 
+C. Dimensi dan Ruang Lingkup Penelitian Tindakan----------7 
+D. Karakteristik Penelitian Tindakan-------------------------------8 
+BAB III 
+TAHAPAN PELAKSANAAN TINDAKAN KELAS--------------10 
+A. Tahap Perencanaan---------------------------------------------11 
+B. Tahap Pelaksanaan ---------------------------------------------12 
+C. Tahap Monitoring-------------------------------------------------12 
+D. Tahap Refleksi ----------------------------------------------------13 
+BAB IV 
+FORMAT USULAN PENELITIAN TINDAKAN -----------------14 
+A. Halaman Judul ----------------------------------------------------14 
+B. Isi Usulan Penelitian ---------------------------------------------14 
+BAB V 
+FORMAT LAPORAN PENELITIAN TINDAKAN---------------17 
+BAB VI 
+PENUTUP --------------------------------------------------------------18 
+DAFTAR PUSTAKA--------------------------------------------------------------------19 
+ 
+iii
+KOMPETENSI 
+Menguasai karakteristik penelitian tindakan kelas dan dapat menyusun tema 
+proposal penelitian tindakan kelas 
+ 
+SUB KOMPETENSI 
+ Menjelaskan pengertian penelitian tindakan kelas.  
+ Menjelaskan karakteristik penelitian tindakan kelas. 
+ Dapat menyusun tema proposal penelitian tindakan kelas berdasar 
+kebutuhan lapangan dan pengalaman mengajar di lapangan. 
+ 
+PETA BAHAN AJAR 
+ 
+Mata diklat untuk jenjang dasar ini tidak membutuhkan pengetahuan prasyarat, 
+sehingga dapat berdiri sendiri. Pada diklat jenjang dasar ini kepada para 
+peserta hanya diberikan pengetahuan yang berkait dengan pengertian 
+Penelitian Tindakan atau PTK, karakteristiknya, serta pentahapan kegiatannya,  
+Selanjutnya, berdasar pengetahuan dan pengalaman di lapangan; para peserta 
+diklat diminta membahas masalah pembelajaran matematika di kelas dan 
+berdiskusi 
+tentang 
+alternatif 
+pemecahannya, 
+terutama 
+pemecahan 
+menggunakan PT. 
+Kompetensi yang didapat dapat digunakan untuk mempelajari mata diklat 
+berikutnya, yaitu Penelitian Tindakan Kelas (Lanjutan), sehingga para peserta 
+diklat pada jenjang tersebut sudah dapat menyusun proposal penelitiannya 
+sendiri.  
+Pada diklat tahap lanjut dan menengah, kepada para peserta diharapkan sudah 
+lebih mampu menyusun contoh-contoh pembelajaran yang lebih menekankan 
+pada pecapaian kemampuan bernalar, berkomunikasi, memecahkan masalah 
+ini. 
+ 
+iv
+SKENARIO DIKLAT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pendahuluan (5’) 
+ Tujuan 
+ Ruang Lingkup 
+ Langkah-langkah 
+Penyampaian Mtr (20’) 
+ 
+Diskusi: 
+ 
+ Pengertian PT/PTK 
+ Karakteristik PT/PTK 
+ Pentahapan kegiatan PT/PTK 
+Penugasan 
+ 
+Mendiskusikan: 
+ Strategi yang dapat meningkatkan 
+penalaran, pemecahan masalah, 
+dan komunikasi 
+ Cara menilai penalaran, 
+pemecahan masalah, dan 
+komunikasi 
+Penugasan (55’) 
+ 
+Mendiskusikan: 
+ Permasalahan pendidikan 
+matematika 
+ Membahas pemecahannya dengan 
+PT/PTK 
+ Menentukan judul penelitian 
+Laporan (50’) 
+ Hasil diskusi 
+ Masalah  
+ 
+Penutup (5’) 
+ Rangkuman 
+ Refleksi 
+ Tugas 
+ 
+1
+BAB  I 
+PENDAHULUAN 
+ 
+A. Latar Belakang 
+Peran utama guru dalam mempersiapkan peserta didik agar dapat hidup dan 
+menghidupkan masyarakat adalah sangat besar, termasuk di dalamnya tugas dan 
+tanggung jawab dalam kegiatan menyampaikan nilai, sikap dan pengetahuan, serta 
+keterampilan untuk hidup. Untuk dapat melaksanakan tugas dan tanggung jawab tersebut, 
+Pasal 1 Peraturan Menteri Pendidikan Nasional (Permendiknas) Republik Indonesia 
+Nomor 16  Tahun 2007 tentang Standar Kualifikasi Akademik Dan Kompetensi Guru 
+(Depdiknas, 2007) menyatakan bahwa setiap guru wajib memenuhi standar kualifikasi 
+akademik  dan kompetensi guru yang berlaku secara nasional. Standar   kompetensi   
+guru   ini   dikembangkan   secara   utuh   dari   empat kompetensi  utama,  yaitu  
+kompetensi  pedagogik,  kepribadian,  sosial,  dan profesional. Keempat kompetensi 
+tersebut akan terintegrasi dalam kinerja guru. Kompetensi Inti Guru nomor 19 yang 
+berkait dengan kompetensi sosial adalah: “Berkomunikasi dengan komunitas profesi 
+sendiri dan profesi lain secara lisan dan tulisan atau bentuk lain.” Kompetensi Inti Guru 
+nomor 19 tadi dijabarkan dalam Kompetensi Guru Mata Pelajaran berikut: 
+19.1.  Berkomunikasi dengan teman sejawat, profesi ilmiah, dan komunitas ilmiah 
+lainnya melalui berbagai media dalam rangka meningkatkan kualitas 
+pembelajaran. 
+19.2 
+Mengkomunikasikan hasil-hasil inovasi pembelajaran kepada komunitas profesi 
+sendiri secara lisan dan tulisan maupun bentuk lain.  
+Kompetensi di atas ada kaitannya dengan tugas dan tanggung jawab guru yang 
+memiliki multi fungsi, yaitu manager, pengambil keputusan, pelaksana keputusan, 
+pengguna ilmu pengetahuan dan teknologi, pengembang materi pelajaran dan model bagi 
+anak didiknya. Meskipun demikian, tugas yang sangat penting tersebut sangatlah tidak 
+ringan, mengingat karakteristik kerja guru yang antara lain: 
+a. Kerja individual dan kolaboratif 
+b. Kerja di tempat yang terisolir 
+c. Kontak akademis dengan teman sejawat (guru) sangat terbatas. 
+ 
+2
+Selama di kelas, setiap guru, siapapun dia akan selalu dihadapkan dengan seribu 
+satu masalah pendidikan yang proses pemecahannya dapat dianalogikan dengan proses 
+penyembuhan suatu penyakit oleh seorang dokter. Masalah adalah suatu keadaan di mana 
+terjadi kesenjangan (gap) antara yang diharapkan (diinginkan) dengan keadaan yang 
+sesungguhnya (kenyataannya). Beberapa contoh masalah pendidikan di antaranya: 
+• 
+Tidak seperti biasanya, tiba-tiba saja Ani dan Bani, dua oarng siswa SD kurang 
+bergairah ketika mengikuti proses pembelajaran di kelas. 
+• 
+Catur, siswa SMP selalu bersikap masa bodoh selama proses pembelajaran. 
+• 
+Dani, siswa SMA selalu bolos pada jam-jam terakhir. 
+• 
+Lebih dari 30 % siswa SD ‘Adidaya’ selalu terlambat masuk sekolah. 
+• 
+Hampir 56 % siswa kelas 3 SMP ‘Adikencana’ tidak menyukai matematika. 
+• 
+Lebih dari separuh siswa kelas VI SMA ‘Adiputera’ tidak dapat menentukan hasil 
+penjumlahan seperti 2/5 + 1/4 dengan benar. 
+• 
+Hasil UN mapel Matematika siswa SMK di Propinsi X rata-ratanya hanya 2,79. 
+Pada dasarnya, setiap guru maupun orang tua mengharapkan setiap siswa dan 
+putera-puterinya tidak mengalami hal-hal seperti yang dipaparkan di atas tadi. Kata 
+lainnya, setiap masalah harus dipecahkan sebagaimana setiap penyakit harus 
+disembuhkan. Suatu masalah disebut sudah dapat dipecahkan jika sudah tidak ada lagi 
+kesenjangan (gap) antara yang diidamkan dengan kenyataan yang ada. Intinya, harus ada 
+upaya untuk mempersempit atau menghilangkan sama sekali kesenjangan (gap) yang ada 
+tersebut.  
+ 
+B. Tujuan Penulisan  
+Sebagaimana dinyatakan di atas, proses pemecahan masalah pendidikan dapat 
+dianalogikan dengan proses penyembuhan suatu penyakit oleh seorang dokter. Untuk 
+menyembuhkan suatu penyakit yang diderita pasiennya, seorang dokter akan 
+mendiagnosis atau menetapkan penyakitnya sebelum memberi obat. Haruslah disadari, 
+gejala-gejala penyakit malaria bagi orang awam tidak terlalu berbeda jauh dari gejala-
+gejala penyakit thypus, namun perlakuan (treatment) dalam proses penyembuhan 
+penyakit thypus akan berbeda dengan perlakuan dalam proses penyembuhan penyakit 
+malaria. Oleh sebab itu, akan merupakan suatu tindakan yang sia-sia untuk memberi obat 
+ 
+3
+malaria pada orang yang sakit thypus. Di samping itu, proses penyembuhan suatu 
+penyakit dapat terjadi beberapa kali. Hal ini dapat terjadi jika gejala-gejala penyakitnya 
+belum terekam dengan sempurna sehingga diagnosis atau penentuan penyakitnya menjadi 
+keliru. 
+Dapatlah disimpulkan sekarang bahwa proses pemecahan masalah pendidikan 
+akan sangat bergantung kepada kerja keras dan keuletan para praktisi dan pakar 
+pendidikan di dalam menentukan penyebab munculnya suatu masalah dan di dalam 
+menentukan program pemecahannya. Namun satu hal yang perlu diperhatikan adalah, 
+selama penyebab penyakitnya atau akar permasalahan pendidikannya belum ditemukan 
+dengan tepat, selama itu pula tindakan pemecahan atau penyembuhannya dapat 
+dikategorikan sebagai tindakan coba-coba (trial dan error) dan sangat kecil 
+kemungkinannya untuk berhasil. Kalaupun berhasil, hal itu dapat terjadi secara kebetulan 
+saja. 
+Berkait dengan pemecahan masalah pendidikan matematika di kelas, penelitian 
+kuantitatif telah dinyatakan gagal dalam menjawab persoalan praktis yang dihadapi guru. 
+Alasannya, 
+penelitian 
+kuantitatif 
+lebih 
+cenderung 
+untuk 
+menemukan 
+dan 
+memformulasikan kaidah-kaidah umum. Karenanya, para pendidik lebih memilih 
+pendekatan kualitatif (penelitian tindakan) dengan alasan utama bahwa pada penelitian 
+tindakan terdapat suatu respon (tindakan atau action) dalam situasi alami (langsung di 
+kelas) untuk memecahkan permasalahan ataupun untuk meningkatkan kualitas praktek. 
+Dengan demikian, penelitian tindakan merupakan penggabungan antara teori dan praktek 
+menjadi satu kesatuan dengan guru sebagai praktisi dan sekaligus sebagai peneliti, 
+meneliti dan sekaligus memecahkan masalah yang berkait lansung dengan tugasnya. 
+ 
+C. Ruang Lingkup. 
+Beberapa contoh masalah pendidikan di atas menunjukkan bahwa ada masalah 
+yang sangat sederhana namun tidak sedikit juga masalah yang sulit, pelik dan rumit. Di 
+samping itu, dengan mengingat karakteristik kerja guru sebagaimana dinyatakan di atas, 
+guru praktis tidak pernah mendapatkan umpan balik yang memberikan gambaran sejauh 
+mana tugas dan tanggung jawab sebagai guru tersebut telah dilaksanakan dengan baik. 
+ 
+4
+Dengan demikian jelaslah bahwa dalam memenuhi tugas dan kewajibannya, guru 
+menghadapi berbagai permasalahan, yang antara lain dapat dikategorikan sebagai: 
+a. permasalahan dalam proses belajar mengajar 
+b. permasalahan dalam kaitan interaksi guru – siswa 
+c. permasalahan dalam pemanfaatan waktu 
+d. permasalahan yang berkait dengan motivasi siswa 
+e. permasalahan yang berkait dengan relevansi materi pelajaran 
+f. permasalahan yang berkait dengan penguasaan bahan ajar 
+g. permasalahan yang berkait dengan ketepatan metode pembelajaran yang dipilih 
+dengan materi pembelajaran. 
+Bertitik tolak dari tugas dan fungsi seorang guru, karakteristik kerja guru serta 
+keharusan untuk memecahkan masalah yang ada, maka guru dituntut juga untuk memiliki 
+fungsi sebagai peneliti, agar guru memiliki pemahaman dan penguasaan permasalahan 
+yang dihadapinya dan dapat meningkatkan pelaksanaan tugasnya dengan lebih efektif dan 
+efisien. Untuk itu, penelitian tindakan merupakan alternatif yang dapat digunakan oleh 
+guru untuk mencari solusi atau pemecahan permasalahan yang dihadapi dan untuk 
+meningkatkan kinerjanya agar tugas dan kewajibannya dapat ditunaikan dengan baik. 
+Sebagai tambahan, petunjuk teknis ketentuan pelaksanaan jabatan fungsional 
+guru dan angka kreditnya menyatakan bahwa Guru Pembina sampai dengan Guru Utama 
+diwajibkan pula untuk mengumpulkan angka kredit dari unsur pengembangan profesi 
+sekurang-kurangnya 12 angka kredit pada setiap jenjang jabatan. Salah satu bagian 
+pengembangan profesi yang paling besar angka kreditnya adalah melaksanakan 
+penelitian, pengkajian, survei dan atau evaluasi di bidang pendidikan yang 
+dipublikasikan. Akhir-akhir ini muncul istilah “guru sebagai peneliti” di mana seorang 
+guru melakukan Penelitian Tindakan atau Penelitian Tindakan Kelas (PTK). Penelitian 
+ini pada dasarnya merupakan suatu kegiatan yang sistematis yang dilakukan guru untuk 
+memecahkan masalah nyata yang dihadapinya, sehingga temuan-temuan selama 
+penelitian ini dilaksanakan akan dapat digunakan guru lain jika guru tersebut menghadapi 
+masalah yang sama. Pada akhirnya, makalah ini diharapkan para penulisnya, sedikit 
+banyak akan ikut berperan dalam proses pemecahan masalah pendidikan di Indonesia. 
+ 
+5
+BAB II 
+PENELITIAN TINDAKAN 
+ 
+Pencetus Penelitian Tindakan (PT) atau Penelitian Tindakan Kelas (PTK) adalah Kurt Lewin 
+(1940), seorang psikolog dari Amerika Serikat yang berhasil memadukan antara eksperimen 
+dengan program tindakan di bidang sosial dengan fokus pada pemecahan masalah praktis oleh 
+para pelaksananya sendiri. Penelitian tindakan cocok digunakan di dunia pendidikan, paling 
+tidak dengan tiga alasan berikut: 
+¾ Memacu terjadinya perubahan ke arah perbaikan 
+¾ Pusat perhatiannya adalah pemecahan masalah praktis yang langsung berkait dengan 
+masalah pendidikan di kelas 
+¾ Memacu terjadinya kolaborasi. 
+Pada tahun 1970-an dilakukan pengembangan dan penyempurnaan penelitian tindakan dengan 
+langkah-langkah:  
+¾ melibatkan konsultan,  
+¾ pembenahan metodologi 
+¾ hasil penelitian konvensional tidak praktis dan tidak realistis karena teori dan praktek 
+merupakan dua dunia yang berbeda. 
+ 
+A. Beberapa Pengertian 
+1. Penelitian Tindakan adalah penelitian tentang, untuk dan oleh atau melalui 
+masyarakat/kelompok sasaran, dengan memanfaatkan interaksi, partisipasi dan 
+kolaborasi antara peneliti dengan kelompok sasaran. 
+2.  Penelitian Tindakan adalah salah satu strategi pemecahan masalah yang memanfaatkan 
+tindakan nyata dan proses pengembangan kemampuan dalam mendeteksi dan 
+memecahkan masalah. Dalam prosesnya, pihak-pihak yang terlibat saling mendukung 
+satu sama lain, dilengkapi dengan fakta-fakta dan pengembangan kemampuan analisis. 
+3. Dalam praktiknya, penelitian tindakan menggabungkan tindakan substantif dengan 
+prosedur penelitian, suatu upaya memecahkan masalah sekaligus dicarikan justifikasi 
+ilmiahnya. Pihak yang terlibat (guru, instruktur, kepala sekolah, warga masyarakat) 
+mencoba dengan sadar merumuskan suatu tindakan yang diharapkan dapat 
+ 
+6
+memecahkan masalah atau memperbaiki situasi, dan kemudian secara cermat 
+mengamati pelaksanaannya untuk memahami letak keberhasilan dan kegagalannya. 
+Berdasar beberapa pengertian di atas, beberapa ciri penelitian tindakan adalah: 
+• On the job problem-oriented yang menunjukkan bahwa penelitian ini berkait langsung 
+dengan tugas nyata para guru di lapangan yang menjadi kewenangan dan tanggung 
+jawabnya. Perlu disadari bahwa yang paling tahu tentang masalah pendidikan di 
+sekolah adalah para guru sendiri dan bukannya orang dari luar. Jika ada dosen atau ahli 
+pendidikan yang melakukan riset di sekolah maka belum tentu ia akan mengetahui dan 
+menguasai masalah-masalah yang ada di sekolah.  
+• 
+Problem-solving oriented yang menunjukkan bahwa penelitian ini lebih menekankan 
+pada pemecahan masalah pendidikan di lapangan. Contoh suatu judul yang tidak 
+berorientasi pada pemecahan masalah adalah : ‘Kendala Pembelajaran Dimensi Tiga di 
+SMU Kelas III.’ Penelitian tindakan yang diharapkan adalah tidak hanya sampai pada 
+tahap mengetahui dan memahami kendala-kendala yang ada di lapangan namun yang 
+lebih penting adalah bagaimana memberdayakan para guru agar dapat memecahkan 
+masalah pembelajaran tentang Dimensi Tiga di kelasnya. 
+• 
+Improvement Oriented yang menunjukkan bahwa penelitian ini lebih berorientasi pada 
+peningkatan kualitas setiap komponen yang dapat meningkatkan proses pembelajaran 
+di kelas, seperti : guru, siswa, sarana-prasarana, lingkungan. 
+• 
+Multiple data collection yang menunjukkan bahwa penelitian ini menggunakan 
+berbagai cara pengumpulan data agar didapat hasil yang lebih valid. 
+• 
+Cyclic yang menunjukkan bahwa suatu perlakuan (tindakan) yang sudah diprogramkan 
+dan sudah dilaksanakan namun masih tidak atau kurang berhasil memecahkan 
+masalahnya, haruslah diikuti dengan siklus-siklus berikutnya. 
+• 
+Partisipatory (Collaborative)  yang menunjukkan menunjukkan bahwa seorang guru 
+dapat bekerja dengan teman gurunya, ahli pendidikan, instruktur, guru inti, guru 
+pemandu dan bahkan dengan dosen Perguruan Tinggi. 
+ 
+ 
+ 
+7
+B.  Kriteria Perencanaan Penelitian Tindakan 
+1. Tindakan dan pengamatan/penelitian yang dilakukan tidak boleh mengganggu atau 
+menghambat kegiatan utama; misalnya untuk guru tidak boleh sampai mengorbankan 
+kegiatan atau proses belajar mengajar. 
+2. Metode atau teknik yang digunakan tidak boleh terlalu menuntut baik dari segi 
+kemampuan atau waktu. 
+3. Metodologi yang digunakan harus handal, sehinga tindakan dapat dirumuskan dalam 
+hipotesis tindakan yang dapat diuji di lapangan. 
+4. Permasalahan yang akan dipecahkan haruslah suatu topik yang benar-benar menerik. 
+Peneliti merasa terpanggil, merasa mampu menangani, dan berada dalam jangkauan 
+kewenangannya untuk melakukan perubahan.Peneliti harus tetep memperhatikan kode 
+etik penelitian serta rambu-rambu pelaksanaan yang berlaku umum. 
+5. Kegiatan penelitian tindakan pada dasarnya harus merupakan gerakan yang 
+berkelanjutan (on-going), karena ruang lingkup peningkatan dan pengembangan 
+memang menjadai tantangan sepanjang masa. 
+C. Dimensi dan Ruang Lingkup Penelitian Tindakan 
+Penelitian tindakan dapat dilaksanakan dalam: 
+1. Skala makro (nasional), misalnya dalam dalam rangka memobilisasi keterlibatan dunia 
+usaha dalam pembelajaran pendidikan, menggalakkan penulisan karya ilmiah 
+penelitian untuk guru-guru. 
+2. Level sekolah atau lembaga, misalnya dalam rangka mengurangi kasus “school 
+vandalism”, 
+mengusahakan 
+unit 
+produksi 
+sekolah 
+di 
+samping 
+menunjang 
+pembelajaran, meningkatkan kepedulian dunia usaha di lingkungan sekolah dalam 
+kegiatan PKL siswa SMK. 
+3. Level kelas: penelitian tindakan untuk guru, misalnya: 
+• meningkatkan keterlibatan siswa dalam bertanya 
+• mengatasai kesulitan belajar sekelompok siswa 
+• menambah jam belajar di perpustakaan 
+ 
+8
+• menambah penghayatan siswa terhadap penerapan matematika dalam kehidupan 
+sehari-hari 
+Dalam setiap tindakan pemecahan masalah atau perbaikan situasi, harus dirumuskan dulu 
+sasaran, tindakan, tolok ukur dan pengamatan atau pengumpulan datanya. Khusus untuk 
+Penelitian Tindakan Kelas (Classroom Action Research, CAR) akhir-akhir ini mendapat 
+penekanan dalam berbagai pelatihan/penataran karena kelas adalah unit terkecil sistem 
+pembelajaran, sehingga guru perlu mendalami apa yang sebenarnya terjadi, bagaimana 
+proses belajar berlangsung, bagaimana mengubah dan meningkatkan efektivitas dan 
+efisiensinya. 
+Penelitian tindakan di sekolah dapat saja diarahkan pada program yang menyangkut aspek 
+pengembangan kurikulum, pembinaan staf, pembinaan siswa, peningkatan efisiensi 
+penggunaan sarana prasarana, dan peningkatan intensitas hubungan sekolah dengan orang 
+tua dan masyarakat untuk menunjang pembelajaran siswa. 
+ 
+D. Karakteristik Penelitian Tindakan 
+ 
+ 
+PERUMUSAN 
+MASALAH 
+METODOLOGI 
+PENELITIAN 
+HASIL 
+PENELITIAN 
+RISET 
+AKADEMIS 
+• 
+Berdasarkan minat 
+dan disiplin 
+keahlian peneliti 
+ 
+ 
+ 
+ 
+ 
+• 
+Dirumuskan oleh 
+peneliti secara 
+profesional 
+• 
+Desain 
+eksperimen, 
+survey, 
+instrumentasi, 
+analisis dan uji 
+hipotesis dengan 
+statistik 
+ 
+• 
+Dilaksanakan 
+oleh peneliti 
+profesional 
+• 
+Memenuhi 
+syarat 
+akademik, gelar, 
+publikasi, 
+seminar 
+ 
+ 
+ 
+• 
+Disusun oleh 
+peneliti 
+profesional 
+ 
+9
+ 
+PERUMUSAN 
+MASALAH 
+METODOLOGI 
+PENELITIAN 
+HASIL 
+PENELITIAN 
+RISET 
+KEBIJAKAN 
+♦ Berdasarkan 
+kebutuh-an client/ 
+pemesan 
+ 
+ 
+ 
+ 
+♦ Diminta/dirumuska
+n oleh client sesuai 
+de-ngan konteks 
+tertentu 
+♦ Desain riset kuasi 
+eksperimen, 
+survey di 
+lapangan, 
+instrumentasi, 
+analisis statistik 
+ 
+♦ Dilaksanakan oleh 
+peneliti 
+profesional 
+♦ Laporan dan 
+reko-mendasi 
+kebijakan untuk 
+client 
+ 
+ 
+ 
+♦ Dibuat 
+oleh/untuk 
+client/pemesan 
+RISET 
+TINDAKAN 
+¾ Berdasarkan sifat 
+urgensi di 
+lapangan yang 
+perlu segera diatasi
+ 
+ 
+ 
+ 
+ 
+¾ Dirumuskan 
+bersama peneliti 
+dan client secara 
+kolaboratif 
+¾ Desain terbuka, 
+keabsahan 
+didasarkan 
+konsensus, 
+instrumen praktis 
+operasional, 
+analisis 
+berkelanjutan 
+ 
+¾ Dilaksanakan 
+dengan kerjasama 
+sasaran dan peneliti
+¾ Perubahan 
+situasi atau 
+pemecahan 
+masalah 
+mendesak 
+ 
+ 
+ 
+ 
+¾ Partisipasi 
+kreatif sasaran 
+dalam proses 
+perubahan 
+ 
+¾ Kolaborasi 
+antara 
+pelaku/sasaran 
+dengan peneliti 
+ 
+ 
+10
+BAB III 
+TAHAPAN PELAKSANAAN PENELITIAN TINDAKAN  
+ 
+Ada beberapa model atau desain penelitian tindakan (action research), di 
+antaranya adalah model yang dikembangkan oleh: Kurt Lewin, Kemmis & Mc Taggart, 
+John Elliott. Dari beberapa macam model tersebut, model yang dikembangkan oleh Kurt 
+Lewin dapat dijadikan acuan karena dialah yang mengembangkan penelitian model ini 
+untuk pertama kalinya. Model ini terdiri atas empat komponen atau tahapan, yaitu: 
+I. 
+Planning (perencanaan) 
+II. 
+Acting (tindakan, pelaksanaan atau perlakuan) 
+III. 
+Observing (pengamatan, monitoring atau observasi) 
+IV. Reflecting (refleksi) 
+Pada model yang dikemukakan Kemmis dan Mc Taggart, tahapan II dan III digabung. 
+Keempat tahapan tersebut secara keseluruhan disebut satu siklus atau satu putaran 
+kegiatan dan dapat digambarkan dengan diagram berikut ini: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sebelum melakukan penelitian tindakan, Bapak atau Ibu Guru disarankan untuk 
+melakukan tahap refleksi awal yang merupakan kegiatan penjajagan atau studi 
+pendahuluan, dengan maksud untuk mengumpulkan informasi dan data awal tentang 
+situasi yang akan dijadikan sebagai tema penelitiaan tindakannya. Kegiatan yang dapat 
+dilakukan pada tahap refleksi awal ini adalah mengumpulkan informasi, melakukan 
+refleksi (merenungkan, menganaslisis, mensintesis, dan mengevaluasi) terhadap 
+informasi yang didapat, serta menarik kesimpulan berupa permasalahan yang akan 
+diteliti.  
+I. Perencanaan 
+II. Pelaksanaan 
+III. Pengamatan 
+IV. Refleksi 
+ 
+11
+Sebagaimana dinyatakan di bagian depan, proses penyembuhan suatu penyakit 
+oleh seorang dokter dapat terjadi beberapa kali. Hal seperti ini dapat terjadi jika gejala-
+gejala penyakitnya belum terekam dengan sempurna sehingga diagnosis atau penentuan 
+penyakitnya menjadi keliru. Hal yang sama akan terjadi juga pada kegiatan penelitian 
+tindakan ini. Dengan perencanaan yang sudah matang, pelaksanaan yang sudah bagus, 
+pengamatan yang sudah menyeluruh dan terpadu, serta kegiatan refleksi yang bagus 
+namun dapat terjadi keempat kegiatan tersebut tidak atau belum berhasil memecahkan 
+masalah yang ada. Jika hal seperti itu terjadi maka dapatlah disimpulkan bahwa masih 
+ada yang salah pada satu dari empat tahap yang ada. Kata lainnya, masih diperlukan 
+siklus ke-dua untuk memecahkan masalah yang ada tadi.  
+Sekali lagi, yang perlu mendapatkan perhatian Bapak dan Ibu Guru adalah, 
+proses pemecahan masalah pendidikan sangat bergantung pada keberhasilan para praktisi 
+dan pakar pendidikan di dalam menentukan penyebab munculnya suatu masalah tadi. 
+Selama penyebab penyakitnya atau akar permasalahan pendidikannya belum ditemukan 
+dengan tepat, selama itu pula tindakan pemecahan atau penyembuhannya dapat 
+dikategorikan sebagai tindakan coba-coba (trial dan error) dan sangat kecil 
+kemungkinannya untuk berhasil. Kalaupun berhasil, hal itu dapat terjadi secara kebetulan 
+saja. Karenanya, jika hasil kegiatan pada siklus pertama sangat mengecewakan, data yang 
+ada yang berkait dengan siklus-siklus sebelumnya harus dipelajari secara sungguh-
+sungguh sehingga dapat ditentukan hal-hal yang ditengarai dapat menjadi penyebab 
+kekurang berhasilan tindakan (action) tersebut untuk dapat dijadikan sebagai bahan 
+masukan pada siklus atau putaran kegiatan berikutnya. Dengan demikian jelaslah bahwa 
+siklus atau putaran kegiatan penelitian tindakan ini dapat terjadi lebih dari satu kali.  
+Berikut ini akan dijelaskan setiap tahapan itu secara lebih terinci: 
+ 
+A. TAHAP PERENCANAAN 
+Pada tahap ini, peneliti menyusun rencana kegiatan yang akan dilakukannya dengan 
+lebih dahulu mengkaji secara sistematis masalah yang dihadapinya, termasuk mengkaji 
+penyebab timbulnya masalah tersebut sehingga dapat disusun suatu rencana kerja yang 
+matang. Tahap ini terdiri atas:  
+• Menemukan dan merumuskan masalah secara jelas dan spesifik. 
+ 
+12
+• Merumuskan hipotesis. Yang dimaksud dengan hipotesis di sini adalah langkah-
+langkah yang diduga dapat memecahkan masalah pendidikan. Hipotesis ini 
+disusun setelah lebih dahulu menentukan dugaan penyebab munculnya masalah. 
+• Menyusun rencana kerja yang terdiri atas: pokok-pokok tindakan yang akan 
+dilakukan, bagaimana melakukannya (urutannya, waktunya, materinya dan lain-
+lainnya), prosedur dan selama monitoring, cara pengumpulan data, bagaimana 
+kegiatan refleksi dan evaluasi harus dilaksanakan. 
+Jelas sekali bahwa tahap ini akan menjadi tahap yang akan sangat menentukan 
+berhasil tidaknya kegiatan penelitian tindakan ini. Karenanya, perencanaan yang 
+matang berdasar pengkajian yang menyeluruh dari masalah yang ada menjadi sangat 
+krusial. Sekali lagi, inilah yang membedakan kegiatan penelitian ini dengan kegiatan 
+coba-coba biasa. 
+ 
+B. TAHAP PELAKSANAAN. 
+Tahap ini sangat bergantung pada tahap perencanaan di atas. Namun selama 
+pelaksanaan kegiatan ini. Penyempurnaan maupun perubahan bisa saja dilakukan. Tahap 
+ini terdiri atas: 
+• Melaksanakan tindakan seperti yang direncanakan. 
+• Melakukan penyempurnan dan perubahan bila diperlukan, sesuai dengan kondisi 
+dan situasi yang nyata di lapangan. 
+ 
+C. TAHAP MONITORING 
+Tahap ini merupakan kegiatan untuk mengamati pelaksanaan dan hasil serta dampak 
+dari kegiatan penelitian ini. Kegiatan ini dapat dilakukan guru bersama teman sejawatnya 
+(kolaborator). Catatan dari tindakan serta dampak dari tindakan itu didapat, antara lain 
+dari: observasi/pengamatan, wawancara, kuesioner, tes, catatan guru, rekaman 
+audio/video, peta sosiometri, catatan dan pekerjaan siswa. Di saat mencatat atau 
+merekam kegiatan tindakan maupun dampaknya, peneliti maupun kolaboratornya harus 
+bersikap deskriptif dan netral. Artinya, ia hanya melakukan pencatatan atau perekaman 
+atas apa yang dilihat, didengar dan dirasakannya saja. 
+ 
+ 
+13
+D. TAHAP REFLEKSI. 
+Tahap ini merupakan tahap untuk menyimpulkan tentang hasil dan dampak dari 
+tindakan yang telah dilakukan. Tahap ini terdiri atas kegiatan: 
+• menganalisis  
+• mensintesis 
+• menginterpretasi 
+• menyimpulkan 
+ 
+Data hasil monitoring pada tahap ketiga di atas lalu disusun secara logis, terurut dan 
+teratur sehingga bermakna. Langkah berikutnya, fakta-fakta yang didapat dibandingkan 
+dan dikaitkan antara fakta yang satu dengan fakta lainnya. Selanjutnya disusun hubungan 
+sebab akibatnya antara tindakan yang sudah dilakukan dengan hasil atau dampaknya. Apa 
+yang dipaparkan di atas menunjukkan pentingnya melakukan pencatatan dan perekaman 
+yang lengkap selama proses pelaksanaan dan pengamatan. 
+Berikut ini adalah bagan tahap-tahap penelitian tindakan. 
+ 
+                                 TAHAP-TAHAP PENELITIAN 
+ 
+ 
+ 
+       Pra penelitian 
+Pelaksanaan penelitian  
+Penulisan laporan 
+       - observasi 
+- tahap sebelum 
+ 
+       - transkip hasil 
+  contoh 
+observasi  
+       - studi pustaka 
+analisis hasil observasi  
+       - proposal 
+wawancara 
+       - seminar 
+ 
+- tahap tindakan 
+perencanaan 
+ 
+ 
+pelaksanaan 
+ 
+ 
+pengamatan 
+ 
+ 
+refleksi 
+ 
+ 
+ 
+ 
+ 
+ 
+siklus-siklus 
+ 
+14
+BAB IV 
+FORMAT USULAN PENELITIAN TINDAKAN 
+ 
+Usulan penelitian tindakan kelas sangat bervariasi antara satu lembaga dengan lembaga 
+lainnya, antara satu pemberi dana dengan pemberi dan lainnya, antara satu pakar dengan 
+pakar lainnya. Salah satu alternatif format usulan tersebut adalah: 
+ 
+A. Halaman Judul 
+Berisi Judul penelitian yang diajukan, nama ketua tim dan lembaga asal ketua tim. 
+Halaman Pengesahan 
+Isinya: 
+a. 
+Judul dan Bidang Ilmu / Bidang Studi 
+b. Nama lengkap dan gelar Ketua Tim Peneliti, Golongan, Pangkat, NIP, dan 
+sekolah asal 
+c. 
+Lokasi Penelitian 
+d. Lama Penelitian 
+e. 
+Biaya penelitian yang diusulkan 
+f. 
+Sumber Dana 
+g. Tempat dan Tanggal Pembuatan Usulan 
+h. Tanda tangan ketua tim 
+i. 
+Menyetujui Kepala SMU/SLTP/SD 
+ 
+B. Isi Usulan Penelitian 
+Isinya: 
+1. Judul  
+Judul hendaknya mencerminkan: permasalahan, tindakan sebagai upaya 
+pemecahannya, kapan dan di mana dilaksanakan serta diformulasikan dengan 
+kalimat yang singkat, jelas, sederhana dan mudah dipahami. Judul penelitian: 
+¾ Memuat label dari substansi penelitian yang informatif dan lengkap. 
+¾ Mencerminkan secara tepat inti isi dalam penelitian 
+¾ Tidak terlalu panjang, dengan jumlah huruf antara 10 s.d. 20 kata 
+ 
+15
+2. Pendahuluan 
+a. Latar Belakang Masalah, berisi uraian mengenai fakta-fakta yang 
+mendukung yang berasal dari pengamatan guru, argumentasi teoritis 
+mengenai tindakan yang akan dilakukan, hasil penelitian terdahulu yang 
+mendukung, serta alasan pentingnya penelitian tindakan ini dilakukan. 
+b. Rumusan Masalah, berisi uraian mengenai kesenjangan (gap) antara yang 
+diinginkan dengan kenyataannya, rancangan tindakan pembelajaran yang 
+mempunyai landasan konseptual dan dinyatakan atau diformulasikan dalam 
+kalimat tanya. Merupakan upaya untuk menyatakan secara tersurat 
+pernyataan-pernyataan yang ingin dicarikan jawaban melalui PTK. 
+c. Tujuan Penelitian, berisi uraian mengenai tujuan yang ingin dicapai melalui 
+penelitian tindakan, dirumuskan secara objektif atau dapat dikuantifikasikan. 
+d. Manfaat Hasil Penelitian, berisi uraian tentang manfaat dari hasil penelitian 
+yang akan dilakukan untuk siswa, guru peneliti, guru pada umumnya, PPPG 
+ataupun LPTK. 
+ 
+3. Kerangka Teoritik dan Hipotesis Tindakan 
+¾ Kerangka teoritik atau kajian pustaka berisi kerangka teoritis mengenai 
+kajian teori yang relevan yang mendasari penelitian, sehingga dapat 
+diyakinkan bahwa dengan tindakan yang diusulkan akan terjadi perubahan, 
+perbaikan ataupun peningkatan pembelajaran. Berlandaskan pada ilmu 
+pengetahuan yang sudah ada, baik berdasarkan teori maupun hasil penelitian 
+yang lalu. Sedangkan pemilihan bahan pustaka yang akan dikaji didasarkan 
+pada prinsip kemutakhiran dan prinsip relevansi (keterakitan dengan tema 
+penelitian). 
+¾ Rencana langkah-langkah inilah yang kemudian disusun menjadi hipotesis 
+tindakan untuk memecahkan masalah yang ada. Pada umumnya memuat: 
+o Alternatif tindakan yang dipandang paling tepat untuk dilakukan dalam 
+rangka memecahkan masalah yang diteliti 
+o Dituangkan dalam bentuk pernyataan tentang tindakan yang akan 
+dilakukan 
+ 
+16
+o Dapat dimodifikasi atau diganti jika dalam proses pelaksanaan 
+penelitian ternyata tidak tepat. 
+ 
+4. Rancangan Penelitian 
+Berisi: 
+a. Setting dan subjek penelitian yang menguraikan tentang karakteristik lokasi 
+dan karakteristik subjek penelitian. 
+b. Rencana tindakan, meliputi: 
+• perencanaan berupa skenario tindakan pembelajaran, pengadaan alat dan 
+pelaksanaan tindakan, personel yang dilibatkan dan lain-lain. 
+• pelaksanaan tindakan yang berupa deskripsi tindakan yang akan 
+diterapkan, skenario kerja tindakan perbaikan serta prosedur tindakan. 
+• rencana perekaman atau pencatatan data, pengolahan, dan penafsiran 
+data. 
+• analisis dan refleksi, berupa prosedur analisis, refleksi berkenaan dengan 
+proses, dampak tindakan; kriteria dan rencana untuk siklus tindakan 
+berikutnya. 
+• cara pengumpulan dan format data seperti: kartu pengamatan, 
+pembuatan jurnal harian, pengamatan aktivitas di kelas, pengukuran 
+hasil belajar dan sebagainya. 
+5. Rencana Anggaran 
+Yang perlu diperhatikan adalah rambu-rambu pemberi dana (jika ada). Rencana 
+anggaran dapat meliputi: upah (honorarium), perjalanan, bahan dan alat habis 
+pakai, pengumpulan data, analisis data, penyusunan laporan, seminar dan 
+penggandaan. 
+6. Jadwal Penelitian. 
+Biasanya disusun dalam matriks kegiatan 
+7. Daftar Pustaka 
+8. Lampiran dan lain-lain. 
+ 
+ 
+17
+BAB V 
+FORMAT LAPORAN PENELITIAN TINDAKAN 
+ 
+Seperti halnya format usulan penelitian tindakan kelas yang tidak baku maka format dan 
+struktur laporan penelitian tindakan sangat bervariasi antara satu lembaga dengan 
+lembaga lainnya, antara satu pemberi dana dengan pemberi dan lainnya, antara satu pakar 
+dengan pakar lainnya. Yang paling penting, laporan yang akan disusun hendaknya 
+mendeskripsikan hal-hal berikut : 
+¾ rasional atau latar belakang penelitian beserta hipotesis atau argumentasi dari 
+perencanaan penelitian tersebut. 
+¾ perencanaan penelitian (action plan) 
+¾ pelaksanaan penelitian 
+¾ hasil penelitian (hasil monitoring) 
+¾ analisis, refleksi, kesimpulan dan rekomendasi.  
+Secara umum, laporan penelitian tindakan berisi hal-hal berikut : 
+Kata Pengantar 
+Daftar Isi 
+Daftar Gambar (grafik, tabel, dsb) 
+Abstrak (1 halaman, 1 spasi, maksimal 3 alinea yang berisi tujuan, metode dan hasil). 
+ 
+BAB1. PENDAHULUAN 
+A. Latar Belakang Masalah 
+• latar belakang munculnya masalah 
+• kesenjangan antara kondisi yang ada dan yang diharapkan 
+• pemilihan tindakan dan argumentasi teoritik 
+• pentingnya persoalan untuk diteliti 
+B. Rumusan Masalah 
+• pernyataan tentang masalah yang akan diteliti 
+C. Tujuan Penelitian 
+D. Manfaat penelitian (untuk guru, siswa, sekolah, PPPG, LPTK, dst). 
+ 
+ 
+ 
+18
+BAB II. KAJIAN PUSTAKA 
+A. Kajian Teoritik yang relevan 
+B. Hasil penelitian sebelumnya 
+C. Kerangka berpikir 
+D. Hipotesis Tindakan 
+ 
+BAB III. METODE PENELITIAN 
+A. Rancangan Penelitian (Model penelitian, setting penelitian, subjek 
+penelitian, jenis data dan cara pengumpulannya) 
+B. Prosedur Penelitian (Persiapan, pelaksanaan tindakan, pemantauan/ 
+observasi dan evaluasi, analisis hasil dan refleksi). 
+ 
+BAB IV. HASIL PENELITIAN DAN PEMBAHASAN 
+A. Hasil Penelitian (temuan-temuan, data, tabel dan grafik) 
+B. Pembahasan (pemaknaan hasil dengan mengaitkan antara temuan yang 
+satu dengan temuan yang lain). 
+C. Keterbatasan hasil-hasil penelitian 
+ 
+BAB V. SIMPULAN, IMPLIKASI DAN SARAN 
+A. Simpulan (pokok-pokok hasil penelitian yang menjawab persoalan yang 
+diteliti dan sesuai dengan tujuan penelitian).  
+B. Implikasi (tindakan yang dapat dilakukan berdasar hasil penelitian). 
+C. Saran (saran-saran berkait dengan hasil penelitian). 
+DAFTAR PUSTAKA 
+LAMPIRAN 
+• Instrumen penelitian 
+• Bukti seminar proposal dan hasil 
+• Data-data yang penting lainnya 
+• Daftar riwayat hidup peneliti 
+ 
+ 
+ 
+18
+BAB  VI 
+PENUTUP 
+ 
+Beberapa Kompetensi Guru Mata Pelajaran di antaranya adalah Kompetensi 
+Guru Nomor 19.1 yaitu: “Berkomunikasi dengan teman sejawat, profesi ilmiah, dan 
+komunitas ilmiah lainnya melalui berbagai media dalam rangka meningkatkan kualitas 
+pembelajaran,” dan Kompetensi Guru Nomor 19.2 yaitu: “Mengkomunikasikan hasil-
+hasil inovasi pembelajaran kepada komunitas profesi sendiri secara lisan dan tulisan 
+maupun bentuk lain.” Kedua kompetensi tersebut menuntut peran guru matematika untuk 
+melaksanakan kegiatan pengembangan profesi dalam rangka meningkatkan kualitas 
+pembelajaran. Selama diklat, di dalam kelompok-kelompok Bapak  dan Ibu dah berlatih 
+menyusun dan mendiskusikan proposalnya. Tentunya banyak pelajaran yang didapat, 
+baik hal-hal positif  yang dapat ditiru, maupun hal-hal negatif  yang tidak perlu ditiru. 
+Harapannya, para peserta diklat jenjang lanjut bagi para guru matematika SMK ini sudah 
+dapat menyusun PTK-nya sendiri di daerahnya masing-masing. Dengan melakukan PTK 
+yang inovatif, ilmiah, dan asli; diharapkan tingkat profesionalisme para guru matematika 
+SMK akan meningkat dan permasalahan pembelajaran Matematika sedikit demi sedikit 
+akan dapat diatasi. Saran terakhir, catatlah hal-hal menarik yang pernah Anda alami 
+selama proses pembelajaran. Rangkaikan satu dengan lainnya, sehingga menjadi satu 
+karya yang inovatif dan bermanfaat untuk para siswa kita.  
+ 
+ 
+ 
+19
+DAFTAR PUSTAKA 
+ 
+Depdiknas (2007). Permendiknas Nomor 16 Tahun 2007 tentang Standar Kualifikasi 
+Akademik Dan Kompetensi Guru. Jakarta: Depdiknas. 
+Krismanto, A (2000). Pengantar Ke Penelitian Tindakan. Yogyakarta: PPPG Matematika 
+McNiff, J. (1992). Action Research: Principles and Practice. London: Macmillan 
+Education Ltd. 
+McTaggart, R. (1991). Action Research, a short modern history. Geelong, Victoria: 
+University Press, Deakin University 
+Priyono, A. (2000). Action Research Sebagai Strategi Pengembangan Profesi Guru. 
+Semarang : Kanwil Depdikbud Propinsi NTT. 
+Sukamto (1998). Penelitian Tindakan (Action Research). Makalah Penataran untuk 
+Widyaiswara. Yogyakarta: PPPG Matematika. 
+Sukayati (2003). Penelitian Tindakan Kelas. Yogyakarta: PPPG Matematika. 
+Suwarsih Madya. (1994).  Panduan Penelitian Tindakan. Seri Metodologi Penelitian. 
+Yogyakarta: Lembaga Penelitian IKIP Yogyakarta. 
+Tim Pelatih Penelitian Tindakan UNY (2000). Penelitian Tindakan (Action Research). 
+Yogyakarta: Direktorat Dikmenum dan Lemlit UNY. 
+Zamroni (1997). Penelitian Aksi Bagi Guru. Jakarta : Dikmenum – Bagian Proyek 
+Peningkatan Mutu SMU.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20
+ 
+ 
+ 
+LAMPIRAN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TABEL PENETAPAN UKURAN SAMPEL MINIMUM 
+(d = 0,05 α =0,05) 
+N = ukuran populasi n = ukuran sampel 
+ 
+N 
+n 
+N
+n
+N 
+n
+10 
+10 
+220
+140
+1200 
+291
+15 
+14 
+230
+144
+1300 
+297
+20 
+19 
+240
+148
+1400 
+302
+25 
+24 
+250
+152
+1500 
+306
+30 
+28 
+260
+155
+1600 
+310
+35 
+32 
+270
+159
+1700 
+313
+40 
+36 
+280
+162
+1800 
+317
+45 
+40 
+290
+165
+1900 
+320
+50 
+44 
+300
+169
+2000 
+322
+55 
+48 
+320
+175
+2200 
+327
+60 
+52 
+340
+181
+2400 
+331
+65 
+56 
+360
+186
+2600 
+335
+70 
+59 
+380
+191
+2800 
+338
+75 
+63 
+400
+196
+3000 
+341
+80 
+66 
+420
+201
+3500 
+346
+85 
+70 
+440
+205
+4000 
+351
+90 
+73 
+460
+210
+4500 
+354
+95 
+76 
+480
+214
+5000 
+357
+100 
+80 
+500
+217
+6000 
+361
+10 
+86 
+550
+226
+7000 
+354
+120 
+92 
+600
+234
+8000 
+367
+130 
+97 
+650
+242
+9000 
+368
+140 
+103 
+700
+248
+10000 
+370
+150 
+108 
+750
+254
+15000 
+375
+160 
+113 
+800
+260
+20000 
+377
+170 
+118 
+850
+265
+3000 
+379
+180 
+123 
+900
+269
+40000 
+380
+190 
+127 
+950
+274
+50000 
+381
+200 
+132 
+1000
+278
+75000 
+382
+210 
+136 
+1100
+285
+100000 
+384
+Dikutip dari: Isaac, S and Michael, William B. (1984). Handbook in Research and Evaluation. Second 
+Edition. San Diego, CA.: Edits Publishers. 

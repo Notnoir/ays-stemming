@@ -1,0 +1,626 @@
+SABER: Jurnal Teknik Informatika, Sains dan Ilmu Komunikasi
+Vol. 2, No. 3 Juli 2024
+e-ISSN: 3025-342X; p-ISSN: 3025-2776, Hal 341-352
+DOI: https://doi.org/10.59841/saber.v2i3.1526
+Available online at: https://jurnal.stikes-ibnusina.ac.id/index.php/SABER
+
+Kecerdasan Buatan: Plagiarisme dan Perilaku Mandiri Siswa
+Sekolah Menengah Atas Dalam Penggunaan ChatGPT
+Budi Susilo
+STMIK Pontianak
+Tri Widayanti
+STMIK Pontianak
+Alamat: Jl. Merdeka No.372, Kec. Pontianak Kota, Kota Pontianak, Kalimantan Barat 78116
+Korespondensi penulis: budi.susilo@stmikpontianak.ac.id
+
+Abstract. The use of artificial intelligence has significantly transformed learning methods and processes.
+Previous research indicates that artificial intelligence can enhance independent learning behavior but also
+has the potential to increase plagiarism issues. This study aims to statistically examine the relationship
+between the use of artificial intelligence and plagiarism, as well as independent learning behavior. The
+research adopts a descriptive associative quantitative approach through surveys conducted at several high
+schools in Pontianak. The study population comprises students who are familiar with the ChatGPT
+application. The variables are the use of ChatGPT, plagiarism, and independent learning behavior. Data
+were collected through questionnaires from 50 respondents and analyzed using descriptive and inferential
+statistics. This study examines the analysis results using SPSS. Descriptive analysis shows that 56% of
+respondents are male and 44% are female. The results indicate that 68.8% of males are involved in
+plagiarism, and 55.6% exhibit independent learning behavior. Inferential analysis shows no significant
+relationship between the use of ChatGPT and plagiarism or independent learning behavior, based on the
+very low and insignificant values of Phi, Cramer's V, and Contingency Coefficient (p-value > 0.05).
+Keywords: Artificial Intelligence, ChatGPT, Independent Behavior, Plagiarism.
+
+Abstrak. Penggunaan kecerdasan buatan telah mengubah metode dan proses pembelajaran dengan
+signifikan. Penelitian sebelumnya menunjukkan bahwa kecerdasan buatan dapat meningkatkan perilaku
+mandiri dalam pembelajaran, namun juga berpotensi meningkatkan masalah plagiarisme. Penelitian ini
+bertujuan untuk mengetahui hubungan secara statistik antara penggunaan kecerdasan buatan dengan
+plagiarisme dan perilaku mandiri. Penelitian ini menggunakan pendekatan kuantitatif deskriptif asosiatif
+melalui survei di beberapa Sekolah Menengah Atas di Pontianak. Populasi penelitian adalah siswa yang
+mengetahui aplikasi ChatGPT. Variabelnya adalah penggunaan ChatGPT dan plagiarisme serta perilaku
+mandiri. Data dikumpulkan melalui kuesioner dari 50 responden dan dianalisis dengan statistik deskriptif
+dan inferensial. Penelitian ini mengkaji hasil analisis data menggunakan SPSS. Analisis deskriptif
+menunjukkan 56% responden adalah laki-laki dan 44% perempuan. Hasil menggambarkan 68,8% laki-laki
+terlibat dalam plagiarisme dan 55,6% berperilaku mandiri. Analisis inferensial menunjukkan tidak ada
+hubungan signifikan antara penggunaan ChatGPT dengan plagiarisme atau perilaku mandiri, berdasarkan
+nilai Phi, Cramer's V, dan Contingency Coefficient yang sangat rendah dan tidak signifikan (p-value >
+0,05).
+Kata kunci: ChatGPT, Kecerdasan Buatan, Plagiarisme, Perilaku Mandiri.
+
+Received: Mei 12, 2024; Revised: Juni 18, 2024;Accepted: Juli 6, 2024; Published: Juli 8, 2024;
+* Budi Susilo, budi.susilo@stmikpontianak.ac.id
+
+e-ISSN: 3025-342X; p-ISSN: 3025-2776, Hal 341-352
+
+LATAR BELAKANG
+Perkembangan dalam dunia pendidikan yang semakin kompleks dan maju tidak dapat
+dilepaskan dari kemajuan teknologi. Salah satu kemajuan teknologi yang memengaruhi dalam
+bidang pendidikan adalah bentuk aplikasi kecerdasan buatan (AI). Pengaruh penggunaan aplikasi
+kecerdasan buatan tidak hanya mempengaruhi dalam metode maupun proses pendidikan tapi juga
+pada penggunanya (Holmes, et al, 2019). Hal ini, menarik keingintahuan para peneliti untuk
+mengeksplorasi potensi dan dampak penggunaan kecerdasan buatan ke dalam konteks pendidikan
+(Rochmawati, dkk, 2023).
+Sejumlah penelitian yang telah dilakukan menunjukan bahwa penggunaan kecerdasan
+buatan mempunyai potensi dampak negatif dan positif pada perilaku penggunanya. Dampak
+positif berupa perilaku mandiri dalam pembelajaran. Penggunaan kecerdasan buatan berpotensi
+meningkatkan perilaku mandiri pada peserta didik yang menggunakannya (Yahya & Hidayat,
+2023). Kecerdasan buatan dalam penggunaannya dapat mendukung dalam pembelajaran mandiri
+(Karyadi, 2023). Selain itu, potensi dampak negatif dari pemanfaatan aplikasi kecerdasan buatan
+adalah plagiarisme. Salah satu tantangan yang dihadapi adalah risiko terjadinya plagiarisme
+(Diantama, 2023). Di sisi lain, Zahara dkk dalam penelitiannya menyatakan dampak negatif
+penerapan kecerdasan buatan dalam bidang pendidikan salah satunya menjadikan pengguna
+menjadi lebih malas (Zahara, dkk, 2023). Rasa malas yang mendorong pengguna aplikasi
+kecerdasan buatan melakukan plagiarisme (Rochim, 2024).
+Sejumlah penelitian di atas, semuanya merupakan penelitian yang menggunakan
+pendekatan kualitatif. Hasil dari semua penelitian tersebut mengungkapkan bahwa penggunaan
+aplikasi kecerdasan buatan dalam pendidikan berpotensi memberi dampak plagiarisme dan
+perilaku mandiri dari penggunanya. Hal tersebut yang mendasari rasa ketertatikan untuk
+melakukan penelitian dengan pendekatan metode berbeda. Hasilnya untuk mengkonfirmasi dari
+temuan penelitian sebelumnya. Penelitian ini menggunakan pendekatan kuantitatif. Bentuk
+penelitian untuk menunjukkan secara statistik yang menggambarkan persentase pengguna
+aplikasi kecerdasan buatan (ChatGPT) yang melakukan plagiarisme dan berperilaku mandiri.
+Selain itu, penelitian ini untuk mengetahui besar hubungan penggunaan ChatGPT dengan
+plagiarisme dan perilaku mandiri penggunanya.
+Mengetahui presentase pengguna aplikasi kecerdasan buatan dalam melakukan plagiarisme
+dan perilaku mandiri dapat memberikan gambaran sejauh mana dampak yang ditimbulkan.
+Demikian juga, mengetahui besar hubungan penggunaan aplikasi kecerdasan buatan dengan
+plagiarisme dan perilaku mandiri dapat menjadi dasar mengkonfirmasi bahwa penggunaan
+aplikasi kecerdasan buatan memiliki pengaruh terhadap plagiarisme dan perilaku mandiri. Oleh
+sebab itu, penelitian ini perlu dilakukan.
+
+Kecerdasan Buatan: Plagiarisme dan Perilaku Mandiri Siswa Sekolah Menengah Atas Dalam
+Penggunaan ChatGPT
+
+KAJIAN TEORITIS
+Kecerdasan buatan (AI) adalah turunan dari ilmu komputer yang berorientasi pada
+pengembangan sistem untuk melakukan tugas-tugas yang memerlukan kecerdasan
+manusia. Hal ini meliputi kemampuan belajar dari data, mengenali pola, mengambil
+keputusan, dan memecahkan masalah (Dewanto, 2023). Kecerdasan buatan (AI) diakui
+akan berdampak yang signifikan pada pekerjaan manusia, pendidikan, dan kehidupan
+sosial di era mendatang (Littman, et al, 2022). Aplikasi kecerdasan buatan dalam bidang
+pendidikan umumnya bertujuan untuk meningkatkan proses belajar mengajar.
+Salah satu bentuk model aplikasi kecerdasan buatan adalah ChatGPT yang
+dikembangkan oleh OpenAI. Model ini mampu menjawab pertanyaan, membantu dalam
+penulisan esai, dan menyediakan informasi yang relevan untuk berbagai topik.
+Kemampuan utama ChatGPT adalah menghasilkan teks yang mendekati komunikasi
+manusia, menjawab pertanyaan, dan melakukan berbagai tugas berbasis teks lainnya
+(Setiawan, dkk, 2023). Sebagai bentuk hasil inovasi dalam bidang kecerdasan buatan,
+ChatGPT memberikan berbagai potensi penggunaan yang positif, salah satunya adalah
+perilaku mandiri. Namun, penggunaannya juga menimbulkan isu-isu negatif, khususnya
+plagiarisme (Whalen & Mouza, 2023).
+ChatGPT menjadi teknologi yang mendorong perilaku mandiri siswa dengan
+memberikan akses cepat ke informasi, saran, dan solusi dari berbagai pertanyaan.
+Perilaku mandiri. Penggunan teknologi digital dalam proses belajar mendukung siswa
+mengatur pembelajaran mereka sendiri dalam lingkungan pembelajaran jarak jauh
+(Greene, et al, 2018). Teknologi kecerdasan buatan menjadi alat bantu membentuk
+kemampuan siswa dalam mengatur, mengarahkan, dan memotivasi diri mereka sendiri.
+Menurut Thoha bahwa perilaku mandiri dalam pembelajaran memungkinkan siswa untuk
+menjadi lebih aktif, terlibat, dan bertanggung jawab atas proses pembelajaran mereka
+sendiri (Asrori, 2020).
+ChatGPT dapat menghasilkan teks yang mirip atau bahkan identik dengan data
+yang diperoleh dari berbagai sumber data yang beragam dan besar. Ada kemungkinan
+bahwa sebagian dari outputnya mendeskripsikan frasa atau ide dari tulisan yang sudah
+dipublikasikan. Pengguna yang tidak menyadari atau tidak memeriksa, kemudian
+mengutip sumber yang relevan berisiko melakukan plagiarisme. Council of Writing
+Program Administrators (WPA) menggambarkan plagiarisme sebagai penggunaan
+343
+
+Jurnal Teknik Informatika, Sains dan Ilmu Komunikasi- VOL. 2, NO. 3 JULI 2024
+
+e-ISSN: 3025-342X; p-ISSN: 3025-2776, Hal 341-352
+
+bahasa, ide, atau karya tulis orang lain tanpa pengakuan atau izin yang layak, termasuk
+representasi yang tidak benar dari karya tulis tersebut sebagai karya tulis milik sendiri
+(Harvard Guide to Using Sources, 2024).
+
+METODE PENELITIAN
+Disain penelitian ini menggunakan pendekatan kuantitatif berupa deskriptif
+asosiatif. Bentuk penelitian yang dilakukan berupa survey pada beberapa Sekolah
+Menengah Atas di kota Pontianak. Populasi penelitian adalah para siswa Sekolah
+Menengah Atas yang mengetahui tentang aplikasi ChatGPT. Variabel dari penelitian ini
+adalah penggunaan ChatGPT sebagai variabel bebas, ada pun variabel terikatnya adalah
+plagiarisme dan perilaku mandiri. Metode pengumpulan data yang digunakan adalah
+metode sampling berbentuk non probabily sampling. Pengambilan sampel memakai
+pendekatan Purposive Sampling. Pertimbangan dalam memilih sampel adalah siswa
+yang bersedia secara sukarela menjadi responden dan tahu tentnag aplikasi ChatGPT.
+Adapun jumlah sampel ditentukan sebanyak 50 responden. Teknik pengumpulan data
+adalah kuesioner dengan menggunakan istrumen pengumpul data berupa angket,
+mengumpulkan data kuantitatif tentang menggunakan ChatGPT, persepsi siswa
+mengenai plagiarisme dan perilaku mandiri dalam pembelajaran. Teknik analisis data
+menggunakan statistik deskriptif (Olap Cubes) digunakan untuk memberi ringkasan
+variabel yang diteliti ke dalam satu atau lebih kategori, dan inferensial (uji Bivariate
+Nominal) untuk mengukur tingkat hubungan antara dua kelompok variabel yang diteliti.
+
+HASIL DAN PEMBAHASAN
+Data dikumpulkan melalui penyebaran kuesioner kepada 50 orang siswa Sekolah
+Menengah Atas yang mengetahui aplikasi ChatGPT dari beberapa SMA Negeri dan SMA
+Swasta yang ada di kota Pontianak. Hasil pengumpulan data yang dilaksanakan dalam
+kurun waktu seminggu (3 Juni 2024 – 8 Juni 2024) dianalisis menggunakan aplikasi
+SPSS. Hasilnya sebagai berikut:
+Analisis Deskriptif
+Data yang dikumpulkan berkaitan dengan demografi responden yaitu jenis kelamin
+(laki-laki atau perempuan) dan asal sekolah (SMA Negeri atau SMA Swasta) dan data
+
+Kecerdasan Buatan: Plagiarisme dan Perilaku Mandiri Siswa Sekolah Menengah Atas Dalam
+Penggunaan ChatGPT
+
+dari variabel penelitian yaitu menggunakan ChatGPT, Plagiarisme, dan Perilaku Mandiri.
+Hasil analisis dengan Olap Cubes dari data responden menggunakan SPSS disajikan
+seperti pada Tabel 1 hingga Tabel 4 berikut:
+Tabel 1. Persentase Siswa SMA Terhadap Variabel Penelitian
+OLAP Cubes
+Jenis Kelamin: laki laki
+Asal SMA: Total
+
+N
+Pengunaan ChatGPT
+Melakukan Plagiarisme
+Perilaku Mandiri
+
+28
+28
+28
+
+% of Total N
+56.0%
+56.0%
+56.0%
+
+% of Sum
+in Jenis
+Kelamin
+52.2%
+68.8%
+55.6%
+
+Sumber: Olahan SPSS.
+
+Berdasarkan nilai yang ditampilkan dari Tabel 1. di atas dapat diinterpretasikan
+bahwa responden berjenis kelamin laki-laki dari SMA Negeri maupun Swasta yang
+terdata berkaitan dengan penggunaan ChatGPT, Plagiarisme, dan Perilaku Mandiri
+berjumlah 28 orang atau 56,0% dari 50 responden yang disurvei. Adapun dari total total
+data yang dikumpulkan tergambarkan bahwa penggunaan ChatGPT, 52.2% merupakan
+pelajar SMA bergender laki-laki. Selain itu, siswa SMA bergender laki-laki yang terlibat
+dalam plagiarisme berjumlah 68.8% dari total kasus plagiarisme dan 55.6% dari total
+berperilaku mandiri.
+Dengan demikian, hasil di atas menggambarkan dari seluruh penggunaan ChatGPT,
+kurang dari setengah pengguna ChatGPT adalah laki-laki. Berkaitan kasus plagiarisme,
+data menunjukkan bahwa kasus plagiarisme lebih tinggi di kalangan laki-laki yang
+menggunakan ChatGPT dibandingkan dengan perempuan atau kelompok lainnya.
+Sedangkan, dalam berperilaku mandiri menunjukkan bahwa perilaku mandiri cukup
+merata di kalangan laki-laki yang menggunakan ChatGPT.
+Penggunaan ChatGPT cukup umum di kalangan siswa laki-laki dari berbagai SMA.
+Tingginya tingkat plagiarisme di kalangan siswa laki-laki menunjukkan adanya
+kemungkinan bahwa penggunaan ChatGPT berkaitan dengan peningkatan plagiarisme.
+Namun, Perilaku mandiri yang juga cukup tinggi menunjukkan bahwa penggunaan
+ChatGPT bisa mendukung perilaku belajar mandiri untuk siswa laki-laki.
+Tabel 2. di bawah menggambarkan data dari responden siswi dari semua asal SMA
+dalam penggunaan ChatGPT, Plagiarisme, dan Perilaku Mandiri. Sebanyak 44,0% dari
+
+345
+
+Jurnal Teknik Informatika, Sains dan Ilmu Komunikasi- VOL. 2, NO. 3 JULI 2024
+
+e-ISSN: 3025-342X; p-ISSN: 3025-2776, Hal 341-352
+
+total responden perempuan di seluruh SMA yang disurvei dari 50 responden.
+Dibandingkan dari seluruh responden yang menggunakan ChatGPT, 47,8% adalah
+perempuan. Selain itu, 31,3% dari responden yang terlibat dalam plagiarisme adalah
+perempuan. Sementara itu, 44,4% dari responden yang menunjukkan perilaku mandiri
+adalah perempuan.
+Tabel 2. Persentase Siswi SMA Terhadap Variabel Penelitian
+OLAP Cubes
+Jenis Kelamin: perempuan
+Asal SMA: Total
+
+N
+Pengunaan ChatGPT
+Melakukan Plagiarisme
+Perilaku Mandiri
+
+22
+22
+22
+
+% of Total N
+44.0%
+44.0%
+44.0%
+
+% of Sum
+in Jenis
+Kelamin
+47.8%
+31.3%
+44.4%
+
+Sumber: Olahan SPSS.
+
+Siswa Perempuan menyumbang 47,8% dari seluruh responden yang menggunakan
+ChatGPT, menunjukkan bahwa hampir setengah dari pengguna ChatGPT adalah pelajar
+perempuan. Selain itu, perempuan mempunyai persentase 31,3% dari seluruh kasus
+plagiarisme, mengindikasikan bahwa kasus plagiarisme lebih rendah di kalangan siswi
+SMA yang menggunakan ChatGPT dibandingkan dengan Siswa SMA. Dari segi perilaku
+mandiri, pelajar perempuan menyumbang 44,4%, menunjukkan bahwa perilaku mandiri
+cukup merata di kalangan perempuan yang menggunakan ChatGPT.
+Penggunaan ChatGPT cukup umum di kalangan siswa perempuan dari berbagai
+SMA, dengan 44,0% dari responden perempuan menggunakannya. Tingkat plagiarisme
+yang lebih rendah (31,3%) pada para pelajar perempuan menggambarkan bahwa
+penggunaan ChatGPT tidak berkaitan langsung dengan peningkatan plagiarisme di
+kalangan siswa perempuan. Tingginya tingkat perilaku mandiri (44,4%) menunjukkan
+bahwa penggunaan ChatGPT dapat mendukung perilaku belajar mandiri di kalangan
+siswa perempuan.
+Analisis deskriptif selanjutnya semua siswa dan siswi berdasarkan asal sekolah
+yang berbeda dalam penggunaan aplikasi ChatGPT, Plagiarisme, dan Perilaku Mandiri.
+Tabel 3. Dan Tabel 4. Merupakan hasil yang diperoleh dari SPSS.
+
+Kecerdasan Buatan: Plagiarisme dan Perilaku Mandiri Siswa Sekolah Menengah Atas Dalam
+Penggunaan ChatGPT
+
+Tabel 3. Persentase Siswa/i SMA Negeri Terhadap Variabel Penelitian
+OLAP Cubes
+Jenis Kelamin: Total
+Asal SMA: SMA Negeri
+N
+Pengunaan ChatGPT
+Melakukan Plagiarisme
+Perilaku Mandiri
+
+31
+31
+31
+
+% of Total N
+62.0%
+62.0%
+62.0%
+
+% of Sum in
+Asal SMA
+43.5%
+50.0%
+63.0%
+
+Sumber: Olahan SPSS.
+
+Tabel 3. di atas dapat diinterpretasikan, 62.0% dari total 50 responden dari siswa
+dan siswi SMA Negeri. Penggunaan ChatGPT di SMA Negeri merupakan 43.5% dari
+total responden yang menggunakan ChatGPT. Ini menunjukkan bahwa hampir setengah
+dari pengguna ChatGPT di SMA Negeri adalah siswa dari sekolah ini. Hal ini dapat
+diartikan Penggunaan ChatGPT kurang umum di kalangan siswa SMA Negeri.
+Seluruh responden yang melakukan plagiarisme dari SMA Negeri menyumbang
+50.0% dari total kasus plagiarisme. Data ini menunjukkan bahwa kasus plagiarisme
+cukup tinggi di kalangan siswa SMA Negeri. Tingkat plagiarisme yang tinggi di kalangan
+responden di SMA Negeri. menunjukkan adanya kemungkinan bahwa penggunaan
+ChatGPT berkaitan dengan peningkatan plagiarisme.
+Berdasarkan Tabel 3. di atas menunjukkan bahwa dari seluruh responden yang
+berasal SMA Negeri merupakan 63.0% dari total perilaku mandiri yang terjadi. Ini
+menunjukkan bahwa perilaku mandiri sangat tinggi di kalangan siswa SMA Negeri. Data
+kuantitatif yang menunjukkan bahwa penggunaan ChatGPT bisa mendukung perilaku
+belajar mandiri di kalangan siswa SMA Negeri.
+Adapun untuk untuk pelajar dari SMA Swasta yang menggunakan ChatGPT, kasus
+Plagiarism, dan Perilaku Mandiri, Jumlah responden yang terdata dari SMA Swasta
+sebanyak 19 siswa dari 50 responden yang disurvei artinya ada 38.0%. Hasil lengkap
+ditampilkan pada tabel 4. di bawah ini.
+Tabel 4. Persentase Siswa/i SMA Swasta Terhadap Variabel Penelitian
+
+347
+
+Jurnal Teknik Informatika, Sains dan Ilmu Komunikasi- VOL. 2, NO. 3 JULI 2024
+
+e-ISSN: 3025-342X; p-ISSN: 3025-2776, Hal 341-352
+OLAP Cubes
+Jenis Kelamin: Total
+Asal SMA: SMA Swasta
+N
+Pengunaan ChatGPT
+Melakukan Plagiarisme
+Perilaku Mandiri
+
+19
+19
+19
+
+% of Total N
+38.0%
+38.0%
+38.0%
+
+% of Sum in
+Asal SMA
+56.5%
+50.0%
+37.0%
+
+Sumber: Olahan SPSS.
+
+Siswa SMA Swasta yang menggunakan ChatGPT persentasenya 56.5% dari total
+seluruh reponden pengguna ChatGPT. Nilai tersebut menunjukkan bahwa lebih dari
+separuh pengguna ChatGPT adalah siswa dari SMA Swasta. Suatu hasil yang dapat
+diartikan Penggunaan ChatGPT cukup umum di kalangan siswa SMA Swasta.
+Di SMA Swasta, responden yang melakukan plagiarisme sebesar 50.0% dari total
+kasus plagiarisme. Jumlah kasus plagiarisme cukup tinggi di kalangan siswa SMA
+Swasta. Tingkat plagiarisme yang tinggi (50.0%) di kalangan responden menunjukkan
+adanya kemungkinan bahwa penggunaan ChatGPT berkaitan dengan peningkatan
+plagiarisme.
+Dari seluruh perilaku mandiri di SMA Swasta, responden menyumbang 37.0% dari
+total perilaku mandiri. Ini menunjukkan bahwa perilaku mandiri cukup rendah di
+kalangan siswa SMA Swasta yang menggunakan ChatGPT. Perilaku mandiri yang rendah
+(37.0%) menunjukkan bahwa penggunaan ChatGPT mungkin tidak sepenuhnya
+mendukung perilaku belajar mandiri di kalangan siswa SMA Swasta.
+
+Analisis Inferensial
+Hasil dari uji statistik untuk mengukur hubungan antara penggunaan ChatGPT
+dengan plagiarisme dan perilaku mandiri. Hasil analisis dengan Uji Bivariate Nominal
+dari data responden menggunakan SPSS disajikan seperti pada Tabel 5 dan Tabel 6.
+berikut:
+Tabel 5. Penggunaan ChatGPT Terhadap Melakukan Plagiarisme
+
+Kecerdasan Buatan: Plagiarisme dan Perilaku Mandiri Siswa Sekolah Menengah Atas Dalam
+Penggunaan ChatGPT
+
+Crosstab
+Count
+Melakukan Plagiarisme
+tidak
+plagiarisme
+plagiarisme
+Pengunaan
+ChatGPT
+
+Tidak menggunakan
+ChatGPT
+Menggunakan ChatGPT
+
+Total
+
+Total
+
+19
+
+8
+
+27
+
+15
+34
+
+8
+16
+
+23
+50
+
+Symmetric Measures
+
+Nominal by
+Nominal
+
+Phi
+Cramer's V
+Contingency Coefficient
+
+N of Valid Cases
+
+Value
+.055
+.055
+.055
+50
+
+Approx. Sig.
+.697
+.697
+.697
+
+a. Not assuming the null hypothesis.
+b. Using the asymptotic standard error assuming the null
+hypothesis.
+
+Sumber: Olahan SPSS.
+
+Dari 50 kasus, 34 kasus melakukan plagiarisme (68%), dan 16 kasus tidak
+melakukan plagiarisme (32%). Dari 27 orang yang tidak menggunakan ChatGPT, 19
+orang (70.4%) melakukan plagiarisme dan 8 orang (29.6%) tidak melakukan plagiarisme.
+Dari 23 orang yang menggunakan ChatGPT, 15 orang (65.2%) melakukan plagiarisme
+dan 8 orang (34.8%) tidak melakukan plagiarisme. Siswa yang tidak menggunakan
+ChatGPT lebih cenderung melakukan plagiarisme (70.4%) dibandingkan dengan yang
+menggunakan ChatGPT (65.2%). Namun, perbedaan ini tidak terlalu signifikan secara
+praktis.
+Nilai Phi, Cramer's V, dan Contingency Coefficient semuanya adalah 0.055, yang
+menunjukkan asosiasi sangat lemah antara kedua variabel. Approximate Significance (pvalue) sebesar 0.697, yang lebih besar dari 0.05, menunjukkan bahwa tidak ada bukti
+statistik yang signifikan untuk menunjukkan asosiasi antara Penggunaan ChatGPT dan
+Melakukan Plagiarisme. Secara keseluruhan, analisis ini menunjukkan bahwa tidak ada
+hubungan yang signifikan antara penggunaan ChatGPT dan melakukan plagiarisme
+berdasarkan data yang diberikan.
+Berdasarkan nilai-nilai asosiasi yang sangat rendah dan tidak signifikan, maka
+tidak dapat menyimpulkan bahwa penggunaan ChatGPT mempengaruhi atau
+berhubungan dengan kecenderungan siswa untuk melakukan plagiarisme. Dengan kata
+
+349
+
+Jurnal Teknik Informatika, Sains dan Ilmu Komunikasi- VOL. 2, NO. 3 JULI 2024
+
+e-ISSN: 3025-342X; p-ISSN: 3025-2776, Hal 341-352
+
+lain, tindakan plagiarisme di kalangan siswa tampaknya tidak dipengaruhi oleh apakah
+mereka menggunakan ChatGPT atau tidak.
+Tabel 6. Penggunaan ChatGPT Terhadap Perilaku Mandiri
+Crosstab
+Count
+Perilaku Mandiri
+tidak
+Berperilaku
+berperilaku
+Mandiri
+mandiri
+Pengunaan
+ChatGPT
+
+Tidak menggunakan
+ChatGPT
+Menggunakan ChatGPT
+
+Total
+
+Total
+
+12
+
+15
+
+27
+
+11
+23
+
+12
+27
+
+23
+50
+
+Symmetric Measures
+
+Nominal by
+Nominal
+
+Phi
+Cramer's V
+Contingency Coefficient
+
+N of Valid Cases
+
+Value
+-.034
+.034
+.034
+50
+
+Approx. Sig.
+.811
+.811
+.811
+
+a. Not assuming the null hypothesis.
+b. Using the asymptotic standard error assuming the null
+hypothesis.
+
+Sumber: Olahan SPSS.
+
+Dari total 50 responden, 23 responden (46%) berperilaku mandiri, sementara 27
+responden lain (54%) tidak berperilaku mandiri. Di antara responden yang menjawab
+tidak menggunakan ChatGPT, 44.4% berperilaku mandiri dan 55.6% tidak berperilaku
+mandiri. Sisi lain, responden yang menggunakan ChatGPT, 47.8% berperilaku mandiri
+dan 52.2% tidak berperilaku mandiri. Hasil analisis Symmetric Measures: Phi, Cramer's
+V, dan Contingency Coefficient semuanya menunjukkan nilai 0.034 dengan Approx. Sig.
+0.811. Nilai ini menunjukkan hubungan yang sangat lemah dan tidak signifikan antara
+penggunaan ChatGPT dan perilaku mandiri. Approx. Sig. sebesar 0.811 (lebih besar dari
+0.05) menunjukkan bahwa hasil ini tidak signifikan secara statistik.
+Membahas hubungan antara Penggunaan ChatGPT dan Perilaku Mandiri, data
+menunjukkan bahwa ada sedikit perbedaan dalam tingkat perilaku mandiri antara
+responden yang menggunakan dan tidak menggunakan ChatGPT, tetapi perbedaan ini
+sangat kecil. Tidak ada bukti yang menunjukkan hubungan kuat antara penggunaan
+ChatGPT dan peningkatan perilaku mandiri di kalangan siswa. Analisis ini menunjukkan
+
+Kecerdasan Buatan: Plagiarisme dan Perilaku Mandiri Siswa Sekolah Menengah Atas Dalam
+Penggunaan ChatGPT
+
+bahwa, sementara ada penggunaan ChatGPT di kalangan siswa, tidak ada bukti signifikan
+yang menunjukkan hubungan langsung antara penggunaan ChatGPT dan perilaku
+mandiri.
+
+KESIMPULAN
+Tidak ditemukan bukti statistik yang signifikan untuk menyatakan bahwa
+penggunaan ChatGPT berhubungan dengan peningkatan atau penurunan plagiarisme dan
+perilaku mandiri pada para siswa SMA di Pontianak. Dengan kata lain, tindakan
+plagiarisme dan perilaku mandiri di siswa-siswa tidak dipengaruhi secara langsung oleh
+menggunakan ChatGPT atau tidak.
+
+UCAPAN TERIMA KASIH
+Alhamdulillah dan terimakasih kepada pihak STMIK Pontianak yang telah
+memfasilitasi penelitian sehingga menjadi tulisan artikel ini.
+
+DAFTAR REFERENSI
+Asrori, A. (2020). Psikologi Pendidikan Pendekatan Multidisipliner. Banyumas: Pena
+Persada.
+Dewanto, A. C. (2023). Resiko dan Mitigasi Penggunaan Kecerdasan Buatan Dalam
+Bidang Pendidikan. Prosiding Konferensi Ilmiah Pendidikan, 4, 1-10.
+Diantama, S. (2023). Pemanfaatan Artificial Intelegent (AI) Dalam Dunia
+Pendidikan. DEWANTECH
+Jurnal
+Teknologi
+Pendidikan, 1(1),
+8-14.
+https://doi.org/10.61434/dewantech.v1i1.8
+Greene, J. A., Copeland, D. Z., Deekens, V. M., & Seung, B. Y. (2018). Beyond
+knowledge: Examining digital literacy's role in the acquisition of understanding in
+science. Computers & Education, 117, 141-159.
+https://doi.org/10.1016/j.compedu.2017.10.003
+Harvard Guide to Using Sources. (2024). What Constitutes Plagiarism?. Harvard College
+Writing Program. Available at: https://usingsources.fas.harvard.edu/whatconstitutes-plagiarism-0 , diakses tanggal 28 Juni 2024.
+Holmes, W., Bialik, M., & Fadel, C. (2019). Artificial intelligence in education promises
+and implications for teaching and learning. Center for Curriculum Redesign.
+https://discovery.ucl.ac.uk/id/eprint/10139722
+Karyadi, B. (2023). Pemanfaatan Kecerdasan Buatan Dalam Mendukung Pembelajaran
+Mandiri. Educate:
+Jurnal
+Teknologi
+Pendidikan, 8(02),
+253-258.
+https://doi.org/10.32832/educate.v8i02.14843
+Littman, M. L., Ajunwa, I., Berger, G., Boutilier, C., Currie, M., Doshi-Velez, F., ... &
+351
+
+Jurnal Teknik Informatika, Sains dan Ilmu Komunikasi- VOL. 2, NO. 3 JULI 2024
+
+e-ISSN: 3025-342X; p-ISSN: 3025-2776, Hal 341-352
+
+Walsh, T. (2022). Gathering strength, gathering storms: The one hundred year study
+on artificial intelligence (AI100) 2021 study panel report. arXiv preprint
+arXiv:2210.15767. https://doi.org/10.48550/arXiv.2210.15767
+Rochim, A. A. (2024). Kecerdasan Buatan: Resiko, Tantangan Dan Penggunaan Bijak
+Pada Dunia Pendidikan. Antroposen: Journal of Social Studies and
+Humaniora, 3(1), 13-25.
+Rochmawati, D. R., Arya, I., & Zakariyya, A. (2023). Manfaat Kecerdasan Buatan Untuk
+Pendidikan. Jurnal Teknologi Komputer Dan Informatika, 2(1), 124-134.
+https://doi.org/10.59820/tekomin.v2i1.163
+Setiawan, D., Karuniawati, E. A. D., & Janty, S. I. (2023). Peran Chat Gpt (Generative
+Pre-Training Transformer) Dalam Implementasi Ditinjau Dari Dataset. Innovative:
+Journal
+Of
+Social
+Science
+Research, 3(3),
+9527-9539.
+https://doi.org/10.31004/innovative.v3i3.3286
+Whalen, J., & Mouza, C. (2023). ChatGPT: challenges, opportunities, and implications
+for teacher education. Contemporary Issues in Technology and Teacher
+Education, 23(1), 1-23.
+Yahya, M., & Hidayat, A. (2023, July). Implementasi Artificial Intelligence (AI) di
+Bidang Pendidikan Kejuruan Pada Era Revolusi Industri 4.0. In Seminar Nasional
+Dies Natalis 62 (Vol. 1, pp. 190-199).
+https://doi.org/10.59562/semnasdies.v1i1.794
+Zahara, S. L., Azkia, Z. U., & Chusni, M. M. (2023). Implementasi Teknologi Artificial
+Intelligence (AI) dalam Bidang Pendidikan. Jurnal Penelitian Sains Dan
+Pendidikan (JPSP), 3(1), 15-20.
+https://doi.org/10.23971/jpsp.v3i1.4022
+
+

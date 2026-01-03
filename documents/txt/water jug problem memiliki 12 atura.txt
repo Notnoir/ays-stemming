@@ -1,0 +1,13 @@
+water jug problem memiliki 12 aturan. jika menggunakan graph memiliki Waktu ke map ada Jarak dan Waktu ( graph terdiri dari node(titik), edge (sisi), terarah). 
+jenis Teknik pencarian :
+1. Blind search (tidak menggunakan Waktu )
+	- BFS (breadth first search)		
+	- DfS
+2. heuristic search (menggunakan informasi Waktu)
+	- Generate and test
+	  gunakan yang terkecil
+	- hill climbing
+	  cari yang terkecil berdasarkan bobot tanpa mencoba semuanya
+	- best first search
+	- A* (A star)
+

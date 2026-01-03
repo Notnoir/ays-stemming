@@ -1,0 +1,370 @@
+Jurnal Pendidikan Sosial Indonesia
+Vol. 2 No. 1, Juni 2024:
+
+Diterima Redaksi: 05-06-2023 | Revisi: 11-06-2023 | Diterbitkan: 30-06-2023
+
+Perubahan Pola Konsumsi Dan Gaya Hidup Masyarakat
+Indonesia Di Era Digital
+Muhammad Fikri1, Ahmad Junaidi2
+1,2Tadris IPS, Institut Studi Islam Sunan Doe, Lombok Timur, Indonesia
+
+Email: m.fikri2019@gmail.com
+
+ABSTRACT: This study examines the impact of the digital era on the consumption
+patterns, lifestyles, and education of Indonesian society. The findings reveal that
+e-commerce and social media drive changes by offering convenience and
+accessibility but also introduce challenges such as consumerism, individualism,
+and digital inequality. In the educational context, online learning provides
+flexibility while highlighting infrastructural disparities. The study concludes that
+digital literacy is essential to mitigate negative impacts and harness opportunities
+from digital transformation. Practical implications include policies to ensure
+equitable access to technology and inclusive digital education. This research
+provides new insights into the dynamics of digital-era lifestyles and recommends
+a multidisciplinary approach for future studies.
+Keywords: digital era, consumption patterns, digital literacy, educational
+inequality
+ABSTRAK: Penelitian ini mengkaji dampak era digital terhadap pola konsumsi,
+gaya hidup, dan pendidikan masyarakat Indonesia. Temuan menunjukkan bahwa
+e-commerce dan media sosial menjadi pendorong utama perubahan, menawarkan
+kenyamanan dan aksesibilitas, namun juga memunculkan tantangan seperti
+konsumtivisme, individualisme, dan kesenjangan digital. Dalam konteks
+pendidikan, pembelajaran daring memberikan fleksibilitas tetapi menghadapi
+ketimpangan infrastruktur. Kesimpulan penelitian menegaskan perlunya literasi
+digital untuk memitigasi dampak negatif dan memanfaatkan peluang dari
+transformasi digital. Implikasi praktis mencakup kebijakan pemerataan akses
+teknologi dan edukasi digital yang inklusif. Penelitian ini memberikan wawasan
+baru tentang dinamika gaya hidup era digital dan merekomendasikan pendekatan
+multidisiplin dalam penelitian lanjutan.
+Kata kunci: era digital, pola konsumsi, literasi digital, kesenjangan pendidikan
+
+Copyright © 2024 The Author(s)
+This is an open-access article under the CC BY-SA license.
+Lisensi Creative Commons Atribusi 4.0 Internasional
+
+DOI: https://doi.org/10.62238/jupsi.v2i1.139
+( https://journal.yazri.com/index.php/jupsi
+
+12
+
+Jurnal Pendidikan Sosial Indonesia
+Vol. 2 No. 1, Juni 2024:
+
+PENDAHULUAN
+Perkembangan teknologi digital telah membawa perubahan besar dalam
+berbagai aspek kehidupan masyarakat global, termasuk di Indonesia (Jurriëns &
+Tapsell, 2017). Integrasi teknologi informasi dan komunikasi ke dalam kehidupan
+sehari-hari telah mengubah cara orang bekerja, berkomunikasi, dan memenuhi
+kebutuhan mereka. Perubahan ini tidak hanya berdampak pada aspek ekonomi,
+tetapi juga memengaruhi dinamika sosial masyarakat (Bylieva et al., 2019). Di era
+digital saat ini, pola konsumsi dan gaya hidup masyarakat semakin didominasi
+oleh penggunaan teknologi, meskipun terdapat tantangan yang signifikan
+seperti kesenjangan digital, keamanan data, dan dampak lingkungan (Cochoy et
+al., 2020).
+Di Indonesia, perubahan signifikan dalam pola konsumsi masyarakat
+dapat diamati melalui peralihan dari transaksi secara konvensional menuju
+transaksi berbasis digital (Nugroho, 2017). Perkembangan teknologi informasi
+telah menghadirkan berbagai inovasi, seperti platform e-commerce, aplikasi
+berbasis mobile, dan media sosial, yang secara drastis mengubah cara
+masyarakat memenuhi kebutuhan sehari-hari, termasuk berbelanja dan
+memperoleh informasi (Nugroho, 2017). Menurut data terbaru dari Asosiasi
+Penyelenggara Jasa Internet Indonesia (Lahitani, 2024), tingkat penetrasi internet
+di Indonesia telah mencapai 79,5% dari total populasi. Angka ini menunjukkan
+bahwa sekitar 221.563.479 dari 278.696.200 penduduk Indonesia pada tahun 2023
+memanfaatkan internet untuk berbagai keperluan, termasuk melakukan
+aktivitas belanja daring. Teknologi digital kini menjadi bagian tak terpisahkan
+dari kehidupan masyarakat Indonesia. Meskipun demikian, transformasi ini
+membawa tantangan tersendiri, terutama bagi pelaku usaha konvensional yang
+kesulitan menyesuaikan diri dengan perubahan lanskap ekonomi yang semakin
+mengarah pada digitalisasi. Kompetisi yang semakin ketat di dalam ekosistem
+ekonomi digital membuat mereka harus beradaptasi secara cepat agar tetap
+dapat bertahan dan bersaing di era digital yang dinamis ini.
+Selain itu, media sosial memainkan peran penting dalam membentuk
+preferensi konsumsi masyarakat. Riset dari (Tri Hendro Sigit Prakoso & Vicky
+Nathasya, 2022) menunjukkan bahwa 50% konsumen Indonesia dipengaruhi oleh
+rekomendasi di media sosial sebelum melakukan pembelian. Fenomena ini
+menandai perubahan gaya hidup masyarakat yang tidak hanya berbasis
+kebutuhan fungsional, tetapi juga dipengaruhi tren global yang dibentuk oleh
+influencer. Namun, meskipun teknologi memberikan akses yang lebih luas,
+kesenjangan digital tetap menjadi tantangan serius, terutama di daerah
+pedesaan. Sekitar 30% populasi pedesaan di Indonesia masih memiliki akses
+terbatas terhadap teknologi digital, yang dapat memperburuk ketimpangan
+sosial (Diningrat, 2021).
+
+13
+
+Fikri, Junaidi
+
+Perubahan gaya hidup masyarakat Indonesia juga dipengaruhi oleh
+layanan berbasis teknologi seperti Gojek dan Grab, yang menawarkan solusi
+praktis untuk kebutuhan sehari-hari. Meskipun layanan ini memberikan
+efisiensi, mereka juga berpotensi mengurangi interaksi sosial langsung,
+menggantinya dengan hubungan virtual. Di sisi lain, transformasi digital ini
+meningkatkan konsumsi barang dan jasa, yang berkontribusi pada peningkatan
+limbah plastik dari kemasan e-commerce. Menurut penelitian Putri et al.,
+(2022)mengungkapkan bahwa Indonesia menghasilkan lebih dari 3 juta ton
+limbah plastik setiap tahunnya, sebagian besar berasal dari transaksi daring.
+Oleh karena itu, diperlukan kebijakan yang mendukung pertumbuhan
+ekonomi digital secara berkelanjutan. Pemerintah dan pelaku industri memiliki
+peran penting dalam memastikan perlindungan konsumen, keamanan data, dan
+keberlanjutan lingkungan. Literasi digital juga menjadi hal mendesak untuk
+ditingkatkan agar masyarakat lebih bijak dalam menggunakan teknologi
+(Radovanović et al., 2020).
+Penelitian ini bertujuan untuk memahami bagaimana teknologi digital
+memengaruhi pola konsumsi dan gaya hidup masyarakat Indonesia, serta
+dampaknya terhadap dinamika sosial dan ekonomi. Dengan pendekatan
+komprehensif, studi ini diharapkan dapat memberikan wawasan yang relevan
+untuk menciptakan kebijakan yang mendukung pertumbuhan ekonomi digital
+sekaligus menjaga keseimbangan sosial dan lingkungan.
+METODE PENELITIAN
+Penelitian ini menggunakan metode kualitatif dengan pendekatan
+deskriptif, yang bertujuan untuk memahami secara mendalam perubahan pola
+konsumsi dan gaya hidup masyarakat Indonesia di era digital. Metode kualitatif
+dipilih karena dapat memberikan gambaran yang lebih luas dan mendalam
+mengenai fenomena sosial yang kompleks dan dinamis (Creswell, 2018). Data
+dikumpulkan melalui studi pustaka dengan menelaah literatur yang relevan dari
+berbagai sumber seperti jurnal ilmiah, laporan pemerintah, artikel media massa,
+dan buku terkait. Pendekatan deskriptif membantu peneliti untuk
+mengorganisir data dan informasi sehingga dapat dianalisis secara sistematis
+berdasarkan tema-tema yang muncul (Flick, 2018).
+Pengumpulan data difokuskan pada data sekunder yang mencakup
+laporan industri digital, data statistik konsumsi masyarakat, serta literatur
+tentang gaya hidup dan tren sosial di Indonesia. Proses analisis dilakukan
+dengan metode tematik, di mana data yang telah terkumpul diorganisasikan
+menjadi beberapa kategori, seperti perubahan pola konsumsi, pengaruh media
+sosial terhadap gaya hidup, serta tantangan dan peluang yang dihadapi
+masyarakat dalam mengadopsi teknologi digital (Creswell, 2018). Teknik ini
+memungkinkan peneliti untuk memahami hubungan antara berbagai faktor
+yang mempengaruhi pola konsumsi dan gaya hidup di era digital.
+14
+
+Jurnal Pendidikan Sosial Indonesia
+Vol. 2 No. 1, Juni 2024:
+
+Selain itu, peneliti melakukan triangulasi data untuk memastikan validitas
+informasi yang diperoleh. Proses triangulasi dilakukan dengan membandingkan
+berbagai sumber data yang berbeda, baik dari laporan kuantitatif maupun narasi
+kualitatif, untuk mendapatkan pemahaman yang lebih komprehensif mengenai
+fenomena yang diteliti (Flick, 2018). Dengan pendekatan ini, penelitian
+diharapkan dapat menghasilkan temuan yang relevan dan dapat diaplikasikan
+dalam konteks kebijakan serta strategi bisnis dalam menghadapi perubahan pola
+konsumsi dan gaya hidup di era digital.
+HASIL DAN PEMBAHASAN
+Penelitian ini menemukan bahwa era digital telah membawa perubahan
+signifikan dalam pola konsumsi dan gaya hidup masyarakat Indonesia. Temuan
+utama mencakup beberapa aspek berikut:
+Pola Konsumsi Digital
+Perubahan signifikan dalam pola konsumsi masyarakat Indonesia tampak
+jelas dengan meningkatnya penggunaan platform e-commerce. Masyarakat, baik
+di daerah urban maupun rural, kini lebih memilih belanja online dibandingkan
+pasar tradisional. Faktor-faktor seperti kemudahan akses, banyaknya pilihan
+produk, dan kenyamanan berbelanja dari rumah menjadi pendorong utama
+pergeseran ini. Penggunaan platform seperti Tokopedia, Shopee, dan Lazada
+semakin mengukuhkan e-commerce sebagai bagian tak terpisahkan dari
+kehidupan sehari-hari.
+Dampak positif dari pergeseran ini adalah efisiensi waktu dan energi dalam
+berbelanja. Namun, perlu dicatat bahwa pergeseran ini juga membawa
+tantangan, terutama bagi pelaku usaha kecil di pasar tradisional yang sulit
+bersaing. Keberlanjutan pasar tradisional membutuhkan strategi adaptasi,
+seperti memanfaatkan teknologi digital untuk memperluas jangkauan
+pemasaran mereka.
+Peran Media Sosial
+Media sosial telah menjadi alat utama dalam membentuk preferensi
+konsumsi masyarakat. Platform seperti Instagram, TikTok, dan Facebook
+memfasilitasi promosi produk melalui konten visual yang menarik. Influencer
+dan selebriti digital memengaruhi pengikut mereka untuk mengadopsi tren
+tertentu, mulai dari gaya busana hingga produk kecantikan. Hal ini menciptakan
+budaya konsumsi yang sangat dipengaruhi oleh tren yang cepat berubah.
+Tren ini juga meningkatkan daya saing produk lokal yang mampu
+menyesuaikan diri dengan promosi berbasis media sosial. Namun, di sisi lain,
+masyarakat berisiko terjebak dalam pola konsumsi impulsif karena terpancing
+promosi berlebihan. Kesadaran akan manajemen keuangan menjadi penting
+untuk menghindari dampak negatif dari pengaruh media sosial terhadap gaya
+hidup konsumtif.
+15
+
+Fikri, Junaidi
+
+Perubahan Gaya Hidup
+Di era digital, gaya hidup masyarakat Indonesia mengalami perubahan
+signifikan, khususnya dalam aspek kesehatan dan kebugaran. Tren global yang
+dipopulerkan melalui media sosial mendorong masyarakat untuk mengikuti
+program diet, latihan fisik, yoga, dan pilates. Influencer kebugaran sering
+menjadi inspirasi bagi banyak orang untuk memulai gaya hidup sehat.
+Selain itu, meningkatnya kesadaran akan pentingnya kesehatan fisik
+berkontribusi pada meningkatnya keanggotaan di pusat kebugaran dan kelas
+olahraga daring. Namun, akses terhadap gaya hidup sehat ini masih terbatas
+pada kalangan tertentu, terutama mereka yang tinggal di perkotaan. Perlu ada
+upaya untuk memperluas akses ke program kesehatan di daerah pedesaan agar
+manfaatnya lebih merata.
+Transformasi Keuangan
+Teknologi digital telah mentransformasi cara masyarakat mengelola
+keuangan mereka. Aplikasi dompet digital seperti GoPay, OVO, dan Dana
+menggantikan transaksi tunai dengan pembayaran non-tunai yang lebih cepat
+dan efisien. Pergeseran ini memberikan kemudahan, terutama bagi masyarakat
+perkotaan yang sudah akrab dengan teknologi digital.
+Namun, adopsi teknologi keuangan ini masih menghadapi tantangan di
+daerah pedesaan, di mana infrastruktur digital belum memadai. Penting untuk
+memperluas edukasi dan infrastruktur keuangan digital agar manfaatnya dapat
+dirasakan oleh seluruh masyarakat, tanpa memandang lokasi geografis mereka.
+Tantangan Konsumtif
+Kemudahan yang ditawarkan oleh teknologi digital juga membawa
+dampak negatif dalam bentuk pola konsumsi berlebihan. Diskon besar,
+penawaran eksklusif, dan program loyalitas sering kali mendorong masyarakat
+untuk membeli barang yang sebenarnya tidak diperlukan. Akibatnya, banyak
+orang menghadapi masalah keuangan karena pengeluaran yang tidak
+terkendali.
+Meningkatkan literasi keuangan menjadi salah satu solusi penting untuk
+mengatasi tantangan ini. Dengan memahami cara mengelola keuangan secara
+bijak, masyarakat dapat memanfaatkan kemudahan digital tanpa terjebak dalam
+gaya hidup konsumtif yang merugikan.
+Dampak Sosial dan Pendidikan
+Interaksi sosial masyarakat telah bergeser dari tatap muka menjadi
+komunikasi daring, memengaruhi kualitas hubungan sosial. Generasi muda,
+khususnya, lebih banyak menghabiskan waktu di dunia maya, yang dapat
+menurunkan intensitas interaksi fisik dalam keluarga dan komunitas.
+Di sektor pendidikan, pembelajaran daring memperkenalkan fleksibilitas
+baru, tetapi juga memperbesar kesenjangan digital antara daerah perkotaan dan
+pedesaan. Kurangnya akses internet dan perangkat teknologi di beberapa daerah
+16
+
+Jurnal Pendidikan Sosial Indonesia
+Vol. 2 No. 1, Juni 2024:
+
+menjadi tantangan utama yang perlu diatasi untuk menciptakan pendidikan
+yang inklusif dan merata di seluruh Indonesia.
+Pembahasan
+Hasil penelitian ini mengungkapkan bahwa era digital tidak hanya
+membawa perubahan signifikan dalam pola konsumsi, tetapi juga
+mendefinisikan ulang gaya hidup masyarakat Indonesia secara mendalam. Era
+ini ditandai dengan pergeseran preferensi masyarakat dari aktivitas konsumsi
+tradisional menuju platform digital yang menawarkan kemudahan akses dan
+kenyamanan. Sebagai contoh, kemajuan e-commerce memungkinkan
+masyarakat untuk memenuhi kebutuhan sehari-hari dengan lebih efisien, tanpa
+harus keluar rumah. Hal ini sesuai dengan teori perilaku konsumen digital yang
+menekankan bahwa kenyamanan menjadi salah satu pendorong utama
+perubahan pola konsumsi di era modern (Vyt et al., 2022).
+Dari sisi sosial, media sosial memainkan peran sentral dalam membentuk
+preferensi konsumsi dan gaya hidup masyarakat. Konten yang disajikan oleh
+influencer dan selebriti digital mampu memengaruhi norma dan nilai
+masyarakat, sebagaimana dijelaskan dalam teori media sebagai agen sosialisasi.
+Namun, tidak dapat diabaikan bahwa fenomena ini juga membawa dampak
+negatif, seperti meningkatnya individualisme dan konsumtivisme (Turanci,
+2019). Kondisi ini menunjukkan perlunya pendidikan digital yang lebih
+mendalam untuk mengajarkan masyarakat bagaimana memanfaatkan teknologi
+dengan bijak, sekaligus mengurangi risiko dampak negatif.
+Dalam konteks pendidikan, pembelajaran daring menjadi salah satu bukti
+nyata transformasi era digital. Sistem ini menawarkan fleksibilitas yang
+memungkinkan peserta didik belajar kapan saja dan di mana saja. Akan tetapi,
+di balik fleksibilitas tersebut, terdapat tantangan besar berupa kesenjangan
+digital, terutama di daerah yang kurang terjangkau oleh infrastruktur internet.
+Ketimpangan ini memperlihatkan urgensi kebijakan yang berorientasi pada
+pemerataan infrastruktur digital, sehingga semua lapisan masyarakat dapat
+mengakses pendidikan berkualitas.
+Penelitian ini memberikan kontribusi penting dalam memahami dampak
+positif dan negatif dari era digital terhadap pendidikan dan gaya hidup. Salah
+satu implikasi praktis yang diusulkan adalah perlunya pelatihan literasi digital
+secara luas untuk meningkatkan kesadaran masyarakat dalam menghadapi
+risiko konsumsi berlebihan. Selain itu, kebijakan yang mendorong konsumsi
+yang lebih bertanggung jawab perlu diterapkan untuk menciptakan
+keseimbangan antara manfaat teknologi dan potensi kerugiannya.
+Beberapa temuan penelitian ini juga menunjukkan adanya ketidaksesuaian
+dengan hipotesis awal, seperti dampak konsumsi berlebihan yang belum
+terantisipasi sepenuhnya. Hal ini mengindikasikan bahwa masyarakat belum
+17
+
+Fikri, Junaidi
+
+sepenuhnya siap menghadapi tantangan kompleks dari era digital. Untuk itu,
+diperlukan pendekatan multidisiplin yang menggabungkan aspek sosial,
+ekonomi, dan teknologi guna memahami dinamika perubahan pola konsumsi
+dan gaya hidup secara lebih holistic (Babu & Gajanan, 2022). Dengan demikian,
+strategi mitigasi yang diusulkan dapat lebih efektif dalam membantu
+masyarakat beradaptasi secara lebih bijak terhadap era digital ini.
+KESIMPULAN
+Kesimpulan penelitian ini menunjukkan bahwa era digital secara
+fundamental telah mengubah pola konsumsi, gaya hidup, dan pendidikan
+masyarakat Indonesia. E-commerce dan media sosial menjadi pendorong utama
+perubahan, menawarkan kemudahan akses, kenyamanan, dan fleksibilitas,
+tetapi juga membawa tantangan seperti konsumtivisme, individualisme, dan
+kesenjangan digital. Dalam konteks pendidikan, pembelajaran daring
+memberikan peluang baru namun tetap menghadapi hambatan infrastruktur
+yang memerlukan perhatian khusus. Penelitian ini menegaskan pentingnya
+literasi digital sebagai strategi mitigasi untuk memaksimalkan manfaat era
+digital sekaligus meminimalkan dampaknya yang merugikan. Untuk masa
+depan, kebijakan yang mendukung pemerataan akses teknologi dan edukasi
+digital yang inklusif sangat diperlukan. Penelitian lanjutan disarankan untuk
+mengeksplorasi pendekatan multidisiplin dalam memahami kompleksitas
+perubahan gaya hidup di era digital ini.
+DAFTAR PUSTAKA
+Babu, S. C., & Gajanan, S. N. (2022). Changes in food consumption patterns. In
+Food Security, Poverty and Nutrition Policy Analysis (pp. 135–168). Elsevier.
+https://doi.org/10.1016/B978-0-12-820477-1.00010-3
+Bylieva, D. S., Lobatyuk, V. V, & Rubtsova, A. V. (2019). Information and
+communication technologies as an active principle of social change. IOP
+Conference Series: Earth and Environmental Science, 337(1), 012054.
+https://doi.org/10.1088/1755-1315/337/1/012054
+Cochoy, F., Licoppe, C., McIntyre, M. P., & Sörum, N. (2020). Digitalizing
+consumer society: equipment and devices of digital consumption. Journal of
+Cultural
+Economy,
+13(1),
+1–11.
+https://doi.org/10.1080/17530350.2019.1702576
+Creswell, J. W. , & P. C. N. (2018). Qualitative Inquiry and Research Design: Choosing
+Among Five Approaches. SAGE Publications.
+Diningrat, R. A. (2021). Ketimpangan digital antara kaya dan miskin menentukan
+kemampuan
+bertahan
+seseorang
+selama
+pandemi.
+Https://Theconversation.Com/Ketimpangan-Digital-Antara-Kaya-DanMiskin-Menentukan-Kemampuan-Bertahan-Seseorang-Selama-Pandemi163019.
+18
+
+Jurnal Pendidikan Sosial Indonesia
+Vol. 2 No. 1, Juni 2024:
+
+Flick, U. (2018). An Introduction to Qualitative Research (6th ed.). SAGE
+Publications.
+Jurriëns, E., & Tapsell, R. (2017). Challenges and opportunities of the digital
+‘revolution’ in Indonesia. In Digital Indonesia (pp. 1–18). ISEAS Publishing.
+https://doi.org/10.1355/9789814786003-007
+Lahitani, S. (2024, February 2). Survei APJII: Penetrasi Pengguna Internet
+Indonesia
+Mencapai
+79%
+di
+Tahun
+2024.
+Https://Www.Liputan6.Com/Citizen6/Read/5518803/Survei-Apjii-PenetrasiPengguna-Internet-Indonesia-Mencapai-79-Di-Tahun-2024.
+Nugroho, S. A. (2017). Transactions on the smartphone as a driving factor to
+Indonesian Cashless Transaction. ACMIT Proceedings, 4(1), 112–116.
+https://doi.org/10.33555/acmit.v4i1.65
+Putri, S. A., Sari, D. I., Marzuki, K., & Taryana, A. (2022). Penerapan Design
+Thinking Eco-Boba dalam Pemanfaatan Limbah Cacahan Plastik dan
+Kemasan Paket E-commerce. Journal of Technopreneurship on Economics and
+Business Review, 3(2).
+Radovanović, D., Holst, C., Belur, S. B., Srivastava, R., Houngbonon, G. V., Le
+Quentrec, E., Miliza, J., Winkler, A. S., & Noll, J. (2020). Digital Literacy Key
+Performance Indicators for Sustainable Development. Social Inclusion, 8(2),
+151–167. https://doi.org/10.17645/si.v8i2.2587
+Tri Hendro Sigit Prakoso, & Vicky Nathasya. (2022). The Effects Of Celebrity
+Endorsement, Celebrity Attributes, Brand Image And E-Wom On Purchase
+Decisions Through Instagram. MANAJEMEN DEWANTARA, 6(3), 259–267.
+https://doi.org/10.26460/md.v6i3.13013
+Turanci, E. (2019). Consumption in the Digital Age (pp. 266–286).
+https://doi.org/10.4018/978-1-5225-8491-9.ch016
+Vyt, D., Jara, M., Mevel, O., Morvan, T., & Morvan, N. (2022). The impact of
+convenience in a click and collect retail setting: A consumer-based approach.
+International
+Journal
+of
+Production
+Economics,
+248,
+108491.
+https://doi.org/10.1016/j.ijpe.2022.108491
+
+19
+
+

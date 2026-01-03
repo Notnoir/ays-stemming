@@ -1,0 +1,622 @@
+Sanskara Ilmu Sosial dan Humaniora
+Vol. 1, No. 01, Desember, pp. 32-42
+
+
+       Pengaruh E-commerce dan Kemudahan Transaksi Terhadap
+       Perubahan Pola Konsumsi Dalam Era Digital Di Indonesia
+                        Luana Sasabone1, Eko Sudarmanto2, Yovita3, Saputra Adiwijaya4
+                          1Universitas Kristen Indonesia Paulus, luanasasabonee@gmail.com
+                    2   Universitas Muhammadiyah Tangerang, ekosudarmanto.umt@gmail.com
+                                  3 FST-UT Prodi Agribisnis, yovita@ecampus.ut.ac.id
+
+                               4 Jurusan Sosiologi UPR, saputra.adiwijaya79@gmail.com
+
+
+
+
+ Info Artikel                             ABSTRAK
+ Article history:                         Studi ini meneliti bagaimana perubahan kebiasaan konsumsi di era
+                                          digital dipengaruhi oleh e-commerce dan kemudahan transaksi di
+ Received Dec, 2023
+                                          Indonesia. Untuk menyelidiki hubungan antara tiga konstruk utama -
+ Revised Dec, 2023
+                                          E-commerce, Kemudahan Transaksi, dan Pola Konsumsi - digunakan
+ Accepted Dec, 2023
+                                          analisis kuantitatif dengan menggunakan pemodelan persamaan
+                                          struktural. Sampel sebanyak 150 orang diikutsertakan dalam
+ Kata Kunci:                              penelitian ini, dan analisis data dilakukan dengan menggunakan
+                                          metode statistik yang canggih seperti SEM-PLS 4. Temuan
+ Dinamika Pasar Lokal, E-                 menunjukkan bahwa terdapat korelasi yang kuat dan menguntungkan
+ commerce, Inovasi Bisnis, Pola
+                                          antara Kemudahan Transaksi dan Pola Konsumsi, serta antara E-
+ Konsumsi,           Preferensi           commerce dan Pola Konsumsi. Hasil penelitian menunjukkan bahwa
+ Konsumen                                 perubahan dalam pola pembelian konsumen Indonesia sebagian besar
+                                          disebabkan oleh semakin populernya perdagangan digital dan
+                                          pengalaman transaksi yang lebih baik. Kesesuaian model struktural
+ Keywords:                                yang disarankan dikonfirmasi oleh sejumlah indeks kecocokan model
+ Business Innovation, Consumer            dan nilai R-Square. Studi ini menambah pengetahuan kita tentang
+ Preferences,       Consumption           bagaimana konsumen berperilaku di era digital dan memberikan
+ Patterns,    E-commerce, Local           informasi yang berguna bagi perusahaan dan pengambil keputusan
+ Market Dynamics                          yang berusaha memahami dan mengambil keuntungan dari
+                                          perubahan tren konsumsi digital di Indonesia. Makalah ini juga
+                                          menyoroti kekurangannya dan merekomendasikan arah untuk
+                                          penelitian di masa depan untuk memperdalam pemahaman kita
+                                          tentang fenomena dinamis ini.
+
+
+
+                                          ABSTRACT
+
+                                          This study examines how changes in consumption habits in the digital era are
+                                          influenced by e-commerce and ease of transactions in Indonesia. To investigate
+                                          the relationship between the three main constructs – E-commerce, Ease of
+                                          Transactions, and Consumption Patterns – quantitative analysis is used using
+                                          structural equation modeling. A sample of 150 people was included in this
+                                          study, and data analysis was carried out using sophisticated statistical
+                                          methods such as SEM-PLS 4. The findings show that there is a strong and
+                                          favorable correlation between Ease of Transaction and Consumption Patterns,
+                                          as well as between E-commerce and Consumption Patterns. The results show
+                                          that the change in purchasing patterns of Indonesian consumers is largely due
+                                          to the growing popularity of digital commerce and better transaction
+                                          experiences. The recommended suitability of the structural model is confirmed
+                                          by a number of model fit indices and R-Square values. This study adds to our
+                                          knowledge of how consumers behave in the digital age and provides useful
+                                          information for companies and decision makers seeking to understand and take
+                                          advantage of changing digital consumption trends in Indonesia. The paper
+                                          also highlights its shortcomings and recommends directions for future
+                                          research to deepen our understanding of this dynamic phenomenon.
+
+
+Journal homepage: https://sj.eastasouth-institute.com/index.php/sish
+Sanskara Ilmu Sosial dan Humaniora (SISH)                                                               33
+
+
+                                                     This is an open access article under the CC BY-SA license.
+
+
+
+
+ Corresponding Author:
+
+ Name: Luana Sasabone
+ Institution: Universitas Kristen Indonesia Paulus
+ Email: luanasasabonee@gmail.com
+
+
+    1. PENDAHULUAN
+         Abad kedua puluh satu telah menyaksikan lonjakan transformasi digital yang signifikan,
+yang mengarah pada pergeseran mendasar dalam perilaku konsumen dan cara individu
+berinteraksi dengan barang dan jasa. Di garis depan transformasi ini adalah munculnya
+perdagangan elektronik (e-commerce), yang telah menjadi kekuatan besar yang membentuk perilaku
+konsumen secara global (Criveanu, 2023; Dina & Veronika, 2022; Tiago & Veríssimo, 2014; Vincent
+Jaiwant, 2023). E-commerce telah mengalami pertumbuhan yang cepat, terutama dalam beberapa
+tahun terakhir, dan semakin dipercepat oleh pandemi COVID-19 (Dina & Veronika, 2022; Tiago &
+Veríssimo, 2014; Vincent Jaiwant, 2023). Hal ini telah mengubah cara orang membeli dan menjual
+barang, menyediakan akses mudah ke informasi, perbandingan antar merek, dan kenyamanan
+pembelian dari berbagai perangkat (Criveanu, 2023; Vincent Jaiwant, 2023). Perkembangan
+teknologi digital dan evolusi e-commerce telah memberikan dampak yang signifikan terhadap
+pertumbuhan ekonomi, PDB, dan pengembangan organisasi yang berkelanjutan (Criveanu, 2023).
+Digitalisasi ekonomi juga telah mengarah pada integrasi dan globalisasi perdagangan, dengan e-
+commerce menjadi salah satu segmen yang paling berkembang secara dinamis dalam bidang
+perdagangan (Vincent Jaiwant, 2023). Secara keseluruhan, e-commerce telah menjadi pendorong
+utama ekonomi digital, berkontribusi pada industrialisasi bisnis, digitalisasi pemerintahan, dan
+perluasan ekonomi nasional (Dina & Veronika, 2022; Tiago & Veríssimo, 2014).
+         Indonesia telah mengalami transformasi digital yang cepat, yang mengarah pada hubungan
+yang kompleks antara e-commerce, kemudahan transaksi, dan perubahan pola konsumsi (Riswandi
+& Permadi, 2022; Sabirin et al., 2022). Ekonomi digital telah memberikan dampak yang signifikan
+terhadap Produk Domestik Bruto (PDB) Indonesia, dengan kontribusi pasar digital yang terus
+meningkat dari tahun ke tahun (Pratiwi, 2022). Namun, adopsi teknologi oleh usaha mikro, kecil,
+dan menengah (UMKM) di Indonesia menghadapi berbagai tantangan, termasuk sulitnya adopsi
+teknologi dan dampak pandemi COVID-19 (Widyanto & Haryanto, 2021). Transaksi perdagangan
+daring telah tumbuh selama pandemi, tetapi reformasi regulasi diperlukan untuk mengakselerasi
+ekonomi digital Indonesia pascapandemi. Indikator e-commerce, seperti pengguna komputer,
+pengguna e-commerce, akses internet, dan pengeluaran untuk komunikasi teknologi informasi,
+berpengaruh positif dan signifikan terhadap pertumbuhan ekonomi di Indonesia. Sektor e-bisnis di
+Indonesia menawarkan peluang pertumbuhan, tetapi juga menghadapi tantangan seperti masalah
+regulasi, literasi keuangan, kesenjangan infrastruktur, dan biaya logistik.
+         Karena beberapa hal, termasuk meningkatnya penetrasi internet, meluasnya penggunaan
+perangkat seluler, dan keinginan kelas menengah untuk mendapatkan keuntungan dari kemudahan
+perdagangan digital, e-commerce meningkat dengan cepat di Indonesia. Akibatnya, preferensi
+konsumen dan dinamika ritel tradisional berubah secara signifikan (Bening et al., 2023; Febriyanti &
+Rustam, 2023; Nugrahanto et al., 2020; Prasetio & Angelina, 2023; Septi & Bangsawan, 2023). Para
+pembuat kebijakan yang ingin mendorong pertumbuhan ekonomi yang berkelanjutan di era
+digitalisasi serta perusahaan yang bergerak di pasar digital harus memahami dampak kompleks dari
+e-commerce terhadap pola konsumsi. Studi ini bertujuan untuk memperjelas seluk-beluk transisi
+Indonesia menuju ekonomi digital, khususnya berfokus pada cara-cara e-commerce dan kenyamanan
+bertransaksi berdampak pada pergeseran perilaku konsumen.
+
+                                                                       Vol. 1, No. 01, Desember: pp. 32-42
+Sanskara Ilmu Sosial dan Humaniora (SISH)                                                       34
+
+
+   2. TINJAUAN PUSTAKA
+    2.1 E-commerce di Indonesia
+                 Evolusi e-commerce di Indonesia telah didorong oleh beberapa faktor seperti
+        peningkatan penetrasi internet, adopsi ponsel pintar, dan populasi muda yang ingin terlibat
+        dalam transaksi online (Jaman et al., 2023; Junaedi et al., 2023). Studi menunjukkan bahwa e-
+        commerce di Indonesia tidak hanya menjadi platform untuk membeli dan menjual, tetapi
+        juga menjadi sarana interaksi sosial, di mana para pengguna mengandalkan ulasan dan
+        rekomendasi dari teman sebaya untuk menginformasikan keputusan pembelian mereka.
+        Sifat pasar Indonesia yang beragam dan kompleks, yang mencakup lanskap perkotaan dan
+        pedesaan, menambah lapisan intrik tambahan pada lanskap e-commerce, yang
+        membutuhkan pemahaman yang mendalam tentang perilaku konsumen (Bening et al., 2023;
+        Nugrahanto et al., 2020; Septi & Bangsawan, 2023).
+    2.2 Perilaku Konsumen di Era Digital
+                 Era digital telah menyebabkan pergeseran paradigma dalam perilaku konsumen,
+        terutama dalam transisi dari ritel tradisional ke platform online (Iskandar et al., 2023;
+        Mariam, 2023). Memahami bagaimana pergeseran ini terwujud dalam perilaku konsumen
+        Indonesia sangatlah penting bagi para pelaku bisnis dan pembuat kebijakan di negara ini
+        (Garai-Fodor, 2023). Penelitian ilmiah yang ekstensif telah dilakukan mengenai perilaku
+        konsumen di era digital, dengan menggunakan model-model seperti Technology Acceptance
+        Model (TAM) dan Theory of Planned Behavior (TPB) (Smith & Coronel, 2023). Model-model ini
+        memberikan kerangka kerja untuk memahami faktor-faktor yang mempengaruhi
+        penerimaan dan adopsi individu terhadap inovasi teknologi. Namun, penting untuk
+        mengkontekstualisasikan model-model ini untuk memperhitungkan faktor-faktor sosial
+        ekonomi dan budaya yang unik yang membentuk keputusan konsumen di Indonesia
+        (Khaira et al., 2023). Dengan demikian, pelaku bisnis dan pembuat kebijakan dapat
+        memperoleh wawasan tentang faktor-faktor spesifik yang mendorong perilaku konsumen
+        di pasar digital Indonesia dan menyesuaikan strategi mereka (Boustani & Chammaa, 2023).
+    2.3 Kemudahan Transaksi dalam E-commerce
+                 Pengalaman bertransaksi yang lancar sangat penting untuk kepuasan dan loyalitas
+        pengguna dalam platform e-commerce. Hal ini mencakup faktor-faktor seperti desain
+        antarmuka pengguna, proses pembayaran, dan kesederhanaan navigasi. Berbagai penelitian
+        telah menunjukkan bahwa pengalaman bertransaksi yang lancar tidak hanya menarik
+        konsumen ke platform e-commerce, tetapi juga menumbuhkan kepercayaan dan
+        pertumbuhan bisnis yang berkelanjutan. Dalam konteks Indonesia, di mana literasi digital
+        dan akses terhadap teknologi bervariasi, memahami faktor-faktor yang berkontribusi
+        terhadap kemudahan bertransaksi sangatlah penting. Penelitian telah mengeksplorasi
+        korelasi antara kemudahan bertransaksi dan kepercayaan konsumen, dengan menekankan
+        peran antarmuka yang mudah digunakan dan gerbang pembayaran yang aman dalam
+        menciptakan lingkungan yang kondusif bagi pertumbuhan e-commerce (Elzeheiry et al.,
+        2023; Niu & Zhao, 2023; Vamsee et al., 2023).
+    2.4 Tantangan dan Peluang di Lanskap E-commerce Indonesia
+                 Sektor e-commerce yang sedang berkembang di Indonesia bukannya tanpa
+        tantangan. Isu-isu seperti kompleksitas logistik, masalah keamanan siber, dan kebutuhan
+        akan solusi pembayaran yang sesuai dengan kebutuhan menjadi rintangan bagi
+        pertumbuhan yang berkelanjutan. Namun, tantangan-tantangan ini disertai dengan
+        peluang yang sangat besar, termasuk potensi inklusivitas ekonomi, penciptaan lapangan
+        kerja, dan peningkatan akses terhadap barang dan jasa. Memahami keseimbangan antara
+        tantangan dan peluang sangat penting untuk merancang strategi yang memaksimalkan
+        manfaat e-commerce sekaligus mengurangi potensi risiko. Kami menyusun hipotesis
+        penelitian ini pada gambar 1 di bawah ini.
+
+
+
+                                                                   Vol. 1, No. 01, Desember: pp. 32-42
+Sanskara Ilmu Sosial dan Humaniora (SISH)                                                      35
+
+
+
+                                  E-commerce       H1
+                                                             Adaptasi
+                                                              Migran
+                                    Tingkat
+                                                   H2
+                                   Akulturasi
+
+                                     Gambar 1. Kerangka Konseptual
+
+    3. METODE PENELITIAN
+        Penelitian ini mengadopsi desain penelitian kuantitatif untuk menyelidiki secara
+komprehensif hubungan antara e-commerce, kemudahan bertransaksi, dan perubahan pola konsumsi
+di kalangan konsumen Indonesia. Penelitian ini menggunakan pendekatan survei cross-sectional
+untuk menangkap gambaran persepsi dan perilaku konsumen pada titik waktu tertentu.
+    3.1 Pengambilan Sampel
+                 Metode pengambilan sampel acak bertingkat akan digunakan untuk memastikan
+        sampel yang representatif yang mencerminkan keragaman populasi Indonesia. Jumlah
+        sampel untuk penelitian ini ditetapkan sebanyak 150 peserta. Stratifikasi akan didasarkan
+        pada faktor demografis seperti usia, jenis kelamin, pendapatan, dan lokasi geografis untuk
+        memperhitungkan lanskap sosio-ekonomi dan budaya yang bervariasi di Indonesia.
+    3.2 Pengumpulan Data
+                 Data dikumpulkan melalui kuesioner terstruktur yang didistribusikan secara online.
+        Survei ini akan mencakup pertanyaan-pertanyaan yang berkaitan dengan pola penggunaan
+        e-commerce, persepsi kemudahan transaksi, dan perubahan perilaku konsumsi. Kuesioner
+        diuji terlebih dahulu untuk mengetahui kejelasan dan relevansinya dengan kelompok
+        percontohan kecil sebelum disebarkan kepada sampel utama.
+    3.3 Variabel
+        a. Penggunaan e-commerce: Frekuensi keterlibatan dengan platform online, jenis produk
+            yang dibeli, dan saluran e-commerce yang disukai.
+        b. Kemudahan transaksi: Kemudahan yang dirasakan dalam menavigasi situs web e-
+            commerce, proses pembayaran, dan pengalaman pengguna secara keseluruhan.
+        c. Perubahan pola konsumsi: Pergeseran dalam kebiasaan belanja, preferensi untuk
+            belanja online versus offline, dan faktor-faktor yang mempengaruhi perubahan ini.
+    3.4 Analisis Data
+                 Structural Equation Modeling (SEM) dengan Partial Least Squares (PLS) 4 akan
+        digunakan untuk analisis statistik dalam penelitian ini (Haji-Othman & Yusuff, 2022). PLS-
+        SEM cocok untuk mengeksplorasi hubungan yang kompleks antar variabel, sehingga sesuai
+        untuk penelitian ini (Kang & Ahn, 2021). Analisis akan melibatkan beberapa langkah.
+        Pertama, kerangka konseptual akan dikembangkan berdasarkan tujuan penelitian,
+        membangun hubungan antara konstruk laten dan variabel teramati (Memon et al., 2021).
+        Selanjutnya, model pengukuran akan dinilai untuk memvalidasi reliabilitas dan validitas
+        instrumen pengukuran yang digunakan (Hair et al., 2021). Kekuatan dan signifikansi
+        hubungan antara konstruk laten akan diperiksa dalam penilaian model struktural, dengan
+        fokus pada dampak penggunaan e-commerce dan kemudahan transaksi terhadap perubahan
+        pola konsumsi (Liengaard, 2020). Teknik bootstrapping akan digunakan untuk meningkatkan
+        kekokohan hasil dan memvalidasi signifikansi statistik dari hubungan yang teridentifikasi.
+        Terakhir, kecocokan keseluruhan model struktural akan dinilai untuk memastikan
+        kesesuaiannya dalam menjelaskan data yang diamati.
+
+
+
+
+                                                                  Vol. 1, No. 01, Desember: pp. 32-42
+Sanskara Ilmu Sosial dan Humaniora (SISH)                                                           36
+
+
+   4. HASIL DAN PEMBAHASAN
+    4.1 Hasil
+        a. Demografi Sampel
+                   Sebanyak 150 konsumen Indonesia berpartisipasi dalam survei ini, yang
+           memberikan wawasan tentang demografi peserta dan jawaban atas pertanyaan-
+           pertanyaan utama survei.
+                   Dewasa muda (YA) yang berusia antara 18 dan 24 tahun merupakan 25% dari
+           populasi, sementara YA yang berusia antara 25 dan 34 tahun merupakan 40%. Distribusi
+           tingkat pendapatan adalah sebagai berikut: menengah (50%), tinggi (20%), dan rendah
+           (30%). Secara geografis, 40% orang tinggal di daerah pedesaan sementara 60% orang
+           tinggal di daerah metropolitan. Orang dewasa muda menggunakan e-commerce setiap
+           hari sebanyak 45%, mingguan sebanyak 30%, dan bulanan sebanyak 25%. Pada skala 1
+           sampai 10, peringkat kemudahan yang dirasakan untuk kemudahan transaksi adalah
+           8,2.
+        b. Validitas dan Reliabilitas
+                   Model pengukuran dinilai untuk memastikan keandalan dan validitas
+           konstruk. Analisis faktor konfirmatori (CFA) digunakan untuk mengevaluasi
+           kecocokan model pengukuran. Hasilnya menunjukkan keandalan dan validitas
+           konvergen yang memuaskan untuk konstruk laten penggunaan e-commerce, kemudahan
+           transaksi, dan perubahan pola konsumsi.
+
+                                        Tabel 1. Validitas dan Reliabilitas
+                                                                                       Loading     Outer
+               Variabel                          Item                           Code
+                                                                                        Factor      VIF
+                            Cronbach’s Alpha = 0.847, Composite Reliability =
+                            0.897, AVE = 0.685.
+                            1. Web Scraping                                     EC.1     0.845      2.311
+              E-commerce
+                            2. Kematangan E-commerce                            EC.2     0.816      2.145
+                 (EC)
+                            3. Pembayaran elektronik dan Layanan E-             EC.3                2.206
+                                                                                         0.819
+                            commerce
+                            4. Network Promoter Score                           EC.4     0.829      2.327
+                            Cronbach’s Alpha = 0.821, Composite Reliability =
+                            0.88, AVE = 0.648.
+                            1. Kepercayaan, Sikap Belanja Online, dan           KT.1                2.286
+              Kemudahan                                                                  0.785
+                            Norma Subjektif
+               Transaksi
+                            2. Kredibilitas dan Kepercayaan                     KT.2     0.726      2.083
+                 (KT)
+                            3. Pembayaran Elektronik dan Layanan E-             KT.3                2.362
+                                                                                         0.855
+                            commerce
+                            4. Sekilas tentang Lingkungan                       KT.4     0.847      2.306
+                            Cronbach’s Alpha = 0.864, Composite Reliability =
+                            0.908, AVE = 0.712.
+                 Pola
+                            1. Kepercayaan                                      PK.1     0.792      1.69
+               Konsumsi
+                            2. Sikap Belanja Online                             PK.2     0.883      2.705
+                 (PK)
+                            3. Norma Subyektif                                  PK.3     0.850      2.173
+                            4. Niat Membeli                                     PK.4     0.846      2.224
+            Sumber: Data hasil olahan penulis (2023)
+
+                    Konstruk laten E-commerce menunjukkan keandalan yang tinggi (Cronbach’s
+           Alpha = 0,847) dan konsistensi internal (Composite Reliability = 0,897), yang
+           mengindikasikan bahwa indikator-indikator tersebut mengukur konsep umum yang
+           mendasari secara efektif. Average Variance Extracted (AVE) sebesar 0,685 menunjukkan
+           validitas konvergen yang moderat. Semua faktor loading untuk indikator-indikator
+           berada di atas ambang batas yang diterima secara umum yaitu 0,7, yang
+
+
+                                                                       Vol. 1, No. 01, Desember: pp. 32-42
+Sanskara Ilmu Sosial dan Humaniora (SISH)                                                         37
+
+
+           mengindikasikan hubungan yang kuat antara konstruk laten dengan indikator-
+           indikatornya. Nilai Outer VIF, meskipun sedikit di atas ambang batas ideal 2, berada
+           dalam kisaran yang dapat diterima, menunjukkan bahwa multikolinieritas bukan
+           merupakan masalah yang signifikan.
+                   Konstruk laten Kemudahan Transaksi menunjukkan reliabilitas yang
+           memuaskan (Cronbach’s Alpha = 0.821) dan konsistensi internal (Composite Reliability =
+           0.88). AVE sebesar 0,648 menunjukkan validitas konvergen yang moderat. Semua faktor
+           loading di atas 0.7, menunjukkan hubungan yang kuat antara konstruk laten dan
+           indikator-indikatornya. Nilai Outer VIF berada dalam kisaran yang dapat diterima,
+           menandakan tidak adanya multikolinieritas yang parah.
+                   Konstruk laten Pola Konsumsi menunjukkan reliabilitas yang tinggi (Cronbach’s
+           Alpha = 0,864) dan konsistensi internal (Composite Reliability = 0,908). AVE sebesar 0,712
+           menunjukkan validitas konvergen yang baik. Semua faktor loading untuk indikator-
+           indikator di atas 0,7, menunjukkan hubungan yang kuat antara konstruk laten dan
+           indikator-indikatornya. Nilai Outer VIF berada dalam kisaran yang dapat diterima,
+           yang mengindikasikan tidak ada masalah multikolinearitas yang signifikan.
+
+                                             Tabel 2: VIF Internal
+                                        E-commerce        Kemudahan Transaksi           Pola Konsumsi
+             E-commerce                                                                      2.068
+             Kemudahan Transaksi                                                             1.268
+             Pola Konsumsi
+            Sumber: Data hasil olahan penulis (2023)
+
+                   Nilai VIF untuk E-commerce dan Kemudahan Transaksi menunjukkan tingkat
+           multikolinearitas yang moderat, dengan masing-masing konstruk memiliki tingkat
+           independensi yang wajar dari yang lain. Tidak adanya nilai VIF untuk Pola Konsumsi
+           membatasi kemampuan untuk menilai multikolinieritasnya dengan konstruk - konstruk
+           lain dalam tabel khusus ini. Penting untuk mengeksplorasi hubungan Pola Konsumsi
+           dengan E-commerce dan Kemudahan Transaksi dalam model struktural yang lebih luas.
+
+                                        Tabel 3. Validitas Diskriminan
+                                             E-commerce      Kemudahan Transaksi        Pola Konsumsi
+             E-commerce                         0.828
+             Kemudahan Transaksi                0.821                  0.805
+             Pola Konsumsi                      0.733                  0.821                 0.844
+            Sumber: Data hasil olahan penulis (2023)
+
+                  Nilai Discriminant Validity untuk semua konstruk lebih tinggi daripada korelasi
+           masing-masing dengan konstruk lainnya, yang mengindikasikan bahwa setiap
+           konstruk laten dapat dibedakan dari yang lain. E-commerce, Kemudahan Transaksi, dan
+           Pola Konsumsi menunjukkan validitas diskriminan yang memuaskan, yang
+           mendukung gagasan bahwa mereka mewakili konsep-konsep dasar yang berbeda.
+
+
+
+
+                                                                     Vol. 1, No. 01, Desember: pp. 32-42
+Sanskara Ilmu Sosial dan Humaniora (SISH)                                                         38
+
+
+
+
+                                     Gambar 2. Model Penilaian Internal
+
+       c.   Model Fit Evaluation
+                    Indeks kesesuaian model sangat penting untuk mengevaluasi kecukupan
+            model persamaan struktural. Perbandingan antara Model Jenuh (model dengan perfect
+            fit) dan Model Estimasi memberikan wawasan tentang seberapa baik model yang
+            diusulkan sesuai dengan data yang diamati.
+
+                                                Table 4. Model Fit
+                                     Saturated Model                        Estimated Model
+                SRMR                      0.098                                   0.098
+               d_ULS                      0.749                                   0.749
+                 d_G                      0.426                                   0.426
+              Chi-Square                 298.496                                 298.496
+                 NFI                      0.722                                   0.722
+            Sumber: Data hasil olahan penulis (2023)
+
+                    Nilai SRMR untuk Model Jenuh dan Model Estimasi identik pada 0,098, yang
+            mengindikasikan kecocokan yang baik. Nilai d_ULS untuk kedua model sama yaitu
+            0,749, menunjukkan bahwa Model Estimasi memberikan kecocokan yang sebanding
+            dengan Model Jenuh. Nilai d_G untuk kedua model adalah sama yaitu 0,426,
+            menunjukkan bahwa Model Estimasi mereplikasi pola pertumbuhan yang diamati pada
+            Model Jenuh. Nilai Chi-Square untuk kedua model identik pada 298,496, menilai
+            perbedaan antara model dan matriks kovarians yang diamati. Nilai NFI untuk kedua
+            model adalah sama yaitu 0,722, yang menunjukkan kecocokan yang masuk akal dengan
+            membandingkan model yang diestimasi dengan model nol.
+
+                                       Tabel 5. Koefisien Determinasi
+                                        R Square                          R Square Adjusted
+             Pola Konsumsi                  0.683                                0.678
+            Sumber: Data hasil olahan penulis (2023)
+
+                    Nilai R-Square sebesar 0,683 mengindikasikan bahwa sekitar 68,3% varians
+            dalam konstruk Pola Konsumsi dijelaskan oleh prediktor - prediktor yang termasuk
+            dalam model. Hal ini menunjukkan bahwa sebagian besar variabilitas dalam Pola
+            Konsumsi dapat dijelaskan oleh variabel-variabel independen dalam model persamaan
+            struktural. Nilai R-Square Adjusted sebesar 0,678 memperhitungkan dampak potensial
+
+                                                                     Vol. 1, No. 01, Desember: pp. 32-42
+Sanskara Ilmu Sosial dan Humaniora (SISH)                                                        39
+
+
+           dari penambahan lebih banyak prediktor ke dalam model. Nilai R-Square ini
+           menghukum nilai R-Square ketika prediktor tambahan tidak secara signifikan
+           meningkatkan model. Nilai adjusted sebesar 0,678 sedikit lebih rendah dari R-Square,
+           menunjukkan bahwa model tidak kehilangan banyak daya penjelas ketika
+           mempertimbangkan jumlah prediktor.
+        d. Struktural Model
+
+                                              Tabel 4. Tes Hipostesis
+                                        Original                  Standard
+                                                     Sample                      T Statistics     P
+                                        Sample                    Deviation
+                                                    Mean (M)                   (|O/STDEV|)      Values
+                                          (O)                     (STDEV)
+             E-commerce    ->  Pola
+                                            0.374      0.495        0.114           3.522        0.000
+             Konsumsi
+             Kemudahan Transaksi ->
+                                            0.678      0.664        0.103           6.603        0.000
+             Pola Konsumsi
+            Sumber: Data hasil olahan penulis (2023)
+
+                     Analisis model struktural memberikan wawasan yang berharga mengenai
+            hubungan antara konstruk laten dalam model. Informasi yang disajikan meliputi
+            koefisien jalur dari E-commerce dan Kemudahan Transaksi ke Pola Konsumsi, bersama
+            dengan statistik yang terkait dengan sampel asli. Koefisien jalur sebesar 0,374
+            menunjukkan hubungan positif antara E-commerce dan Pola Konsumsi. Nilai T Statistics
+            sebesar 3,522, dengan P Value sebesar 0,000, menunjukkan bahwa hubungan tersebut
+            signifikan secara statistik pada tingkat signifikansi konvensional. Kemudahan Transaksi
+            memiliki koefisien jalur sebesar 0,678, menunjukkan hubungan positif yang kuat
+            dengan Pola Konsumsi. Nilai T Statistics sebesar 6.603, dengan P Value sebesar 0.000,
+            menandakan signifikansi statistik dari hubungan ini. Nilai T Statistics yang tinggi
+            mengimplikasikan hubungan yang kuat dan dapat diandalkan antara Kemudahan
+            Transaksi dan Pola Konsumsi.
+    4.2 Pembahasan
+                 Hubungan positif antara E-commerce dan perubahan pola konsumsi sejalan dengan
+        tren global peningkatan digitalisasi yang memengaruhi perilaku konsumen. Kemudahan
+        dan aksesibilitas yang ditawarkan oleh platform online berkontribusi pada perubahan dalam
+        cara individu membuat keputusan pembelian dan terlibat dengan produk dan layanan.
+        Hubungan yang kuat antara kemudahan transaksi dan perubahan pola konsumsi
+        menggarisbawahi pentingnya pengalaman digital tanpa hambatan. Konsumen cenderung
+        mengubah pola konsumsi mereka ketika transaksi berjalan lancar, menekankan peran
+        penting dari antarmuka yang mudah digunakan dan metode pembayaran yang efisien.
+                 Dampak transformatif dari e-commerce terhadap perilaku konsumen telah disoroti
+        dalam penelitian sebelumnya, baik secara global maupun dalam konteks Indonesia
+        (Christanti & Jatiputra, 2023; Kristanto et al., 2022). Penelitian-penelitian ini menekankan
+        perlunya bisnis beradaptasi dengan lanskap digital dan tantangan untuk mempertahankan
+        loyalitas pelanggan di pasar yang kompetitif (Hutahaean et al., 2022). Selain itu,
+        pertumbuhan industri e-commerce yang pesat di Indonesia selama pandemi telah
+        menyebabkan peningkatan fokus untuk memahami faktor-faktor yang berkontribusi
+        terhadap kepuasan, kepercayaan, dan loyalitas pelanggan (Hutahaean et al., 2022). Selain
+        itu, penelitian telah menunjukkan bahwa adopsi e-commerce dapat secara signifikan
+        memengaruhi kinerja keuangan UKM budaya, dengan kapabilitas dinamis memainkan
+        peran moderasi dalam hubungan ini (Hutahaean et al., 2022). Secara keseluruhan, temuan
+        ini mendukung pentingnya e-commerce dalam mendorong operasi dan kinerja bisnis, serta
+        perlunya bisnis memprioritaskan kepuasan dan loyalitas pelanggan dalam strategi
+        pemasaran mereka.
+
+
+                                                                    Vol. 1, No. 01, Desember: pp. 32-42
+Sanskara Ilmu Sosial dan Humaniora (SISH)                                                                       40
+
+
+                 Penekanan pada kemudahan transaksi didukung oleh penelitian yang menyoroti
+        pentingnya pengalaman pengguna dalam membentuk perilaku konsumen online
+        (Nainggolan et al., 2023). Proses transaksi yang mudah dan aman memang menjadi
+        kekuatan pendorong di balik tren konsumsi digital (Lestari et al., 2023; Saghafi et al., 2023).
+    4.3 Implikasi untuk Bisnis
+                 Bisnis yang beroperasi di lanskap digital harus memprioritaskan pengoptimalan
+        pengalaman pengguna dan memastikan transaksi yang lancar. Memahami pengaruh E-
+        commerce dan kemudahan transaksi terhadap perilaku konsumen memberikan wawasan
+        strategis untuk pemasaran, desain antarmuka pengguna, dan inisiatif layanan pelanggan.
+    4.4 Kontribusi Penelitian
+                 Penelitian ini berkontribusi pada literatur yang terus berkembang mengenai pola
+        konsumsi digital, terutama dalam konteks pasar negara berkembang seperti Indonesia.
+        Bukti empiris yang disajikan di sini meningkatkan pemahaman kita tentang hubungan yang
+        rumit antara variabel-variabel utama di era digital.
+    4.5 Keterbatasan dan Penelitian di Masa Depan
+                 Meskipun temuan-temuannya kuat, penting untuk mengakui adanya beberapa
+        keterbatasan. Penelitian di masa depan dapat mengeksplorasi faktor-faktor lain yang
+        memengaruhi perubahan pola konsumsi, seperti dimensi budaya, faktor ekonomi eksternal,
+        atau kemajuan teknologi. Studi longitudinal dapat memberikan wawasan tentang evolusi
+        pola konsumsi digital dari waktu ke waktu.
+
+    5. KESIMPULAN
+         Hasilnya, penelitian ini menjelaskan hubungan yang kompleks antara E-commerce,
+kesederhanaan transaksi, dan pergeseran tren konsumen di Indonesia. Data empiris menyoroti
+betapa pentingnya perdagangan digital dan pengalaman transaksi yang mudah digunakan untuk
+mempengaruhi bagaimana pelanggan berinteraksi dengan barang dan jasa. E-commerce,
+kenyamanan transaksi, dan kebiasaan konsumsi berkorelasi positif, menunjukkan bahwa revolusi
+digital mendorong pergeseran paradigma dalam perilaku konsumen. Disarankan agar perusahaan-
+perusahaan yang berbisnis di Indonesia memberikan prioritas utama pada strategi digital yang
+dapat meningkatkan pengalaman pelanggan dan mempercepat transaksi. Sangat penting untuk
+memahami bagaimana media digital memengaruhi pola konsumsi untuk memodifikasi taktik
+pemasaran, meningkatkan saluran online, dan menumbuhkan loyalitas pelanggan. Meskipun hasil
+penelitian ini menawarkan informasi yang mendalam, penting untuk mengenali batasan penelitian,
+seperti rentang variabel yang diteliti dan pengaruh dari luar terhadap perilaku pelanggan.
+Investigasi selanjutnya dapat memeriksa aspek-aspek tambahan dan melakukan analisis yang lebih
+luas untuk memahami karakteristik dinamis dari kebiasaan konsumsi digital sepanjang waktu.
+
+DAFTAR PUSTAKA
+Bening, S. A., Dachyar, M., Pratama, N. R., Park, J., & Chang, Y. (2023). E-Commerce Technologies Adoption
+      Strategy Selection in Indonesian SMEs Using the Decision-Makers, Technological, Organizational and
+      Environmental        (DTOE)        Framework.        In      Sustainability     (Vol.      15,     Issue     12).
+      https://doi.org/10.3390/su15129361
+Boustani, N. M., & Chammaa, C. (2023). Youth Adoption of Innovative Digital Marketing and Cross-Cultural
+      Disparities. In Administrative Sciences (Vol. 13, Issue 6). https://doi.org/10.3390/admsci13060151
+Christanti, R., & Jatiputra, J. (2023). Adopsi E-commerce pada UMKM selama Masa Krisis: dengan Peran
+      Mediator Kapabilitas Dinamis. Owner, 7, 1669–1697. https://doi.org/10.33395/owner.v7i2.1348
+Criveanu, M. M. (2023). Investigating Digital Intensity and E-Commerce as Drivers for Sustainability and
+      Economic          Growth        in       &nbsp;the          EU        Countries.       Electronics,       12(10).
+      https://doi.org/10.3390/electronics12102318
+Dina, R., & Veronika, M. (2022). International Experience in the Development of Electronic Commerce and Its
+      Application      in   the     Republic     of      Belarus.     Economic     Alternatives,     28(3),   473–484.
+
+
+
+                                                                               Vol. 1, No. 01, Desember: pp. 32-42
+Sanskara Ilmu Sosial dan Humaniora (SISH)                                                                       41
+
+
+      https://doi.org/10.37075/EA.2022.3.07
+Elzeheiry, S., Mohammed Gab Allah, W., Mekky, N., & Elmogy, M. (2023). Sentiment Analysis for E-commerce
+      Product Reviews: Current Trends and Future Directions. https://doi.org/10.20944/preprints202305.1649.v1
+Febriyanti, F., & Rustam, T. A. (2023). Pengaruh Kualitas Produk, Kemudahan, dan Kepercayaan Konsumen
+      terhadap Keputusan Pembelian pada Lazada di Kota Batam. J-MAS (Jurnal Manajemen Dan Sains), 8(1),
+      81. https://doi.org/10.33087/jmas.v8i1.917
+Garai-Fodor, M. (2023). Digitalisation trends based on consumer research. 2023 IEEE 17th International
+      Symposium        on     Applied    Computational      Intelligence   and     Informatics    (SACI),     349–352.
+      https://doi.org/10.1109/SACI58269.2023.10158614
+Hair, J. F., Hult, G. T. M., Ringle, C. M., Sarstedt, M., Danks, N. P., & Ray, S. (2021). An Introduction to Structural
+      Equation Modeling BT - Partial Least Squares Structural Equation Modeling (PLS-SEM) Using R: A Workbook
+      (J. F. Hair Jr., G. T. M. Hult, C. M. Ringle, M. Sarstedt, N. P. Danks, & S. Ray (eds.); pp. 1–29). Springer
+      International Publishing. https://doi.org/10.1007/978-3-030-80519-7_1
+Haji-Othman, Y., & Yusuff, M. S. S. (2022). Assessing Reliability and Validity of Attitude Construct Using Partial
+      Least Squares Structural Equation Modeling (PLS-SEM). International Journal of Academic Research in
+      Business and Social Sciences, 12(5), 378–385. https://doi.org/10.6007/ijarbss/v12-i5/13289
+Hutahaean, J., Saputra, E., Mulyani, N., Sulistiyani, & Julitawaty, W. (2022). E-Commerce during pandemic in
+      Indonesia: bibliometric analysis. 2022 IEEE International Conference of Computer Science and Information
+      Technology (ICOSNIKOM), 1–6. https://doi.org/10.1109/ICOSNIKOM56551.2022.10034920
+Iskandar, Y., Jaman, U. B., & Ardhiyansyah, A. (2023). Analyzing the Relationship Between Technology Adoption and
+      Business Performance in the Digital Age in SMEs in Indonesia. 01(01), 1–8.
+Jaman, U. B., Lubis, A. F., & Suhartono, S. (2023). Legal Challenges in the Development of Information and
+      Communication Technology SMEs in Jabodetabek Region, Indonesia. West Science Law and Human Rights,
+      1(04), 149–156. https://doi.org/10.58812/wslhr.v1i04.321
+Junaedi, A., Bramasta, R. A., Jaman, U. B., & Ardhiyansyah, A. (2023). The Effect of Digital Marketing and E-
+      Commerce on Increasing Sales Volume (Vol. 1). Atlantis Press International BV. https://doi.org/10.2991/978-
+      94-6463-226-2_12
+Kang, H., & Ahn, J.-W. (2021). Model Setting and Interpretation of Results in Research Using Structural Equation
+      Modeling: A Checklist with Guiding Questions for Reporting. Asian Nursing Research, 15(3), 157–162.
+      https://doi.org/https://doi.org/10.1016/j.anr.2021.06.001
+Khaira, N., Triyonggo, Y., & Sukmawati, A. (2023). Examining The Mediating Role Ofdigital Culture On Digital
+      Talent In The Telecommunication Sector. Jurnal Aplikasi Manajemen, 21(2), 439–454.
+Kristanto, F. H., Rahma, H. W., & Nahrowi, M. (2022). Factors Affecting E-Commerce Customer Loyalty In
+      Indonesia. Jurnal Syntax Transformation, 3(9), 2003–2005.
+Lestari, I., Pristiyono, P., & Halim, A. (2023). Analisis Sikap Konsumen dan Motivasi Konsumen Dalam Minat
+      Menggunakan E-Wallet Sebagai Alternatif Pembayaran Masa Depan. 6(2).
+Liengaard, B. D. (2020). Comparing Models and Measures using Partial Least Squares Path Modeling. 137.
+Mariam. (2023). Application of Business Technology in Management: A Case Study of Using Technology
+      Innovation to Improve Business Operational Efficiency and Effectiveness. West Science Business and
+      Management, 1(03), 176–183. https://doi.org/10.58812/wsbm.v1i03.98
+Memon, M. A., Ramayah, T., Cheah, J. H., Ting, H., Chuah, F., & Cham, T. H. (2021). Pls-Sem Statistical
+      Programs: a Review. Journal of Applied Structural Equation Modeling, 5(1), i–xiv.
+      https://doi.org/10.47263/JASEM.5(1)06
+Nainggolan, N., Halim, F., Sofiyan, S., Inrawan, A., & Lidia, J. (2023). Dominant Factors Behavioral Intention Of
+      The Generation Millennials in Using E-Wallets. International Journal of Entrepreneurship, Business and
+      Creative Economy, 3. https://doi.org/10.31098/ijebce.v3i1.736
+Niu, B., & Zhao, J. (2023). E-Commerce Industry: A Comprehensive Analysis of its Competitive Advantages.
+      Highlights in Business, Economics and Management, 15, 93–98. https://doi.org/10.54097/hbem.v15i.9322
+Nugrahanto, H. R., Fadillah, T. H., Rizkyna, P. C., & Zhafira, W. A. (2020). E-Commerce: A New Media that
+      Creates New Disasters. Corporate Governance (Bingley), 10(1), 54–75.
+Prasetio, A., & Angelina, A. P. (2023). The Influence of Brand Image and Product Price towards Purchase
+      Decision at E-commerce Tokopedia. Jurnal Ilmiah Manajemen Dan Bisnis, 9(1), 67.
+      https://doi.org/10.22441/jimb.v9i1.15185
+Pratiwi, K. D. (2022). E-Commerce And Economic Growth In Indonesia: Analysis Of Panel Data Regression.
+      GEMA PUBLICA: Jurnal Manajemen Dan Kebijakan Publik, 7(1), 171–186.
+Riswandi, R., & Permadi, I. (2022). Business Sustainability Through Technology Adoption: Readiness and
+      Acceptance of E-commerce Technology in MSMEs. KnE Social Sciences, 7(14 SE-Articles).
+
+
+                                                                               Vol. 1, No. 01, Desember: pp. 32-42
+Sanskara Ilmu Sosial dan Humaniora (SISH)                                                                       42
+
+
+      https://doi.org/10.18502/kss.v7i14.11973
+Sabirin, A., Ariyoza Aryaputera Budi, Adhiyaksa, F. D., Aurelya, B. P., Ridwan, S., Lesmana, J. R., & Alifta, F.
+      D. (2022). Green Economy as a Law for the Economic Recovery Post Covid-19 Amidst the Increasing
+      Cross-border        E-commerce       in    Indonesia.       KnE     Social     Sciences,    7(15   SE-Articles).
+      https://doi.org/10.18502/kss.v7i15.12072
+Saghafi, F., Mirzaei, S., & Fahim, A. (2023). Product Recommender System Using Hypergraph Neural Networks.
+      2023       9th       International      Conference       on      Web        Research     (ICWR),        189–195.
+      https://doi.org/10.1109/ICWR57742.2023.10139136
+Septi, S., & Bangsawan, S. (2023). The Influence of NCT 127 as a Brand Ambassador and Brand Trust on
+      Consumer Purchase Decisions at Blibli Online Shopping Site (Study on NCT 127 fans in Bandar
+      Lampung). International Journal of Regional Innovation, 3. https://doi.org/10.52000/ijori.v3i2.76
+Smith, M. K., & Coronel, M. (2023). Technology Acceptance and Readiness among different Generations of
+      Urban Touists. Marketing & Menedzsment, 57(1), 37–48. https://doi.org/10.15170/mm.2023.57.01.04
+Tiago, M. T. P. M. B., & Veríssimo, J. M. C. (2014). Digital marketing and social media: Why bother? Business
+      Horizons, 57(6), 703–708. https://doi.org/10.1016/j.bushor.2014.07.002
+Vamsee, C. S., Rakesh, D., Prathyusha, I., Dinesh, B., & Bharathi, C. (2023). Demographic and Psychographic
+      Customer Segmentation for Ecommerce Applications. 2023 2nd International Conference on Applied Artificial
+      Intelligence and Computing (ICAAIC), 615–622. https://doi.org/10.1109/ICAAIC56838.2023.10140861
+Vincent Jaiwant, S. (2023). Changing Structure of Consumer Buying Behaviour and Expectation in the Digital Era BT
+      - Industry 4.0 and the Digital Transformation of International Business (G. Singh, R. Goel, & V. Garg (eds.); pp.
+      207–215). Springer Nature Singapore. https://doi.org/10.1007/978-981-19-7880-7_12
+Widyanto, H., & Haryanto, J. (2021). Mapping the E-Business Ecosystem in Indonesia: A Comprehensive Analysis (pp.
+      159–178). https://doi.org/10.4018/978-1-7998-4984-1.ch009
+
+
+
+
+                                                                               Vol. 1, No. 01, Desember: pp. 32-42
+

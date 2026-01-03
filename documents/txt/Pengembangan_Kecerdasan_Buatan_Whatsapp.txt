@@ -1,0 +1,1004 @@
+Jurnal Teknologi Sistem Informasi dan Aplikasi
+Penerbit: Program Studi Teknik Informatika Universitas Pamulang
+Vol. 5, No. 1, Januari 2022 (37-46)
+
+ISSN: 2654-3788
+e-ISSN: 2654-4229
+DOI: 10.32493/jtsi.v5i1.15487
+
+Pengembangan Kecerdasan Buatan Whatsapp Chatbot untuk Mahasiswa
+Ruly Suryana1, Mukhlis Aryanto2, Rizki Kurniawan3, Kyash Sabda Gusti Prabu Satmata4,
+Yulianti5, Aries Saifudin6
+Teknik Informatika, Universitas Pamulang, Jl. Raya Puspitek No.46, Buaran Serpong, Tangerang Selatan,
+Banten, Indonesia, 15310
+e-mail: 1rulysuryana26@gmail.com, 2kurniawanrizki30@gmail.com, 3aryantomukhlis@gmail.com,
+4
+khyashsabda11@gmail.com, 5yulianti@unpam.ac.id, 6aries.saifudin@unpam.ac.id
+Submitted Date: December 06th, 2021
+Revised Date: December 10th, 2021
+
+Reviewed Date: December 07th, 2021
+Accepted Date: January 31st, 2022
+Abstract
+
+A chatbot is an artificial intelligence-based computer program that can carry out conversations via
+audio or text. This study intends to identify and analyze the types of artificial intelligence in the form of
+chatbots and their possible use as chatbot-based communication media. Currently, the practice in most is
+that branch employees need to consult with the central employees or search through official websites for
+work-related information. However, the process of obtaining the required information can take some time
+ranging from minutes to hours and is sometimes inconsistent as questions are answered by different
+employee members. There are WhatsApp chat groups for branch employees to interact with central
+employees, but group chats can be overwhelmed by questions due to the large number of members causing
+important messages to be ignored. In an effort to overcome this challenge, we developed a WhatsApp
+chatbot to overcome this problem by offering a centralized platform of communication for central
+employees and branch employees to share information via WhatsApp messages. Communication in the
+form of personalized messages between chatbots and users thus solving the overwhelming messaging
+problem that group chats pose. The Agile Kanban methodology was used to develop a system that promotes
+the use of Kanban boards to visualize development stages. A questionnaire is distributed to branch
+employees, head office employees and managers to test the system and collect opinions and suggestions
+from target users to assess whether the system is meeting its objectives. The biggest benefit of the Kanban
+methodology is the ability to continuously improve work. It can be used in any work environment and is
+great in situations where work arrives unexpectedly.
+Keywords: Chatbot; Metodologi Kanban; VenomBot; WhatsApp
+Abstrak
+Chatbot adalah program komputer berbasis kecerdasan buatan yang dapat melakukan percakapan
+melalui audio atau teks. Penelitian ini bermaksud untuk mengetahui dan menganalisis jenis-jenis
+kecerdasan buatan pada bentuk chatbot dan kemungkinan penggunaannya sebagai media komunikasi
+berbasis chatbot. Saat ini, praktik di sebagian besar adalah mahasiswa perlu berkonsultasi dengan dosen
+pusat atau mencari melalui situs web resmi untuk mendapatkan informasi yang berkaitan dengan pekerjaan.
+Namun, proses memperoleh informasi yang dibutuhkan dapat memakan waktu beberapa waktu mulai dari
+menit hingga jam dan terkadang tidak konsisten karena pertanyaan dijawab oleh yang berbeda anggota staf
+universitas. Ada grup chat WhatsApp bagi mahasiswa untuk berinteraksi dengan dosen pusat, tetapi grup
+chat bisa kewalahan oleh pertanyaan karena jumlah anggota yang sangat besar sehingga menyebabkan
+pesan penting menjadi diabaikan. Dalam upaya untuk mengatasi tantangan ini, kami mengembangkan
+WhatsApp chatbot untuk mengatasi masalah ini dengan menawarkan platform terpusat dari komunikasi
+bagi mahasiswa dan dosen untuk melakukan berbagi informasi melalui pesan WhatsApp. Komunikasi
+dalam bentuk pesan yang dipersonalisasi antara chatbot dan pengguna sehingga menyelesaikan masalah
+pesan luar biasa yang ditimbulkan oleh obrolan grup. Metodologi Kanban digunakan untuk
+mengembangkan sistem yang mempromosikan penggunaan papan Kanban untuk memvisualisasikan tahap
+
+http://openjournal.unpam.ac.id/index.php/JTSI
+
+37
+
+Jurnal Teknologi Sistem Informasi dan Aplikasi
+Penerbit: Program Studi Teknik Informatika Universitas Pamulang
+Vol. 5, No. 1, Januari 2022 (37-46)
+
+ISSN: 2654-3788
+e-ISSN: 2654-4229
+DOI: 10.32493/jtsi.v5i1.15487
+
+pengembangan. Sebuah kuesioner dibagikan kepada dosen, mahasiswa untuk menguji sistem dan
+mengumpulkan pendapat dan saran dari sasaran pengguna untuk menilai apakah sistem memenuhi
+tujuannya. Manfaat terbesar dari metodologi Kanban adalah kemampuan untuk terus meningkatkan
+pekerjaan. Ini dapat digunakan di lingkungan kerja apa pun dan sangat bagus dalam situasi di mana
+pekerjaan tiba secara tidak terduga.
+Kata kunci: Chatbot; Metodologi Kanban; VenomBot; WhatsApp
+1. Pendahuluan
+WhatsApp adalah aplikasi pesan instan
+yang berfungsi untuk menggantikan SMS
+(layanan pesan singkat) dengan aplikasi
+messenger seluler lintas platform yang berfungsi
+setiap kali perangkat terhubung ke internet. Di
+lingkungan kampus atau bisnis, WhatsApp
+banyak digunakan sebagai komunikasi informal
+antar karyawan untuk diskusi tentang berbagai
+proyek atau tugas, serta berbagi informasi antar
+karyawan kampus, lintas divisi. Untuk lebih
+meningkatkan efisiensi alur kerja saat ini yang
+sedang digunakan dikantor, kami memanfaatkan
+penggunaan teknologi baru seperti aplikasi
+chatbot.
+Chatbot Whatsapp sangat diperlukan di era
+perkembangan teknologi 4.0 yang menunjang
+transformasi digital dan kecepatan dalam
+berkomunikasi. Chatbot digunakan untuk
+mensimulasikan percakapan manusia dalam
+bentuk teks dan suara untuk membalas pengguna
+pertanyaan. Perusahaan saat ini seperti Spotify
+dan Sephora menggunakan chatbot sebagai
+asisten virtual mereka untuk menjawab
+pertanyaan pelanggan dan mempelajari perilaku
+setiap pelanggan berdasarkan percakapan dari
+waktu ke waktu. Kehadiran chatbot mendukung
+otomatisasi balasan untuk pertanyaan serupa,
+memungkinkan sumber daya manusia untuk
+fokus pada tugas yang lebih penting dan kualitatif
+sambil meningkatkan bisnis dengan sedikit
+usaha. Membalas ke pertanyaan dapat diterima
+dalam hitungan detik dan tidak lagi terbatas pada
+jam kantor.
+Untuk sistem saat ini masih menggunakan
+website untuk meminta bantuan helpdesk dan
+pesan dibalas melalui e-mail. Karena saat ini
+masih menggunakan media website helpdesk
+untuk mencari informasi dan dibalas memalui email hal ini membutuhkan waktu yang lama, dan
+tidak fleksibel kurang interaktif. Untuk
+menyelesaikan sebuah masalah tersebut
+dibangunlah sebuah chatbot whatsapp, karena
+whattsapp lebih banyak digunakan oleh kalangan
+manapun dan sangat mudah digunakan.
+
+http://openjournal.unpam.ac.id/index.php/JTSI
+
+Proyek ini mengintegrasikan penggunaan
+WhatsApp yang merupakan alat komunikasi
+populer di kalangan masyarakat, maka kami
+membuat Aplikasi chatbot WhatsApp untuk
+mendukung produktivitas pekerjaan. Chatbot
+berfungsi
+tujuan
+menyediakan
+platform
+komunikasi terpusat untuk menjawab pertanyaan
+dan menyampaikan pesan ke pengguna melalui
+chatbot WhatsApp VenomBot.
+Untuk perencanaan/pelaksanaan akan di
+jabarkan di bagian segmen metodologi dan hasil
+pembahasan, system ini ditujuan untuk
+mahasiswa, dosen, dan
+staff. Supaya
+memudahkan dalam berkomunikasi dan tidak ada
+lagi gate atau penghalang
+2. Metodologi
+Penelitian ini adalah studi metode
+deskriptif. Pengumpulan data dalam penelitian ini
+dilakukan melalui literatur ulasan tentang
+penelitian sebelumnya tentang chatbot dan
+penggunaannya. Tinjauan literatur yang
+dilakukan untuk mengidentifikasi jenis chatbots,
+terutama yang dikembangkan untuk tujuan
+pendidikan termasuk pembelajaran bahasa,
+sebagai serta untuk mengidentifikasi kelebihan
+atau kekurangan mereka dalam pengajaran dan
+pembelajaran bahasa. Penelitian ini juga
+termasuk laporan tentang hasil pengamatan pada
+media pembelajaran bahasa berbasis chatbot
+yang dikembangkan oleh penulis dan tim, yaitu
+VenomBot.
+2.1. Temuan dan Diskusi
+Mekanisme dasar chatbot dimulai dengan
+pesan yang dikirim oleh pengguna. Pesan
+kemudian diproses oleh NLP (Natural Language
+Processing), dan chatbot merespons dengan
+membalas pesan menurut database yang ada
+(lihat gambar 1). Misalnya, ketika pengguna
+mengirim "bagaimana kabarmu?" pesan, chatbot
+akan mencari jawaban yang sesuai dengan
+pertanyaan ini dalam database seperti "Saya baikbaik saja", "Bagus!" dan lain-lain.
+
+38
+
+Jurnal Teknologi Sistem Informasi dan Aplikasi
+Vol. AA, No. B, Zzzzzzzzzzzzzz YYYY (pp-pp)
+
+ISSN: 2654-3788
+e-ISSN: 2654-4229
+
+Jenis chatbot yang ditemukan dalam
+penelitian ini dapat dikategorikan menjadi tiga
+jenis berdasarkan strukturnya, tujuan, dan
+pengguna. Sub-kategori dan fungsinya diakhiri
+dalam tabel 1.
+
+Gambar 1. Mekanisme Chatbot
+Tabel. 1 Jenis Chatbot
+
+Chatbot Pohon
+
+Kecerdasan Buatan
+
+Fungsional
+Hiburan
+
+Umum
+
+Ahli
+
+Kategori : Struktur
+Chatbot berbasis pohon. Chatbot ini memiliki tanggapan tetap yang
+ditetapkan oleh pengembang, dan hanya menanggapi pertanyaan yang sudah
+ada dalam database. Alur chatbots sertakan tombol, kata kunci, dan slogan
+alih-alih menulis gratis untuk mengemudi klien menyusuri jalan yang telah
+ditentukan.
+Chatbot dengan kecerdasan buatan memiliki kemampuan memperbarui
+pengetahuan dan pengetahuan mereka. Persepsi dari percakapan sebelumnya
+dan pengalaman pengguna, membiarkan
+Pengguna terlibat lebih bebas.
+Kategori : Tujuan
+Chatbots ini memiliki fungsi tertentu tergantung pada pengembang (yaitu
+chatbot untuk belajar, asisten pribadi, pengingat, asisten toko online).
+Chatbot yang hanya ditujukan untuk hiburan (yaitu game dan funbot).
+
+Kategori : Pengguna
+Chatbot ini memiliki pengetahuan umum yang bisa kita tanyakan secara langsung. Yaitu
+Siri. Dikembangkan oleh Apple dan Cortana yang dikembangkan oleh Microsoft. Kedua
+chatbots dapat membantu kami memecahkan masalah umum seperti mencari restoran,
+lokasi dan banyak lagi.
+Chatbot ini fokus pada satu hal yang terbatas dan melakukan satu hal itu dengan sangat
+baik.
+
+Tabel. 1 menunjukkan bahwa chatbot
+memiliki beberapa kategori dan dapat
+dikembangkan sesuai dengan pengembang.
+Namun, chatbots yang dikembangkan untuk
+tujuan pendidikan cenderung menggunakan
+secara artifisial dengan struktur intelijen. Chatbot
+yang cerdas secara artifisial untuk tujuan umum
+seperti MILABOT juga telah dikembangkan.
+MILABOT adalah chatbot pembelajaran
+penguatan mendalam yang mampu berbicara
+dengan manusia tentang topik pembicaraan kecil
+yang populer melalui ucapan dan teks. Sistem
+terdiri dari ansambel generasi bahasa alami dan
+model pengambilan, termasuk template-based
+model, model bag-of-words, jaringan saraf
+urutan-ke-urutan dan saraf variabel laten model
+jaringan.
+
+http://openjournal.unpam.ac.id/index.php/JTSI
+
+3. Hasil dan Pembahasan
+Selain Milabot, framework
+pembuatan chatbot bisa disebut juga dengan
+nama Venom bot. Venom bot adalah API
+alternatif berkinerja tinggi untuk whatsapp, dapat
+mengirim, pesan teks, file, gambar, video, dan
+lainnya.
+API
+dikembangkan
+pada
+platform yang disebut layanan RESTful Web,
+menyediakan interoperabilitas antara sistem
+komputer di internet menggunakan satu set
+operasi yang terdefinisi dengan baik yang berlaku
+untuk semua sumber daya informasi yaitu HTTP.
+HTTP sendiri mendefinisikan satu set kecil
+operasi, yang paling penting adalah POST, GET,
+PUT dan DELETE.
+Menggunakan bahasa seperti
+PHP, Python, C# dan lainnya, lalu didukung
+dengan protokol HTTP diagram use case untuk
+
+39
+
+Jurnal Teknologi Sistem Informasi dan Aplikasi
+Vol. AA, No. B, Zzzzzzzzzzzzzz YYYY (pp-pp)
+
+aplikasi chatbot WhatsApp kami. Ada empat
+aktor yang akan menggunakan sistem yaitu
+mahasiswa, super administrator, dosen dan staf
+fakultas atau administrator. Setiap use case
+memiliki
+deskripsi
+use
+case
+yang
+
+ISSN: 2654-3788
+e-ISSN: 2654-4229
+
+menggambarkan cara tugas dilakukan melalui
+sistem. Setiap aktor dapat melakukan operasi
+yang berbeda berdasarkan identitas masingmasing.
+
+Gambar. 2 Mekanisme Alur Chatbot
+Dapat dilihat untuk maksud dari gambar. 2
+students mampu melakukan percakapan dengan
+chatbot melalui WhatsApp lalu super admin
+mendaftarkan user baru seperti dosen dan staf
+fakultas untuk mengelola kemudian lecturers
+mengelola status kelas dengan menyisipkan
+pengumuman dan menyampaikan pesan dan
+faculty admin
+mengelola acara dengan
+menambahkan acara baru dengan deskripsi dan
+disiapkan FAQ baru ke sistem sehingga siswa
+dapat melihatnya melalui chatbot.
+Proyek ini memiliki template web yang
+memungkinkan pengguna yang berwenang untuk
+membuat basis pengetahuan untuk aplikasi.
+Selain itu juga memungkinkan untuk mengubah
+sesuai
+keinginan.
+Maksudnya
+untuk
+mempermudah pekerjaan dari pada chatbot
+tersebut. Peralatan yang digunakan dalam
+pembangunan aplikasi ini adalah sebagai berikut:
+A. ENVIRONMENT SETUP
+Visual Studio Code digunakan sebagai
+IDE utama proyek. Kode VS dipilih karena lebih
+ringan dan cocok untuk pengembangan web
+karena memiliki pasar ekstensi yang kaya. Lalu
+ada angular 9 dipilih sebagai kerangka kerja
+untuk mengembangkan template web. AngularJS
+didukung di sebagian besar browser modern dan
+memiliki beragam dukungan di forum online.
+B. NODEJS
+NodeJS adalah salah satu runtime
+aplikasi JavaScript paling populer. Manajer Paket
+
+http://openjournal.unpam.ac.id/index.php/JTSI
+
+Node memanfaatkan perpustakaan online gratis
+untuk menyederhanakan pengembangan sistem.
+NodeJS juga memiliki keuntungan menyediakan
+antarmuka baris perintah yang bagus untuk
+membuat aplikasi web.
+C. Google Firebase
+Firebase dipilih sebagai server untuk
+meng-host situs web, fungsi back-end host dan
+database. Firebase dipilih untuk proyek ini karena
+menyediakan berbagai layanan yang sesuai
+dengan kebutuhan proyek ini seperti otentikasi,
+database real-time, fungsi, penyimpanan dan
+hosting.
+D. DialogFlow
+DialogFlow digunakan sebagai alat NLP
+bagi administrator fakultas untuk membuat
+Pertanyaan yang Sering Diajukan (FAQ). Kode
+sisi server khusus dirancang bagi administrator
+untuk membuat maksud, pengaturan kata kunci di
+DialogFlow dengan menggunakan komunikasi
+antara antarmuka dan kode sisi server.
+E. Chat API
+Chat-API dan VenomBot digunakan
+untuk menghubungkan proyek ke WhatsApp
+Kurir. Karena API WhatsApp Business resmi
+tidak tersedia, Chat-API akan digunakan sebagai
+alternatif sampai WhatsApp API resmi tersedia
+untuk
+digunakan.
+Chat-API
+menangani
+penerimaan pesan, mengirim pesan dan
+menyiarkan pesan.
+
+40
+
+Jurnal Teknologi Sistem Informasi dan Aplikasi
+Vol. AA, No. B, Zzzzzzzzzzzzzz YYYY (pp-pp)
+
+Algoritma Machine Learning
+Algoritma machine learning adalah ilmu
+yang mempelajari mengenai algoritma dan
+metode statistik yang digunakan dalam sistem
+komputer tanpa menerapkan instruksi tertentu.
+Machine learning merupakan bagian dari
+Artificial Intelligence (AI) dimana mesin
+mempelajari data di masa lalu yang digabungkan
+dan diolah dengan algoritma yang sesuai. Data
+yang dilatih di machine learning disebut training
+data. Semakin banyak data yang dilatih pada
+machine learning, maka semakin bagus
+algoritmanya dan output yang diberikan. Pada
+kasus ini dalam pembuatan Whatsapp Chatbot
+kami menggunakan algoritma Reinforcement
+learning. Reinforcement learning adalah
+algoritma yang mempelajari data dengan
+sendirinya berdasarkan pada lingkungan yang
+mempengaruhinya untuk mencapai suatu tujuan
+tertentu. Algoritma ini dapat digunakan dalam
+proses pengambilan keputusan secara spesifik.
+Selain itu juga dapat digunakan untuk
+memecahkan masalah dalam bisnis.
+Representasi Data
+Untuk mengimplementasikan dan menguji
+arsitektur ini kami merepresentasikan data kami
+dalam Vector Space Model yang digunakan
+secara luas dalam berbagai model klasifikasi teks.
+Dataset kami direpresentasikan sebagai satu set
+pasangan tag kelas string seperti
+𝐷𝑎𝑡𝑎𝑠𝑒𝑡 = {(𝑆1, 𝐶1), (𝑆2, 𝐶2), … , (𝑆𝑞, 𝐶𝑞)}
+
+Di sini C1 milik tag yang telah ditentukan
+yang meawakili topik kalimat:
+𝐶𝑖 ∈ {𝑇𝑎𝑔1, 𝑇𝑎𝑔2 … , 𝑇𝑎𝑔𝑚}.
+
+Setiap contoh kalimat S i direpresentasikan
+sebagai vektor istilah di mana setiap indeks
+mewakili satu istilah/kata unik, S i = {kata 1 , kata
+2 … , kata n } dan bobot setiap dimensi vektor ini
+didefinisikan oleh TF * IDF dimana TF = Term
+Frequency dan IDF = Inverse Document
+Frequency. Di sini, q adalah jumlah total sampel
+kalimat di semua kelas, m adalah jumlah
+tag/kelas, dan n adalah ukuran kamus. Untuk
+dataset kami q = 1731, m = 91 dan n = 1682
+karena ada 91 kelas dengan 1731 dengan 1682
+kata bertangkai unik yang ada dalam dataset.
+Metode ini menggunakan dua algoritma
+secara berurutan untuk klasifikasi. Algoritma
+
+http://openjournal.unpam.ac.id/index.php/JTSI
+
+ISSN: 2654-3788
+e-ISSN: 2654-4229
+
+pertama adalah CentroidDR yang digunakan
+untuk menghitung centroid dari masing-masing
+kelas dan kemudian memetakan kalimat sampel
+ke ruang vektor berdasarkan centroid kelas
+menggunakan fungsi ukuran kesamaan cosinus.
+Algoritma ditunjukkan di bawah ini.
+Input : Mengingat data yang diproyeksikan
+D* dari dataset pelatihan dan kueri pengujian St
+Output : Tag/kelas yang dimaksud untuk kueri
+baru St
+(1)
+Normalisasikan
+vektor
+data
+yang
+diproyeksikan D*
+(2) Berdasarkan vektor yang dinormalisasi D*
+membangun pohon kd
+(3) Proyeksikan kueri uji S t pada ruang berbasis
+pusat-kelas. Setelah dinormalisasi, kita akan
+mendapatkan vektor baru x t
+(4) Untuk vektor, x t cari K tetangga terdekat pada
+pohon kd.
+(5) Klasifikasikan S t berdasarkan aturan KNN
+berdasarkan rumus berikut:
+𝐶𝑙𝑎𝑠𝑠 = 𝑎𝑟𝑔𝑚𝑎𝑥∑𝑥𝑡
+∈ 𝐾𝑁𝑁𝑥𝑡(1 − 𝑑𝑖𝑠𝑡(𝑥𝑡, 𝑥𝑖))
+∗ 𝐼(𝑥𝑖, 𝑇𝑎𝑔𝑗)
+
+menunjukkan himpunan K tetangga terdekat dari
+x t, dist(x t x i ) menunjukkan jarak euclidean
+antara dua vektor ini, dan I(x i , Tag j )
+menunjukkan
+indikasi
+fungsi
+yang
+mengembalikan 1 ketika x i milik Tag j
+Menerapkan kontekstualisasi dalam model
+prediksi
+Saat mengobrol, orang cenderung
+mengajukan pertanyaan berdasarkan interaksi
+sebelumnya. Jadi, setiap kueri tidak mandiri.
+mereka memiliki hubungan dengan percakapan
+sebelumnya. Untuk menyimpan konteks
+percakapan untuk jawaban kueri yang lebih baik,
+kami telah mencoba kontekstualisasi yang
+berbeda.
+Kontekstualisasi linier
+Metode ini menganggap konteks sebagai
+daftar linier dan hanya menyimpan konteks
+percakapan terakhir. Karena jaringan saraf
+memprediksi jawaban dan mempertimbangkan
+lebih dari satu tag; tag kemungkinan tertinggi
+
+41
+
+Jurnal Teknologi Sistem Informasi dan Aplikasi
+Vol. AA, No. B, Zzzzzzzzzzzzzz YYYY (pp-pp)
+
+yang memiliki ketergantungan konteks yang
+relevan mendapat prioritas di sini.
+
+Gambar. 3 Flowchart Chatbot
+Implementasi Venom-Bot
+1. Instalasi
+> npm i --save venom-bot
+Menginstal repositori ini "Anda dapat
+mengunduh versi beta dari repositori in!"
+> npm i github:orkestral/venom
+
+ISSN: 2654-3788
+e-ISSN: 2654-4229
+
+console.error('Error
+when
+sending: ', erro); //return object error
+});
+}
+});
+}
+a. Setelah mengeksekusi create()fungsi, venom
+akan membuat sebuah instance dari web
+whatsapp. Jika Anda tidak masuk, itu akan
+mencetak kode QR di terminal. Pindai
+dengan ponsel Anda, Venom akan mengingat
+sesi
+login
+sehingga
+tidak
+perlu
+mengotentikasi setiap saat.
+b. Beberapa sesi dapat dibuat secara
+bersamaan dengan memasukkan nama sesi
+ke create()function:
+// Init sales whatsapp bot
+venom.create('sales').then((salesClient)
+=> {...});
+// Init support whatsapp bot
+venom.create('support').then((supportCli
+ent) => {...});
+
+2. Memulai Mutiperangkat
+// Supports ES6
+// import { create, Whatsapp } from
+'venom-bot';
+const venom = require('venom-bot');
+venom
+.create({
+session: 'session-name', //name
+of session
+multidevice: false // for version
+not multidevice use false.(default: true)
+})
+.then((client) => start(client))
+.catch((erro) => {
+console.log(erro);
+});
+function start(client) {
+client.onMessage((message) => {
+if (message.body === 'Hi' &&
+message.isGroupMsg === false) {
+client
+.sendText(message.from,
+'Welcome Venom ')
+.then((result) => {
+console.log('Result: ', result);
+//return object success
+})
+.catch((erro) => {
+
+http://openjournal.unpam.ac.id/index.php/JTSI
+
+3. Sesi Status Callback
+Tabel. 2 Skenario Tes Chatbot
+Status
+isLogged
+
+notLogged
+
+browserClose
+
+qrReadSuccess
+
+qrReadFail
+
+autocloseCalled
+desconnectedMobile
+serverClose
+deleteToken
+
+Kondisi
+Ketika pengguna sudah masuk
+ke browser
+Saat pengguna tidak terhubung
+ke browser, perlu memindai
+kode QR melalui ponsel di
+opsi WhatsApp Web
+Jika browser ditutup,
+parameter ini dikembalikan
+Jika pengguna tidak masuk,
+kode QR diteruskan di
+terminal, panggilan balik
+dikembalikan. Setelah
+pembacaan yang benar melalui
+ponsel, parameter ini
+dikembalikan
+Jika browser berhenti saat
+pemindaian kode QR sedang
+berlangsung, parameter ini
+ikembalikan
+Browser ditutup menggunakan
+perintah autoClose
+Klien telah memutuskan
+sambungan ke ponsel
+Klien telah memutuskan
+sambungan ke wss
+Jika Anda lulus true dalam
+fungsi
+
+42
+
+Jurnal Teknologi Sistem Informasi dan Aplikasi
+Vol. AA, No. B, Zzzzzzzzzzzzzz YYYY (pp-pp)
+
+chatsAvailable
+deviceNotConnecte
+d
+
+client.getSessionTokenBrowse
+r(true)
+Ketika Venom terhubung ke
+daftar obrolan
+Obrolan tidak tersedia karena
+telepon terputus (Trying to
+connect to the phone)
+
+serverWssNotConne
+cted
+
+Alamat wss tidak ditemukan!
+
+noOpenBrowser
+
+Itu tidak ditemukan di
+browser, atau beberapa
+perintah hilang di args
+
+4. Mengunduh File
+Dalam menangani pengunduhan file, dekripsi
+dilakukan sebagai secepat mungkin dan
+mendukung file besar. Kami melakukan
+beberapa program computer yang akan
+dijabarkan
+sebagai
+berikut:
+import fs = require('fs');
+import mime = require('mime-types');
+client.onMessage( async (message) => {
+if
+(message.isMedia
+===
+true
+||
+message.isMMS === true) {
+const
+buffer
+=
+await
+client.decryptFile(message);
+// At this point you can do whatever you
+want with the buffer
+// Most likely you want to write it into a
+file
+const
+fileName
+=
+`some-filename.${mime.extension(message.mimetype)
+}`;
+await fs.writeFile(fileName, buffer, (err)
+=> {
+...
+});
+}
+});
+5. Mengekspor Kode QR
+Secara default kode QR akan muncul di
+terminal. Jika harus melewati QR di perangkat
+lain sebagai berikut:
+const fs = require('fs');
+const venom = require('venom-bot');
+venom
+.create(
+'sessionName',
+
+http://openjournal.unpam.ac.id/index.php/JTSI
+
+ISSN: 2654-3788
+e-ISSN: 2654-4229
+
+(base64Qr, asciiQR, attempts, urlCode)
+=> {
+console.log(asciiQR); // Optional to log
+the QR in the terminal
+var
+matches
+=
+base64Qr.match(/^data:([A-Za-z+\/]+);base64,(.+)$/),
+response = {};
+if (matches.length !== 3) {
+return new Error('Invalid input string');
+}
+response.type = matches[1];
+response.data
+=
+new
+Buffer.from(matches[2], 'base64');
+var imageBuffer = response;
+require('fs').writeFile(
+'out.png',
+imageBuffer['data'],
+'binary',
+function (err) {
+if (err != null) {
+console.log(err);
+}
+}
+);
+},
+undefined,
+{ logQR: false }
+)
+.then((client) => {
+start(client);
+})
+.catch((erro) => {
+console.log(erro);
+});
+Development
+Membangun venom harus dilakukan
+secara perlahan. Disamping mengutamakan hasil
+yang baik, juga melihat rapih atau tidak nya
+sebuah aplikasi. Sederhananya, terdiri dari 3
+proyek utama di dalamnya yaitu:
+1. Wapi project
+> npm run build:wapi
+2. Middleware
+> npm run build:middleware
+> npm run build:jsQR
+3. Venom
+> npm run build:venom
+
+43
+
+Jurnal Teknologi Sistem Informasi dan Aplikasi
+Vol. AA, No. B, Zzzzzzzzzzzzzz YYYY (pp-pp)
+
+ISSN: 2654-3788
+e-ISSN: 2654-4229
+
+Untuk membangun seluruh proyek,
+jalankan saja
+> npm run build
+Interface
+Sistem ini terdiri dari dua kategori
+antarmuka yaitu: 1) Antarmuka web yang
+memungkinkan pengguna untuk membuat basis
+pengetahuan dan 2) Antarmuka WhatsApp
+Chatbot tempat pengguna berinteraksi dengan
+chatbot
+A. Web Knowledge Base Home Page
+Pada gambar. 3 halaman awal dari perspektif
+super administrator yang dapat berupa dosen
+atau anggota staff. Bilah navigasi atas
+menunjukkan tugas yang dapat dilakukan
+seperti mengelola acara, FAQ, dan
+pengumuman.
+
+Gambar. 3 Super Administrasi Chatbot
+B. Web form to add content into knowledge
+base
+Pada gambar. 4 konten berbasis
+pengetahuan dibuat oleh anggota staf
+fakultas atau penceramah. Konten yang
+dibuat 1) dikategorikan 2) berlabel 3)
+ditandai dengan kata kunci yang relevan dan
+4) konten yang diberikan. Konten yang
+dibuat kemudian digunakan sebagai sumber
+pengetahuan untuk menyimpulkan jawaban
+berdasarkan pengguna pertanyaan.
+
+Gambar. 4 Konten Berbasis Pengetahuan
+C. Web View Content of Knowledge Base
+Gambar. 5 adalah tampilan form administrator
+fakultas untuk FAQ. Setelah mengklik “FAQ”,
+akan ada tabel FAQ berisi FAQ yang tersedia
+dalam sistem.
+http://openjournal.unpam.ac.id/index.php/JTSI
+
+Gambar. 5 Kategori FAQ Chatbot
+D. Whatsapp Chatbot Student Query
+Query siswa untuk FAQ. Jika chatbot
+menerima FAQ dari siswa dan kecocokan
+ditemukan di database. Selain itu akan
+membalas jawaban FAQ berdasarkan informasi
+yang dibuat oleh administrator fakultas di situs
+web.
+E. Whatsapp Chatbot Failed Query (Unavailable
+FAQ)
+Skenario permintaan siswa yang gagal untuk
+FAQ di mana data pengetahuan tidak tersedia
+di Basis pengetahuan FAQ. Karena tidak ada
+kecocokan dalam database, chatbot akan
+membalas fall-back pesan, dan kueri akan
+disimpan
+dalam
+database
+sehingga
+administrator fakultas dapat memantau
+pertanyaan yang belum terjawab dan membuat
+perubahan yang diperlukan.
+F. Web View Unanswered Question
+Pengguna dapat memilih untuk melihat
+pertanyaan yang belum terjawab dengan
+memilih rentang tanggal. Setelah memilih
+rentang tanggal dan dengan mengklik tombol
+“Hasilkan CSV”, file CSV akan diunduh ke
+perangkat pengguna dan pengguna akan dapat
+melihat pertanyaan yang belum terjawab.
+Pengguna kemudian dapat membuat yang baru
+FAQ berdasarkan data dalam file CSV yang
+dihasilkan.
+Testing Chatbot
+Pengujian adalah proses penting dari
+proyek ini karena pengujian mengumpulkan
+umpan balik pengguna dan perubahan untuk
+pengembang sebelum rilis akhir produk. Pada
+bagian ini, berbagai pengujian seperti pengujian
+
+44
+
+Jurnal Teknologi Sistem Informasi dan Aplikasi
+Vol. AA, No. B, Zzzzzzzzzzzzzz YYYY (pp-pp)
+
+unit, pengujian fungsional dan pengujian
+pengguna dilakukan pada chatbot.
+A. Unit testing
+Unit testing adalah untuk memastikan bahwa
+setiap unit proyek berfungsi sebagaimana
+dimaksud. Unit utama seperti input, tombol
+dan validasi diuji selama pengujian unit.
+B. Functional testing
+Pengujian fungsionalitas dilakukan untuk
+memastikan semua fungsi yang diperlukan
+dikembangkan menjadi sistem. Pengujian
+fungsionalitas dilakukan oleh pengembang
+menggunakan test case untuk memverifikasi
+secara manual bahwa fungsi berfungsi
+sebagaimana
+dimaksud
+dan
+untuk
+mendeteksi bug atau kesalahan dalam sistem.
+C. User Testing
+Pengujian pengguna mengevaluasi sistem
+dengan pengguna. Tujuan dari pengujian
+adalah untuk mengumpulkan umpan balik
+dan
+saran
+dari
+pengguna
+setelah
+menggunakan sistem. Pengujian pengguna
+dilakukan oleh pengguna yang ditargetkan
+yang merupakan dosen, dosen dan
+mahasiswa. Hasil pengujian dikumpulkan
+melalui pertanyaan survei melalui Google
+Form yang terbagi menjadi tiga bagian yaitu
+fungsionalitas sistem, desain antarmuka
+pengguna dan rekomendasi pengguna. User
+Testing dilakukan dengan tiga pengguna
+yang berbeda yaitu dosen, staf pengajar dan
+mahasiswa. Sistem diuji oleh dosen sepakat
+bahwa sistem memiliki potensi untuk
+meningkatkaninteraksi antara dosen dan
+mahasiswa. Pengujian yang dilakukan
+dengan staf fakultas mengungkapkan ada
+potensi perbaikan sistem di mana ditemukan
+bahwa beberapa proses dapat diotomatisasi
+lebih lanjut seperti pekerjaan manual
+mengimpor data siswa ke sistem, mekanisme
+pemicu yang memungkinkan pesan dikirim
+ke semua siswa dan kategorisasi siswa yang
+lebih rinci (menjadi asupan saat ini, tahun
+terakhir dan pelatihan industri siswa).
+Pengujian dengan sepuluh mahasiswa
+fakultas telah selesai dan kami menemukan
+bahwa rata-rata waktu yang diperlukan untuk
+membalas/menyiarkan
+pesan
+mungkin
+memakan waktu 3 hingga 5 detik sementara
+pengumuman dengan lampiran file mungkin
+memakan waktu lebih lama waktu tergantung
+pada ukuran file. Hasil pengujian rata-rata
+memuaskan dan tidak ada bug atau kesalahan
+terdeteksi pada saat pengujian. Sebagian
+
+http://openjournal.unpam.ac.id/index.php/JTSI
+
+ISSN: 2654-3788
+e-ISSN: 2654-4229
+
+besar
+pengguna menemukan
+bahwa
+antarmukanya mudah dimengerti dan
+semuanya fungsi memenuhi tujuan yang
+diperlukan.
+4. Kesimpulan
+Proyek telah tujuannya di mana chatbot
+dapat secara pribadi menjawab pertanyaan yang
+dibuat oleh pengguna secara real time.
+Pertanyaan yang tidak dikenali oleh chatbot dapat
+ditangkap dan disimpan di database untuk
+ditinjau oleh administrator fakultas. Respon dari
+chatbot berkisar antara 3 hingga 5 detik; namun,
+pesan apa pun dengan lampiran file yang lebih
+besar mungkin memerlukan waktu balasan yang
+lebih lama. Sehingga pengguna perlu menunggu
+sebentar karena system sedang memproses data
+5. Saran
+Penelitian ini hanya mengambil cakupan
+kecil dari berbagai kemungkinan yang dapat
+dilakukan oleh aplikasi berbasis chatbot. Untuk
+lebih meningkatkan sistem kami, beberapa
+perbaikan berikut dapat dilakukan dengan
+ekstensi alat analisis yang memiliki fitur yang
+dapat menganalisis kata kunci yang paling sering
+digunakan, paling banyak dicari topik, balasan
+bot yang salah. Pengembangan aplikasi mobile
+sebagai alternatif implementasi web template.
+Perluas fungsi siaran chatbot di mana rekaman
+video dan/atau pesan dapat dikirim oleh chatbot
+kepada pengguna, misalnya rekaman video yang
+dikeluarkan oleh chatbot
+6. Pekerjaan Masa Depan (Future Work)
+Chatbots berfungsi penuh, sistem semiotonom yang dapat membantu pengalaman
+layanan dan waktu respons. Agar chatbot dapat
+bertahan dari perubahan teknologi yang
+meningkat pesat dan menjadi andalan di
+perusahaan, pengembang perlu memeriksa
+masalah yang muncul dengan peningkatan
+implementasi. Cakupan chatbots di masa depan
+dapat mencakup banyak manfaat
+Saat ini chatbot tumbuh dengan laju 24%
+per tahun, dan industri ini diproyeksikan menjadi
+pasar senilai $1,25 miliar pada tahun 2025,
+menurut Grand View Research Inc. Namun, di
+luar lima tahun ke depan, masa depan chatbot
+bergantung pada adopsi luas dari teknologi;
+penggunaan perusahaan harus jauh melampaui
+industri umum (teknologi, keuangan, perawatan
+kesehatan) dan menjadi universal. Langkah
+pertama menuju adopsi universal adalah
+
+45
+
+Jurnal Teknologi Sistem Informasi dan Aplikasi
+Vol. AA, No. B, Zzzzzzzzzzzzzz YYYY (pp-pp)
+
+ISSN: 2654-3788
+e-ISSN: 2654-4229
+
+menghilangkan hambatan masuk saat ini untuk
+penggunaan chatbot.
+References
+Astuti, R. N., & Fatchan, M. (2019). Perancangan
+Aplikasi Teknologi Chatbot Untuk Industri
+Komersial 4.0. Prosiding Seminar Nasional
+Teknologi dan Sains (SnashTeks) (p. 10).
+Bekasi: SnashTeks.
+Hakim, L., Gustina, S., fadila, S. P., & Faudiah, S. U.
+(2020). Perancangan Chatbot di Universitas
+Proklamasi 45. Edumatic, 10.
+Hakim, L., Putri, S. F., & Faudiah, S. U. (2020).
+Perancangan Chatbot di Universitas
+Proklamasi 45. 10.
+I, H. A., & Y, Y. (2017). Sistem Informasi Sekolah
+Berbasis Web . Jurnal Manajemen
+Informatika, 94-100.
+Kirlyana, B., & Rosydiana, S. (2016). Sistem
+Informasi Penjualan Sepatu Handmade. 10.
+Masdar, R., & Lianto, R. (2018). Perancangan
+Aplikasi Penjualan Sepatu Berbasis Web
+pada Zashkiya Shoes Pontianak. 12.
+N, A. R., & M, F. (2019). Perancangan Aplikasi
+Teknologi Chatbot Industri Komersial 4.0.
+10.
+Ramadhan , D. F., Noertjahjono, S., & Irawan, J. D.
+(2019). Penerapan Chatbot Auto Reply Pada
+Whatsapp
+Sebagai
+Pusat
+Informasi
+Praktikum
+Menggunakan
+Artificial
+Intellegence Markup Language. 8.
+Ramadhan, D. F., Noertjahjono, S., & Irawan, J. D.
+(2019). Penerapan Chatbot Auto Reply Pada
+Whatsapp
+Sebagai
+Pusat
+Informasi
+Praktikum
+Menggunakan
+Artificial
+Intelegence Markup Language. JATI(Jurnal
+Mahasiswa Teknik Informatika), 8.
+
+http://openjournal.unpam.ac.id/index.php/JTSI
+
+46
+
+

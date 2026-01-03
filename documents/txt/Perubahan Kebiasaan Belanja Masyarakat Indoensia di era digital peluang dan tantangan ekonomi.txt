@@ -1,0 +1,667 @@
+Currency:
+Jurnal Ekonomi dan Perbankan Syariah
+Volume 03, Nomor 01, Oktober 2024
+ISSN: 2963-9387//e-ISSN: 2963-7465
+PERUBAHAN KEBIASAAN BELANJA MASYARAKAT INDONESIA DI ERA DIGITAL:
+PELUANG DAN TANTANGAN EKONOMI
+Fatun
+IAI Al-khairat Pamekasan
+fatun@alkhairat.ac.id
+ARTICLE INFO
+Kata Kunci:
+Perubahan kebiasaan
+belanja,
+teknologi
+digital, e-Commerce,
+Sektor ritel,
+Cara Sitasi:
+Penulis, Fatun.
+“Perubahan
+Kebiasaan Belanja
+Masyarakat
+Indonesia di Era
+Digital: Peluang dan
+Tantangan
+Ekonomi.” Currency:
+Jurnal Keuangan dan
+Perbankan Syariah
+Volume 03, Nomor 01,
+Oktober 2024
+
+ABST RACT
+Perubahan kebiasaan belanja masyarakat Indonesia di era digital
+telah membawa dampak signifikan terhadap pola konsumsi dan
+dinamika ekonomi. Transformasi ini terutama ditandai oleh
+pergeseran dari belanja konvensional di toko fisik menuju
+platform e-commerce dan transaksi digital. Penelitian ini
+bertujuan untuk menganalisis bagaimana perubahan ini
+memengaruhi berbagai aspek ekonomi, termasuk pertumbuhan
+sektor e-commerce, pengaruh terhadap sektor ritel tradisional,
+serta tantangan yang dihadapi oleh konsumen dan pelaku usaha.
+Metode penelitian yang digunakan meliputi analisis data
+sekunder dari laporan industri, survei online terhadap konsumen
+untuk memahami perubahan perilaku belanja, serta wawancara
+dengan pelaku industri e-commerce dan sektor ritel. Dengan
+menilai peluang yang dihadirkan oleh inovasi digital, seperti
+peningkatan aksesibilitas pasar dan kemudahan transaksi, serta
+tantangan seperti risiko keamanan data dan ketimpangan akses
+teknologi, penelitian ini memberikan wawasan yang berharga
+bagi pembuat kebijakan, pelaku industri, dan konsumen. Hasil
+penelitian diharapkan dapat membantu dalam merumuskan
+strategi yang efektif untuk memanfaatkan peluang dan mengatasi
+tantangan yang muncul dalam konteks perubahan kebiasaan
+belanja ini.
+The shift in Indonesian consumer shopping habits in the digital era
+has had a significant impact on consumption patterns and economic
+dynamics. This transformation is primarily marked by a shift from
+traditional in-store shopping to e-commerce platforms and digital
+transactions. This study aims to analyze how these changes affect
+various economic aspects, including the growth of the e-commerce
+sector, the impact on traditional retail sectors, and the challenges
+faced by consumers and businesses. The research methodology
+includes secondary data analysis from industry reports, online
+surveys with consumers to understand changes in shopping
+behavior, and interviews with e-commerce industry stakeholders
+and retail sector representatives. By assessing the opportunities
+presented by digital innovations, such as enhanced market
+405
+
+Currency:
+Jurnal Ekonomi dan Perbankan Syariah
+Volume 03, Nomor 01, Oktober 2024
+ISSN: 2963-9387//e-ISSN: 2963-7465
+accessibility and transaction convenience, as well as challenges such
+as data security risks and technological access inequality, the study
+provides valuable insights for policymakers, industry stakeholders,
+and consumers. The findings are expected to assist in formulating
+effective strategies to leverage opportunities and address the
+challenges arising from these shifts in shopping habits.
+
+Pendahuluan
+Perubahan kebiasaan belanja masyarakat Indonesia telah mengalami transformasi
+signifikan seiring dengan perkembangan teknologi digital. Era digital, yang ditandai dengan
+pesatnya penggunaan internet dan perangkat mobile, telah mengubah cara konsumen
+berinteraksi dengan produk dan layanan.1 Masyarakat kini lebih cenderung beralih dari belanja
+tradisional di toko fisik ke platform e-commerce yang menawarkan kenyamanan, variasi
+produk, dan kemudahan transaksi.2
+Dampak dari perubahan ini sangat luas, terutama dalam konteks ekonomi. Platform ecommerce seperti Tokopedia, Bukalapak, dan Shopee telah menciptakan peluang baru bagi
+pelaku usaha, termasuk usaha kecil dan menengah, untuk menjangkau pasar yang lebih luas
+tanpa batasan geografis. Selain itu, perubahan kebiasaan ini juga mendorong inovasi dalam
+metode pembayaran, pengiriman, dan pemasaran.3
+Namun, di balik peluang tersebut, terdapat tantangan yang perlu dihadapi. Masyarakat
+harus beradaptasi dengan perubahan teknologi yang cepat, sementara pelaku usaha perlu
+bersaing dalam pasar yang semakin kompetitif. Selain itu, isu-isu terkait keamanan transaksi,
+kepercayaan konsumen, dan dampak lingkungan dari pengiriman barang juga menjadi
+perhatian penting.4
+Penelitian ini bertujuan untuk mengeksplorasi perubahan kebiasaan belanja
+masyarakat Indonesia di era digital, serta mengidentifikasi peluang dan tantangan yang muncul
+dalam konteks ekonomi. Dengan pemahaman yang lebih baik mengenai dinamika ini,
+diharapkan dapat dihasilkan rekomendasi yang bermanfaat bagi para pemangku kepentingan,
+termasuk pemerintah, pelaku usaha, dan konsumen, untuk menghadapi perubahan yang
+sedang berlangsung.
+
+1 Febriani, N., & Dewi, W. W. A. (2019). Perilaku konsumen di era digital: Beserta studi kasus. Universitas Brawijaya
+
+Press.
+2 Riswanto, A., Joko, J., Napisah, S., Boari, Y., Kusumaningrum, D., Nurfaidah, N., & Judijanto, L. (2024). Ekonomi
+Bisnis Digital: Dinamika Ekonomi Bisnis di Era Digital. PT. Sonpedia Publishing Indonesia.
+3 Zebua, R. S. Y., Hendriyani, C., Sukmadewi, R., Thaha, A. R., Tahir, R., Purbasari, R., ... & Subagja, A. D. (2023). BISNIS
+DIGITAL: Strategi Administrasi Bisnis Digital Untuk Menghadapi Masa Depan. PT. Sonpedia Publishing Indonesia.
+4 Haris, R., Sartika, S., Subair, N., Tarigan, F. L. B., Nur, S., Rukmana, A. Y., & Syamsul, H. (2023). Digitalpreneur
+Berwawasan Lingkungan.
+
+406
+
+Currency:
+Jurnal Ekonomi dan Perbankan Syariah
+Volume 03, Nomor 01, Oktober 2024
+ISSN: 2963-9387//e-ISSN: 2963-7465
+Perkembangan teknologi digital telah mengubah berbagai aspek kehidupan masyarakat,
+termasuk dalam hal kebiasaan berbelanja. Di Indonesia, perubahan ini semakin terlihat dengan
+meningkatnya adopsi platform e-commerce, transaksi nontunai, dan penggunaan aplikasi
+belanja daring. Masyarakat yang sebelumnya lebih memilih belanja secara langsung di toko
+fisik, kini beralih ke belanja daring yang menawarkan kemudahan, kecepatan, dan fleksibilitas.
+Tren ini dipercepat oleh pandemi COVID-19,5 di mana masyarakat dihadapkan pada
+pembatasan fisik yang mendorong mereka untuk semakin bergantung pada teknologi digital
+dalam memenuhi kebutuhan sehari-hari.6
+Perubahan kebiasaan belanja ini menciptakan peluang besar bagi pelaku ekonomi,
+khususnya industri e-commerce, logistik, dan teknologi keuangan (fintech). Sektor-sektor
+tersebut mengalami pertumbuhan yang signifikan, didorong oleh permintaan konsumen yang
+semakin besar terhadap layanan daring. Di sisi lain, perubahan ini juga menimbulkan tantangan
+bagi perekonomian, seperti persaingan yang semakin ketat antar pelaku usaha, peningkatan
+risiko keamanan data, dan kesenjangan digital yang masih terjadi di beberapa wilayah di
+Indonesia.7
+Penelitian ini bertujuan untuk menganalisis perubahan kebiasaan belanja masyarakat
+Indonesia di era digital serta mengeksplorasi peluang dan tantangan yang muncul bagi
+ekonomi nasional. Dengan pemahaman yang mendalam, diharapkan dapat ditemukan strategi
+yang tepat untuk memanfaatkan peluang tersebut dan mengatasi tantangan yang ada.
+Kajian Pustaka dan pengembangan hipotesis
+1. Perubahan Kebiasaan Belanja di Era Digital
+Perubahan kebiasaan belanja di era digital merupakan fenomena yang signifikan dan
+telah terjadi secara global, termasuk di Indonesia. Dengan kemajuan teknologi informasi dan
+komunikasi, cara konsumen berinteraksi dengan pasar telah mengalami transformasi yang
+mendalam. Berikut adalah beberapa aspek penting dari perubahan ini:8
+a. Akses Internet dan Smartphone: Menurut Poushter (2016), akses internet yang semakin
+luas dan penggunaan smartphone yang meningkat telah menjadi pendorong utama
+pertumbuhan e-commerce.9 Di Indonesia, penetrasi internet terus meningkat, dengan
+lebih dari 200 juta pengguna internet pada tahun 2023. Hal ini memungkinkan lebih
+banyak orang untuk terhubung dengan platform e-commerce.10
+b. Kenyamanan Berbelanja Online: Konsumen kini lebih memilih berbelanja online karena
+kenyamanan yang ditawarkannya. Mereka dapat melakukan pembelian kapan saja dan di
+mana saja tanpa harus pergi ke toko fisik. Ini sangat menguntungkan bagi mereka yang
+memiliki jadwal sibuk atau tinggal jauh dari pusat perbelanjaan.
+
+5 Moh Ramin et al., “STRATEGI DIVERSIFIKASI PORTOFOLIO SAHAM DI BEI UNTUK MENGURANGI RESIKO” 4
+
+(2023).
+6 Setiawan, A. B. (2018). Revolusi bisnis berbasis platform sebagai penggerak ekonomi digital di
+Indonesia. Masyarakat Telematika Dan Informasi: Jurnal Penelitian Teknologi Informasi Dan Komunikasi, 9(1), 61.
+7 Aryadi, A., Istia, P. T., Kusuma, A., Buku, A., Gunadi, H., Lorens, D., ... & Iskandar, A. A. (2024). Ekonomi Digital dan
+Transformasi Bisnis di Indonesia. TOHAR MEDIA.
+8 Rumondang, A., Kusuma, A. H. P., Sudirman, A., Sitorus, S., Simarmata, J., Manuhutu, M., ... & Arif, N. F. (2020).
+Pemasaran Digital dan Perilaku Konsumen.
+9 Moh Ramin, Nur Intan Permata, and Artamin Hairit, “Mengoptimalkan Produksi Kopi di Waru Barat: Strategi
+Pemasaran dan Peningkatan Kekebalan Tubuh melalui Jahe Merah,” n.d.
+10 Adha, S. (2022). Faktor revolusi perilaku konsumen era digital: sebuah tinjauan literatur. Jipis, 31(2), 134-148.
+
+407
+
+Currency:
+Jurnal Ekonomi dan Perbankan Syariah
+Volume 03, Nomor 01, Oktober 2024
+ISSN: 2963-9387//e-ISSN: 2963-7465
+c. Variasi Produk dan Harga: E-commerce menawarkan variasi produk yang jauh lebih
+banyak dibandingkan dengan toko fisik. Konsumen dapat membandingkan harga dari
+berbagai penjual dalam waktu singkat, sehingga mereka dapat menemukan penawaran
+terbaik. Ini juga mendorong persaingan harga di antara penjual.
+d. Pengaruh Media Sosial: Media sosial memainkan peran penting dalam mempengaruhi
+keputusan belanja konsumen. Platform seperti Instagram dan Facebook tidak hanya
+digunakan untuk promosi tetapi juga sebagai saluran untuk menjual produk secara
+langsung melalui fitur belanja mereka.11
+e. Kepercayaan dan Keamanan Transaksi: Meskipun ada banyak keuntungan dalam
+berbelanja online, masalah kepercayaan dan keamanan transaksi tetap menjadi perhatian
+utama bagi konsumen. Banyak platform e-commerce kini menyediakan sistem
+pembayaran yang aman serta kebijakan pengembalian barang untuk meningkatkan
+kepercayaan konsumen.12
+f. Perubahan Perilaku Konsumen: Dengan adanya ulasan produk dan rekomendasi dari
+pengguna lain, perilaku konsumen dalam membuat keputusan pembelian juga berubah.
+Konsumen cenderung mencari informasi lebih banyak sebelum melakukan pembelian,
+menggunakan review sebagai salah satu faktor penentu.
+g. Inovasi Teknologi: Teknologi baru seperti kecerdasan buatan (AI) dan analitik data juga
+mulai diterapkan dalam e-commerce untuk memberikan pengalaman berbelanja yang
+lebih personal kepada konsumen, seperti rekomendasi produk berdasarkan perilaku
+belanja sebelumnya.
+Secara keseluruhan, perubahan kebiasaan belanja di era digital menunjukkan bahwa
+konsumen semakin mengutamakan kenyamanan, aksesibilitas, dan pilihan yang lebih luas
+ketika berbelanja, didorong oleh kemajuan teknologi informasi dan komunikasi..
+2. Peluang Ekonomi dari E-commerce
+E-commerce, atau perdagangan elektronik, telah menjadi salah satu pendorong
+utama pertumbuhan ekonomi global dan lokal. Dalam konteks Indonesia, e-commerce
+menawarkan berbagai peluang signifikan bagi pelaku usaha, terutama untuk usaha kecil dan
+menengah (UKM). Berikut adalah beberapa aspek penting yang menjelaskan peluang
+ekonomi dari e-commerce:13
+a. Akses ke Pasar yang Lebih Luas: Dengan memanfaatkan platform digital, UKM dapat
+menjangkau konsumen di luar batas geografis mereka. Ini berarti bahwa produk dan
+layanan yang sebelumnya hanya tersedia secara lokal kini dapat diakses oleh pelanggan
+di seluruh Indonesia bahkan internasional. Hal ini sangat penting mengingat banyak UKM
+yang memiliki keterbatasan dalam hal pemasaran dan distribusi.14
+b. Peningkatan Visibilitas: E-commerce memungkinkan UKM untuk meningkatkan
+visibilitas mereka melalui berbagai saluran online seperti media sosial, situs web, dan
+marketplace. Dengan strategi pemasaran digital yang tepat, UKM dapat menarik
+11 Ardani, W. (2022). Pengaruh Digital Marketing Terhadap Perilaku Konsumen. Jurnal Tadbir Peradaban, 2(1), 40-
+
+47.
+12 Moh. Ramin, “PENTINGNYA KOMUNIKASI PUBLIK DALAM PEMASARAN PRODUK,” TOPLAMA 1, no. 1 (August
+28, 2023): 32–36, https://doi.org/10.61397/tla.v1i1.31.
+13 Riswandi, D. (2019). Transaksi on-line (e-commerce): peluang dan tantangan dalam perspektif ekonomi
+Islam. Jurnal Econetica, 1(1), 1-13.
+14 Rosdiana, H., Darmastuti, S., & Kurniawan, A. (2022). Penyuluhan E-Commerce sebagai Peluang Ekonomi Karang
+Taruna Desa Sukmajaya Kabupaten Bogor. Jurnal Pengabdian Masyarakat: Pemberdayaan, Inovasi dan
+Perubahan, 2(5), 171-182.
+
+408
+
+Currency:
+Jurnal Ekonomi dan Perbankan Syariah
+Volume 03, Nomor 01, Oktober 2024
+ISSN: 2963-9387//e-ISSN: 2963-7465
+perhatian lebih banyak pelanggan potensial dibandingkan dengan metode pemasaran
+tradisional.
+c. Biaya Operasional yang Lebih Rendah: Berjualan secara online sering kali memerlukan
+biaya operasional yang lebih rendah dibandingkan dengan membuka toko fisik.
+Pengusaha dapat menghemat biaya sewa tempat, utilitas, dan tenaga kerja dengan
+berfokus pada penjualan online.
+d. Inovasi Produk dan Layanan: E-commerce mendorong pelaku usaha untuk berinovasi
+dalam produk dan layanan mereka agar tetap kompetitif di pasar digital. Ini termasuk
+penggunaan teknologi baru untuk meningkatkan pengalaman pengguna serta
+pengembangan produk berdasarkan umpan balik pelanggan yang lebih cepat.
+e. Pertumbuhan Pengguna Internet: Menurut laporan dari Asosiasi Penyelenggara Jasa
+Internet Indonesia (APJII), jumlah pengguna internet di Indonesia terus meningkat setiap
+tahun. Pertumbuhan ini menciptakan basis konsumen yang lebih besar untuk bisnis
+online, sehingga memberikan peluang bagi pelaku usaha untuk memperluas jangkauan
+pasar mereka.15
+f. Kemudahan Transaksi: E-commerce menyediakan berbagai metode pembayaran yang
+memudahkan transaksi antara penjual dan pembeli. Dengan adanya sistem pembayaran
+digital seperti dompet elektronik dan transfer bank online, proses pembelian menjadi
+lebih cepat dan efisien.
+g. Analisis Data Pelanggan: Platform e-commerce sering dilengkapi dengan alat analisis
+yang memungkinkan pelaku usaha untuk memahami perilaku pelanggan mereka dengan
+lebih baik. Data ini dapat digunakan untuk mengoptimalkan strategi pemasaran dan
+meningkatkan pengalaman pelanggan.
+h. Fleksibilitas dalam Operasi Bisnis: E-commerce memberikan fleksibilitas kepada pelaku
+usaha dalam menjalankan bisnis mereka kapan saja dan di mana saja. Ini sangat
+bermanfaat bagi pengusaha yang mungkin memiliki keterbatasan waktu atau sumber
+daya.
+Secara keseluruhan, e-commerce tidak hanya memberikan peluang bagi UKM tetapi
+juga berkontribusi pada pertumbuhan ekonomi nasional dengan menciptakan lapangan
+kerja baru, meningkatkan pendapatan pajak melalui transaksi bisnis online, serta
+mendorong inovasi dalam sektor bisnis..
+3. Tantangan yang Dihadapi
+Perubahan kebiasaan belanja konsumen menuju e-commerce membawa berbagai
+tantangan bagi Usaha Kecil dan Menengah (UKM). Meskipun ada peluang besar dalam pasar
+digital, tantangan-tantangan ini dapat menghambat pertumbuhan dan keberlangsungan
+bisnis. Berikut adalah beberapa tantangan utama yang dihadapi oleh UKM dalam konteks ecommerce:16
+a. Ketidakpastian dalam Transaksi Online: Salah satu tantangan terbesar adalah
+ketidakpastian yang sering kali menyertai transaksi online. Konsumen mungkin merasa
+ragu untuk melakukan pembelian karena mereka tidak dapat melihat atau merasakan
+produk secara langsung. Hal ini diperparah oleh risiko penipuan, di mana konsumen
+15 Wibowo, B. S., & Haryokusumo, D. (2020). Peluang Revolusi Industri 4.0 Bidang Pemasaran: Pemanfaatan
+
+Aplikasi E-commerce, Sosial Media Instagram dan Digital Marketing terhadap keputusan Instant Online Buying
+Konsumen Generasi Millenial. Capital: Jurnal Ekonomi Dan Manajemen, 3(2), 86-99.
+16 Qoni'ah, R. (2022). Tantangan dan strategi peningkatan ekspor produk halal Indonesia di pasar global. Halal
+Research Journal, 2(1).
+
+409
+
+Currency:
+Jurnal Ekonomi dan Perbankan Syariah
+Volume 03, Nomor 01, Oktober 2024
+ISSN: 2963-9387//e-ISSN: 2963-7465
+khawatir bahwa mereka mungkin tidak menerima barang yang dibeli atau bahwa
+informasi pribadi mereka akan disalahgunakan.
+b. Masalah Keamanan: Keamanan data menjadi perhatian utama dalam e-commerce.
+Dengan meningkatnya jumlah transaksi online, risiko pencurian data dan serangan siber
+juga meningkat. UKM sering kali tidak memiliki sumber daya yang cukup untuk
+mengimplementasikan langkah-langkah keamanan canggih seperti enkripsi data dan
+perlindungan terhadap malware, sehingga membuat mereka lebih rentan terhadap
+serangan.17
+c. Kepercayaan Konsumen: Membangun kepercayaan konsumen merupakan tantangan
+signifikan bagi UKM. Banyak konsumen lebih memilih berbelanja dari merek besar yang
+sudah dikenal daripada mencoba produk dari UKM yang mungkin belum memiliki
+reputasi kuat di pasar. Oleh karena itu, penting bagi UKM untuk membangun citra merek
+yang positif melalui ulasan pelanggan, layanan pelanggan yang baik, dan transparansi
+dalam proses bisnis.18
+d. Persaingan Ketat di Pasar E-Commerce: Pasar e-commerce sangat kompetitif dengan
+banyak pemain besar seperti Amazon dan Alibaba yang mendominasi pasar. UKM sering
+kali kesulitan untuk bersaing dengan harga rendah dan promosi agresif dari perusahaanperusahaan besar tersebut. Hal ini dapat menyebabkan tekanan pada margin keuntungan
+dan memaksa UKM untuk mencari cara inovatif untuk menarik pelanggan tanpa harus
+terjebak dalam perang harga.
+e. Adaptasi Teknologi: Banyak UKM mungkin tidak memiliki keterampilan teknis atau
+pengetahuan untuk memanfaatkan teknologi terbaru dalam e-commerce, seperti
+platform pemasaran digital, analitik data, atau sistem manajemen inventaris otomatis.
+Kurangnya pemahaman tentang alat-alat ini dapat menghambat kemampuan mereka
+untuk bersaing secara efektif di pasar online.
+f. Logistik dan Pengiriman: Mengelola logistik dan pengiriman barang juga menjadi
+tantangan tersendiri bagi UKM. Mereka perlu memastikan bahwa produk sampai ke
+tangan konsumen tepat waktu dan dalam kondisi baik, sambil tetap menjaga biaya
+pengiriman agar tetap kompetitif.
+Secara keseluruhan, meskipun ada banyak peluang di dunia e-commerce, tantangantantangan ini memerlukan perhatian serius dari para pelaku usaha kecil agar dapat bertahan
+dan berkembang di lingkungan bisnis yang terus berubah.
+4. Dampak Sosial dan Lingkungan
+Transformasi digital dalam belanja, yang mencakup pergeseran dari belanja fisik ke
+belanja online, telah membawa dampak signifikan terhadap aspek sosial dan lingkungan.
+Penelitian oleh Kantar (2019) menunjukkan bahwa meskipun kemudahan dan efisiensi yang
+ditawarkan oleh e-commerce sangat menarik bagi konsumen, ada konsekuensi yang perlu
+dipertimbangkan terkait dengan pengiriman barang.19
+a. Peningkatan Emisi Karbon
+Salah satu dampak paling mencolok dari peningkatan pengiriman barang adalah
+kontribusinya terhadap emisi karbon. Setiap kali sebuah paket dikirim, terutama jika
+17 Sulistianingsih, D., Utami, M. D., & Adhi, Y. P. (2023). Perlindungan Hukum bagi Konsumen dalam Transaksi E-
+
+commerce sebagai Tantangan Bisnis di Era Global. Jurnal Mercatoria, 16(2), 119-128.
+18 Sihombing, M. J. S., & Sulistyo, H. (2021). Pengaruh E-Commerce dan Penggunaan Sistem Informasi Akuntansi
+Terhadap Pengambilan Keputusan Berwirausaha. Jurnal sosial dan sains, 1(4), 309-321.
+19 Suhari, Y. (2012). E-Commerce: Model Perilaku Konsumen.
+
+410
+
+Currency:
+Jurnal Ekonomi dan Perbankan Syariah
+Volume 03, Nomor 01, Oktober 2024
+ISSN: 2963-9387//e-ISSN: 2963-7465
+menggunakan kendaraan bermotor, ada pelepasan gas rumah kaca ke atmosfer. Menurut
+data dari Kantar, peningkatan frekuensi pengiriman barang seiring dengan pertumbuhan
+e-commerce dapat menyebabkan lonjakan emisi karbon. Ini menjadi masalah serius
+mengingat upaya global untuk mengurangi jejak karbon dan memerangi perubahan iklim.
+b. Masalah Kemacetan20
+Selain emisi karbon, transformasi digital dalam belanja juga berkontribusi pada
+masalah kemacetan di perkotaan. Dengan semakin banyaknya kendaraan pengiriman
+yang beroperasi untuk memenuhi permintaan konsumen yang meningkat, jalan-jalan
+menjadi lebih padat. Hal ini tidak hanya berdampak pada waktu perjalanan tetapi juga
+meningkatkan polusi udara dan kebisingan di area perkotaan. Penelitian menunjukkan
+bahwa kemacetan dapat memperburuk kualitas hidup masyarakat serta meningkatkan
+risiko kecelakaan lalu lintas.
+c. Perubahan Pola Konsumsi
+Transformasi digital juga mempengaruhi pola konsumsi masyarakat. Dengan
+akses mudah ke berbagai produk melalui platform online, konsumen cenderung membeli
+lebih banyak barang daripada sebelumnya. Ini dapat menyebabkan peningkatan limbah
+karena barang-barang yang tidak terpakai atau dibeli secara impulsif sering kali berakhir
+di tempat pembuangan akhir. Oleh karena itu, penting untuk mempertimbangkan
+bagaimana perilaku konsumsi ini dapat mempengaruhi lingkungan secara keseluruhan.21
+d. Tanggung Jawab Sosial Perusahaan (CSR)
+Dalam menghadapi tantangan ini, perusahaan-perusahaan e-commerce mulai
+menyadari pentingnya tanggung jawab sosial mereka terhadap lingkungan dan
+masyarakat. Banyak perusahaan kini berinvestasi dalam solusi ramah lingkungan seperti
+penggunaan kendaraan listrik untuk pengiriman atau program daur ulang untuk
+mengurangi limbah kemasan. Ini menunjukkan bahwa ada kesadaran yang berkembang
+tentang perlunya menyeimbangkan keuntungan bisnis dengan keberlanjutan
+lingkungan.22
+Metode Penelitian
+1. Pendekatan Penelitian23
+Penelitian ini menggunakan pendekatan kualitatif untuk mendapatkan pemahaman
+yang mendalam mengenai perubahan kebiasaan belanja masyarakat Indonesia di era digital.
+Pendekatan ini dipilih karena dapat mengeksplorasi perspektif, pengalaman, dan pandangan
+konsumen serta pelaku usaha.24
+2. Jenis Penelitian
+Jenis penelitian ini adalah studi kasus, yang berfokus pada analisis beberapa platform
+e-commerce yang populer di Indonesia, seperti Tokopedia, Shopee, dan Bukalapak.
+3. Sumber Data
+20 Pelu, M. F. A., & Mansah, A. (2023). Pengaruh Penggunaan E-Commerce Bagi Masyarakat. Journal of Resources
+
+and Reserves (JRR), 1(02), 11-15.
+21 Mahran, Z. A., & Sebyar, M. H. (2023). Pengaruh Peraturan Menteri Perdagangan (PERMENDAG) Nomor 31
+Tahun 2023 terhadap Perkembangan E-commerce di Indonesia: Array. Hakim: Jurnal Ilmu Hukum dan Sosial, 1(4),
+51-67.
+22 Maria, V. (2023). Peran E-Commerce Dalam Kewirausahaan Di Era Society 5.0. Jurnal Inovasi Penelitian, 4(1),
+121-128.
+23 Arikunto, S. (1998). Pendekatan Penelitian. Jakarta: Rineka Cipta.
+24 Sujarweni, V. W. (2014). Metodelogi penelitian. Yogyakarta: Pustaka Baru Perss.
+
+411
+
+Currency:
+Jurnal Ekonomi dan Perbankan Syariah
+Volume 03, Nomor 01, Oktober 2024
+ISSN: 2963-9387//e-ISSN: 2963-7465
+Data yang digunakan dalam penelitian ini terdiri dari:25
+a. Data Primer: Wawancara mendalam dengan konsumen, pelaku usaha, dan ahli di bidang
+e-commerce. Wawancara akan dilakukan secara langsung atau melalui video call.
+b. Data Sekunder: Literatur yang relevan, laporan penelitian, artikel, dan data statistik
+terkait dengan perkembangan e-commerce dan perubahan kebiasaan belanja.
+4. Teknik Pengumpulan Data
+a. Wawancara: Melakukan wawancara semi-terstruktur dengan responden untuk
+memahami pengalaman mereka dalam berbelanja online, serta tantangan yang dihadapi
+pelaku usaha.
+b. Studi Dokumentasi: Mengumpulkan dokumen, laporan, dan artikel yang berkaitan
+dengan kebiasaan belanja dan perkembangan e-commerce di Indonesia.
+5. Analisis Data
+Data yang diperoleh akan dianalisis menggunakan teknik analisis tematik. Proses
+analisis meliputi:
+a. Pengkodean data untuk mengidentifikasi tema dan pola yang muncul.
+b. Menyusun kategori berdasarkan tema yang relevan dengan tujuan penelitian.
+c. Menyusun narasi untuk mendeskripsikan temuan penelitian.
+6. Validitas dan Reliabilitas
+Validitas data akan dijaga melalui triangulasi sumber, yaitu dengan membandingkan
+informasi dari berbagai responden dan sumber. Reliabilitas akan ditingkatkan dengan
+mendokumentasikan setiap langkah penelitian secara jelas dan sistematis.
+Hasil Penelitian
+1. Profil Responden
+Penelitian ini melibatkan 40 responden yang terdiri dari tiga kategori: konsumen,
+pelaku usaha, dan ahli e-commerce. Berikut adalah profil responden:
+Kategori Responden
+Jumlah Responden
+Persentase (%)
+Konsumen
+24
+60%
+Pelaku Usaha
+11
+27.5%
+Ahli E-commerce
+5
+12.5%
+Sebagian besar responden (60%) merupakan konsumen, dengan mayoritas berusia
+18-30 tahun (60%), sedangkan sisanya adalah pelaku usaha dan ahli e-commerce. Pelaku
+usaha didominasi oleh pemilik usaha kecil dan menengah (UMKM), sedangkan ahli ecommerce adalah akademisi atau praktisi.
+2. Perubahan Kebiasaan Belanja
+Hasil wawancara mengungkap perubahan kebiasaan belanja masyarakat:
+Aspek
+Responden yang Mendukung
+Persentase
+(%)
+Peningkatan Belanja Online
+30
+75%
+Preferensi Pembayaran
+32
+80%
+Digital
+Sebanyak 75% konsumen melaporkan bahwa mereka lebih sering berbelanja online
+karena kemudahan akses dan variasi produk. Selain itu, 80% responden menunjukkan
+25 Sekaran, U., & Bougie, R. (2017). Metode penelitian untuk bisnis: Pendekatan pengembangan-keahlian, edisi 6
+
+buku 1.
+
+412
+
+Currency:
+Jurnal Ekonomi dan Perbankan Syariah
+Volume 03, Nomor 01, Oktober 2024
+ISSN: 2963-9387//e-ISSN: 2963-7465
+preferensi terhadap pembayaran digital seperti e-wallet dan transfer bank, yang dianggap
+lebih praktis dan aman.
+3. Peluang untuk Pelaku Usaha
+Pelaku usaha menyatakan beberapa peluang yang muncul dari perubahan ini:
+a. Akses ke Pasar yang Lebih Luas: 85% pelaku usaha merasa bahwa platform ecommerce membantu mereka menjangkau pelanggan di luar lokasi fisik mereka.
+b. Inovasi Produk: Banyak usaha kecil mengembangkan produk baru yang sesuai dengan
+tren konsumen, seperti produk ramah lingkungan dan lokal.
+Peluang
+Responden yang Mendukung
+Persentase (%)
+Akses Pasar yang Lebih Luas
+34
+85%
+Inovasi Produk
+28
+70%
+Sebagian besar pelaku usaha merasa bahwa platform e-commerce memberikan
+peluang untuk menjangkau pasar yang lebih luas. Selain itu, tren konsumen mendorong
+pelaku usaha untuk menciptakan produk inovatif, seperti produk ramah lingkungan.
+4. Tantangan yang Dihadapi
+Meskipun terdapat peluang, responden juga mengidentifikasi tantangan yang
+signifikan:
+a. Persaingan yang Ketat: 70% pelaku usaha mengaku kesulitan bersaing dengan pemain
+besar di pasar e-commerce yang menawarkan harga lebih murah.
+b. Kepercayaan Konsumen: 60% konsumen menyatakan kekhawatiran tentang keamanan
+transaksi online, termasuk risiko penipuan dan kualitas produk.
+Tantangan
+Responden yang Mengalami
+Persentase (%)
+Persaingan yang Ketat
+28
+70%
+Kepercayaan Konsumen
+24
+60%
+Pelaku usaha menghadapi persaingan ketat dengan perusahaan besar yang
+menawarkan harga lebih murah. Selain itu, 60% konsumen masih merasakan kekhawatiran
+terhadap keamanan transaksi online, seperti risiko penipuan dan kualitas produk.
+5. Dampak Lingkungan
+Hasil penelitian juga menunjukkan bahwa perubahan kebiasaan belanja memiliki dampak
+lingkungan:
+a. Peningkatan Emisi Karbon: 65% responden mengakui bahwa peningkatan pengiriman
+barang dapat berkontribusi pada emisi karbon yang lebih tinggi.
+b. Inisiatif Ramah Lingkungan: Beberapa pelaku usaha mulai menerapkan praktik ramah
+lingkungan, seperti menggunakan kemasan biodegradable dan opsi pengiriman yang lebih
+efisien.
+Dampak
+Responden yang Menyadari
+Persentase (%)
+Peningkatan Emisi Karbon
+26
+65%
+Inisiatif Ramah Lingkungan
+15
+37.5%
+Sebanyak 65% responden menyadari bahwa peningkatan pengiriman barang akibat
+belanja online berkontribusi terhadap emisi karbon. Untuk mengatasi hal ini, beberapa pelaku
+413
+
+Currency:
+Jurnal Ekonomi dan Perbankan Syariah
+Volume 03, Nomor 01, Oktober 2024
+ISSN: 2963-9387//e-ISSN: 2963-7465
+usaha telah menerapkan langkah ramah lingkungan seperti penggunaan kemasan
+biodegradable.
+Hasil penelitian ini memberikan gambaran menyeluruh tentang profil responden,
+perubahan kebiasaan belanja, peluang, tantangan, serta dampak lingkungan dari aktivitas
+belanja online. Analisis tabel mendukung pemahaman yang lebih mendalam mengenai tren
+dan tantangan yang dihadapi di era digital.
+Pertumbuhan Sektor E-Commerce: Penelitian menunjukkan bahwa sektor ecommerce di Indonesia mengalami pertumbuhan yang signifikan. Platform e-commerce kini
+menjadi pilihan utama bagi banyak konsumen untuk melakukan transaksi belanja. Data
+menunjukkan bahwa volume transaksi online meningkat pesat, didorong oleh kemudahan
+akses, promosi yang agresif, dan inovasi dalam metode pembayaran. E-commerce kini
+berkontribusi secara substansial terhadap ekonomi digital nasional.26
+Dampak pada Sektor Ritel Tradisional: Pergeseran ke belanja online berdampak
+negatif pada sektor ritel tradisional. Banyak toko fisik mengalami penurunan omzet,
+terutama dalam segmen yang sangat terpengaruh oleh kompetisi harga dan kenyamanan
+belanja online. Meskipun beberapa ritel tradisional berusaha untuk beradaptasi dengan
+mengembangkan platform online mereka sendiri, proses transisi ini memerlukan investasi
+yang signifikan dan sering kali menghadapi tantangan dalam hal integrasi teknologi.
+Perubahan Perilaku Konsumen: Survei menunjukkan bahwa konsumen kini lebih
+memilih belanja online karena kemudahan akses, variasi produk yang lebih luas, dan
+kenyamanan dalam bertransaksi. Namun, ada juga kekhawatiran terkait keamanan data
+pribadi dan kualitas produk. Konsumen semakin sadar akan pentingnya perlindungan data
+dan mencari platform yang menawarkan transparansi serta keamanan yang baik.
+Tantangan yang Dihadapi: Penelitian mengidentifikasi beberapa tantangan utama
+dalam era digital ini. Pertama, masalah keamanan data menjadi perhatian utama, dengan
+meningkatnya insiden pelanggaran data yang memengaruhi kepercayaan konsumen. Kedua,
+terdapat ketimpangan akses teknologi, terutama di daerah-daerah terpencil, yang dapat
+memperburuk ketidaksetaraan dalam akses ke pasar digital. Ketiga, pelaku usaha
+menghadapi tantangan dalam hal adaptasi teknologi dan investasi yang diperlukan untuk
+bersaing di pasar yang semakin kompetitif.27
+Peluang Baru: Di sisi lain, digitalisasi juga membuka peluang baru. Misalnya,
+pengembangan teknologi pembayaran dan logistik yang lebih efisien dapat meningkatkan
+pengalaman belanja dan memperluas jangkauan pasar. Selain itu, ada peluang untuk inovasi
+dalam model bisnis, seperti sistem langganan dan penawaran produk yang dipersonalisasi,
+yang dapat meningkatkan loyalitas pelanggan dan menciptakan nilai tambah bagi bisnis.
+Penelitian ini menegaskan bahwa perubahan kebiasaan belanja masyarakat
+Indonesia di era digital membawa dampak besar pada ekonomi, dengan pertumbuhan ecommerce yang pesat dan penurunan omzet di sektor ritel tradisional. Meskipun ada
+tantangan seperti keamanan data dan ketimpangan akses, peluang untuk inovasi dan
+peningkatan pengalaman pelanggan menawarkan potensi yang signifikan. Untuk
+
+26 Nasution, E. Y., Hariani, P., Hasibuan, L. S., & Pradita, W. (2020). Perkembangan transaksi bisnis e-commerce
+
+terhadap pertumbuhan ekonomi di Indonesia. Jesya (Jurnal Ekonomi dan Ekonomi Syariah), 3(2), 506-519.
+27 Theophilia, O., & Wijaya, R. S. (2023). Analisis Pengaruh Sektor Telekomunikasi, E-commerce, Indeks
+Pembangunan Teknologi Informasi dan Komunikasi (IP-TIK) dan Indeks Pembangunan Manusia Terhadap
+Pertumbuhan Ekonomi di Indonesia. JEMSI (Jurnal Ekonomi, Manajemen, dan Akuntansi), 9(4), 1528-1535.
+
+414
+
+Currency:
+Jurnal Ekonomi dan Perbankan Syariah
+Volume 03, Nomor 01, Oktober 2024
+ISSN: 2963-9387//e-ISSN: 2963-7465
+memanfaatkan peluang ini dan mengatasi tantangan, dibutuhkan strategi adaptasi yang
+tepat baik dari konsumen maupun pelaku usaha.
+Kesimpulan
+Penelitian ini menunjukkan bahwa perubahan kebiasaan belanja masyarakat Indonesia
+di era digital telah mengubah dinamika pasar dan memberikan peluang baru bagi pelaku usaha,
+terutama usaha kecil dan menengah (UKM). Mayoritas konsumen kini lebih memilih berbelanja
+online, yang memungkinkan mereka untuk mengakses berbagai produk dengan lebih mudah.
+Selain itu, metode pembayaran digital semakin populer, menandakan pergeseran menuju
+transaksi yang lebih praktis dan efisien. Namun, di balik peluang tersebut, terdapat sejumlah
+tantangan yang perlu dihadapi. Persaingan yang ketat di pasar e-commerce membuat UKM
+kesulitan untuk bersaing dengan pemain besar, sementara kekhawatiran konsumen tentang
+keamanan transaksi online tetap menjadi isu penting. Oleh karena itu, edukasi tentang
+keamanan berbelanja online menjadi sangat diperlukan.
+Dampak lingkungan dari peningkatan belanja online juga perlu diperhatikan. Meskipun
+banyak pelaku usaha mulai menerapkan praktik ramah lingkungan, kesadaran akan isu ini
+harus ditingkatkan di kalangan konsumen dan pelaku usaha. Secara keseluruhan, untuk
+memaksimalkan potensi ekonomi digital, diperlukan kolaborasi antara pemerintah, platform
+e-commerce, dan pelaku usaha untuk menciptakan lingkungan yang mendukung, aman, dan
+berkelanjutan. Dengan upaya bersama, diharapkan ekonomi digital di Indonesia dapat
+berkembang secara inklusif dan memberikan manfaat jangka panjang bagi semua pihak.
+Daftar Pustaka
+Adha, S. (2022). Faktor revolusi perilaku konsumen era digital: sebuah tinjauan
+literatur. Jipis, 31(2), 134-148.
+Ardani, W. (2022). Pengaruh Digital Marketing Terhadap Perilaku Konsumen. Jurnal Tadbir
+Peradaban, 2(1), 40-47.
+Arikunto, S. (1998). Pendekatan Penelitian. Jakarta: Rineka Cipta.
+Aryadi, A., Istia, P. T., Kusuma, A., Buku, A., Gunadi, H., Lorens, D., ... & Iskandar, A. A.
+(2024). Ekonomi Digital dan Transformasi Bisnis di Indonesia. TOHAR MEDIA.
+Febriani, N., & Dewi, W. W. A. (2019). Perilaku konsumen di era digital: Beserta studi kasus.
+Universitas Brawijaya Press.
+Haris, R., Sartika, S., Subair, N., Tarigan, F. L. B., Nur, S., Rukmana, A. Y., & Syamsul, H. (2023).
+Digitalpreneur Berwawasan Lingkungan.
+Mahran, Z. A., & Sebyar, M. H. (2023). Pengaruh Peraturan Menteri Perdagangan (PERMENDAG)
+Nomor 31 Tahun 2023 terhadap Perkembangan E-commerce di Indonesia:
+Array. Hakim: Jurnal Ilmu Hukum dan Sosial, 1(4), 51-67.
+Maria, V. (2023). Peran E-Commerce Dalam Kewirausahaan Di Era Society 5.0. Jurnal Inovasi
+Penelitian, 4(1), 121-128.
+
+415
+
+Currency:
+Jurnal Ekonomi dan Perbankan Syariah
+Volume 03, Nomor 01, Oktober 2024
+ISSN: 2963-9387//e-ISSN: 2963-7465
+Nasution, E. Y., Hariani, P., Hasibuan, L. S., & Pradita, W. (2020). Perkembangan transaksi bisnis
+e-commerce terhadap pertumbuhan ekonomi di Indonesia. Jesya (Jurnal Ekonomi dan
+Ekonomi Syariah), 3(2), 506-519.
+Pelu, M. F. A., & Mansah, A. (2023). Pengaruh Penggunaan E-Commerce Bagi
+Masyarakat. Journal of Resources and Reserves (JRR), 1(02), 11-15.
+Qoni'ah, R. (2022). Tantangan dan strategi peningkatan ekspor produk halal Indonesia di pasar
+global. Halal Research Journal, 2(1).
+Ramin, Moh. “PENTINGNYA KOMUNIKASI PUBLIK DALAM PEMASARAN PRODUK.” TOPLAMA
+1, no. 1 (August 28, 2023): 32–36. https://doi.org/10.61397/tla.v1i1.31.
+Ramin, Moh, Yolanda Chintya Bella, Lailatul Hasanah, and Siti Munawwarah. “STRATEGI
+DIVERSIFIKASI PORTOFOLIO SAHAM DI BEI UNTUK MENGURANGI RESIKO” 4 (2023).
+Ramin, Moh, Nur Intan Permata, and Artamin Hairit. “Mengoptimalkan Produksi Kopi di Waru
+Barat: Strategi Pemasaran dan Peningkatan Kekebalan Tubuh melalui Jahe Merah,” n.d.
+Riswandi, D. (2019). Transaksi on-line (e-commerce): peluang dan tantangan dalam perspektif
+ekonomi Islam. Jurnal Econetica, 1(1), 1-13.
+Riswanto, A., Joko, J., Napisah, S., Boari, Y., Kusumaningrum, D., Nurfaidah, N., & Judijanto, L.
+(2024). Ekonomi Bisnis Digital: Dinamika Ekonomi Bisnis di Era Digital. PT. Sonpedia
+Publishing Indonesia.
+Rosdiana, H., Darmastuti, S., & Kurniawan, A. (2022). Penyuluhan E-Commerce sebagai Peluang
+Ekonomi Karang Taruna Desa Sukmajaya Kabupaten Bogor. Jurnal Pengabdian
+Masyarakat: Pemberdayaan, Inovasi dan Perubahan, 2(5), 171-182.
+Rumondang, A., Kusuma, A. H. P., Sudirman, A., Sitorus, S., Simarmata, J., Manuhutu, M., ... & Arif,
+N. F. (2020). Pemasaran Digital dan Perilaku Konsumen.
+Sekaran, U., & Bougie, R. (2017). Metode penelitian untuk bisnis: Pendekatan pengembangankeahlian, edisi 6 buku 1.
+Setiawan, A. B. (2018). Revolusi bisnis berbasis platform sebagai penggerak ekonomi digital di
+Indonesia. Masyarakat Telematika Dan Informasi: Jurnal Penelitian Teknologi Informasi
+Dan Komunikasi, 9(1), 61.
+Sihombing, M. J. S., & Sulistyo, H. (2021). Pengaruh E-Commerce dan Penggunaan Sistem
+Informasi Akuntansi Terhadap Pengambilan Keputusan Berwirausaha. Jurnal sosial dan
+sains, 1(4), 309-321.
+Suhari, Y. (2012). E-Commerce: Model Perilaku Konsumen.
+Sujarweni, V. W. (2014). Metodelogi penelitian. Yogyakarta: Pustaka Baru Perss.
+
+416
+
+Currency:
+Jurnal Ekonomi dan Perbankan Syariah
+Volume 03, Nomor 01, Oktober 2024
+ISSN: 2963-9387//e-ISSN: 2963-7465
+Sulistianingsih, D., Utami, M. D., & Adhi, Y. P. (2023). Perlindungan Hukum bagi Konsumen
+dalam Transaksi E-commerce sebagai Tantangan Bisnis di Era Global. Jurnal
+Mercatoria, 16(2), 119-128.
+Theophilia, O., & Wijaya, R. S. (2023). Analisis Pengaruh Sektor Telekomunikasi, E-commerce,
+Indeks Pembangunan Teknologi Informasi dan Komunikasi (IP-TIK) dan Indeks
+Pembangunan Manusia Terhadap Pertumbuhan Ekonomi di Indonesia. JEMSI (Jurnal
+Ekonomi, Manajemen, dan Akuntansi), 9(4), 1528-1535.
+Wibowo, B. S., & Haryokusumo, D. (2020). Peluang Revolusi Industri 4.0 Bidang Pemasaran:
+Pemanfaatan Aplikasi E-commerce, Sosial Media Instagram dan Digital Marketing
+terhadap keputusan Instant Online Buying Konsumen Generasi Millenial. Capital: Jurnal
+Ekonomi Dan Manajemen, 3(2), 86-99.
+Zebua, R. S. Y., Hendriyani, C., Sukmadewi, R., Thaha, A. R., Tahir, R., Purbasari, R., ... & Subagja,
+A. D. (2023). BISNIS DIGITAL: Strategi Administrasi Bisnis Digital Untuk Menghadapi
+Masa Depan. PT. Sonpedia Publishing Indonesia.
+
+417
+
+

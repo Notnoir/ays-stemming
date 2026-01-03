@@ -1,0 +1,717 @@
+Jurnal Hukum & Pembangunan
+Volume 52
+
+Number 3
+
+Article 15
+
+9-30-2022
+
+TANGGUNG JAWAB HUKUM INVENTOR ATAS INVENSI
+KECERDASAN BUATAN (ARTIFICIAL INTELLIGENCE) DI
+INDONESIA
+Deslaely Putranti
+Faculty of Law, Ahmad Dahlan University, deslaely.putranti@law.uad.ac.id
+
+Kurnia Dewi Anggraeny
+Faculty of Law, Ahmad Dahlan University
+
+Follow this and additional works at: https://scholarhub.ui.ac.id/jhp
+Part of the Administrative Law Commons, Comparative and Foreign Law Commons, Constitutional
+Law Commons, Criminal Law Commons, and the Natural Resources Law Commons
+
+Recommended Citation
+Putranti, Deslaely and Anggraeny, Kurnia Dewi (2022) "TANGGUNG JAWAB HUKUM INVENTOR ATAS
+INVENSI KECERDASAN BUATAN (ARTIFICIAL INTELLIGENCE) DI INDONESIA," Jurnal Hukum &
+Pembangunan: Vol. 52: No. 3, Article 15.
+DOI: 10.21143/jhp.vol52.no3.3375
+Available at: https://scholarhub.ui.ac.id/jhp/vol52/iss3/15
+
+This Article is brought to you for free and open access by the Faculty of Law at UI Scholars Hub. It has been
+accepted for inclusion in Jurnal Hukum & Pembangunan by an authorized editor of UI Scholars Hub.
+
+Jurnal Hukum & Pembangunan Vol. 52 No. 3 (2022): 781 – 792
+ISSN: 0125-9687 (Cetak)
+E-ISSN: 2503-1465 (Online)
+TANGGUNG JAWAB HUKUM INVENTOR ATAS INVENSI KECERDASAN
+BUATAN (ARTIFICIAL INTELLIGENCE) DI INDONESIA
+Deslaely Putranti*, Kurnia Dewi Anggraeny*
+*Dosen Fakultas Hukum Universitas Ahmad Dahlan
+Korespondensi: deslaely.putranti@law.uad.ac.id
+Naskah dikirim: 16 November 2021
+Naskah diterima untuk diterbitkan: 17 Juli 2022
+Abstract
+The pace of technological development can no longer be restrained until the emergence
+of artificial intelligence (AI) which later, turns out to have a negative impact on its
+application. AI is a computer system program created by humans. However, the invention
+of AI in one hand makes human work easier, it is also noticeable that there are several
+criminal cases "performed" by AI. This research is qualitative research with doctrinal
+research. The data used include secondary data consisting of primary, secondary and
+tertiary legal materials. The method of data collection is done through document study.
+This research concludes that the inventor of an invention of artificial intelligence can be
+charged with legal responsibility by applying the limits of liability both in civil and penal
+sanction. Further studies are needed to be able to answer the question of how far this
+responsibility can be carried out.
+Keywords : Artificial Intelligence, Legal Liability, Inventor, Invention
+Abstrak
+Laju pengembangan teknologi sudah tidak dapat dibendung lagi hingga lahirnya
+kecerdasan buatan /Artifical Intellegence (AI) yang di kemudian hari, ternyata bisa
+memberikan imbas negatif pada penerapannya. AI merupakan sebuah sistem program
+komputer yang diciptakan oleh manusia. Namun sejalan dengan penemuan AI yang
+mempermudah pekerjaan manusia, tidak jarang ditemukan kasus-kasus kriminal yang
+“dilakukan” oleh AI. penelitian ini adalah penelitian kualitatif dengan pendekatan
+doktrinal. Data yang digunakan meliputi data sekunder yang terdiri dari bahan hukum
+primer, sekunder dan tersier. Metode pengumpulan data dilakukan melalui studi
+dokumen. Hasil dari penelitian disimpulkan bahwa Inventor atas suatu invensi dari
+kecerdasan buatan dapat dibebankan tanggung jawab hukum dengan tetap menerapkan
+batas- batas tanggung jawab baik secara perdata maupun pidana. Diperlukan studi lebih
+lanjut untuk dapat menjawab pertanyaan terkait seberapa jauh tanggung jawab tersebut
+dapat dilaksanakan.
+Kata kunci : Artificial Intelligence, Tanggung Jawab Hukum, Inventor, Invensi
+I.
+PENDAHULUAN
+Artificial Intelligence (AI) / kecerdasan buatan dalam beberapa tahun terakhir
+menjadi salah isu teknologi yang banyak disoroti. Perkembangan peradaban manusia
+mulai bergeser dari era Internet of Things (IoT) menuju peradaban kecerdasan buatan.
+Penemuan terkait AI pada bidang kesehatan, pendidikan, bisnis maupun industri
+dianggap sebagai langkah besar dalam peradaban manusia yang diharapkan akan semakin
+berkembang pada masa yang akan datang. Namun sejalan dengan penemuan AI yang
+mempermudah pekerjaan manusia, tidak jarang ditemukan kasus-kasus kriminal yang
+“dilakukan” oleh AI. Pada tahun 1981, seorang karyawan di perusahaan motor Jepang
+Tersedia versi daring: http://scholarhub.ui.ac.id/jhp
+DOI: https://doi.org/10.21143/jhp.vol52.no3.3375
+
+782
+
+Jurnal Hukum & Pembangunan Tahun ke-52 No.3 Juli-September 2022
+
+tewas karena robot yang ada di tempatnya bekerja1. Selanjutnya, pada tahun 2015 sebuah
+robot bernama Random Darknet Shopper (RDS) membeli ekstasi2. Di Indonesia sendiri,
+tahun 2016 Kementerian Komunikasi dan Informatika Republik Indonesia (Kemkominfo
+RI) memblokir ratusan akun media sosial dimana akun-akun bot tersebut menyebarkan
+hoax terkait isu politik3. AI adalah sistem yang diciptakan oleh manusia. Dalam rezim
+hukum kekayaan intelektual, AI termasuk dalam salah satu kekayaan intelektual yang
+dapat dilindungi melalui Hak Cipta dan Paten. Dalam perspektif hukum Kekayaan
+Intelektual, program komputer yang bermuatan invensi teknologi dapat dilindungi
+melalui paten, meskipun program komputer sendiri dilindungi di bawah rezim Hak
+Cipta4. Inventor, atau Pencipta selaku penemu dan pemegang hak paten dan atau hak cipta
+mendapatkan hak eksklusif dalam hal komersialisasi atas karya atau invensinya.
+Pada tahun 2015, hadir sebuah robot yang diberi kecerdasan buatan (AI) alias bot
+bernama RDS yang sengaja dibuat oleh sekelompok seniman asal Swiss. Mereka
+membuat proyek di mana RDS diberi mata uang bitcoin senilai 100 dollar AS untuk
+berbelanja secara acak di marketplace dark web Agora. Salah satu dari pembelian yang
+dilakukan oleh RDS adalah paket pil berjenis ekstasi. Tak lama, komputer tempat si robot
+bernaung “ditahan” alias disita oleh polisi Swiss. Di Indonesia sendiri, pada tahun 2016
+menjamur akun bot yang menyebarkan hoax yang memuat isu politik tokoh tertentu. Hal
+ini tentu menimbulkan keresahan pada masyarakat dimana penggunaan AI belum diatur
+secara khusus didalam peraturan perundang-undangan. Sehingga potensi penyalahgunaan
+AI dalam tindak pidana sangat besar terjadi.
+Untuk memahami sisi pertanggungjawaban pidana maka perlu terlebih dahulu
+harus dilihat konsep “melakukan perbuatan pidana”, yaitu perbuatan yang dilarang oleh
+suatu aturan hukum larangan mana yang merupakan penegasan hukum5 Namun tidak
+cukup hanya perbuatan pidana, pertanggungjawaban pidana harus menilik pula asas actus
+non facit reum nisi mens sist rea , dimana adanya kesalahan tersebut mengacu pada dua
+konsep besar yaitu adanya keadaan psikis (batin) tertentu dan hubungan tertentu antara
+keadaan batin dengan perbuatan yang dilakukan6. Maka muncul pertanyaan bagaimana
+kita dapat melihat dan meminta pertanggung jawaban non manusia yaitu sistem AI itu
+sendiri. Dalam penelitian ini bahasan dibatasi pada tanggung jawab penemu/inventor atas
+paten/invensi berupa kecerdasan buatan (AI). Permasalahan yang akan diangkat dalam
+penelitian ini yakni bagaimana pertanggungjawaban Inventor atas kejahatan yang
+dilakukan oleh invensi berupa AI? Penelitian ini bertujuan untuk mengidentifikasi dan
+menganalisis bentuk pertanggungjawaban inventor terhadap kejahatan yang dilakukan
+oleh invensi berupa AI miliknya dan sejauh mana peraturan perundang-undangan di
+Indonesia mengatur mengenai hal tersebut.
+II. PEMBAHASAN
+2.1.Artificial Intelligence (AI) : Tantangan Masa Depan Hukum Di Indonesia
+
+1
+
+Hallevy, G. The Criminal Liability of Artificial Intelligence Entities - from Science Fiction to Legal
+Social Control. “Akron Intellectual Property Journal”, Vol. 4, No. (2), 2010, hal. 1.
+2
+Abbott, R. B., & Sarch, A. F. Punishing Artificial Intelligence: Legal Fiction or Science Fiction,
+“SSRN Electronic Journal”, Vol. 53, 2019, hal. 323–384.
+3
+Rahman, R. A., & Habibulah, R. The Criminal Liability Of Artificial Intelligence: Is It Plausible To
+Hitherto Indonesian Criminal System? “Legality : Jurnal Ilmiah Hukum”, Vol. 27, No. (2), 2019, hal. 147.
+4
+Undang-Undang Hak Cipta Nomor 28 Tahun 2014
+5
+Moeljatno, Pertanggungjawaban Dalam Hukum Pidana , (Jakarta: Rineka Cipta, 2015), hal. 59.
+6
+Ibid.
+
+Tanggung, Deslaely dan Kurnia
+
+783
+
+AI dapat dianalogikan seperti tubuh manusia dimana terdapat organ-organ dengan
+tugas dan fungsinya masing-masing. AI bekerja dengan mengkombinasikan sejumlah
+besar data secara cepat, berulang-ulang, dan algoritma cerdas yang memungkinkan
+program komputer/software dapat secara otomatis “belajar” dari pola atau fitur yang ada
+dalam data yang tersedia. Ada beberapa subbidang AI yakni 7:
+1. Machine learning. Sistem ini menggunakan metode dari jaringan neural, statistik,
+operasi pencarian untuk menemukan informasi tersembunyi dalam data tanpa
+harus diprogram secara eksplisit.
+2. Artificial Neural Networks. Sistem ini meniru cara kerja neuron dalam otak
+manusia untuk dapat menghasilkan kemampuan kognitif yang mirip dengan otak
+untuk AI.
+3. Deep Learning. Subbidang ini menggunakan jaringan neural yang besar dengan
+banyak lapisan processing unit. Contoh teknologi yang menggunakan sistem ini
+adalah speech recognition miliki Google Assistant dan image recognition.
+4. Computer Vision. Subbidang ini bergantung pada rekognisi pola dan deep
+learning untuk mengenali apa yang ada dalam gambar atau video. Contoh dari
+teknologi computer vision ini adalah software pengenal wajah milik Facebook.
+5. Natural Language Processing. NLP adalah kemampuan komputer untuk
+menganalisis, memahami, dan menghasilkan bahasa manusia, termasuk suara.
+Tahap lanjutan dari NLP adalah Natural Language Interaction yang
+memungkinkan manusia untuk berkomunikasi dengan komputer menggunakan
+bahasa sehari-hari untuk melakukan perintah.
+
+Gambar 1 : Domain dan subdomain definisi operasional AI8
+7
+
+SAS
+Articial
+Intelligence,
+What
+it
+is
+and
+why
+it
+matters,
+<https://www.sas.com/en_us/insights/analytics/what-is-artificial-intelligence.html>, diakses pada tanggal
+13 Oktober 2021
+8
+Samoili, S., Lopez Cobo, M., Gomez Gutierrez, E., De Prato, G., Martinez-Plumed, F. and Delipetrev,
+B., AI WATCH. Defining Artificial Intelligence, EUR 30117 EN, Publications Office of the European
+Union, Luxembourg, 2020, ISBN 978-92-76-17045-7
+
+784
+
+Jurnal Hukum & Pembangunan Tahun ke-52 No.3 Juli-September 2022
+
+Sebagaimana yang telah disampaikan di awal, bahwa organ AI meniru organ
+manusia. Nathan-Ross Adams9 memberikan catatan bahwa AI memiliki potensi untuk
+melebihi kemampuan manusia jika kekuatan memproses (processing power) dari AI
+melebihi manusia. AI sendiri didefinisikan oleh HLEG (High Level Expert Group),
+sebuah kelompok ahli yang ditunjuk oleh Komisi Uni Eropa untuk mendukung strategi
+AI Eropa, sebagai berikut10: "Artificial intelligence (AI) systems are software (and
+possibly also hardware) systems designed by humans(2) that, given a complex goal, act
+in the physical or digital dimension by perceiving their environment through data
+acquisition, interpreting the collected structured or unstructured data, reasoning on the
+knowledge, or processing the information, derived from this data and deciding the best
+action(s) to take to achieve the given goal. AI systems can either use symbolic rules or
+learn a numeric model, and they can also adapt their behaviour by analysing how the
+environment is affected by their previous actions."
+Pada definisi tersebut dapat ditarik kesimpulan bahwa AI merupakan sebuah sistem
+baik berupa software maupun hardware yang dibuat oleh manusia yang dapat
+mempelajari model numerik dan AI dapat beradaptasi dengan menganalisis bagaimana
+tindakan selanjutnya berdasarkan apa yang dia lakukan sebelumnya.
+Sebuah percobaan yang dilakukan oleh Alan Turing pada tahun 1950, yang dikenal
+dengan “Turing Test” yang menjadi milestone dalam riset dan perkembangan AI11. Tes
+Turing merupakan sebuah cara untuk mengetahui suatu mesin dapat dikategorikan
+sebagai mesin yang cerdas atau tidak apabila mesin tersebut dapat dibedakan dengan
+manusia dengan kondisi tertentu. Yang menarik adalah, sistem yang ditanam pada mesin
+tersebut disimpulkan memiliki kemampuan secara otonom tanpa campur tangan manusia
+untuk dapat membuat keputusan sendiri. Kunci dari AI modern adalah ketika suatu sistem
+AI dapat berjalan tanpa adanya intervensi dari manusia. Untuk itu, penting untuk
+mengetahui perbedaan antara aktifitas “otomatis” dan “otonom”12. Sebagai
+perbandingan, banyak kendaraan masa kini yang memiliki fungsi “otomatis” misalnya
+cruise control pada pedal gas yang dapat mengatur kecepatan. Fungsi cruise control ini
+diawasi oleh pengendara, yang secara aktif mengontrol kendaraan tersebut. “Otonom”
+dalam konteks ini, adalah dimana sebuah kendaraan mampu untuk mengambil keputusan
+untuk dirinya sendiri tanpa adanya campur tangan dari pengendaranya. Bahkan mungkin,
+tanpa adanya pengendara sama sekali13. Saat ini, sistem yang dilengkapi AI yang otonom,
+telah mampu melakukan tugas berdasarkan kemampuan pembelajaran mereka sendiri,
+sehingga sangat besar kemungkinan bahwa AI mampu untuk menciptakan sesuatu.
+2.2.AI dalam Perspektif Hak Cipta dan Paten di Indonesia
+Perkembangan AI saat ini telah begitu pesat. AI bahkan telah mampu membuat
+karya cipta baik berupa puisi, lagu, bahkan novel. Bahkan pada tahun 2016, sebuah robot
+dengan sistem AI mampu membuat novel yang mendapatkan penghargaan sastra di
+9
+Adams,
+N.
+R.
+(2019).
+How
+Artificial
+Intelligence
+<https://www.researchgate.net/publication/337023590_How_Artificial_Intelligence_Works>,
+pada tanggal 13 Oktober 2021
+
+10
+
+Works.
+diakses
+
+Samoili, S. et, al., Defining Artificial Intelligence, page
+Abbott, R. I Think, Therefore I Invent: Creative Computers and the Future of Patent Law. “SSRN
+Electronic Journal”, Vol. 40, 2016, hal. 1079–1126.
+12
+Chesterman, S., We, the Robots?: Regulating Artificial Intelligence and the Limits of the Law.
+(Cambridge: Cambridge University Press, 2021) hal. 31
+13
+ibid, hal. 32
+11
+
+Tanggung, Deslaely dan Kurnia
+
+785
+
+Jepang14. Demikian pula, interaksi antara AI dengan paten pada era teknologi semakin
+meningkat. AI telah digunakan secara luas untuk menyederhanakan fungsi dasar dan
+mengurangi upaya manusia dalam melakukan pekerjaannya. Robot Ross15, salah satunya.
+Dimana Ross adalah robot pertama di dunia yang dipakai oleh kantor hukum di
+Washington untuk menangani perkara kepailitan.
+Inggris merupakan negara pertama yang mendorong konsep bahwa AI dapat
+diberikan hak paten sebagai inventor yakni “DABUS”. Sebuah sistem yang dibuat oleh
+Stephen Thaler, yang mendapat rekognisi sebagai “inventor” atas tempat makanan
+berdasarkan geometri fraktal16 oleh Kantor Kekayaan Intelektual di Afrika Selatan dan
+Australia. Hal ini tentu menjadi suatu hal yang mencengangkan mengingat AI dalam
+yurisdiksi perundang-undangan manapun di dunia belum mendapatkan rekognisi sebagai
+subjek hukum yang secara definitif harus berupa nature person/orang perorangan
+maupun legal person/rechtpersoon. Pada proyek DABUS, Australia dalam UndangUndang Patennya tidak secara eksplisit menyebutkan bahwa Inventor haruslah berupa
+“orang” sehingga pengakuan atas paten yang dihasilkan oleh AI menimbulkan
+terminologi baru yakni “AI-Agent”, mengingat belum ada terminologi yang tepat untuk
+dapat mengkategorisasikan AI sebagai subyek.
+Dalam Undang-Undang Nomor 28 Tahun 2014 tentang Hak Cipta, (“UUHC”)
+memberikan definisi tentang Pencipta (Pasal 1 Ayat 2) sebagai “seorang atau beberapa
+orang yang secara sendiri- sendiri atau bersama-sama menghasilkan suatu ciptaan yang
+bersifat khas dan pribadi.” Dan dalam Undang-Undang Nomor 13 Tahun 2016 (“UU
+Paten”) memberikan definisi tentang Inventor sebagai “seorang atau beberapa orang yang
+secara bersama-sama melaksanakan ide yang dituangkan ke dalam kegiatan yang
+menghasilkan Invensi”. Sehingga dari perspektif Hukum Kekayaan Intelektual di
+Indonesia saat ini, AI tidak dapat diberikan status sebagai subyek hukum melainkan
+Obyek Hukum. AI, secara umum merupakan software/program komputer. Dalam Pasal
+1 Ayat 9 UUHC mendefinisikan tentang Ciptaan berupa Program Komputer sebagai
+“seperangkat instruksi yang diekspresikan dalam bentuk bahasa, kode, skema, atau dalam
+bentuk apapun yang ditujukan agar komputer bekerja melakukan fungsi tertentu atau
+untuk mencapai hasil tertentu”. Serta, dalam Pasal 1 Ayat 2 UU Paten yang menyebutkan
+definisi Invensi sebagai “ide inventor yang dituangkan ke dalam suatu kegiatan
+pemecahan masalah yang spesifik di bidang teknologi berupa produk atau proses, atau
+penyempurnaan dan pengembangan produk atau proses”. AI di satu sisi, merupakan
+produk dari pencipta/penemunya. Dalam hal ini, AI sebagai program komputer, dapat
+dikategorikan sebagai ciptaan atau pun invensi; dengan catatan, jika invensi AI memiliki
+unsur novelty/kebaruan dalam bidang teknologi, maka AI dikategorikan sebagai invensi.
+Di sisi lain, AI yang telah memiliki kemampuan “otonom” mampu mengontrol
+bahkan menciptakan suatu hal yang baru yang tentu saja di kemudian hari, menjadi
+pertanyaan, dalam hal; jika suatu ciptaan dihasilkan oleh AI, maka siapakah yang menjadi
+Pencipta atas karya tersebut? atau dalam kondisi ditemukan suatu penemuan teknologi,
+14
+
+Dwi Murdaningsih, Novel Yang dituklis robot lolos kompetisi sastra di Jepang,
+<https://republika.co.id/berita/trendtek/elektronika/16/03/28/o4qetu368-novel-yang-ditulis-robot-loloskompetisi-sastra-di-jepang>, diakses pada 10 Maret 2021
+15
+Dwi Putro, W. Disrupsi Dan Masa Depan Profesi Hukum. “Mimbar Hukum - Fakultas Hukum
+Universitas Gadjah Mada”, Vol. 32, No. (1), 2020, hal. 19.
+16
+Surrey UK, World's first patent awarded for an invention made by an AI could have seismic
+implications on IP law, <https://www.surrey.ac.uk/news/worlds-first-patent-awarded-invention-made-aicould-have-seismic-implications-ip-law> diakses pada tanggal 14 Oktober 2021
+
+786
+
+Jurnal Hukum & Pembangunan Tahun ke-52 No.3 Juli-September 2022
+
+yang meskipun terdapat intervensi dari manusia berupa pemberian input ke dalam
+algoritma AI, namun memiliki unsur kebaruan sebagai hasil dari “self decision” dari suatu
+sistem AI, siapa yang berhak menjadi inventor atas paten tersebut?
+2.3.Pertanggungjawaban Hukum Inventor dalam Persepektif Hukum Pidana
+Di Indonesia, dalam pasal 1 Ayat (3) Undang-Undang Paten Nomor 13 Tahun 2016,
+telah menyatakan bahwa Inventor haruslah merupakan orang. Dengan demikian, dalam
+penelitian ini AI akan dikategorikan sebagai obyek, dimana Inventor dalam hal ini adalah
+penemu dari sistem AI.
+Pertanggungjawaban pidana dalam bahasa Inggris disebut responsibility atau
+criminal responsibility. Konsep pertanggungjawaban pidana tidak hanya ada pada bidang
+hukum semata akan tetapi menyangkut juga pada soal moral atau kesusilaan yang dianut
+oleh suatu kelompok masyarakat.
+Pertanggungjawaban pidana atau yang dikenal dengan konsep liability dalam segi
+filsafah hukum, Roscoe Pound menyatakan bahwa pertanggungjawaban pidana diartikan
+sebagai suatu kewajiban untuk membayar pembalasan yang akan diterima pelaku dari
+seorang yang telah ia rugikan17.
+Pengertian pertanggungjawaban pidana dikemukakan juga oleh beberapa ahli.
+Pertanggungjawaban pidana menurut Simons, yakni kemampuan bertanggung jawab
+dapat diartikan suatu keadaan psikis sedemikian rupa, sehingga penerapan suatu upaya
+pemidanaan, baik ditinjau secara umum maupun dari sudut orangnya dapat dibenarkan.
+Seorang pelaku tindak pidana mampu bertanggung jawab apabila mampu mengetahui
+atau menyadari bahwa perbuatan yang dilakukannya bertentangan dengan hukum dan
+mampu menentukan kehendaknya sesuai dengan kesadaran.18
+Berbeda dengan Simons, Van Hamel memberikan pengertian pertanggungjawaban
+pidana adalah suatu keadaan normal psikis dan kemahiran yang membawa tiga macam
+kemampuan, yaitu pertama, mampu untuk dapat mengerti makna serta akibat sungguhsungguh dari perbuatan-perbuatan sendiri. Kedua, mampu untuk menginsyafi bahwa
+perbuatan-perbuatan itu bertentangan dengan ketertiban masyarakat. Ketiga, mampu
+untuk menentukan kehendak berbuat.19 Pompe memberikan pengertian
+pertanggungjawaban pidana dalam batasan unsur-unsur yaitu kemampuan berpikir pada
+pelaku yang memungkinkan menguasai pikirannya dan menentukan kehendaknya, pelaku
+dapat mengerti makna dan akibat dari tingkah lakunya serta pelaku dapat menentukan
+kehendaknya sesuai dengan pendapatnya (tentang makna dan akibat tingkah lakunya).20
+Pengertian-pengertian pertanggungjawaban pidana diatas memberikan penjelasan
+bahwa pertanggungjawaban yang diancamkan kepada pelaku pidana haruslah melihat
+unsur-unsur yang dapat mengakibatkan seseorang dapat dipidana baik dari segi fisikis
+maupun kehendak yang ada dalam diri pelaku dalam melakukan perbuatannya. Seseorang
+dapat dikatakan telah melakukan perbuatan pidana apabila perbuatan yang dilakukannya
+terbukti sebagai suatu tindak pidana sesuai yang diatur dalam peraturan perundangundangan. Orang yang telah terbukti melakukan tindak pidana tidak semata-mata bisa
+djatuhi sanksi pidana. Pertanggungjawaban pidana tidak hanya dilihat dari perbuatannya
+saja, tapi dilihat juga dari unsur kesalahannya.21
+17
+
+Romli Atmasasmita,. Asas-asas Perbandingan Hukum Pidana. (Jakarta: Yayasan lembaga Bantuan
+Hukum Indonesia, 1989), hal. 65
+18
+Teguh Prasetyo, Hukum Pidana, (Depok: Raja Grafindo Persada, 2010), hal. 85
+19
+Eddy Hieariej, Prinsip-Prinsip Hukum Pidana, (Yogyakarta: Cahaya Atma Pustaka, 2016), hal. 121
+20
+Ibid, hal. 86
+21
+Moeljatno, Asas-Asas Hukum Pidana, Cetakan Ke-6, (Jakarta: Rineka Cipta, 2008), hal. 153
+
+Tanggung, Deslaely dan Kurnia
+
+787
+
+Perkembangan pertanggungjawaban pidana semakin hari mengalami
+perkembangan, dalam perkembangannya muncul beberapa teori pertanggungjawaban
+pidana yang mengesampingkan unsur kesalahan dalam perbuatan pidana. Asas “tiada
+pidana tanpa kesalahan” tidak mutlak berlaku. Meski demikian perlu diketahui sejauh
+mana doktrin tersebut dapat menyimpangi asas fendamental dari hukum pidana.22
+Pertanggungjawaban pidana terdapat asas (Geen straf zonder schuld; Actus non
+facit reum nisi mens sir rea) yaitu seseorang tidak dapat dipidana apabila tidak terdapat
+kesalahan23. Maksud dari asas tersebut adalah ketika seorang melakukan perbuatan
+pidana harus terdapat unsur kesalahan didalamnya, jika unsur kesalahan pada tindak
+pidana tidak terpenuhi maka pelaku tidak dapat dikenakan sanksi pidana.
+Pertanggungjawaban pidana (criminal responsibility) merupakan suatu mekanisme
+dalam menentukan apakah seorang terdakwa atau tersangka dipertanggungjawabkan atas
+suatu tindak pidana yang terjadi. Mempertanggungjawabakan seseorang dalam hukum
+pidana, bukan hanya berarti sah menjatuhkan pidana terhadap orang itu, tetapi juga
+sepenuhnya dapat diyakini bahwa memang pada tempatnya meminta
+pertanggungjawaban atas tindak pidana yang dilakukannya. Pertanggungjawaban pidana
+tidak hanya berarti rightfully sentenced tetapi juga rightfully accused.24
+Pertanggungjawaban pidana berhubungan dengan mekanisme yang menentukan
+apakah pelaku pidana dapat dipidana. Pertanggungjawaban pidana merupakan keadaan
+yang ada pada diri pelaku ketika melakukan perbuatan pidana. Pertanggungjawaban
+pidana berarti menghubungkan antara keadaan pelaku dengan perbuatan yang dilakukan
+dan sanksi yang akan diberikan kepada sipelaku.25
+2.4.Analogi Pertanggungjawaban Korporasi terhadap Inventor
+Pemahaman terhadap ruang lingkup korporasi tidak dapat dilakukan tanpa
+memahami pengertian atau definisi korporasi itu sendiri. Akar kata Korporasi berasal dari
+istilah “corporation” (bahasa Latin) yang berarti hasil dari pekerjaan membadankan,
+dengan kata lain badan yang dijadikan orang, badan yang dihasilkan dari perbuatan
+manusia sebagai lawan terhadap badan manusia, yang terjadi secara alami.26
+Penyebutan istilah “korporasi” sendiri merupakan hal yang baru ada dalam
+Undang-Undang Nomor 5 Tahun 1997 tentang Psikotropika sebagai pengaruh dari
+Konsep KUHP Tahun 1993. Penyebutan “korporasi” dengan tegas ada pada UndangUndang Nomor 5 Tahun 1997 tentang Psikotropika. Pasal 1 angka 13 Undang-Undang
+Nomor 5 Tahun 1997 menyebutkan “Korporasi adalah kumpulan terorganisasi dari
+orang/ atau kekayaan, baik merupakan badan hukum maupun bukan”. Ruang lingkup
+korporasi berdasarkan Undang-Undang Nomor 5 Tahun 1997 dapat dikatakan sangat luas
+karena mencakup semua bentuk badan usaha, baik badan usaha berbadan hukum maupun
+badan usaha non badan hukum. Berdasarkan definisi dan pengaturan hukum diatas maka
+
+22
+Aulia Ali Reza, Pertanggungjawaban Korporasi dalam Rancangan KUHP, (Jakarta: Institute for
+Criminal Justice Reform, 2015), hal. 12
+23
+Saifudien, Pertanggungjawaban Pidana, 2009, Hal. 1, http://saifudiendjsh.blogspot.com/2009/08/
+pertanggungjawaban-pidana.html, diakses pada tanggal 14 Oktober 2021
+24
+Chairul Huda, Dari Tiada Pidana Tanpa Kesalahan Menuju Kepada Tiada Pertanggungjawaban
+Pidana Tanpa Kesalahan: Tinjauan Kritis terhadap Teori Pemisahan Tindak Pidana dan
+Pertanggungjawaban Pidana. (Jakarta: Kencana, 2006), hal. 64
+25
+Kornelia Melansari D Lewokeda, Pertanggungjawaban Pidana Tindak Pidana terkait Pemberian
+Delegasi Kewenangan, “Jurnal Mimbar Keadilan”, Vol. 14, No. 28. Agustus 2018 - Januari 2019, hal. 187
+26
+Soetan K. Malikoel Adil, Pertanggungjawaban Korporasi Dalam Hukum Pidana, (Bandung: STHB,
+1995), hal. 83
+
+788
+
+Jurnal Hukum & Pembangunan Tahun ke-52 No.3 Juli-September 2022
+
+suatu kumpulan dapat disebut sebagai korporasi harus memenuhi persyaratan sebagai
+berikut:27
+1) Kumpulan terorganisasi
+2) Terdiri dari orang/atau kekayaan
+3) Berbentuk badan hukum maupun bukan
+Korporasi merupakan istilah yang baru dikenal dalam hukum pidana karena
+memang Kitab Undang-undang Hukum Pidana (WvS) tidak mengaturnya sebagai salah
+satu subyek hukum pidana.28 Pengakuan korporasi sebagai subyek hukum pidana
+memang tidak terlepas dari perkembangan dan kemajuan hubungan keperdataan yang
+melahirkan sebuah badan usaha seperti Maatschap, CV, Firma, Yayasan, Koperasi dan
+Perseroan Terbatas. Pengaturan berbeda dalam Undang-Undang No. 7/Drt/1955 tentang
+Tindak Pidana Ekonomi, korporasi diakui sebagai subyek hukum pidana sekaligus dapat
+dipertanggungjawabkan. Abidin Farid menekankan bahwa ketika korporasi diakui
+sebagai subyek hukum pidana maka ruang lingkup korporasi tidak saja meliputi korporasi
+partikelir tetapi juga municipal corporation.29
+Korporasi dalam beberapa istilah dikenal dengan istilah Corporatie (Belanda),
+Corporation (Inggris), Corporation (Jerman), dalam bahasa latin dikenal dengan istilah
+Corporatio.30 “Seperti halnya dengan kata lain yang berakhiran dengan “tio” maka
+“Corporatio” dianggap sebagai kata benda (Substantivum) yang berasal dari kata kerja
+“Corporare”, yang banyak dipakai orang pada zaman abad pertengahan atau sesudah
+itu.31
+Istilah “corporare” sendiri berasal dara kata “corpus” yang dalam bahasa
+Indonesia berarti “badan” atau dapat disimpulkan bahwa “corporation” dapat diartikan
+sebagai proses memberikan badan atau proses membadankan. “corpora-tio” berarti hasil
+pekerjaan membadankan, dengan perkataan lain, dapat dikatakan bahwa korporasi
+merupakan badan yang dujadikan orang, badan yang diperoleh dengan perbuatan manusia
+sebagai lawan terhadap badan manusia, yang terjadi menurut alam.32
+Istilah korporasi merupakan sebutan yang lazim dipergunakan dikalangan pakar
+hukum pidana untuk menyebut apa yang biasa dalam bidang hukum lain. Khususnya,
+bidang hukum perdata sebagai “badan hukum”, atau dalam bahasa belanda disebut sebgai
+Rechtspersoon, atau dalam bahasa Inggris disebut legal entities atau Corporation.33
+Hans Kelsen dalam bukunya yang berjudul General Theory of Law and State,
+mendefinisikan korporasi sebagai sekelompok individu yang diperlakukan oleh hukum
+sebagai satu kesatuan, yakni sebagai pribadi yang mempunyai hak-hak dan kewajibankewajiban yang berbeda dari hak-hak dan kewajiban-kewajiban individu-individu yang
+membentuknya. Korporasi dipandang sebgai pribadi karena peraturan hukum
+menetapkan hak-hak dan kewajiban-kewajiban tertentu yang menyangkut kepentingan
+anggota korporasi, tetapi tidak merupakan hak-hak dan kewajiban dari para anggotanya.
+27
+Hwian Christianto, Pertanggungjawaban Pidana Rumah Sakit atas Tindakan Tenaga Kesehatan
+Menurut UU No. 44 Tahun 2009. “Jurnal Yustika”. Vol. 14 No. 1, Juli 2011, hal. 8
+28
+Kitab Undang-Undang Hukum Pidana (KUHP), Pasal 59
+29
+Farid, Zainal Abidin, Pertanggungjawaban terhadap Delik-Delik Ekonomi, “Jurnal Hukum dan
+Pembangunan”. No.1 Tahun ke XII. Januari 1982, hal. 8
+30
+Muladi dan Dwidja Priyatno, Pertanggungjawaban Pidana Korporasi, (Jakarta: Kencana, 2010), hal.
+13
+31
+Kristian, Kebijakan Eksekusi: Sistem Pertanggungjawaban Pidana Korporasi Dalam Berbagai
+Putusan Pengadilan Di Indonesia, (Jakarta: Sinar Grafika, 2018), hal. 45
+32
+Soetan K. Malikoel Adil, Pertanggungjawaban Korporasi Dalam Hukum Pidana, Hal. 83
+33
+Teguh Prasetyo, Hukum Pidana, Hal. 2
+
+Tanggung, Deslaely dan Kurnia
+
+789
+
+Hak-hak dan kewajiban-kewajiban itu harus ditafsirkan menjadi hak-hak dan kewajiban
+dari korporasi.34
+Istilah korporasi selanjutnya akan penulis jelaskan pada bab 3 (tiga) yang akan
+terfokus pada pengertian korporasi menurut Hans Kelsen pada bukunya yang berjudul
+General Theory of Law and State dan pengertian korporasi menurut Soetan. K. Malikoel
+Adil.
+Pertanggungjawaban pidana korporasi sejatinya bertujuan untuk memberikan suatu
+dampak penting bagi pimpinan dalam korporasi untuk mengatur manajemen yang efektif
+agar korporasinya tidak melenceng dari tujuan dibentuknya dan berjalan sesuai dengan
+kewajiban korporasi tersebut. Adanya pertanggungjawaban korporasi, pada dasarnya
+memiliki tujuan yang sama dengan hukum pidana pada umumnya, yaitu:35
+1. Untuk menghentikan dan mencegah kejahatan di masa yang akan datang;
+2. Mengandung unsur penghukuman yang mencerminkan kewajiban masyarakat
+untuk menghukum siapapun yang membawa kerugian;
+3. Untuk merehabilitasi para penjahat korporasi;
+4. Pemidanaan korporasi harus mewujudkan sifat kejelasan, dapat diperdiksi dan
+konsitensi dalam prinsip hukum pidana secara umum;
+5. Untuk efisiensi, dan
+6. Untuk keadilan.
+Pertanggungjawaban pidana korporasi penting untuk dimintakan karena sangat
+tidak adil apabila perusahaan-perusahaaan yang mengabaikan regulasi yang ditetapkan
+lepas dari jeratan hukum padahal perbuatan perusahaan tersebut menimbulkan kerugian
+bagi masyarakat. Korporasi yang bertanggung jawab sebagai pembuat tindak pidana
+yakni pengurus dari korporasi itu sendiri.36
+Korporasi sebagai suatu subyek hukum, pertanggungjawabannya dapat berasal dari
+perundang-undangan atau ketentuan umum lainnya, dari tindakan atau kelalaian para
+direktur, pekerja atau agennya. Meski demikian, tidak dapat dikatakan bahwa
+pertanggungjawaban seorang direktur atau agen itu sepenuhnya dilimpahkan pada
+korporasinya, karena secara umum harus ditemukan terlebih dahulu pelanggaran dari
+peraturan tertentu oleh korporasi barulah dipertanyakan siapa yang melakukan kesalahan
+atau kelalaian tersebut untuk dimintakan pertanggungjawaban.37
+Tiga (3) model pertanggungjawaban yang selama ini diberlakukan38, yaitu:
+1. Pengurus korporasi sebagai pembuat dan penguruslah yang bertanggung jawab;
+2. Korporasi sebagai pembuat dan pengurus bertanggung jawab; dan
+3. Korporasi sebagai pembuat dan juga sebagai yang bertanggung jawab.
+Teori-teori yang muncul dalam perkembangan pertanggungjawaban pidana cukup
+banyak guna mengakomodir pertanggungjawaban pidana dan pemidanaan terhadap
+korporasi. Penulis dalam pembahasan ini hanya terbatas pada dua teori yakni teori
+Vicarious Liability dan teori Identification.
+Doktrin Vicarious Liability (pertanggungjawaban pengganti) merupakan doktrin
+yang mendasari salah satu bentuk pertanggungjawaban pidana korporasi. Doktrin ini
+menjelaskan mengenai suatu pertanggungjawaban pidana yang dibebankan kepada
+34
+
+Hans Kelsen, General Theory of Law and State, (Bandung: Nusa Media, 1995), Hal. 98
+Jimmy Tawalujan, Pertanggungjawaban Korporasi terhadap Korban Kejahatan. “Lex Crimen”. Vol.
+I, No. (3), Juli - September 2012, Hal. 8
+36
+Jimmy Tawalujan, “Pertanggungjawaban Korporasi terhadap Korban Kejahatan”, Hal. 8
+37
+Jimmy Tawalujan, “Pertanggungjawaban Korporasi terhadap Korban Kejahatan”. Hal. 10
+38
+Muladi dan Dwidja Priyatno, Pertanggungjawaban Pidana Korporasi, Hal. 83
+35
+
+790
+
+Jurnal Hukum & Pembangunan Tahun ke-52 No.3 Juli-September 2022
+
+seseorang atas perbuatan orang lain (the legal responsibility of one person for the
+wrongful acts of another).39 Pertanggungjawaban yang dimaksud adalah
+pertanggungjawaban pidana yang terjadi dalam hal perbuatan-perbuatan yang dilakukan
+oleh orang lain dalam ruang lingkup perkerjaan atau jabatan.40
+Doktrin Vicarious liability (pertanggungjawaban pengganti) didasarkan pada
+prinsip employment principle artinya majikan (employment) merupakan
+penanggungjawab utama dari para buruhnya atau karyawannya.41 Doktrin Vicarious
+Liability sering diartikan sebagai pertanggungjawaban pengganti (pertanggungjawaban
+menurut hukum dimana seorang bertanggungjawab atas perbuatan salah yang dilakukan
+oleh orang lain (the legal responsibility of one person for the wrongful acts of another).42
+Teori kedua yang penulis bahas yakni doktrin Identifikasi (Identification). Doktrin
+Identification (teori organ) dapat diartikan dalam dua persfektif yakni dalam arti luas dan
+dalam arti sempit.43
+Doktrin kedua adalah teori Identifikasi, teori ini dianut oleh negara-negara Anglo
+Saxon. 44 Teori ini bertumpu pada asumsi bahwa semua tindakan legal maupun ilegal
+yang dilakukan oleh high level manager atau direktur diidentifikasikan sebagai tindakan
+korporasi. 45 Doktrin identifikasi juga memberikan pembenaran atas pembebanan
+pertanggungjawaban pidana kepada korporasi, meskipun pada kenyataannya korporasi
+bukanlah sesuatu yang dapat berbuat sendiri dan tidak mungkin memiliki mens rea. 46
+Terdapat beberapa teori lain yang dapat digunakan dalam meminta pertanggungjawaban
+pidana korprorasi, namun dalam hal ini penulis lebih fokus untuk membahas mengenai
+pertanggungjawaban pidana korporasi dengan menggunakan doktrin Vicarious Liability
+dan doktrin Identifikasi.
+Dengan mendasarkan pada doktrin tersebut diatas, pertanggungjawaban hukum
+terhadap suatu tindak pidana maupun perbuatan melawan hukum yang dilakukan oleh AI,
+dapat dibebankan pada Inventor selaku penemu dari suatu invensi atas paten. AI, secara
+tak terhindarkan akan merubah tatanan peraturan perundang-undangan di masa yang akan
+datang. Diperlukan pengetahuan dan kesiapan dari pembentuk undang-undang untuk
+dapat memformulasikan pengaturan terkait AI di Indonesia.
+III. PENUTUP
+Dalam hukum Indonesia, AI tidak dapat diberikan hak sebagai inventor, setidaknya
+dalam peraturan perundang-undangan mengenai paten saat ini. Hal ini bermakna, dalam
+hal terjadinya tindak pidana yang dilakukan oleh AI yang terjadi di Indonesia, maka
+penemu atas sistem AI atau inventor manusia-lah yang bertanggungjawab baik secara
+39
+
+Romli Atmasasmita,. Asas-asas Perbandingan Hukum Pidana, Hal. 93
+Muladi dan Dwidja Priyatno, Pertanggungjawaban Pidana Korporasi, Hal. 113
+41
+Kristian, Kebijakan Eksekusi: Sistem Pertanggungjawaban Pidana Korporasi Dalam Berbagai
+Putusan Pengadilan Di Indonesia, Hal 58
+42
+Arief, Barda Nawawi. Masalah Pemidanaan Sehubungan dengan Perkembangan delik-delik Khusus
+dalam masyarakat Modern, kertas kerja pada Seminar Perkembangan delik-delik Khusus dalam
+masyarakat yang Mengalami Modernisasi BPHN dan FH Universitas Airlangga Surabaya, tanggal 25-27
+Februari 1980. Bandung: Binacipta, Hal. 41
+43
+Arief, Barda Nawawi. Masalah Pemidanaan Sehubungan dengan Perkembangan delik-delik Khusus
+dalam masyarakat Modern. 45
+44
+Muladi dan Dwidja Priyatno, Pertanggungjawaban Pidana Korporasi. Jakarta: Kencana, 2010, Hal.
+233
+45
+Maglie, Cristina, Models of Corporate Criminal Liability in Comparative Law, “Washington
+University Global Studies Law Review”, Vol. 4, No. (547), Januari 2005. Hal. 556
+46
+Sjahdeini, Sutan Remy, Pertanggungjawaban Pidana Korporasi. (Jakarta: Grafiti Pers, 2006), Hal.
+100
+40
+
+Tanggung, Deslaely dan Kurnia
+
+791
+
+pidana maupun perdata. Hal ini berdasarkan pada doktrin tanggung jawab vicarious
+(Vicarious Liability) sebagaimana berlaku pada tindak pidana korporasi, dimana Inventor
+atas AI lah yang dapat dibebankan tanggung jawab tersebut mengingat status subyek
+hukum atas AI di Indonesia belum dimungkinkan. Diperlukan studi lebih lanjut mengenai
+kemungkinan AI untuk dapat diberikan hak sebagai inventor, yang berarti, AI dianggap
+sebagai subyek hukum dengan limitasi tertentu.
+DAFTAR PUSTAKA
+Buku
+Adil, Soetan K. Malikoel. Pertanggungjawaban Korporasi Dalam Hukum Pidana.
+Bandung: STHB, 1995.
+Atmasasmita, Romli. Asas-asas Perbandingan Hukum Pidana. Jakarta: Yayasan
+lembaga Bantuan Hukum Indonesia, 1989.
+Chesterman, S. We, the Robots?: Regulating Artificial Intelligence and the Limits of the
+Law. Cambridge: Cambridge University Press, 2021.
+Hieariej, Eddy. Prinsip-Prinsip Hukum Pidana, Yogyakarta: Cahaya Atma Pustaka,
+2016.
+Huda, Chairul. Dari Tiada Pidana Tanpa Kesalahan Menuju Kepada Tiada
+Pertanggungjawaban Pidana Tanpa Kesalahan: Tinjauan Kritis terhadap Teori
+Pemisahan Tindak Pidana dan Pertanggungjawaban Pidana. Jakarta: Kencana,
+2006
+Kelsen, Hans. General Theory of Law and State. Bandung: Nusa Media, 1995
+Kristian. Kebijakan Eksekusi: Sistem Pertanggungjawaban Pidana Korporasi Dalam
+Berbagai Putusan Pengadilan Di Indonesia. Jakarta: Sinar Grafika, 2018
+Moeljatno. Pertanggungjawban Dalam Hukum Pidana. Jakarta: Rineka Cipta, 2015
+Moeljatno. Asas-Asas Hukum Pidana, Cetakan Ke-6, Jakarta: Rineka Cipta, 1993
+Muladi dan Dwidja Priyatno. Pertanggungjawaban Pidana Korporasi. Jakarta: Kencana,
+2010
+Prasetyo, Teguh. Hukum Pidana, Depok: Raja Grafindo Persada, 2010
+Reza, Aulia Ali. Pertanggungjawaban Korporasi dalam Rancangan KUHP. Jakarta:
+Institute for Criminal Justice Reform, 2015
+Sjahdeini, Sutan Remy. Pertanggungjawaban Pidana Korporasi. Jakarta: Grafiti Pers,
+2006
+Jurnal
+Abbott, R. B., & Sarch, A. F. “Punishing Artificial Intelligence: Legal Fiction or Science
+Fiction”, SSRN Electronic Journal, Vol. 53, 2019, 323–384.
+Abbott, R. “I Think, Therefore I Invent: Creative Computers and the Future of Patent
+Law”. SSRN Electronic Journal, Vol. 40, 2016, 1079–1126.
+Dwi Putro, W. “Disrupsi Dan Masa Depan Profesi Hukum”. Mimbar Hukum - Fakultas
+Hukum Universitas Gadjah Mada, Vol. 32, No. (1), 2020.
+Christianto, Hwian. “Pertanggungjawaban Pidana Rumah Sakit atas Tindakan Tenaga
+Kesehatan Menurut UU No. 44 Tahun 2009”. Jurnal Yustika. Vol. 14, No. (1), 2011
+Farid, Zainal Abidin. "Pertanggungjawaban terhadap Delik-Delik Ekonomi”, Jurnal
+Hukum dan Pembangunan. No.1 Tahun ke XII.,1982
+Hallevy, G. “The Criminal Liability of Artificial Intelligence Entities - from Science
+Fiction to Legal Social Control”. Akron Intellectual Property Journal, Vol. 4, No.
+(2), 2010, 1.
+
+792
+
+Jurnal Hukum & Pembangunan Tahun ke-52 No.3 Juli-September 2022
+
+Lewokeda, Kornelia Melansari D. “Pertanggungjawaban Pidana Tindak Pidana terkait
+Pemberian Delegasi Kewenangan”. Jurnal Mimbar Keadilan. Vol. 14, No. (28),
+Agustus 2018 - Januari 2019
+Maglie, Cristina. “Models of Corporate Criminal Liability in Comparative
+Law”,Washington University Global Studies Law Review, Vol. 4, No, (547).
+Januari 2005
+Rahman, R. A., & Habibulah, R. “The Criminal Liability Of Artificial Intelligence: Is It
+Plausible To Hitherto Indonesian Criminal System?” Legality : Jurnal Ilmiah
+Hukum, Vol. 27, No. (2), 2019, 147.
+Samoili, S., Lopez Cobo, M., Gomez Gutierrez, E., De Prato, G., Martinez-Plumed, F.
+and Delipetrev, B., AI WATCH. “Defining Artificial Intelligence, EUR 30117 EN,”
+Publications Office of the European Union, Luxembourg, 2020, ISBN 978-92-7617045-7
+Tawalujan, Jimmy. “Pertanggungjawaban Korporasi terhadap Korban Kejahatan”. Lex
+Crimen. Vol. I, No. 3. Juli - September 2012
+Turing, A. M. (1950). I.—Computing Machinery And Intelligence. Mind, LIX(236), 433–
+460. https://doi.org/10.1093/mind/LIX.236.433 dalam Abbott, R. (2016). I Think,
+Therefore I Invent: Creative Computers and the Future of Patent Law. SSRN
+Electronic Journal, 40, 1079–1126. https://doi.org/10.2139/ssrn.2727884
+Karya Ilmiah
+Arief, Barda Nawawi. (1980). Masalah Pemidanaan Sehubungan dengan Perkembangan
+delik-delik Khusus dalam masyarakat Modern, kertas kerja pada Seminar
+Perkembangan delik-delik Khusus dalam masyarakat yang Mengalami Modernisasi
+BPHN dan FH Universitas Airlangga Surabaya, tanggal 25-27 Februari 1980.
+Bandung: Binacipta
+Peraturan Perundang-Undangan
+Indonesia, Kitab Undang-Undang Hukum Pidana (KUHP)
+Indonesia, Undang-Undang Nomor 28 Tahun 2014 tentang Hak Cipta, Lembaran Negara
+Republik Indonesia (LNRI) Tahun 2014 Nomor 266 dan Tambahan Lembaran
+Negara Republik Indonesia (TLN) Nomor 5599
+Indonesia, Undang-Undang Nomor 13 Tahun 2016 tentang Paten, Lembaran Negara
+Republik Indonesia (LNRI) Tahun 2016 Nomor 176 dan Tambahan Lembaran
+Negara Republik Indonesia (TLN) Nomor 5922
+Internet
+Dwi Murdaningsih. “Novel Yang dituklis robot lolos kompetisi sastra di Jepang,
+<https://republika.co.id/berita/trendtek/elektronika/16/03/28/o4qetu368-novelyang-ditulis-robot-lolos-kompetisi-sastra-di-jepang> Diakses pada 10 Maret 2021
+Sas
+Insights.
+“What
+is
+Artificial
+Intelligence”.
+<https://www.sas.com/en_us/insights/analytics/what-is-artificialintelligence.html> Diakses pada 13 Oktober 2021
+Saifudien.
+“Pertanggungjawaban
+Pidana”.
+<http://saifudiendjsh.blogspot.com/2009/08/pertanggungjawaban-pidana.html>
+Diakses pada 14 Oktober 2021
+Surrey AC. “World's first patent awarded for an invention made by an AI could have
+seismic implications on IP law.” <https://www.surrey.ac.uk/news/worlds-firstpatent-awarded-invention-made-ai-could-have-seismic-implications-ip-law>
+Diakses pada 14 Oktober 2021
+
+

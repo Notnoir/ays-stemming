@@ -1,0 +1,462 @@
+Social Empirical: Prosiding Berkala Ilmu Sosial
+Volume 2 Number 1 2025, pp 274-281
+ISSN: 3063-0703 (Online)
+
+DOI: https://doi.org/10.24036/scemp.v2i1.143
+Received: May 21, 2025; Revised: June 4, 2025; Accepted: June 5, 2025
+
+Perubahan Sosial Akibat Migrasi dari Belanja Tradisional ke
+Ekosistem Digital: Pasar Raya Kota Padang
+Putri Cindy Clarissa1, Melia Susanti2, Halimahtusyadiah Liszar Awalni3, Rina Rasyada4
+Reza Mai Saputri5, Delmira Syafrini6*
+Universitas Negeri Padang
+*Corresponding author, e-mail: delmirasyafrini@fis.unp.ac.id
+1,2,3,4,5,6
+
+Abstrak
+Penelitian ini bertujuan untuk memahami bagaimana perubahan gaya hidup dan interaksi sosial
+terjadi di masyarakat Kota Padang sejak mereka beralih dari belanja di pasar tradisional ke belanja
+secara online, terutama lewat aplikasi e-commerce seperti Shopee. Topik ini diangkat karena
+perkembangan teknologi yang sangat cepat dan pengaruh pandemi COVID-19 yang membuat orang
+terbiasa berbelanja secara daring.Penelitian ini menggunakan teori modernisasi dari Talcott Parsons
+untuk melihat bagaimana nilai dan cara berinteraksi masyarakat ikut berubah di era digital. Metode
+yang digunakan adalah kualitatif dengan jenis studi kasus, berlokasi di Pasar Raya Kota Padang.
+Teknik pengumpulan informan menggunakan purposive sampling dengan jumlah tiga informan,
+yaitu dua pedagang dan satu konsumen. Data dikumpulkan melalui observasi, wawancara, dan
+dokumentasi. Berdasarkan hasil penelitian mengenai perubahan sosial akibat migrasi dari belanja
+tradisional ke sistem digital maka terdapat dua perubahan yang terjadi diantaranya pertama,
+Perubahan gaya hidup dengan terbentuknya pola hidup konsumtif dalam masyarakat, dimana
+mereka membeli barang-barang yang pada dasarnya tidak mereka butuhkan, melainkan hanya
+untuk memenuhi keinginan. Kedua, Perubahan interaksi sosial dengan terjadinya peralihan dari
+interaksi langsung ke interaksi digital yang dapat dilakukan kapan saja dan dimana saja tanpa
+terhalang jarak dan waktu.
+Kata Kunci: Belanja tradisional; Digitalisasi; E-commerce; Gaya hidup; Interaksi sosial,.
+
+Abstract
+This study aims to understand how lifestyle and social interactions have changed among the people
+of Padang City as they shift from traditional market shopping to online shopping, particularly
+through e-commerce platforms like Shopee. The topic was chosen due to the rapid advancement of
+technology and the impact of the COVID-19 pandemic, which encouraged people to become
+accustomed to online shopping habits. This research applies Talcott Parsons’ modernization theory
+to analyze how societal values and interaction patterns have evolved in the digital age. A qualitative
+case study method was used, with the research conducted at Pasar Raya, Padang. The study
+involved three informants: two traditional vendors and one consumer. Data were collected through
+observation, interviews, and documentation. Based on the results of research on social change due
+to migration from traditional shopping to digital systems, there are two changes that occur, including
+first, Changes in lifestyle with the formation of a consumer lifestyle in society, where they buy goods
+that they basically do not need, but only to fulfill their desires. Second, Changes in social interaction
+with the shift from direct interaction to digital interaction that can be done anytime and anywhere
+without being hindered by distance and time.
+Keywords: E-commerce, Digitalization; Lifestyle; Social Interaction, Traditional Shopping,.
+How to Cite: Clarissa, P. C. et al. (2025). Perubahan Sosial Akibat Migrasi dari Belanja Tradisional
+ke Ekosistem Digital: Pasar Raya Kota Padang. Social Empirical: Prosiding Berkala Ilmu Sosial, Vol. 2
+No. 1 Tahun 2025. (pp. 274-281). Padang: Universitas Negeri Padang.
+This is an open access article distributed under the Creative Commons 4.0 Attribution License, which permits unrestricted use, distribution,
+and reproduction in any medium, provided the original work is properly cited. ©2025 by author.
+
+274
+
+Clarissa, P. S. et al.
+
+275
+
+Pendahuluan
+Migrasi dari belanja tradisional ke ekosistem digital, khususnya melalui platform e- commerce seperti
+Shopee, menyebabkan perubahan gaya hidup dan interaksi sosial masyarakat Kota Padang yang signifikan.
+Fenomena ini terjadi meskipun kemajuan besar dalam teknologi informasi dan digitalisasi, yang juga
+didorong oleh kebutuhan adaptasi selama pandemi COVID-19. Kemajuan teknologi digital di Indonesia,
+termasuk Kota Padang, sangat tersebar luas. Data menunjukkan bahwa pada tahun 2021, hampir tiga
+perempat penduduk Indonesia menjadi pengguna internet aktif, dengan rata-rata menghabiskan lebih dari
+tiga jam per hari untuk berinteraksi di media sosial. Kota Padang telah mengadopsi digital dalam berbagai
+hal, mulai dari pelayanan publik hingga transaksi ekonomi, termasuk penggunaan aplikasi pembayaran
+elektronik dan tanda tangan elektronik di tingkat pemerintahan (Arini et al., 2025). Ini menunjukkan bahwa
+digitalisasi telah menjadi bagian dari kehidupan sehari-hari masyarakat Padang selain menjadi tren.
+Berangkat dari kemajuan teknologi, hal itu juga mempengaruhi gaya hidup masyarakat secara
+langsung oleh pergeseran dari belanja konvensional ke platform digital seperti Shopee (Pokhrel, 2024).
+Kemudahan akses, harga barang yang lebih murah, dan berbagai diskon menarik di Shopee mendorong
+orang untuk berbelanja lebih sering dan secara impulsif (Fedri & Indrayani, 2021). Pola konsumsi
+masyarakat pun menjadi lebih konsumtif karena orang lebih suka membeli sesuatu berdasarkan tren dan
+keinginan daripada kebutuhan (Fadila et al., 2025). Namun, konsekuensi ini juga membawa risiko yang
+cukup signifikan bagi konsumen, seperti keborosan hingga utang menggunakan fitur pay later. Selain itu,
+belanja sekarang dilakukan secara virtual tanpa kontak langsung, sehingga mengurangi interaksi sosial yang
+biasa terjadi di pasar konvensional.
+Dalam konteks ini, digitalisasi membawa pengaruh yang besar pada proses jual beli pedagang di
+Pasar, salah satunya Pasar Raya Kota Padang. Konsumen kini menginginkan kemudahan, dengan harga
+yang terjangkau, dan kesederhanaan yang dapat ditemukan melalui platform digital. Sehingga berdampak
+pada toko-toko di pasar tradisional juga berpotensi berubah fungsi menjadi gudang, sementara pemasaran
+beralih ke media sosial dan platform perdagangan online seperti Shopee. Pemerintah Kota Padang berupaya
+menghidupkan kembali Pasar Raya dengan merapikan agar tampak representatif, bersih, teratur, dan
+terkelola dengan baik. Selain itu, sosialisasi dan pelatihan digitalisasi diberikan kepada pelaku usaha agar
+dapat memanfaatkan peluang e-commerce secara optimal.
+Sejalan dengan perkembangan teknologi, analisis pasar tradisional di tengah gempuran supermarket
+dan e-commerce menunjukkan bahwa faktor-faktor seperti kemudahan, keamanan, kualitas produk, dan
+harga yang kompetitif berkontribusi pada perubahan preferensi pelanggan. Pasar Raya Kota Padang, selama
+ini menjadi pusat interaksi sosial dan pelestarian budaya, mulai kehilangan daya tarik karena tidak dapat
+bersaing dengan fasilitas dan kenyamanan yang ditawarkan oleh pasar modern dan platform digital.
+Meskipun demikian, pasar tradisional tetap memiliki keuntungan dari segi harga yang lebih murah,
+produk segar, dan kedekatan dengan pelanggan, yang membuat sebagian orang tetap berbelanja secara
+tradisional. Namun, pasar tradisional berisiko kehilangan fungsi sosial dan ekonominya jika tidak ada
+inovasi dan adaptasi (Rustini et al., 2025).
+Tujuan penelitian untuk mengetahui perubahan gaya hidup dan interaksi sosial masyarakat kota
+Padang akibat migrasi dari belanja tradisional ke ekosistem global, faktor-faktor perubahan gaya hidup dan
+interaksi sosial masyarakat kota Padang akibat dari migrasi belanja tradisional ke ekosistem global dan
+dampak positif dan negatif bagi konsumen dan pedagang akibat migrasi dari belanja tradisional ke ekosistem
+global (Ramadani, 2025). Manfaat penelitian dari segi Teoritis, peneliti dapat melihat sejauh mana
+perubahan gaya hidup dan interaksi sosial masyarakat kota Padang akibat dari belanja tradisional ke
+ekosistem global dengan kajian teori dan bagaimana cara penanggulangannya agar dampaknya Tidak
+merugikan salah satu pihak. Dilihat dari praktis yaitu Pedagang dan Konsumen. Bagi pedagang perpindahan
+belanja dari tradisional ke ekosistem global berdampak negatif karena persaingan bertambah ketat,
+pedagang-pedagang di pasar sepi pelanggan akibat dari penjualan di platform lebih murah dan banyak yang
+membeli di online daripada secara langsung akibatnya interaksi antar masyarakat menjadi minim. Pada
+konsumen sendiri perpindahan belanja dari tradisional ke ekosistem global seperti shopee sangat
+mempermudah belanja dan harga terjangkau dibandingkan beli di pasar sehingga mempengaruhi gaya hidup
+konsumen yg memilih belanja di platform e-commerce.
+Studi terkait perubahan gaya hidup dan interaksi sosial akibat migrasi dari belanja tradisional ke
+ekosistem digital sudah dikaji oleh penelitian terdahulu. Penelitian pertama dilakukan oleh Prayogi (2025)
+mengkaji secara terkait perubahan pola konsumsi masyarakat sebagai dampak dari kemajuan teknologi
+digital. Penelitian kedua dilakukan oleh Dwi et al. (2025) mengkaji bagaimana perubahan ekonomi digital
+telah membentuk ulang pola konsumsi masyarakat, khususnya dalam konteks perilaku belanja di era
+internet. Penelitian ketiga dilakukan oleh Laily & Syam (2021) mengkaji perubahan aktivitas jual beli
+masyarakat yang awalnya berlangsung menjadi serba digital, sebagai dampak dari kemajuan teknologi dan
+
+SOCIAL EMPIRICAL
+
+ISSN: 3063-0703
+
+276
+
+transformasi sosial. Penelitian keempat dilakukan oleh Ahmadi et al. (2018) mengkaji pengaruh perdagangan
+berbasis digital terhadap pola perilaku masyarakat urban di Kota Semarang.
+Penelitian ini berbeda dengan penelitian-penelitian terdahulu, yang lebih menyoroti transformasi
+pola konsumsi dalam konteks ekonomi digital secara umum, tanpa membahas secara spesifik perubahan
+gaya hidup dan interaksi sosial. Secara khusus penelitian ini mengkaji perubahan gaya hidup dan interaksi
+sosial masyarakat Kota Padang akibat migrasi dari belanja tradisional ke ekosistem global. Penelitian ini
+tidak hanya menelusuri bagaimana pola konsumsi berubah, tetapi juga menelaah faktor-faktor yang
+memengaruhi perubahan tersebut serta dampak positif dan negatif yang dirasakan oleh konsumen dan
+pedagang. Memberikan gambaran praktis mengenai tantangan dan solusi yang dapat diterapkan agar
+perubahan tersebut tidak merugikan salah satu pihak. Dengan demikian, penelitian ini memberikan
+kontribusi yang lebih menyeluruh dan kontekstual terhadap fenomena digitalisasi belanja di tingkat lokal.
+Tujuan penelitian untuk mengetahui perubahan gaya hidup dan interaksi sosial masyarakat kota
+Padang akibat migrasi dari belanja tradisional ke ekosistem global, faktor-faktor perubahan gaya hidup dan
+interaksi sosial masyarakat kota Padang akibat dari migrasi belanja tradisional ke ekosistem global dan
+dampak positif dan negatif bagi konsumen dan pedagang akibat migrasi dari belanja tradisional ke ekosistem
+global. Manfaat penelitian dari segi Teoritis, peneliti dapat melihat sejauh mana perubahan gaya hidup dan
+interaksi sosial masyarakat kota Padang akibat dari belanja tradisional ke ekosistem global dengan kajian
+teori dan bagaimana cara penanggulangannya agar dampaknya Tidak merugikan salah satu pihak. Dilihat
+dari praktis yaitu Pedagang dan Konsumen. Bagi pedagang perpindahan belanja dari tradisional ke
+ekosistem global berdampak negatif karena persaingan bertambah ketat, pedagang-pedagang di pasar sepi
+pelanggan akibat dari penjualan di platform lebih murah dan banyak yang membeli di online daripada secara
+langsung akibatnya interaksi antar masyarakat menjadi minim. Pada konsumen sendiri perpindahan belanja
+dari tradisional ke ekosistem global seperti shopee sangat mempermudah belanja dan harga terjangkau
+dibandingkan beli di pasar sehingga mempengaruhi gaya hidup konsumen yg memilih belanja di platform ecommerce. Dengan demikian peneliti tertarik untuk mengkaji “Perubahan Gaya Hidup dan Interaksi Sosial
+Akibat Migrasi Dari Belanja Tradisional ke ekosistem Digital pada Kota Padang”, kemudian melihat
+berbagai aspek seperti pergeseran masyarakat kota Padang dari belanja tradisional ke platform digital
+khususnya aplikasi Shopee.
+
+Metode Penelitian
+Penelitian ini menggunakan pendekatan kualitatif dengan tipe studi kasus. Penelitian ini berlokasi di
+Pasar Raya Kota Padang, yang dipilih karena melihat kondisi pasar juga masyarakat terkait peralihan dari
+belanja tradisional menuju platform digital khususnya Shopee. Penelitian dilakukan pada tanggal 1 Mei,
+2025. Penelitian ini meneliti 2 orang informan pedagang dan 1 orang konsumen. Teknik pengumpulan data
+yang yaitu observasi, wawancara, dan dokumentasi Hamzah (2019). Observasi dilakukan untuk melihat
+aktivitas masyarakat di Pasar Raya Kota Padang, sementara wawancara dan dokumentasi dilakukan untuk
+mengetahui sejauh mana masyarakat memanfaatkan platform digital shopee dalam kegiatan transaksi jualbeli. Penelitian ini menggunakan analisis data dari Miles dan Huberman yaitu reduksi data, penyajian data,
+dan penarikan kesimpulan. Penarikan kesimpulan untuk mengumpulkan data-data hasil wawancara, dan
+observasi mengenai Perubahan Gaya Hidup dan Interaksi Sosial akibat Migrasi dari Belanja Tradisional ke
+Ekosistem Digital pada Kota Padang. Penelitian menggunakan pendekatan kualitatif dengan tipe studi
+kasus.
+
+Hasil dan Pembahasan
+Perubahan gaya hidup
+Fenomena migrasi dari dagang tradisional di Kota Padang ke ekosistem digital mencerminkan
+perubahan besar dalam gaya hidup dan interaksi sosial. Perkembangan cepat teknologi digital dan akses
+mudah ke platform e-commerce khususnya Shopee telah mengubah pola konsumsi publik. Konsumen lebih
+suka belanja secara online karena mereka menawarkan kenyamanan, kecepatan perdagangan dan berbagai
+promosi yang menarik, menghasilkan pengurangan frekuensi kunjungan di pasar tradisional. Hal tersebut
+dialami oleh salah satu informan M (25 Tahun) menyatakan:
+“...Belanja online lebih enak, lebih murah. Bisa dimana saja tinggal tekan-tekan terus tunggu
+aja barangnya diantar sampai kerumah…” (Wawancara pada tanggal 1 Mei 2025).
+Dari pernyataan konsumen tersebut, kita bisa melihat bahwa sudut pandang konsumen menunjukkan
+nilai-nilai positif mengenai keberadaan platform online (shopee), yaitu membawa kemudahan dalam
+berniaga, hal itu dinilai dari segi kenyamanan yang diberikan sebab belanja online tidak menguras waktu
+(Perubahan Sosial Akibat …)
+
+Clarissa, P. S. et al.
+
+277
+
+dan tenaga, lalu barang akan sampai di tangan konsumen dengan harga yang bahkan lebih murah, tanpa
+adanya interaksi langsung antara penjual dan pembeli.
+
+Gambar 1. Transaksi Jual-Beli
+Sumber: Dokumentasi Peneliti
+Dari foto di atas bisa dilihat bagaimana interaksi masyarakat dalam bertransaksi langsung di pasar
+raya Padang, terjadi tawar menawar sebelum transaksi di anggap sah atau di sepakati, hal inilah yang
+semakin memudar saat ini akibat adanya migrasi dari belanja tradisional ke digital. Fenomena ini tidak
+hanya berdampak pada penurunan pendapatan, tetapi juga menambah beban karena pedagang tetap harus
+menanggung biaya seperti sewa tempat dan listrik, sementara jumlah pembeli terus menurun. Mereka
+merasa tidak mampu bersaing dengan harga di platform online yang cenderung lebih murah karena tidak
+dibebani biaya perasional fisik. Kondisi ini mencerminkan perubahan besar dalam cara hidup dan hubungan
+sosial masyarakat, di mana aktivitas yang dulu ramai dan sarat interaksi langsung, kini mulai ditinggalkan
+akibat kemudahan berbelanja melalui gawai. Dilihat juga dari beberapa keluhan mulai sering terdengar dari
+para pedagang yang usahanya semakin lesu. Mereka merasa terpukul karena belanja online makin diminati,
+sementara pasar tradisional kian ditinggalkan. Banyak dari mereka mengandalkan penghasilan harian untuk
+mencukupi kebutuhan hidup, namun kini pembeli makin jarang datang. Hal tersebut dialami oleh salah satu
+informan K (30 Tahun) menyatakan:
+“...Kami rugi dengan adanya jual beli online karena pasar jadi sepi pembeli, jadi tidak ada uang
+pemasukan yang kami peroleh, sedangkan di samping itu
+kami masih harus bayar sewa
+tempat dan listrik. Jual ikut harga online gabisa karena terlalu murah dari harga pasar, karena
+disini ada bayar sewa dan listrik, rugi kami…” (Wawancara pada tanggal 1 Mei 2025).
+Dari pernyataan penjual tersebut dapat kita lihat bahwa fenomena ini tidak hanya berdampak pada
+penurunan pendapatan, tetapi juga menambah beban karena pedagang tetap harus menanggung biaya seperti
+sewa tempat dan listrik, sementara jumlah pembeli terus menurun. Mereka merasa tidak mampu bersaing
+dengan harga di platform online yang cenderung lebih murah karena tidak dibebani biaya operasional fisik.
+Kondisi ini mencerminkan perubahan besar dalam cara hidup dan hubungan sosial masyarakat, di mana
+aktivitas yang dulu ramai dengan interaksi secara langsung, kini mulai ditinggalkan akibat kemudahan
+berbelanja melalui gadget.
+Salah satu perubahan gaya hidup yang signifikan adalah budaya konsumtif, dimana era saat ini
+perkembangan ekonomi digital telah mengubah gaya hidup masyarakat secara mendasar, terutama dalam
+hal konsumsi. Gaya hidup yang sebelumnya berbasis interaksi langsung, transaksi tatap muka, dan konsumsi
+sesuai permintaan telah berubah menjadi gaya hidup digital, langsung, personal, dan sangat bergantung pada
+teknologi. Munculnya berbagai platform e-commerce, media sosial, dan layanan keuangan digital
+mendorong masyarakat untuk melakukan berbagai aktivitas sehari-hari secara hanya dengan menggunakan
+handphone. Kemudahan ini menciptakan budaya baru konsumsi yang cepat, visual, dan impulsif.
+
+Gambar 1. Penjualan sepi
+Sumber: Dokumentasi Peneliti
+
+SOCIAL EMPIRICAL
+
+ISSN: 3063-0703
+
+278
+
+Foto di atas memperlihatkan bagaimana minimnya pembeli yang datang ke lapak lapak penjual di
+pasar, hanya bisa pasrah menunggu tanpa berharap banyak, bahkan tak sedikit pula terdengar keluhankeluhan dari para penjual karena sepinya pembeli. Dalam konteks konsumsi, gaya hidup masyarakat di era
+digital yang semakin konsumtif, didorong oleh strategi pemasaran yang canggih dan algoritma personalisasi.
+Masyarakat tidak lagi membeli barang hanya berdasarkan kebutuhan fungsional, tetapi lebih berdasarkan
+dorongan emosional dan simbolis. Ekonomi digital tidak hanya memperluas akses konsumen terhadap
+barang dan jasa, tetapi juga menciptakan lingkungan konsumsi yang terkait dengan gaya hidup, status sosial,
+dan kepuasan psikologis. Hal ini terlihat jelas dalam fenomena pembelian impulsif, yang semakin meningkat
+karena rangsangan visual dari media sosial, tren selebriti, dan keberadaan fungsi "pembayaran instan" yang
+mengaburkan batasan antara keinginan dan kebutuhan.
+Gaya konsumsi yang muncul di era digital erat kaitannya dengan identitas sosial. Di era ini, konsumsi
+bukan lagi sekadar sarana untuk memenuhi kebutuhan, tetapi alat untuk mengekspresikan diri dan
+mendapatkan pengakuan sosial. Barang-barang tertentu, seperti gadget terbaru, kosmetik Korea, pakaian
+bermerek, atau bahkan langganan digital premium, digunakan sebagai simbol status dan simbol gaya hidup
+tertentu. Selain perubahan perilaku konsumen, gaya hidup konsumtif di era serba digital juga mengubah cara
+orang berinteraksi. Interaksi sosial yang dulunya berlangsung secara tatap muka, seperti tawar-menawar di
+pasar tradisional atau pertemuan sosial di ruang publik, kini sebagian besar tergantikan oleh komunikasi
+singkat berbasis aplikasi. Sebuah studi oleh Rustini et al. (2025) menekankan bahwa digitalisasi ekonomi
+telah menyebabkan penurunan intensitas interaksi sosial di ruang nyata. Masyarakat menjadi lebih
+individualis dan kurang terlibat dalam interaksi sosial karena transaksi sekarang ini lebih otomatis.
+Perubahan Interaksi Sosial
+Fenomena migrasi dari dagang tradisional ke ekosistem digital di Kota Padang mencerminkan
+perubahan besar hingga interaksi sosial. Belanja online mengurangi interaksi langsung antara penjual dan
+pembeli. Kondisi ini mencerminkan perubahan besar dalam hubungan sosial masyarakat, di mana aktivitas
+yang dulu ramai dan sarat interaksi langsung, kini mulai ditinggalkan akibat kemudahan berbelanja melalui
+gawai. Fenomena ini tidak hanya berdampak pada penurunan pendapatan, tetapi juga menambah beban
+karena pedagang tetap harus menanggung biaya seperti sewa tempat dan listrik, sementara jumlah pembeli
+terus menurun. Mereka merasa tidak mampu bersaing dengan harga di platform online yang cenderung lebih
+murah karena tidak dibebani biaya operasional fisik.
+Dari pernyataan penjual tersebut dapat kita lihat bahwa fenomena ini tidak hanya berdampak pada
+penurunan pendapatan, tetapi juga menambah beban karena pedagang tetap harus menanggung biaya seperti
+sewa tempat dan listrik, sementara jumlah pembeli terus menurun. Mereka merasa tidak mampu bersaing
+dengan harga di platform online yang cenderung lebih murah karena tidak dibebani biaya operasional fisik.
+Kondisi ini mencerminkan perubahan besar dalam cara hidup dan hubungan sosial masyarakat, di mana
+aktivitas yang dulu ramai dengan interaksi secara langsung, kini mulai ditinggalkan akibat kemudahan
+berbelanja melalui gadget.
+
+Gambar 1. Pasar Sepi
+Sumber: Dokumentasi Peneliti
+Berdasarkan gambar di atas sepinya pengunjung pasar membuktikan bahwa telah terjadi perubahan
+besar akibat beranjaknya transaksi langsung ke era transaksi digital, terutama terhadap interaksi sosial
+masyarakat yang saat sekarang ini lebih memilih untuk belanja online dengan transaksi digital dibanding
+dengan belanja manual ke pasar seperti yang mereka lakukan sebelum maraknya platform belanja online
+seperti shopee. Istilah "ramai bagai di pasar" tak lagi dapat mewakili kondisi pasar saat ini, sebab minimnya
+pengunjung yang datang, hal ini berkaitan erat dengan pola konsumsi masyarakat saat ini. Maka terlihatlah
+perubahan bentuk interaksi sosial yang berpindah menggunakan perantara (handphone).
+Selain itu di tengah lorong-lorong Pasar Raya Kota Padang yang dulu selalu dipenuhi suara tawarmenawar dan langkah kaki pembeli, kini mulai terasa sepi. Meja-meja dagangan yang dulunya cepat kosong
+dalam hitungan jam, kini sering dibiarkan penuh hingga menjelang sore. Para pedagang yang telah puluhan
+
+(Perubahan Sosial Akibat …)
+
+Clarissa, P. S. et al.
+
+279
+
+tahun mengandalkan pasar sebagai sumber nafkah utama mulai merasakan dampak nyata dari pergeseran
+kebiasaan belanja masyarakat ke ranah digital. Hal tersebut juga dialami oleh informan J (27 Tahun)
+menyatakan:
+“…Sekarang orang lebih pilih beli lewat HP, mereka malas pergi ke pasar. Kami di sini makin
+sepi pembeli, kadang
+dari pagi sampai sore cuma laku sedikit saja. Mau ikut jualan online
+pun kami bingung, kami nggak paham cara pakainya. Padahal dari pasar ini kami bisa
+hidup…” (Wawancara pada tanggal 1 Mei 2025)
+Dari pernyataan penjual di atas banyak pedagang yang merasa kehilangan kendali atas pendapatan
+mereka karena jualan daring menuntut mereka menguasai keterampilan baru yang belum dimiliki sebelumnya
+oleh semua pelaku usaha pasar. Ditambah lagi, keterbatasan akses informasi dan kemampuan digital
+membuat mereka sulit bersaing di platform online yang serba terstandarisasi. Situasi ini menunjukkan bahwa
+transformasi digital tidak hanya mengubah cara masyarakat membeli dan menjual, tetapi juga mempengaruhi
+keseimbangan ekonomi masyarakat lokal serta menggerus ruang interaksi sosial yang selama ini menjadi ciri
+khas pada pasar tradisional. hal yang sama juga dirasakan oleh informan berinisial N (28 Tahun) yang
+menyatakan:
+“…saya lebih suka belanja lewat shopee dibandingkan dengan di pasar, lebih hemat waktu,
+biaya, dan tenaga, juga gak perlu repot nawar harga, dari kamar aja bisa beli apa saja…”
+(Wawancara pada tanggal 1 Mei 2025).
+Dari pernyataan konsumen tersebut, menunjukkan bahwa nilai praktis belanja online menjadi poin
+utama yang mampu menarik banyak konsumen untuk berpindah ke transaksi digital hingga menyebabkan
+pasar tradisional sepi pembeli.
+Pembahasan
+Fenomena migrasi dari perdagangan tradisional menuju ekosistem digital di Kota Padang dapat
+dianalisis melalui teori modernisasi Talcott Parsons, yang dimana teori ini menyoroti proses transformasi
+sosial dari sistem tradisional menuju masyarakat yang lebih rasional dan kompleks. Dalam konteks ini,
+pergeseran masyarakat dari pasar tradisional ke platform e-commerce seperti Shopee mencerminkan
+perubahan nilai dari orientasi kolektif menuju orientasi individualistik yang menekankan efisiensi,
+kenyamanan, dan fleksibilitas waktu. Transformasi ini sejalan dengan pemikiran Parsons mengenai
+diferensiasi sosial dan spesialisasi fungsi dalam masyarakat modern. Digitalisasi telah menciptakan
+ekosistem perdagangan yang lebih terstruktur dan sistematis dibandingkan pasar tradisional yang informal
+dan personal, ternyata hal ini juga sejalan dengan pernyataan yang menjelaskan bahwa digitalisasi
+memudahkan akses informasi, mempercepat transaksi, serta meningkatkan kepercayaan konsumen terhadap
+sistem digital, yang pada akhirnya mendorong pergeseran besar dalam pola konsumsi Masyarakat (Dwi et
+al., 2025). Lonjakan pengguna internet di Indonesia, yang mencapai 175,4 juta jiwa, menjadi faktor dominan
+dalam peralihan masyarakat ke belanja daring. Shopee bahkan disebut sebagai platform e-commerce paling
+banyak digunakan masyarakat Indonesia saat ini. Hal ini menandakan bahwa digitalisasi bukan sekadar
+pilihan praktis, tetapi telah menjelma menjadi gaya hidup baru yang menyatu dalam keseharian Masyarakat
+(Pratama & Irwansyah, 2021).
+Salah satu manifestasi dari gaya hidup digital ini adalah munculnya gaya hidup konsumtif di tengah
+masyarakat, yang ditandai dengan pola konsumsi yang cepat, visual, dan impulsif. Perkembangan ekonomi
+digital telah mengubah cara konsumsi masyarakat dari yang berbasis kebutuhan menjadi berbasis keinginan
+dan dorongan simbolik. Munculnya platform e-commerce, media sosial, dan layanan keuangan digital
+mendorong masyarakat melakukan aktivitas konsumsi hanya bermodalkan smartphone. Budaya konsumsi
+baru ini diperkuat oleh algoritma personalisasi dan strategi pemasaran visual yang canggih, yang secara
+psikologis mendorong pembelian impulsif. Konsumsi bukan lagi sekadar untuk memenuhi kebutuhan, tetapi
+juga menjadi simbol status, ekspresi diri, dan alat untuk mendapatkan pengakuan sosial. Barang-barang
+seperti gadget terbaru, kosmetik Korea, pakaian bermerek, hingga langganan digital menjadi indikator
+identitas sosial di era digital. Tidak hanya itu, digitalisasi juga telah mengubah cara orang berinteraksi.
+Interaksi sosial tradisional yang terjadi di pasar mulai tergantikan oleh komunikasi berbasis aplikasi.
+Fenomena ini menyebabkan penurunan intensitas interaksi sosial di ruang nyata dan meningkatnya
+sifat individualistik masyarakat. Transaksi yang dulunya sarat makna sosial kini menjadi aktivitas otomatis
+dan efisien. Namun, seperti yang juga digambarkan Parsons, modernisasi tidak terjadi tanpa disfungsi.
+Penurunan interaksi sosial langsung dan keterasingan ekonomi di kalangan pedagang tradisional
+mencerminkan ketidakseimbangan sosial yang muncul akibat perubahan struktural yang cepat. Pedagang
+tradisional yang tidak mampu bersaing dengan platform digital menghadapi tantangan eksistensial, yang
+
+SOCIAL EMPIRICAL
+
+ISSN: 3063-0703
+
+280
+
+mencerminkan konflik antara struktur lama dan struktur baru dalam sistem sosial yang sedang
+bertransformasi.
+Selain itu, muncul kesenjangan digital antara kelompok masyarakat yang paham teknologi dan
+kelompok masyarakat yang tidak memahami teknologi. Kesenjangan ini berpotensi dapat menimbulkan
+marginalisasi sosial terhadap kelompok yang tidak mampu beradaptasi, penggunaan platform digital sebagai
+gaya hidup tidak hanya dimonopoli oleh generasi muda tetapi telah merambah ke seluruh lapisan
+masyarakat, dengan dominasi akses melalui smartphone. Hal ini mengindikasikan bahwa penguasaan
+teknologi menjadi faktor penting dalam stratifikasi sosial modern (Faulina et al., 2021). Selain harus
+memahami penggunaan teknologi, para pedagang tradisional juga dituntut untuk mampu memahami
+strategi pemasaran online yang berkaitan erat dengan kemampuan masyarakat dalam menggunakan
+teknologi dan platform didalamnya, pedagang tradisional menghadapi tiga tantangan utama, persaingan
+harga yang ketat, penurunan kunjungan pasar, dan rendahnya literasi digital (Ramadani, 2025). Bahkan
+sebagian pedagang yang mampu mengakses pasar digital masih menghadapi hambatan karena keterbatasan
+pelatihan dan infrastruktur yang mendukung. Adaptasi terhadap e-commerce menjadi strategi bertahan
+hidup yang penting di era digital. Integrasi pasar tradisional ke dalam ekosistem digital melalui program
+literasi digital dan kebijakan pemerintah menjadi kebutuhan mendesak (Fahrianisa, 2025).
+Maraknya platform belanja online terutama shopee mengakibatkan berubahnya nilai-nilai sosial
+dalam membangun interaksi, hal ini sejalan dengan pernyataan (Ricky et al., 2021) platform belanja online
+tidak hanya mengubah cara berbelanja tetapi juga mengubah sistem nilai dalam masyarakat, dari interaksi
+sosial langsung ke hubungan berbasis transaksi digital, yang menuntut adanya mekanisme pengaturan baru
+melalui integrasi dan adaptasi. Adopsi teknologi oleh pedagang tradisional dapat meningkatkan volume
+penjualan meskipun sebelumnya mengalami penurunan drastis hingga 65% karena e-commerce. Menurut
+(Rimang et al., 2025) penetrasi e-commerce telah mengurangi minat konsumen untuk berbelanja di pasar
+tradisional, berdampak negatif pada pendapatan pedagang. Hasil ini menekankan perlunya inovasi strategi
+pemasaran digital agar pasar tradisional dapat bersaing di era modern (Rustini et al., 2025). Dengan
+demikian, perubahan gaya hidup masyarakat Kota Padang akibat berkembangnya e-commerce merupakan
+wujud nyata dari modernisasi sebagaimana dijelaskan oleh Parsons. Proses ini menuntut sistem sosial untuk
+terus beradaptasi dan menjaga keseimbangan melalui penyediaan literasi digital, dukungan kebijakan
+inklusif, serta integrasi sistem sosial dan ekonomi yang lebih merata dan adil.
+
+Simpulan
+Berdasarkan hasil penelitian yang telah dilakukan di pasar Raya Kota Padang, menunjukkan
+perubahan sosial yang signifikan dalam beberapa aspek. Pertama, perubahan gaya hidup masyarakat yang
+diantaranya adalah terbentuknya pola hidup konsumtif dalam masyarakat. Di mana pada masa digital ini,
+belanja dilakukan tidak hanya untuk memenuhi kebutuhan tapi untuk kesenangan semata. Hal ini di dorong
+oleh adanya fitur belanja online yang praktis, mudah, cepat, dan gampang di akses siapapun dan dimanapun.
+Kedua, perubahan interaksi sosial dalam masyarakat. Yaitu beralihnya sistem interaksi masyarakat dari
+langsung ke digital, di mana mereka tidak perlu lagi menghampiri penjual saat ada barang-barang tertentu
+yang diinginkan, karena platform belanja online telah mempermudah proses jual beli. Kedua perubahan
+besar ini membawa dampak positif dan negatif bagi pihak-pihak tertentu, misalnya para pedangang
+tradisional yang merasa di rugikan sebab pembeli semakin langka hingga menimbulkan kerugian hingga
+kebangkrutan, lalu dari sisi konsumen yang merasa di untungkan, sebab belanja online yang dirasa sangat
+praktis karena konsumen dapat belanja darimana saja dan kapan saja, dengan berbagai barang yang yang di
+sediakan mulai dari kebutuhan individu hingga kebutuhan rumah tangga. Penelitian ini terbatas pada data
+sekunder, belum menggali aspek psikologis dan variabel demografis secara mendalam. Studi lanjutan
+disarankan menggunakan data primer serta fokus pada faktor psikososial untuk mendukung integrasi digital
+yang adil dan berkelanjutan.
+
+Rujukan
+Ahmadi, F., Sunyoto, S., & Ardiansari, A. (2018). Pengaruh perdagangan online terhadap perilaku
+masyarakat kota semarang. Jurnal Riptek, 12(2), 107-118.
+Arini, D. F. (2025). Dinamika Pedagang Pasar Aur Kuning Bukittinggi dalam Digitalisasi Perdagangan
+2009-2023. Universitas Andalas.
+Amory, J. D. S., & Mudo, M. (2025). Transformasi ekonomi digital dan evolusi pola konsumsi: Tinjauan
+literatur tentang perubahan perilaku belanja di era internet. Jurnal Minfo Polgan, 14(1), 28-37.
+Fadila, N., Zakiah, S. N., Lestari, W., Najia, F., & Husain, F. (2025). Pengaruh Literasi Digital terhadap
+Perilaku Konsumtif Masyarakat di Era E-Commerce. Ekopedia: Jurnal Ilmiah Ekonomi, 1(2), 162-175.
+(Perubahan Sosial Akibat …)
+
+Clarissa, P. S. et al.
+
+281
+
+Fahrianisa, N., Nugroho, S. W., & Kurniawan, Y. D. (2025). Pengaruh Pajak Pertambahan Nilai (PPN),
+Literasi Keuangan, dan Penggunaan E-Wallet terhadap Perilaku Konsumtif Mahasiswa di Kota
+Madiun. Equivalent: Journal of Economic, Accounting and Management, 3(1), 117-135.
+Faulina, A. Dewi, R. & Arif, E. (2021). Fenomena Online Shopping sebagai Gaya Hidup dan Strategi
+Pemberdayaan Ekonomi Umat Islam di Masa Pandemi Covid 19. Jurnal Pengembangan Masyarakat
+Islam, 7(1), 46–59. https://ejournal.uinib.ac.id/jurnal/index.php/tathwir/index
+Fedri, R., & Indrayani, T. I. (2021). Faktor-Faktor Yang Mempengaruhi Masyarakat Kota Padang Dalam
+Memilih Aplikasi Bukalapak, Shopee dan Tokopedia Dimasa Pandemi Covid19. Jurnal Menara
+Ekonomi :
+Penelitian
+dan
+Kajian
+Ilmiah
+Bidang
+Ekonomi,
+7(1),
+123–132.
+https://doi.org/10.31869/me.v7i1.2858
+Laily, E., & Syam, N. (2021). Digitalisasi Aktivitas Jual Beli di Masyarakat: Perspektif Teori Perubahan
+Sosial.
+Ganaya:
+Jurnal
+Ilmu
+Sosial
+dan
+Humaniora,
+4(2),
+672–685.
+https://doi.org/10.37329/ganaya.v4i2.1303
+Pokhrel, S. (2024). Perilaku Konsumsi Remaja Ponorogo di Era Digital Sebagai Dampak Dari Penggunaan
+Media Sosial. Αγαη, 15(1), 37–48.
+Pratama, A., & Irwansyah, I. (2021). Eksplorasi Kondisi Masyarakat Dalam Memilih Belanja Online
+Melalui Shopee Selama Masa Pandemi Covid-19 Di Indonesia. Jurnal Teknologi Dan Sistem Informasi
+Bisnis, 3(1), 10–29. https://doi.org/10.47233/jteksis.v3i1.181
+Priadi, M. C., Listiana, E., Purmono, B. B., & Fitriana, A. (2025). Pengaruh GUX dan Content Marketing
+terhadap Satisfaction dan Loyalty Pemain Game Mobile. Mutiara: Jurnal Ilmiah Multidisiplin Indonesia,
+3(2), 101-14.
+Ramadani, F., & Nasution, M. I. P. (2024). Analisis Pengaruh Pasar Online Terhadap Pedagang Tradisional
+di Pasar Ditinjau dari Aspek Positif dan Negatif. Jurnal Ilmiah Penelitian Mahasiswa, 2(6), 537-545.
+Ricky, R. D. M., Kawung, E., & Goni, S. Y. V. . (2021). Dampak Aplikasi Belanja Online (Online Shop) di
+Masa Pandemi Covid-19 Terhadap Minat Belanja Masyarakat di Kelurahan Girian Weru Ii
+Kecamatan Girian Kota Bitung Provinsi Sulawesi Utara. Jurnal Ilmiah, 1(2), 1.
+Rimang, G., Anwar, K., & Sanistasya, P. A. (2025). Dampak E-Commerce Terhadap Tingkat Penjualan di
+Pasar Klandasan II Kota Balikpapan. Martabe: Jurnal Pengabdian Kepada Masyarakat, 8(3), 1002-1011.
+Rustini, T., Putri, R. F., Nabiilah, F., & Vedwina, M. S. (2025). Kondisi Pasar Tradisional di Tengah
+Gempuran Supermarket dan E- Commerce. Jurnal Ilmiah Pariwisata, 9(1), 1491–1501.
+
+

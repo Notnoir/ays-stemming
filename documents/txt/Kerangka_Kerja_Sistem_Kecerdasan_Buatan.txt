@@ -1,0 +1,259 @@
+                                                                                 19
+
+
+   Kerangka Kerja Sistem Kecerdasan Buatan
+ dalam Meningkatkan Kompetensi Sumber Daya
+             Manusia Indonesia
+                          Yudo Devianto1*, Saruni Dwiasnati2
+                      1
+                   Sistem Informasi, Universitas Mercu Buana, Jakarta
+                  2
+                  Teknik Informatika, Universitas Mercu Buana, Jakarta
+                           *
+                             yudo.devianto@mercubuana.ac.id
+
+    Abstrak
+    Di zaman yang semakin berkembang ini yaitu era digital, teknologi
+    merupakan suatu hal yang sangat penting. Dunia pada saat ini tengah
+    menghadapi era teknologi atau biasa disebut revolusi industri 4.0. kondisi
+    tersebut ditandai langsung dengan penggunaan mesin digital dan internet
+    yang menyebabkan perubahan yang cepat dan signifikan terhadap segala
+    sektor kehidupan manusia sehingga memudahkan manusia dalam
+    melakukan berbagai pekerjaan. Era transformasi digital adalah bagian
+    proses dari teknologi yang lebih besar, dan ini adalah perubahan yang
+    berhubungan dengan penerapan teknologi digital dalam aspek kehidupan
+    yang ada pada masyarkat. Kecerdasan buatan adalah suatu ilmu yang
+    mempelajari cara membuat komputer melakukan sesuatu seperti yang
+    dilakukan oleh manusia. Diperlukan sebuah kerangka kerja sistem
+    kecerdasan buatan yang dapat diterapkan dalam pengembangan ilm
+    pengetahuan, teknologi dan seni di Indonesia. Paper ini mencoba
+    membahas kerangka kerja Case Based Reasoning (CBR) dalam
+    pengembangan sistem kecerdasan buatan. Diharapkan kerangka kerja ini
+    dapat menjadi acuan penerapan sistem kecerdasan di Indonesia.
+
+
+     Keywords: Kecerdasan Buatan; Teknologi Baru; Case Based Reasoning
+     Soft Skill.
+
+
+    DOI: 10.22441/incomtech.v10i1.7460
+
+
+1. PENDAHULUAN
+
+   Di zaman yang semakin berkembang ini yaitu era digital, teknologi merupakan
+suatu hal yang sangat penting. Dunia pada saat ini tengah menghadapi era teknologi
+atau biasa disebut revolusi industri 4.0. kondisi tersebut ditandai langsung dengan
+penggunaan mesin digital dan internet yang menyebabkan perubahan yang cepat
+dan signifikan terhadap segala sektor kehidupan manusia sehingga memudahkan
+manusia dalam melakukan berbagai pekerjaan. Era transformasi digital adalah
+bagian proses dari teknologi yang lebih besar, dan ini adalah perubahan yang
+berhubungan dengan penerapan teknologi digital dalam aspek kehidupan yang ada
+pada masyarkat. Tranformasi digital dapat dianggap tahap ketiga dalam merangkul
+
+                            ISSN 2085-4811, eISSN: 2579-6089
+20                  IncomTech: Jurnal Telekomunikasi dan Komputer, Vol.10, No.1, 2020
+
+
+     teknologi digital [1]. Era transformasi digital mengubah kondisi bisnis dan kondisi
+     sosial sehingga mengharuskan perusahaan atau organisasi serta masyarakat dapat
+     beradaptasi dengan perkembangan teknologi agar tetap relevan dan tidak
+     ketinggalan.
+        Salah satu bidang teknologi yang menjadi penyumbang utama dalam
+     transformasi digital adalah bidang Kecerdasan Buatan (Artificial Technology).
+     Kecerdasan buatan merupakan pengembangan dan integrase dari bidang
+     elektronika, ilmu komputer dan matematika. Secara sederhana, sistem dengan
+     kecerdasan buatan dapat melakukan pekerjaan seperti yang dilakukan oleh
+     manusia, seperti berfikir, mengambil keputusan, melakukan klasifikasi terhadap
+     suatu keadaan atau mengestimasi keadaan di masa yang akan datang [2].
+        Lebih dari 20 sejak dikembangkan untuk pertama kalinya, kecerdasan buatan ini
+     telah berevolusi dengan sangat cepat. Berbagai aspek dan sisi kehidupan sudah
+     menjadi bagian yang tidak terpisahkan. Beberapa sisi kehidupan yang telah diisi
+     dengan kecerdasan buatan, antara lain: industri, ekonomi, pendidikan, social
+     bahkan hingga kedokteran dan kesehatan [3]. Perkiraanya, semua sisi kehidupan
+     kemanusiaan akan menjadi bagian yang tidak terpisahkan dengan kecerdasan
+     buatan [4].
+        Namun, hingga saat ini, belum ada kerangka kerja mengenai kecerdasan buatan
+     yang standar [5]. Sehingga, setiap peneliti mengembangkan kerangka kerja
+     kecerdasan buatan masing-masing. Tulisan ini mencoba menawarkan sebuah
+     kerangka kerja kecerdasan buatan yang berasaskan kepada Case Based Reasoning
+     (CBR). Harapannya, dengan berlandaskan CBR pengembangan teknologi
+     kecerdasan buatan akan lebih baik lagi.
+
+     2. METODE
+
+     2.1. Pengertian Kecerdasan Buatan
+        Ensiklopedia Britannica mendefinisikan kecerdasan buatan (Artificial
+     Intelligence/AI) sebagai cabang ilmu komputer yang dalam merepresentasi
+     pengetahuan lebih banyak menggunakan bentuk simbol-simbol daripada bilangan,
+     dan memproses informasi berdasarkan metode heuristik atau berdasarkan sejumlah
+     aturan [6] [7]. AI tidak sertamerta dapat menggantikan peran manusia dalam
+     industri, tetapi peran AI sebagai pendukung kinerja SDM, oleh karena itu perlunya
+     pengembangan kopentensi oleh SDM yaitu kompentensi yang tidak dapat
+     dilakukan oleh AI. Salah satunya yaitu meningkatkan soft skill SDM.
+        Mengapa kita perlu belajar kecerdasan buatan (Artificial Intelligence/AI)?
+     (Artificial Intelligence/AI) memiliki kemampuan untuk mempengaruhi setiap aspek
+     kehidupan kita. Bidang (Artificial Intelligence/AI) mencoba memahami pola dan
+     perilaku entitas. Dengan (Artificial Intelligence/AI), kami ingin membangun sistem
+     pintar dan memahami konsep kecerdasan juga. Sistem cerdas yang kami bangun
+     sangat berguna untuk mengetahui bagaimana sistem kecerdasan seperti otak kita
+     membangun sistem kecerdasan lain [1][2].
+        Untuk dapat memahami lebih lanjut mengenai kecerdasan buatan (Artificial
+     Intelligence/AI)? (Artificial Intelligence/AI) dengan cara melihat proses informasi
+     di dalam otak manusia. Hal ini diperlihatkan pada Gambar 1.
+
+
+
+                           ISSN 2085-4811, eISSN: 2579-6089
+Y. Devianto dan S. Dwiasnati, Peran Kecerdasan Buatan Dalam Meningkatkan …      21
+
+
+
+
+                        Gambar 1. Skema otak kita memproses informasi
+
+   Dibandingkan dengan beberapa bidang lain seperti matematika atau fisika yang
+telah ada selama berabad-abad, (Artificial Intelligence/AI) relatif masih bayi.
+Selama beberapa dekade terakhir, (Artificial Intelligence/AI) telah menghasilkan
+beberapa produk spektakuler seperti mobil self-driving dan robot cerdas yang dapat
+berjalan. Berdasarkan arah yang kita tuju, cukup jelas bahwa mencapai kecerdasan
+akan berdampak besar pada kehidupan kita di tahun-tahun mendatang [1, 2, 6].
+   AI tidak sertamerta dapat menggantikan peran manusia dalam industri, tetapi
+peran AI sebagai pendukung kinerja SDM, oleh karena itu perlunya pengembangan
+kopentensi oleh SDM yaitu kopentensi yang tidak dapat dilakukan oleh AI. Salah
+satunya yaitu meningkatkan soft skill SDM,
+2.2. Case Based Reasoning (CBR)
+   Metode yang digunakan dalam pengembangan kecerdasan buatan adalah
+berdasarkan sebuah kerangka kerja (framework). Kerangka kerja yang
+dikembangkan dikenal dengan Case Based Reasoning (CBR). Kerangka kerja CBR
+ini bekerja dengan membandingankan kasus baru dengan kasus lama. Hasil
+perbandingan dihitung menggunakan similaritas persamaan dari kasus baru dengan
+kasus yang lama. Dengan demikian, CBR dikenal dengan sistem yang mencari
+kesamaan menggunakan algoritma similaritas untuk menghitung seberapa
+akuratnya tingkat kemiripan kasus [8][9]. Siklus kerja CBR diperlihatkan pada
+Gambar 2.
+
+
+
+
+                      ISSN 2085-4811, eISSN: 2579-6089
+22                  IncomTech: Jurnal Telekomunikasi dan Komputer, Vol.10, No.1, 2020
+
+
+
+
+                                Gambar 2. Siklus Case Based Reasoning
+
+       Ada 4 tahapan siklus case based reasoning antara lain [10]:
+     1. Retrieve: proses pengenalan masalah atau meninjau kembali kasus yang
+        memiliki kriteria kesamaan.
+     2. Reuse: penggunaan kembali informasi yang ada pada kasus sebelumnya untuk
+        dicari perbedaannya dengan kasus yang sekarang dan dicari persamaan antara
+        kasus yang ada dengan saat ini untuk dijadikan kasus yang baru.
+     3. Revise: meninjau kembali kasus yang ada pada reuse dan dievaluasi jika hasil
+        dari proses reuse berhasil, akan dilanjut untuk proses berikutnya, jika tidak
+        maka akan diberikan solusi kesalahan untuk permasalahan kasus yang baru.
+     4. Retain: menyimpan permasalahan dari kasus tersebut yang nantinya bisa
+        digunakan untuk mengatasi permasalahan
+
+     2.3. Kecerdasan Buatan dan Pengembangan Sumber Daya Manusia
+
+        Masih banyak lagi metode-metode atau algoritma yang dapat digunakan untuk
+     pengembangan kecerdasan buatan. Namun, di dalam artikel ini tidak akan
+     membahas tentang penggunaan metode atau algoritma yang diterapkan dalam
+     penciptaan kecerdasan buatan, tetapi bagian ini akan menjelaskan bagaimana peran
+     kecerdasan buatan dalam meningkatkan kopentensi SDM.
+        Kecerdasan buatan salah satu teknologi baru yang terus berkembang dan juga
+     dapat dimanfaatkan untuk peningkatan kopentensi SDM dalam menuju era
+     transformasi digital indonesia yang kian cepat berkembang. Saat pindah ke
+     Masyarakat 5.0 semua kehidupan orang akan lebih nyaman dan berkelanjutan
+     seperti manusia yang hanya disediakan produk dan layanan dalam jumlah dan pada
+     waktu yang dibutuhkan. Sumber Daya Manusia (SDM) menjadi kunci menghadapi
+     era transformasi digital. Industri 4.0 dan masyarakat 5.0 yang bertumpu pada
+     perkembangan teknologi, mengharuskan Indonesia untuk mempersiapkan
+     terbangunnya sumber daya yang handal. Dengan begitu, sebaiknya Indonesia perlu
+
+                          ISSN 2085-4811, eISSN: 2579-6089
+Y. Devianto dan S. Dwiasnati, Peran Kecerdasan Buatan Dalam Meningkatkan …                      23
+
+
+mempersiapkan SDM yang berkualitas yang mampu memanfaatkan teknologi
+dengan sebaik mungkin [11].
+   Sumber daya manusia (SDM) adalah individu produktif yang bekerja sebagai
+penggerak suatu organisasi, baik itu di dalam institusi maupun perusahaan yang
+memiliki fungsi sebagai aset sehingga harus dilatih dan dikembangkan
+kemampuannya[10]. Oleh karena itu karyawan yang memiliki peran strategis untuk
+bisa mewujudkan prestasi dapat memanfaatkan Kecerdasaan buatan untuk dapat
+menghasilkan sebuah Transformasi Digital [11, 12, 13].
+   Salah satu hasil dari kecerdasan buatan yang dapat menggantikan peran
+Customer Service yang tidak dapat melayani 24 jam, dan hal tersebut dapat
+digantikan dengan AI yaitu teknologi Chatbot, dimana teknologi AI ini dapat
+menjawab secara otomatis pertanyaan yang diajukan secara benar [14].
+
+3. KESIMPULAN
+
+      Kesimpulan yang dapat disampaikan dalam artikel ini adalah sebagai berikut:
+•      Kecerdasan buatan adalah salah satu teknologi terbaru.
+•      Kecerdasan buatan tidak serta merta dapat menggantikan peran manusia dalam
+       industri.
+•      Agar SDM tidak tergantikan oleh AI, perlunya pengembangan kompentensi,
+       salah satunya yaitu peningkatan soft skill.
+•      Transformasi digital di era saat ini sangat dibutuhkan agar mengalami
+       perubahan dari Konvensional ke era serba digital.
+
+UCAPAN TERIMAKASIH
+
+  Kami ucapkan terimakasih yang sebesar-besarnya kepada Fakultas Ilmu
+Komputer Universitas Mercu Buana yang memberikan dukungan dalam bentuk
+moral dan material sehingga dapat terwujudnya artikel ini.
+
+REFERENSI
+
+[1]     Y. Yusnaini and S. Slamet, “Era Revolusi Industri 4.0: Tantangan dan Peluang dalam Upaya
+        Meningkatkan Literasi Pendidikan,” Prosiding Seminar Nasional Pendidikan Program
+        Pascasarjana Universitas PGRI Palembang, Palembang, Indonesia, 2019. vol. 2, pp. 1073–
+        1085.
+[2]     P. Joshi, Artificial intelligence with python, Packt Publishing Ltd, UK. 2017.
+[3]     M. Y. Chia, Y. F. Huang, C. H. Koo, and F. F. Fung, “Recent Advances in Evapotranspiration
+        Estimation Using Artificial Intelligence Approaches with a Focus on Hybridization
+        Techniques - Review,” Agronomy, vol. 10, no. 101, 2020.
+[4]     G. Armstrong and A. C. Lorch, “A(eye): A Review of Current Applications of Artificial
+        Intelligence and Machine Learning in Ophthalmology,” International Ophthalmology
+        Clinics, vol. 60, no. 1, pp. 57-71, 2020.
+[5]     C. C. Bennett and K. Hauser, “Artificial intelligence framework for simulating clinical
+        decision-making: A Markov decision process approach,” Artificial Intelligence in Medicine,
+        vol. 57, no. 1, pp. 9-19, January 2013. DOI: 10.1016/j.artmed.2012.12.003
+[6]     A. Swarnkar and A. Swarnkar, “Artificial Intelligence Based Optimization Techniques:
+        A Review,” In: Kalam A., Niazi K., Soni A., Siddiqui S., Mundra A. (eds). Intelligent
+        Computing Techniques for Smart Energy Systems. Lecture Notes in Electrical
+        Engineering, vol 607. Springer, Singapore, 2020.
+[7]     R. Yusuf, H. Kusniyati, and Y. Nuramelia, “Aplikasi Diagnosis Gangguan Kecemasan
+        Menggunakan Metode Forward Chaining Berbasis Web dengan PHP dan MYSQL,” Studia
+                           ISSN 2085-4811, eISSN: 2579-6089
+24                     IncomTech: Jurnal Telekomunikasi dan Komputer, Vol.10, No.1, 2020
+
+            Informatika: Jurnal Sistem Informasi, vol. 9, no. 1, pp. 1-13, 2016.
+     [8]    I. Pratama, S. Wibisono, and E. Nurraharjo, A. Saputro et al., “Sistem Pakar Deteksi Dini
+            Gejala Gangguan Neurologi Menggunakan Metode Case Based Reasoning dengan
+            Algoritma Similaritas 3W-Jaccard,” Sintak, vol. 3, pp. 443-4490, 2019.
+     [9]    J. Kolodner, Case-Based Reasoning, Morgan Kaufmann Publihsers, Inc., US. 2014.
+     [10]   P. Klein, L. Malburg, and R. Bergmann, “Learning Workflow Embeddings to Improve
+            the Performance of Similarity-Based Retrieval for Process-Oriented Case-Based
+            Reasoning,” In: Bach K., Marling C. (eds) Case-Based Reasoning Research and
+            Development. ICCBR 2019. Lecture Notes in Computer Science, vol 11680. Springer,
+            Cham. 2019.
+     [11]   S. Idrus, “Perspektif Sumber Daya Manusia Pariwisata di Era Revolusi Industri 4.0,”
+            Prosiding SINTESA, Bali, Indonesia, November 2018, 587–594,.
+     [12]   E. Susan, “Manajemen Sumber Daya Manusia,” Jurnal Manajemen Pendidikan Islam, vol.
+            9, no. 2, pp. 952–962, 2019.
+     [13]   M. Haris, “Manajemen Lembaga Pendidikan Islam dalam Menghadapi Revolusi Industri
+            4.0,” Mudir: Jurnal Manajemen Pendidikan, vol. 1, no. 1, pp. 45–57, 2019.
+     [14]   M. Astuti, Rani Natadian; Fatchan, “Perancangan Aplikasi Teknologi Chatbot Untuk Industri
+            Komersial 4.0,” Prosiding Seminar Nasional Teknologi dan Sains, September 2019, vol. 1,
+            no. 1, pp. 339–348.
+
+
+
+
+                               ISSN 2085-4811, eISSN: 2579-6089
+

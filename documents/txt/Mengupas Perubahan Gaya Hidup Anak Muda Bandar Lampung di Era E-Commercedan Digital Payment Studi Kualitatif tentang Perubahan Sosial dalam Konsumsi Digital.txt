@@ -1,0 +1,518 @@
+Jurnal Ilmu Komunikasi Dan Sosial Politik
+Vol. 02 No. 04 Edisi April-Juni 2025 Hal. 986-993
+Published by: ITTC INDONESIA
+Journal homepage: https://jurnal.ittc.web.id/index.php/jiksp/index
+
+E-ISSN : 3025-6445
+
+Mengupas Perubahan Gaya Hidup Anak Muda Bandar Lampung di Era
+E-Commerce dan Digital Payment: Studi Kualitatif tentang Perubahan
+Sosial dalam Konsumsi Digital
+Aulia Rahma Aldilaa, Dea Nisa Sifanab, Galuh Andinic, Purwanto Putrad, Ahmad Riza Faizale,
+Zaimasurif
+1
+
+Ilmu Komunikasi, Fakultas Ilmu Sosial Dan Politik, Universitas Lampung, auliarahmaaldila1830@gmail.com
+2
+Ilmu Komunikasi, Fakultas Ilmu Sosial Dan Politik, Universitas Lampung, dnisa236@gmail.com
+3
+Ilmu Komunikasi, Fakultas Ilmu Sosial Dan Politik, Universitas Lampung, galuhandinihos1@gmail.com
+4
+Ilmu Komunikasi, Fakultas Ilmu Sosial Dan Politik, Universitas Lampung, purwanto.putra@fisip.unila.ac.id
+5
+Ilmu Komunikasi, Fakultas Ilmu Sosial Dan Politik, Universitas Lampung, ahmad.riza@fisip.unila.ac.id
+6
+Ilmu Komunikasi, Fakultas Ilmu Sosial Dan Politik, Universitas Lampung, zaimasuri@fisip.unila.ac.id
+
+Abstract
+The development of digital technology has changed the consumption patterns and lifestyles of young people, especially
+through e-commerce and digital payments. Digitalization of transactions provides easy access, time efficiency, and various
+attractive promotions that encourage the shift from conventional shopping to digital shopping. This convenience makes ecommerce and digital payments an inseparable part of young people's daily lives. However, this change also brings social,
+economic, and cultural challenges, such as increased impulsive consumption, changes in social interaction patterns, and
+shifts in values in managing finances. Therefore, this study aims to analyze how e-commerce and digital payments affect the
+consumption patterns of young people in Bandar Lampung, the factors that drive this shift, and its impact on financial
+management, social interaction, and cultural values. This study uses a qualitative method with data collection techniques in
+the form of in-depth interviews, participatory observation, and literature analysis. The subjects of the study were young
+people aged 18 to 25 who actively use e-commerce and digital payments in Bandar Lampung. By understanding this digital
+consumption pattern, this study is expected to provide insight into the consumption trends of the younger generation and its
+implications in the digital era, as well as being a reference for individuals and related parties in developing strategies that
+are relevant to the development of digitalization.
+Keywords: E-commerce, digital payments, digital consumption, social change, young people, digital lifestyle, online
+transactions, financial education, social media
+
+Abstrak
+Perkembangan teknologi digital telah mengubah pola konsumsi dan gaya hidup anak muda, terutama melalui e-commerce
+dan digital payment. Digitalisasi transaksi memberikan kemudahan akses, efisiensi waktu, serta berbagai promosi menarik
+yang mendorong peralihan dari belanja konvensional ke belanja digital. Kemudahan ini menjadikan e-commerce dan
+pembayaran digital sebagai bagian tak terpisahkan dalam kehidupan sehari-hari anak muda. Namun, perubahan ini juga
+membawa tantangan sosial, ekonomi, dan budaya, seperti meningkatnya konsumsi impulsif, perubahan pola interaksi sosial,
+dan pergeseran nilai dalam mengelola keuangan. Oleh karena itu, penelitian ini bertujuan untuk menganalisis bagaimana ecommerce dan digital payment mempengaruhi pola konsumsi anak muda di Bandar Lampung, faktor-faktor yang mendorong
+pergeseran ini, serta dampaknya terhadap pengelolaan keuangan, interaksi sosial, dan nilai budaya. Penelitian ini
+menggunakan metode kualitatif dengan teknik pengumpulan data berupa wawancara mendalam, observasi partisipatif, dan
+analisis literatur. Subjek penelitian adalah anak muda berusia 18 hingga 25 tahun yang aktif menggunakan e-commerce dan
+digital payment di Bandar Lampung. Dengan memahami pola konsumsi digital ini, penelitian ini diharapkan dapat
+memberikan wawasan mengenai tren konsumsi generasi muda dan implikasinya dalam era digital, serta menjadi referensi
+bagi individu maupun pihak terkait dalam menyusun strategi yang relevan dengan perkembangan digitalisasi.
+Keywords: E-Commerce, Pembayaran Digital, Konsumsi Digital, Perubahan Sosial, Kaum Muda, Gaya Hidup Digital,
+Transaksi Daring, Edukasi Keuangan, Media Sosial
+This work is licensed under Creative Commons Attribution License 4.0 CC-BY International license
+
+PENDAHULUAN
+Saat ini perkembangan teknologi mengalami kemajuan yang sangat pesat dan terus maju.
+Perkembangan teknologi semakin meluas di berbagai bidang karena mempengaruhi berbagai aspek
+Jurnal Ilmu Komunikasi Dan Sosial Politik Vol.02 No. 04 Edisi April - Juni (2025)
+
+986
+
+Jurnal Ilmu Komunikasi Dan Sosial Politik
+Vol. 02 No. 04 Edisi April-Juni 2025 Hal. 986-993
+Published by: ITTC INDONESIA
+Journal homepage: https://jurnal.ittc.web.id/index.php/jiksp/index
+
+E-ISSN : 3025-6445
+kehidupan, salah satunya perkembangan teknologi digital (Sari & Putra, 2024). Perkembangan teknologi digital
+di Indonesia telah menunjukkan kemajuan yang signifikan dan memberikan dampak besar terhadap struktur
+ekonomi serta cara hidup masyarakat. Terdapat kemunculan konsep e-commerce yang memanfaatkan teknologi
+digital untuk transaksi menandai awal perubahan dalam pola perdagangan, konsumsi, dan penjualan barang yang
+sebelumnya lebih tradisional. Namun, perkembangan teknologi ini tidak hanya berdampak pada aspek ekonomi
+makro, tetapi juga mulai menggeser pola konsumsi dan gaya hidup individu, khususnya di kalangan anak muda
+yang tumbuh bersama internet dan teknologi digital.
+Kemajuan teknologi informasi yang terus berkembang telah memberikan dampak besar terhadap
+berbagai aspek kehidupan, termasuk pola hidup generasi muda di Bandar Lampung. Perubahan ini terlihat jelas
+dalam cara mereka mengakses, menyimpan, dan membagikan informasi secara digital. Melalui digitalisasi,
+berbagai jenis dokumen seperti teks, gambar, maupun audio kini dapat dikonversi ke dalam format elektronik
+yang lebih praktis dan efisien. Inovasi ini tidak hanya mendukung sistem administrasi dan pengelolaan arsip
+dalam organisasi, tetapi juga mendorong perubahan dalam kebiasaan konsumsi digital masyarakat, khususnya
+dalam penggunaan platform e-commerce dan pembayaran digital. Dalam konteks ini, arsip digital berperan
+penting sebagai sumber informasi yang menunjang aktivitas digital anak muda, mencerminkan pergeseran gaya
+hidup yang semakin terintegrasi dengan teknologi (Sari & Putra, 2024).
+Perkembangan IPTEK berbagai inovasi dalam bentuk teknologi informasi dan komunikasi yang pada
+akhirnya semakin mempercepat pertumbuhan dan perkembangan ilmu pengetahuan. Teknologi informasi
+menjadi bagian yang tak terpisahkan dari praktik serta lembaga dalam masyarakat pasca industri. Kehadiran
+internet selanjutnya semakin mendorong percepatan kemajuan teknologi informasi dan menjadikannya berada
+pada posisi yang penting. (Purnamayanti et al., 2021). Sebuah penelitian oleh Google dan TEMASEK pada tahun
+2018 mengungkapkan bahwa jumlah pengguna internet di Indonesia telah mencapai angka yang signifikan,
+berfungsi sebagai pendorong bagi pertumbuhan ekonomi digital. Di sisi lain, laporan dari McKinsey & Company
+menunjukkan bahwa peningkatan infrastruktur digital, terutama dalam penetrasi broadband, dapat meningkatkan
+kontribusi digital terhadap Produk Domestik Bruto (PDB) Indonesia. Misalnya, diharapkan melalui
+pengoptimalan penggunaan teknologi digital oleh Usaha Kecil dan Menengah (UKM), pertumbuhan PDB dapat
+meningkat sebesar 2% per tahun. Salah satu keunggulan utama UKM adalah kebutuhan modal yang relatif kecil
+dibandingkan proyek-proyek berskala besar lainnya, serta dampaknya yang langsung dirasakan oleh masyarakat
+luas, menjadikannya sektor strategis dalam mendorong pertumbuhan ekonomi digital (Putra, P., 2021).
+Salah satu sektor yang berkembang pesat seiring dengan digitalisasi adalah ekonomi digital, yang
+mendorong berbagai inovasi dalam transaksi dan perdagangan, termasuk munculnya e-commerce. Konsep ecommerce pertama kali diperkenalkan pada tahun 1994, saat banner elektronik mulai digunakan untuk keperluan
+promosi dan iklan di situs web. Secara umum, e-commerce atau perdagangan elektronik mencakup aktivitas
+distribusi, pembelian, penjualan, serta pemasaran barang dan jasa melalui sistem elektronik seperti internet,
+televisi, jaringan komputer, atau teknologi digital lainnya. Adopsi teknologi dan informasi dalam dunia digital
+telah mengambil peran untuk mewujudkan transformasi budaya, ekonomi, politik dan sosial (Windah et al.,
+2022)
+Dalam operasionalnya, e-commerce didukung oleh berbagai teknologi, seperti transfer dana elektronik,
+pertukaran data digital, sistem manajemen inventori otomatis, serta pengumpulan data yang terintegrasi.
+Keberadaan e-commerce kini menjadi salah satu faktor utama yang mendorong pertumbuhan bisnis digital di
+Indonesia. Dengan kemudahan akses berbelanja melalui internet serta transaksi yang dapat dilakukan secara
+digital, e-commerce semakin mempercepat perubahan pola konsumsi masyarakat dalam memenuhi
+kebutuhannya di era digital saat ini.
+Dengan adanya e-commerce ini memungkinkan seseorang untuk membayar suatu barang yang akan
+dibeli melalui pembayaran online atau biasa disebut dengan pembayaran digital (digital payment). Digital
+payment hadir sebagai solusi transaksi yang lebih praktis, aman, dan efisien dalam mendukung aktivitas jual beli
+online. Berbagai metode pembayaran digital seperti e-wallet, kartu kredit, dan QR code semakin populer di
+kalangan masyarakat karena kemudahan dan kecepatan transaksinya (Hidayati et al., 2020). Dengan adanya
+digital payment, konsumen tidak lagi bergantung pada uang tunai, melainkan dapat bertransaksi kapan saja dan
+di mana saja secara elektronik. Pembayaran digital atau digital payment adalah sistem dengan alat pembayaran
+seperti kontrak, pesanan pembelian, alat dan fungsi lainnya yang memfasilitasi kelancaran transaksi antara
+pembeli dan penjual (Tarantang et al., 2019).
+Dalam konteks ekonomi, e-commerce berperan besar dalam mengubah pola konsumsi dan gaya hidup
+masyarakat. Hidayati et al. (2020) menyebutkan bahwa tingginya penggunaan internet telah memunculkan
+fenomena baru dalam bidang ekonomi, terutama dalam perdagangan elektronik. E-commerce tidak hanya
+memberikan kemudahan dalam transaksi jual beli, tetapi juga membuka peluang usaha yang lebih luas bagi
+Jurnal Ilmu Komunikasi Dan Sosial Politik Vol.02 No. 04 Edisi April - Juni (2025)
+
+987
+
+Jurnal Ilmu Komunikasi Dan Sosial Politik
+Vol. 02 No. 04 Edisi April-Juni 2025 Hal. 986-993
+Published by: ITTC INDONESIA
+Journal homepage: https://jurnal.ittc.web.id/index.php/jiksp/index
+
+E-ISSN : 3025-6445
+masyarakat. Selain itu, konsumen dapat dengan mudah membandingkan harga dan mendapatkan penawaran
+terbaik tanpa perlu perantara, yang semakin memperkuat daya tarik sistem perdagangan digital ini. Tidak hanya
+menghadirkan kemudahan, e-commerce dan digital payment juga memicu perubahan dalam cara anak muda
+membuat keputusan konsumsi, mengelola keuangan, hingga berinteraksi dalam aktivitas jual beli.
+Dengan perkembangan yang semakin pesat, baik e-commerce maupun digital payment akan terus
+berkembang dan beradaptasi dengan kebutuhan masyarakat. Nuhran, Ramli, & Luhat (2024) menyebutkan
+bahwa penggunaan QRIS mempengaruhi tingkat pengeluaran konsumsi mahasiswa generasi Z yang semakin
+terbiasa dengan pembayaran non-tunai. Promo dan insentif dari penyedia layanan, seperti ShopeePay, juga
+menjadi daya tarik utama bagi anak muda dalam menggunakan digital payment (Purba et al., 2024). Berdasarkan
+laporan Pew Research Center (2022), remaja dan orang dewasa muda, yang secara umum anak muda juga
+termasuk dalam kategori tersebut, merupakan kelompok usia yang paling aktif dalam mengadopsi teknologi
+digital. Mereka tumbuh dalam ekosistem digital yang memungkinkan berbagai aktivitas dilakukan secara instan
+dan efisien, termasuk dalam hal konsumsi. Fenomena ini tidak hanya terjadi di kota-kota besar, tetapi juga mulai
+terlihat di daerah lain seperti Bandar Lampung. Oleh karena itu, anak muda di Bandar Lampung menjadi
+kelompok yang menarik untuk diteliti dalam konteks konsumsi digital dan perubahan gaya hidup.
+Terdapat penelitian sebelumnya telah mengangkat isu serupa di kota-kota besar seperti
+JABODETABEK dan Denpasar. Misalnya, penelitian oleh Oktaviani, Sari, dan Miftah (2023) menunjukkan
+bahwa e-commerce dan fintech memiliki pengaruh signifikan terhadap perilaku konsumtif mahasiswa di wilayah
+JABODETABEK. Sementara itu, Meilani dan Kusuma (2024) meneliti pengaruh gaya hidup hedonisme dan
+kemudahan penggunaan QRIS terhadap perilaku konsumtif Gen Z di Kota Denpasar. Kedua penelitian tersebut
+menunjukkan bahwa gaya hidup konsumtif anak muda sangat dipengaruhi oleh teknologi dan nilai-nilai modern.
+Namun, belum banyak penelitian yang secara spesifik menyoroti bagaimana fenomena ini terjadi di
+kota seperti Bandar Lampung. Padahal, berdasarkan data dari Perwakilan Provinsi Lampung Bank Indonesia,
+pengguna transaksi elektronik di Provinsi Lampung meningkat sebesar 45,61% selama Januari hingga Juni 2023
+(Antara News, 2023). Data ini menunjukkan bahwa masyarakat di Provinsi Lampung, termasuk generasi muda
+di Bandar Lampung semakin terbiasa dengan sistem pembayaran non-tunai dan pola konsumsi digital, seiring
+berkembangnya infrastruktur keuangan digital di Lampung. Berangkat dari celah riset tersebut, artikel ini
+bertujuan untuk mengupas bagaimana gaya hidup anak muda di Bandar Lampung berubah seiring dengan
+meluasnya penggunaan e-commerce dan digital payment. Studi ini menggunakan pendekatan kualitatif untuk
+menggali secara mendalam makna, persepsi, dan pola perilaku konsumtif yang muncul sebagai respons terhadap
+arus digitalisasi. Dengan memusatkan perhatian pada konteks lokal, penelitian ini diharapkan dapat memperkaya
+khazanah literatur tentang perubahan sosial akibat teknologi digital di Indonesia, sekaligus memberikan masukan
+bagi pemangku kebijakan, pelaku usaha, dan praktisi pendidikan dalam menyikapi transformasi gaya hidup
+generasi muda masa kini.
+TINJAUAN PUSTAKA
+2.1. Gaya Hidup
+Gaya hidup adalah cara seseorang dalam menjalani kehidupannya, termasuk dalam perilaku,
+pengelolaan waktu, serta pengaturan diri, salah satunya terkait dengan pengelolaan keuangan pribadi. Gaya
+hidup adalah bagian dari kebutuhan sekunder manusia yang bisa berubah tergantung zaman atau cara seseorang
+memenuhi kebutuhan hidupnya. Gaya hidup dibentuk melalui interaksi sosial dan digunakan sebagai pendorong
+yang mempengaruhi proses pengambilan keputusan seseorang dalam membeli produk, gaya hidup
+dikelompokkan menjadi beberapa bagian klasifikasi gaya hidup (Tarigan, 2016).
+2.2. E-commerce
+E-commerce, atau perdagangan elektronik, mencakup semua aktivitas perdagangan yang dilakukan
+melalui media digital. Menurut Laudon & Laudon, e-commerce adalah proses jual beli barang secara elektronik
+antara konsumen yang melibatkan transaksi bisnis-ke-bisnis (business-to-business) melalui jaringan komputer.
+David Baum (1999) menjelaskan e-commerce sebagai seperangkat teknologi dinamis yang terdiri dari aplikasi
+dan proses bisnis yang menghubungkan perusahaan, konsumen, dan masyarakat dalam pertukaran barang, jasa,
+dan informasi secara elektronik.
+2.3. Digital Payment
+Digital payment merupakan sistem pembayaran elektronik yang memungkinkan transaksi non-tunai
+menggunakan perangkat digital seperti smartphone atau komputer. Perkembangan digital payment di Indonesia
+tidak hanya didorong oleh sektor perbankan, tetapi juga oleh berbagai industri seperti telekomunikasi,
+transportasi, dan perusahaan startup digital. Layanan ini memungkinkan pengguna untuk membayar, memeriksa
+saldo, dan mentransfer uang secara instan, menjadikannya solusi praktis untuk kebutuhan transaksi harian
+Jurnal Ilmu Komunikasi Dan Sosial Politik Vol.02 No. 04 Edisi April - Juni (2025)
+
+988
+
+Jurnal Ilmu Komunikasi Dan Sosial Politik
+Vol. 02 No. 04 Edisi April-Juni 2025 Hal. 986-993
+Published by: ITTC INDONESIA
+Journal homepage: https://jurnal.ittc.web.id/index.php/jiksp/index
+
+E-ISSN : 3025-6445
+(Iradianty & Aditya, n.d.). Selain itu, digital payment juga memberikan perspektif baru dalam sistem
+pembayaran non-tunai yang lebih aman dan efisien. Adopsi dari adanya teknologi dalam hal dunia digital ini
+telah mengambil peran untuk mewujudkan transformasi budaya, ekonomi, politik dan sosial (Windah, et all.
+Hlm 109). Menurut penelitian, penggunaan digital payment telah mengalami peningkatan signifikan dalam
+beberapa tahun terakhir seiring dengan pertumbuhan pengguna e-commerce dan layanan keuangan berbasis
+teknologi (Iradianty & Aditya, n.d.). Fenomena ini menunjukkan bagaimana digitalisasi sistem pembayaran telah
+mengubah cara masyarakat dalam bertransaksi, dari yang sebelumnya mengandalkan uang tunai menjadi lebih
+mengutamakan metode pembayaran elektronik.
+2.4. Teori Perubahan Sosial
+Perubahan sosial merupakan fenomena yang terjadi dalam masyarakat seiring dengan perkembangan
+kebudayaan, teknologi, dan interaksi sosial. Ogburn menjelaskan bahwa perubahan sosial mencakup berbagai
+unsur kebudayaan, baik yang bersifat material maupun non-material (Wijaya et al., n.d.). Perubahan ini dapat
+berlangsung secara lambat maupun cepat, tergantung pada faktor-faktor yang mempengaruhinya, seperti
+kemajuan teknologi, pergeseran nilai dan norma sosial, serta dinamika organisasi dalam masyarakat. Dalam
+konteks digitalisasi, perubahan sosial semakin terlihat jelas dalam pola konsumsi dan gaya hidup anak muda
+yang kini lebih mengandalkan teknologi dalam berbagai aspek kehidupan mereka.
+Selain itu, perubahan sosial juga dapat berdampak pada pola perilaku individu dan institusi dalam
+masyarakat. Digitalisasi dan kemajuan teknologi mendorong perubahan dalam berbagai sektor, termasuk
+ekonomi, pendidikan, dan komunikasi. Misalnya, dalam pola konsumsi, masyarakat kini lebih memilih metode
+pembayaran digital dibandingkan transaksi tunai karena lebih praktis dan efisien. Pergeseran ini bukan sekadar
+perubahan teknis, tetapi juga mencerminkan perubahan dalam pola pikir dan gaya hidup masyarakat yang
+semakin bergantung pada teknologi dalam memenuhi kebutuhan sehari-hari.
+2.5. Teori Perilaku Konsumen
+Para ahli telah memberikan berbagai definisi mengenai perilaku konsumen. Menurut Hasan (2013),
+perilaku konsumen adalah studi tentang proses yang terjadi ketika individu atau kelompok memilih, membeli,
+menggunakan, serta mengelola produk, jasa, ide, atau pengalaman yang bertujuan untuk memenuhi kebutuhan
+dan keinginan mereka. Sunyoto (2012) mendefinisikan perilaku konsumen sebagai segala aktivitas individu yang
+secara langsung terlibat dalam memperoleh dan menggunakan barang atau jasa, termasuk proses pengambilan
+keputusan yang mendahului tindakan tersebut. Schiffman dan Kanuk (2000) mendeskripsikan perilaku
+konsumen sebagai suatu tindakan yang dilakukan konsumen dalam mencari, membeli, menggunakan,
+mengevaluasi, serta menghabiskan produk dan jasa yang diharapkan dapat memenuhi kebutuhan mereka.
+METODE PENELITIAN
+Penelitian ini menggunakan pendekatan kualitatif deskriptif yang bertujuan untuk memahami dan
+menggambarkan secara mendalam fenomena sosial yang berkaitan dengan perubahan gaya hidup anak muda di
+Bandar Lampung dalam konteks penggunaan e-commerce dan digital payment. Pendekatan kualitatif dipilih
+karena mampu menangkap makna subjektif, pengalaman personal, serta persepsi individu terhadap perubahan
+sosial yang mereka alami seiring dengan perkembangan teknologi digital.
+3.1. Strategi dan Teknik Pengumpulan Data
+Teknik pengumpulan data utama dalam penelitian ini adalah wawancara semi-terstruktur, yang
+memungkinkan peneliti untuk menggali informasi secara mendalam sekaligus memberikan ruang bagi
+narasumber untuk mengekspresikan pandangannya secara bebas. Wawancara dilakukan secara daring melalui
+aplikasi Zoom, untuk mengakomodasi fleksibilitas waktu dan kondisi narasumber. Panduan wawancara disusun
+berdasarkan tema-tema utama penelitian, seperti kebiasaan konsumsi digital, pengalaman bertransaksi melalui
+e-commerce dan digital payment, serta dampaknya terhadap pola hidup dan interaksi sosial. Selain data primer
+dari wawancara, penelitian ini juga memanfaatkan data sekunder yang bersumber dari jurnal ilmiah, laporan
+riset, publikasi resmi, serta artikel relevan yang membahas perkembangan e-commerce, digital payment, dan
+perubahan sosial di Indonesia. Data sekunder digunakan untuk mendukung analisis dan membandingkan temuan
+lapangan dengan hasil-hasil penelitian sebelumnya.
+3.2. Subjek Penelitian
+Subjek dalam penelitian ini adalah empat orang anak muda berusia antara 18 hingga 25 tahun yang
+berdomisili di Kota Bandar Lampung. Kriteria pemilihan informan adalah mereka yang secara aktif
+menggunakan platform e-commerce (seperti Shopee, Tokopedia, TikTok Shop) dan sistem pembayaran digital
+(seperti QRIS, e-wallet, atau m-banking) dalam kehidupan sehari-hari. Teknik pemilihan informan dilakukan
+secara purposive sampling, yaitu pemilihan subjek secara sengaja berdasarkan karakteristik yang relevan dengan
+tujuan penelitian.
+Jurnal Ilmu Komunikasi Dan Sosial Politik Vol.02 No. 04 Edisi April - Juni (2025)
+
+989
+
+Jurnal Ilmu Komunikasi Dan Sosial Politik
+Vol. 02 No. 04 Edisi April-Juni 2025 Hal. 986-993
+Published by: ITTC INDONESIA
+Journal homepage: https://jurnal.ittc.web.id/index.php/jiksp/index
+
+E-ISSN : 3025-6445
+HASIL DAN PEMBAHASAN
+4.1. Konsumsi E-Commerce dalam Kehidupan Sehari-hari
+Berdasarkan hasil wawancara diatas, seluruh informan menunjukkan bahwa platform e-commerce
+seperti Shopee, Tokopedia, dan TikTok Shop telah menjadi pilihan utama dalam berbelanja. Dari empat
+informan diatas, aplikasi Shopee paling sering disebut karena menawarkan berbagai produk, dari pakaian
+hingga makanan melalui layanan Shopee Food. Terdapat pula platform TikTok Shop yang juga digemari
+karena fitur live shopping yang lebih interaktif, seperti yang disampaikan oleh informan 3.
+Jika dilihat berdasarkan pengalaman mereka, para informan merasa bahwa berbelanja melalui ecommerce jauh lebih praktis dibandingkan toko fisik. Mereka bisa langsung memilih barang hanya lewat
+online atau melalui gadget saja tanpa perlu keluar rumah. Terdapat banyak kelebihan yang dirasakan oleh
+informan dalam penggunaan e-commerce yaitu diantaranya dapat menghemat waktu dan tenaga, terdapat
+banyak voucher gratis ongkir, seringkali mendapat cashback yang mana uang yang kita bayarkan akan kembali
+lagi tetapi biasanya dalam bentuk poin belanja yang dapat ditukarkan, dan tentunya harga yang ditawarkan di
+e-commerce jauh lebih murah dibandingkan dengan toko offline. Namun, kemudahan ini juga berujung pada
+perilaku konsumtif. Misalnya, informan 1 menyebutkan bahwa ia sering tiba-tiba melakukan check out tanpa
+berpikir panjang, yang membuat pengeluarannya bertambah dan menjadikan dirinya menjadi individu yang
+sangat konsumtif.
+Sementara itu, di balik banyak kelebihan yang mereka rasakan, tidak menutup kemungkinan bahwa
+tidak ada kendala dalam penggunaan e-commerce tersebut. Berikut kendala yang para informan rasakan dalam
+penggunaan e-commerce antara lain yaitu menjadikan individu yang konsumtif seperti yang dirasakan oleh
+informan 1, waktu pengiriman barang yang lama, kualitas barang yang tidak sesuai ekspektasi, dan kesulitan
+saat kurir salah mengantar barang ke alamat tujuan yang menjadikan barang tersebut lama sampai pada tangan
+penerima, serta interaksi penjual dengan pembeli juga kadang kurang responsif.
+4.2. Penggunaan Digital Payment dan Perubahannya dalam Kehidupan
+Dalam aspek pembayaran digital, QRIS menjadi metode pembayaran yang paling populer dan sering
+kali digunakan oleh setiap individu. Alasan utamanya adalah karena praktis, cepat, dan tidak perlu membawa
+uang tunai. Cukup dengan menggunakan smartphone dan memiliki aplikasi M-Banking atau E-Wallet maka
+kita sebagai pengguna dapat melakukan pembayaran tanpa menggunakan uang tunai. Dalam informasi yang
+diperoleh diatas, informan 3 bahkan menyebutkan bahwa metode ini mempermudah hidupnya karena ia tidak
+perlu pergi ke ATM untuk bertransaksi.
+Hasil yang didapatkan berdasarkan wawancara diatas, para informan menyebutkan beberapa
+keuntungan dari penggunaan QRIS pada kehidupan mereka sehari-hari diantaranya yaitu kemudahan dalam
+mengaksesnya. Karena dengan adanya QRIS dapat mempercepat transaksi menggunakan QR Code, biasanya
+QR Code berbentuk stiker yang diletakkan di etalase toko bagian depan yang dapat memudahkan pengguna
+hanya dengan scan dan memasukkan kata sandi, pengguna telah melakukan transaksi dengan sangat mudah.
+Selain itu keuntungan dari penggunaan QRIS ialah dapat mengefisiensi pengguna dalam menunjang aktivitas
+sehari-hari. Artinya, pengguna tidak perlu lagi membawa uang tunai atau pergi ke ATM untuk melakukan
+pembayaran. Cukup dengan memindai kode QR melalui aplikasi dompet digital di ponsel, transaksi dapat
+dilakukan dalam waktu singkat. Hal ini tentu menghemat waktu dan tenaga karena prosesnya jauh lebih cepat,
+tidak perlu menunggu-nunggu uang kembalian, serta tidak perlu membawa dompet yang dapat menimbulkan
+resiko kehilangan. QRIS juga memungkinkan pengguna untuk membayar berbagai kebutuhan baik secara
+online maupun offline. Dibandingkan dengan metode lain seperti ATM, QRIS dianggap jauh lebih ringkas
+dan mudah diakses. Hanya dengan membawa smartphone, semua transaksi bisa dilakukan kapan saja dan di
+mana saja, tanpa harus mengunjungi lokasi fisik seperti mesin ATM. Hal ini menunjukkan bahwa akses
+terhadap teknologi digital semakin menggeser cara konvensional dalam bertransaksi.
+Namun, dibalik banyaknya kemudahan yang dirasakan oleh para pengguna, para informan
+menyebutkan kendala dalam menggunakan QRIS yang dapat menimbulkan konsekuensi pada pengelolaan
+keuangan. Sebagian besar informan mengaku bahwa mereka menjadi lebih boros karena sistem digital
+membuat mereka tidak menyadari berapa banyak uang yang telah dikeluarkan. Bahkan, muncul
+kecenderungan impulsif dalam berbelanja karena merasa uang digital tidak “terasa” seperti uang tunai. Selain
+itu, ketergantungan terhadap jaringan internet dan kuota data juga menjadi kendala yang sering kali terjadi
+ketika pengguna hendak melakukan pembayaran. Beberapa informan diatas mengalami kesulitan saat tidak
+adanya sinyal ketika membayar atau saldo e-wallet yang kurang saat akan membayar. Hal tersebut biasanya
+terjadi diluar kendali para pengguna. Jika dilihat dari beberapa informan, penggunaan QRIS ini sangat efektif
+di masa sekarang hingga masa mendatang dilihat juga respon positif pada informan lebih besar kesimpulan
+penggunaan QRIS. Dengan hadirnya transaksi QRIS banyak manfaat yang dapat diambil, hal ini dibuktikan
+Jurnal Ilmu Komunikasi Dan Sosial Politik Vol.02 No. 04 Edisi April - Juni (2025)
+
+990
+
+Jurnal Ilmu Komunikasi Dan Sosial Politik
+Vol. 02 No. 04 Edisi April-Juni 2025 Hal. 986-993
+Published by: ITTC INDONESIA
+Journal homepage: https://jurnal.ittc.web.id/index.php/jiksp/index
+
+E-ISSN : 3025-6445
+dengan melakukan transaksi pembayaran yang sudah tercatat fitur riwayat transaksi yang digunakan untuk
+pembayaran sehingga menghemat nota kertas yang beredar. Kebiasaan ini mulai berkembang dan semakin
+banyak yang mudah memahaminya sehingga pembayaran online dirasa sangat efektif.
+Anak muda di Bandar Lampung masih menjadikan nilai dan norma sebagai pijakan dalam kehidupan
+sosial mereka. Namun, perkembangan globalisasi yang dibarengi oleh kemajuan teknologi digital, arus
+informasi yang cepat, serta penetrasi budaya konsumsi modern telah mendorong terjadinya transformasi nilai
+dalam masyarakat. Gaya hidup yang dulunya bersifat sederhana dan cenderung membatasi diri kini bergeser
+menjadi lebih konsumtif dan fleksibel, dipengaruhi oleh kemudahan akses belanja online serta penggunaan
+sistem pembayaran digital. Hal ini mencerminkan bagaimana digitalisasi dan globalisasi memberi dampak
+signifikan terhadap pola konsumsi serta cara hidup generasi muda masa kini (Aisy et al., 2025)
+4.3. Dampak Sosial dan Perubahan Gaya Hidup terkait Penggunaan E-Commerce dan Digital Payment
+Perubahan gaya hidup yang paling mencolok di kalangan anak muda Bandar Lampung adalah
+meningkatnya konsumsi berbasis digital, yang tidak hanya mengubah pola belanja, tetapi juga merombak pola
+interaksi sosial secara signifikan. E-commerce dan digital payment telah menjadi bagian dari penggunaan
+rutinitas sehari-hari mereka, menggantikan kebiasaan berbelanja secara langsung di toko fisik. Dalam
+wawancara diatas, para informan menyatakan bahwa interaksi dengan penjual semakin berkurang karena
+seluruh proses transaksi kini dilakukan secara daring. Aktivitas seperti tawar-menawar yang dulunya menjadi
+bagian dari pengalaman sosial saat berbelanja di pasar atau toko konvensional, kini mulai menghilang atau
+hanya terjadi secara terbatas melalui fitur chat, yang sering kali tidak responsif.
+Menurut hasil wawancara diatas, informan 1 pernah mencoba menawar harga produk secara online
+dan berhasil, namun ia mengakui bahwa keberhasilan tersebut jarang terjadi dan proses tawar-menawar
+tersebut tidak sehangat ketika dilakukan secara langsung. Sementara itu, informan 2 menyatakan bahwa
+sebagai laki-laki, ia cenderung menghindari interaksi seperti tawar-menawar dan lebih memilih langsung
+melakukan pembayaran. Hal ini menandakan bahwa interaksi yang dulunya penuh dengan komunikasi sosial
+kini menjadi lebih instan dan terstandarisasi. Informan 3 menambahkan bahwa meskipun interaksi sosial
+secara langsung menurun, platform seperti TikTok Shop justru membuka ruang baru yang lebih inklusif dan
+nyaman bagi pengguna untuk mengekspresikan diri. Melalui fitur live streaming, konsumen dapat bertanya
+langsung kepada penjual, memberikan komentar, bahkan membangun rasa keakraban meskipun dilakukan
+dalam ruang digital. Namun demikian, interaksi ini tetap tidak sepenuhnya menggantikan kehangatan dan rasa
+percaya yang terbentuk dari kontak tatap muka.
+Secara keseluruhan, penggunaan e-commerce dan digital payment telah menciptakan jarak dalam
+relasi antara penjual dan pembeli. Komunikasi yang terjadi lebih bersifat formal dan fungsional, terbatas pada
+pertukaran pesan singkat atau balasan otomatis dari sistem. Hal ini mengurangi kedekatan emosional dan rasa
+kepercayaan yang biasanya terbangun dalam hubungan penjual–pembeli di dunia nyata. Selain itu, transaksi
+digital ini cenderung membuat proses jual beli terasa lebih individual dan kurang melibatkan unsur sosial
+budaya yang selama ini menjadi bagian dari kehidupan masyarakat lokal. Dengan demikian, meskipun
+teknologi memberikan kemudahan, ia juga membawa konsekuensi dalam bentuk pergeseran nilai-nilai sosial
+dalam kegiatan konsumsi.
+Hasil wawancara menunjukkan bahwa anak muda di Bandar Lampung mengalami transformasi gaya
+hidup yang signifikan akibat perkembangan e-commerce dan digital payment. Kemudahan akses, efisiensi
+waktu, dan kenyamanan menjadi daya tarik utama, namun juga memunculkan tantangan seperti peningkatan
+konsumtifitas, penurunan interaksi sosial, dan kesulitan dalam pengelolaan keuangan. Perubahan ini
+mencerminkan dinamika sosial ekonomi baru di era digital, di mana teknologi berperan besar dalam
+membentuk kebiasaan baru, baik dalam konteks konsumsi maupun relasi sosial.
+4.4. Analisis Hasil Wawancara dengan Teori
+Hasil wawancara menunjukkan bagaimana dinamika ini terlihat jelas di masyarakat, terutama di
+kalangan generasi muda yang semakin bergantung pada teknologi dalam kehidupan sehari-hari. Banyak
+informan dalam wawancara menyatakan bahwa mereka lebih memilih berbelanja melalui platform ecommerce karena alasan praktis, seperti efisiensi waktu dan usaha. Informan 1 dan Informan 3 menekankan
+bahwa kemudahan yang ditawarkan oleh aplikasi seperti Shopee, Tokopedia, dan TikTok Shop
+memungkinkan mereka untuk memilih dan membeli produk tanpa perlu pergi ke toko fisik. Ini
+menggambarkan perubahan nilai sosial di mana efisiensi dan kenyamanan menjadi hal yang paling penting
+dalam pola konsumsi.
+Dari sudut pandang teori perilaku konsumen, yang mendefinisikan perilaku ini sebagai proses
+pencarian, pembelian, penggunaan, dan penilaian produk oleh individu atau kelompok, kita dapat melihat
+bahwa kemudahan akses dari digitalisasi secara langsung memengaruhi keputusan belanja individu. Informan
+Jurnal Ilmu Komunikasi Dan Sosial Politik Vol.02 No. 04 Edisi April - Juni (2025)
+
+991
+
+Jurnal Ilmu Komunikasi Dan Sosial Politik
+Vol. 02 No. 04 Edisi April-Juni 2025 Hal. 986-993
+Published by: ITTC INDONESIA
+Journal homepage: https://jurnal.ittc.web.id/index.php/jiksp/index
+
+E-ISSN : 3025-6445
+4 mencatat bahwa dengan hanya menggunakan perangkat pintar, mereka tidak perlu repot-repot berpindah
+tempat, sehingga menciptakan pengalaman belanja yang lebih menyenangkan dan lebih sedikit usaha. Namun,
+menarik dicatat bahwa kemudahan ini tidak selalu diiringi dengan kesadaran finansial yang baik. Beberapa
+informan mengungkapkan bahwa mereka cenderung berbelanja dengan lebih impulsif ketika berbelanja
+online, kurang memperhatikan anggaran yang ada. Informan 1 dan Informan 4 menyatakan kekhawatiran
+mereka tentang kurangnya perhatian dalam mengelola uang, di mana mereka merasa tidak terikat dengan uang
+digital seperti halnya dengan uang tunai yang membuat mereka lebih cenderung berbelanja tanpa berpikir
+lebih dahulu.
+Di samping itu, perubahan yang dihadirkan oleh e-commerce juga sangat mempengaruhi interaksi
+sosial dalam proses jual beli. Dengan beralihnya sistem belanja dari cara tradisional ke digital, interaksi tatap
+muka antara penjual dan pembeli menurun dengan signifikan. Hasil wawancara menunjukkan bahwa beberapa
+informan merasa bahwa transaksi online mengurangi kedekatan dan keakraban yang biasanya timbul dalam
+interaksi langsung. Informan 1 dan Informan 3 mencatat bahwa proses tawar-menawar yang mereka lakukan
+di pasar tradisional tidak terjadi dalam transaksi online, di mana semua dilakukan dengan cara yang lebih
+formal dan efisien melalui aplikasi. Ini menciptakan pengalaman berbelanja yang terasa lebih transaksional
+dan kurang emosional, serta mengurangi rasa komunitas yang selama ini menjadi bagian dari pengalaman
+berbelanja secara fisik.
+Meskipun interaksi sosial mungkin terjadi dalam bentuk digital, di mana pembeli dapat
+berkomunikasi melalui pesan atau komentar, hubungan ini cenderung lebih dangkal dibandingkan dengan
+interaksi langsung. Informan 4 berpendapat bahwa interaksi dalam e-commerce dapat menciptakan jarak
+antara pembeli dan penjual. Kurangnya interaksi fisik dan ketergantungan pada komunikasi yang fungsional
+bisa merusak rasa percaya antara kedua belah pihak, yang sebelumnya sangat penting dalam transaksi jual beli
+secara tradisional. Ini menunjukkan adanya perubahan nilai sosial yang signifikan, di mana interaksi menjadi
+lebih individualistis dan kurang melibatkan elemen sosial yang kuat dari komunitas lokal.
+SIMPULAN
+Dari hasil penelitian mengenai perubahan cara hidup kaum muda di Bandar Lampung, terkait dengan
+perkembangan e-commerce dan sistem pembayaran digital, dapat diambil kesimpulan bahwa kemajuan
+teknologi digital telah berpengaruh besar terhadap pola konsumsi dan interaksi sosial mereka. Generasi muda
+yang berusia antara 18 hingga 25 tahun di Bandar Lampung menunjukkan perubahan nyata dalam cara mereka
+melakukan pembelian, yang kini lebih didorong oleh layanan e-commerce serta metode pembayaran digital.
+Salah satu keuntungan utama dari digitalisasi adalah kemudahan akses, efisiensi waktu, dan banyaknya
+promosi menarik, yang mendukung transisi dari belanja tradisional ke belanja online. Akan tetapi, perubahan
+ini juga menghadirkan tantangan, seperti meningkatnya perilaku konsumsi impulsif dan pergeseran dalam cara
+mereka mengelola keuangan. Banyak anak muda yang menjadi lebih boros karena mereka tidak menyadari
+jumlah total yang mereka belanjakan saat menggunakan layanan pembayaran digital. Di samping itu, interaksi
+sosial dalam proses jual beli menjadi lebih sedikit, yang bisa mengurangi kedekatan emosional antara penjual
+dan pembeli. Ini mencerminkan perubahan nilai sosial yang terjadi akibat digitalisasi dalam pola konsumsi.
+Untuk mendukung generasi muda di Bandar Lampung dalam menyesuaikan diri dengan perubahan
+hidup akibat e-commerce dan sistem pembayaran digital, perlu diadakan program pendidikan tentang
+keuangan. Program ini bertujuan untuk meningkatkan pemahaman mengenai manajemen keuangan serta
+dampak dari belanja secara digital, agar dapat menghindari kebiasaan belanja impulsif. Selain itu, pemantauan
+dan penetapan aturan yang sesuai untuk platform e-commerce dan penyedia layanan pembayaran digital
+seharusnya dilakukan oleh pemerintah dan pihak terkait demi melindungi para konsumen. Penting juga untuk
+meningkatkan kesadaran sosial, contohnya dengan menyelenggarakan bazar atau pasar lokal, yang dapat
+mengembalikan interaksi sosial dalam kegiatan jual beli. Akhirnya, penelitian lebih lanjut tentang dampak
+jangka panjang dari digitalisasi terhadap pola belanja dan interaksi sosial di daerah lain di Indonesia sangat
+dibutuhkan untuk membuat kebijakan yang lebih responsif dan berkelanjutan.
+DAFTAR PUSTAKA
+Aisy, M. R., Fadia, M. F., Salsabila, M., & Putra, P. (2025). Perubahan Nilai dan Norma Pada Masyarakat: Studi Sosial di Era Globalisasi.
+Jurnal Cakrawala Akademika, 1(6), 2219-2202.
+Antara
+News.
+(2023).
+Pengguna
+transaksi
+elektronik
+di
+Lampung
+tumbuh
+45,61
+persen.
+Diakses
+dari
+https://lampung.antaranews.com/berita/693837/pengguna-transaksi-elektronik-di-lampung-tumbuh-4561-persen.
+Dayan, M. T. (2020). Pengaruh Persepsi Konsumen, Gaya Hidup dan Kepercayaan terhadap Penggunaan Aplikasi Pembayaran Digital.
+TRANSAKSI, 12(1), 40-50.
+
+Jurnal Ilmu Komunikasi Dan Sosial Politik Vol.02 No. 04 Edisi April - Juni (2025)
+
+992
+
+Jurnal Ilmu Komunikasi Dan Sosial Politik
+Vol. 02 No. 04 Edisi April-Juni 2025 Hal. 986-993
+Published by: ITTC INDONESIA
+Journal homepage: https://jurnal.ittc.web.id/index.php/jiksp/index
+
+E-ISSN : 3025-6445
+Hidayati, A. (2020). E-Commerce Dan Dampaknya Terhadap Perilaku Konsumsi Mahasiswa (Studi Kasus Pada Mahasiswa Prodi
+Pendidikan Ekonomi Ikip Pgri Bojonegoro). Jurnal Pendidikan Edutama.
+Iradianty, A., & Aditya, B. R. (2020). Indonesian Student Perception in Digital Payment. Jurnal Manajemen Bisnis, 17(4), 518-530.
+Jaelani, J., Sulistianingtyas, T., & Waskita, D. (2012). Perubahan cara pandang dan sikap masyarakat kota bandung akibat pengaruh gaya
+hidup digital. Jurnal Sosioteknologi, 11(27), 156-167.
+Kumala, S. L. (2021). Perkembangan Ekonomi Berbasis Digital Di Indonesia. Journal of Economics and Regional Science, 1(2), 109-117.
+Kurniawan, E., Sardini, S., Wulandari, C. H., & Silalahi, P. R. (2023). Analisis minat penggunaan digital payment di Kota Medan. Jurnal
+Manajemen Riset Inovasi, 1(1), 234-247.
+Nugraha, J. P., Alfiah, D., Sinulingga, G., Rojiati, U., Saloom, G., Johannes, R., ... & Beribe, M. F. B. (2021). Teori perilaku konsumen.
+Penerbit NEM.
+Nuhran, A. R., Ramli, R., & Luhat, Y. (2024). PENGARUH PENGGUNAAN PEMBAYARAN DIGITAL (QRIS) TERHADAP TINGKAT
+PENGELUARAN KONSUMSI MAHASISWA ERA GENERASI Z DENGAN PERILAKU GAYA HIDUP MASA KINI.
+Jurnal GeoEkonomi, 15(1.2024), 11-20.
+Permata, T. I., Yusuf, I. F., Pangestu, Y. V. A., & Azizah, T. N. (2023). ANALISIS KEEFEKTIFAN PENGGUNAAN QRIS SEBAGAI
+SISTEM PEMBAYARAN DIGITAL PADA APOTEK SEJAHTERA FARMA KOTA KEDIRI. Prosiding Simposium Nasional
+Manajemen dan Bisnis, 2, 1585-1592.
+Purba, F. A., Nasution, H. M., Siregar, N. H., Lubis, S. N. T., & Wulandari, S. (2024). PERAN SISTEM PEMBAYARAN DIGITAL
+DALAM MENINGKATKAN PRODUKTIVITAS USAHA MIKRO, KECIL, DAN MENENGAH (UMKM) DI
+KECAMATAN MEDAN PERJUANGAN. Jurnal Ekonomi dan Bisnis (EK dan BI), 7(2), 425-431.
+Purnamayanti, A., Putra, P., & Windah, A. (2021). Pola Perilaku Pencarian Informasi Dosen Cpns Univeristas Lampung Berbasis Literatur
+Elektronik. Anuva: Jurnal Kajian Budaya, Perpustakaan, dan Informasi, 5(4), 679-696.
+Puspita, Y. C. (2019). Analisis kesesuaian teknologi penggunaan digital payment pada aplikasi ovo. Jurnal Manajemen Informatika, 9(2),
+121-128.
+Putra, P. (2021). Inovasi Investasi Keuangan Haji Pada Sektor UMKM Sebagai Strategi Peningkatan Kemudahan Berusaha dan Daya Saing
+Ekonomi Indonesia pada Masa Pandemi Covid-19. Administratio, 12(2), 97-111.
+Sari, D. P., & Putra, P. (2024). Tantangan Digital dalam Implementasi Manajemen Data Arsip Berbasis Elektronik. Journal of Economic
+and Management (JEM) Terekam Jejak, 1(1), 1-12.
+Septiaji, Mochammad Nazrudin. (2023). E -COMMERCE Pengertian E-Commerce.
+Suciska, W., & Gunawibawa, E. Y. (2020). Pola konsumsi berita pada kelompok khalayak digital di kota bandar lampung. Jurnal Ilmu
+Komunikasi, 17(2), 249-266.
+Suyanto, S. (2023). Judul Buku: Mengenal Dompet Digital di Indonesia.
+Utami, N. N. (2021). Analisis Gaya Hidup Pada Perilaku Konsumsi Remaja. Jurnal Administrasi Dan Bisnis, 15(2), 138-144.
+Vogels, Emily A., Risa Gelles-Watnick, and Navid Massarat. Teens, Social Media and Technology (2022). Pew Research Center. Diakses
+dari: https://www.pewresearch.org/internet/2022/08/10/teens-social-media-and-technology-2022/.
+Wijaya, S., Nursodah, S., Budiman, A., & Felix, M. (2024). Perubahan Sosial dan Kemajuan Masyarakat. Jurnal Inovasi Pendidikan, 6(1).
+Windah, A., Maryani, E., & Putra, P. (2022). Strategi Sosial Media, Kecakapan Literasi Informasi dan Literasi Digital Start-Up Siger
+Innovation Hub (@ Sigerhub) sebagai Inkubator Bisnis UMKM di Provinsi Lampung. Info Bibliotheca: Jurnal Perpustakaan dan
+Ilmu Informasi, 3(2), 104-122.
+
+Jurnal Ilmu Komunikasi Dan Sosial Politik Vol.02 No. 04 Edisi April - Juni (2025)
+
+993
+
+

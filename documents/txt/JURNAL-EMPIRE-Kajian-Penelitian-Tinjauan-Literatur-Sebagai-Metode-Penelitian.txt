@@ -1,0 +1,478 @@
+JURNAL EMPIRE 
+ISSN : 2775-040X 
+VOL 4, NO 1 (2024) 
+61 
+ 
+Kajian Penelitian: 
+Tinjauan Literatur Sebagai Metode Penelitian 
+ 
+ 
+Jim Hoy Yam 
+Magister Manajemen Program Pasca Sarjana, Universitas Islam Syekh-Yusuf, Indonesia 
+E-mail Korespondensi: jimhoyyam@unis.ac.id 
+ 
+ 
+ 
+Abstrak 
+Pembahasan prihal aktivitas dan proses tinjauan literatur dikategorikan sebagai metode 
+penelitian telah dikemukakan oleh banyak peneliti akademis dalam buku maupun 
+artikel yang diterbitkan pada berbagai negara. Isu ini sangat menarik untuk diulas lebih 
+lanjut, karena pada dasarnya dalam melaksanakan suatu penelitian yang bersifat 
+kuantitatif maupun kualitatif tidak terlepas dari peran tinjauan literatur sebagai salah 
+satu landasan untuk mendukung diskusi atau penelitian akademis. Sedangkan dalam 
+aktivitas tinjauan literatur sendiri sudah menjalankan suatu proses yang mencakup 3 
+phase pokok; yang berawal dari seleksi data awal, proses data dan temuan atau keluaran 
+sebagai produk akhir dari aktivitas tinjauan literatur. Merujuk pada proses yang dilalui 
+tinjauan literatur maka bisa di berikan pendapat; bahwa pada hakekatnya tinjauan 
+literatur sudah menjalankan proses selayaknya metode penelitian, sehingga dengan 
+demikian, bisa disetarakan sebagai salah satu metode penelitian khususnya untuk 
+penelitian kualitatif non meta-analisis. Unsur pendukung lainnya adalah keluaran 
+(output) penelitian tinjauan literatur bisa bersifat teoritis, tematik, metodologi dan 
+kronologis. 
+ 
+Kata kunci: Tinjauan literatur, akademis, metode penelitian 
+ 
+ 
+Abstract 
+The issue regarding the process and activities of literature reviews which are categorized as 
+research methods have been discussed over the world by many academic researchers in published 
+books and articles published in journal various countries. This topic is very interesting to discuss 
+further, because basically carrying out quantitative or qualitative research cannot be separated 
+from the role of literature reviews as a basis for supporting discussion or academic research. 
+Meanwhile, the literature review activity itself has carried out a process that includes 3 main 
+phases; which starts from initial data selection, data processing and findings or output as the final 
+product of the literature review activity. Referring to the process that the literature review goes 
+through, an opinion can be given; that in essence a literature review has carried out a process like 
+a research method, so that it can be equated as a research method, especially for non-meta-analysis 
+qualitative research. Another supporting view is the output of literature review research which 
+can be theoretical, thematic, methodological and chronological. 
+ 
+Key words: Literature review, academic, research method 
+ 
+ 
+62 
+ 
+A. Pendahuluan 
+1. Latar Belakang 
+Tinjauan literatur dikenal sebagai salah satu bagian dari proses yang melekat dan 
+sebagai pelengkap pada penelitian metode kuantitaif, metode kualitatif dan metode 
+bauran (mix method). Pada praktis penelitian, tinjauan literatur memainkan peran 
+penting dalam pengembangan ilmu berdasarkan dokumentasi penelitian masa lalu 
+(vom Brocke et al., 2009). Seiring dengan perkembangan ilmu pengetahuan yang 
+pesat dan pendalaman tentang metode penelitian, khusus literatur dunia akademik; 
+maka seyogyanya metode penelitian  bisa mengikuti perkembangan terkini dan 
+mencapai hasil penelitian terdepan dengan nilai bukti kolektif (Snyder, 2019). 
+Merujuk pada pandangan ini maka tinjauan literatur bisa diperlakukan sebagai 
+metode penelitian non numeric demi untuk mengimbangi dan mendukung 
+perkembangan ilmu pengetahuan dengan tujuan menghasilkan temuan penelitian 
+terkini. Namun, agar tinjauan literatur bisa berfungsi sebagai metodologi penelitian 
+sebagaimana metode penelitian lainnya; maka seyogyanya peneliti mengikuti 
+dengan benar tahap dan proses secara konsisten berbasis akurasi, valid dan handal 
+merupakan nilai dan syarat utama dalam temuan penelitian akademis  sehingga bisa 
+dipertanggungjawabkan secara jelas melalui suatu laporan akhir (Moher et al., 2009). 
+Pertimbangan lain yang mendukung tinjauan literatur berstatus menjadi metode 
+penelitian adalah proses tinjauan literatur yang dilakukan sesuai kaidah dan cermat 
+merupakan temuan kuat untuk memandu pengambilan keputusan dan praktik kerja 
+para akademisi (Paré et al., 2015); argumen lain yang mendukung adalah proses yang 
+dilakukan tinjauan literatur juga sesuai dengan prinsip yang melekat pada metode 
+sains yakni merujuk pada dokumentasi bukti empiris dan terukur dengan tujuan bisa 
+mencapai sintesis literatur untuk mengisi kesenjangan pengetahuan studi empiris 
+(Thomas, 2021; Sylvester et al, 2011). Merujuk pada pandangan yang disampaikan 
+para peneliti sebelumnya, maka bisa diambil pemahaman bahwa pada hakekatnya 
+secara praktis hasil kerja atau keluaran tinjauan literatur adalah hasil proses dari 
+suatu metode ilmiah yang mampu memberikan jawaban berlandaskan teoritis dan 
+memberikan kontribusi terhadap akumulasi pengetahuan atau memvalidasi metode 
+penelitian yang diusulkan (Hart, 2018; Levy & Ellis, 2006). Seperti yang dikemukakan 
+oleh Tranfield et al (2003) bahwa untuk menjawab sejumlah pertanyaan penelitian, 
+tinjauan pustaka mungkin merupakan solusi baik ; berfungsi sebagai alat metodologi 
+yang mampu membantu peneliti memberikan ulasan dan mengevaluasi teori atau 
+bukti dalam bidang tertentu atau untuk menguji validitas atau keakuratan teori 
+tertentu atau teori yang bertentangan. Oleh karena itu, memperlakukan tinjauan 
+literatur sebagai metode penelitian adalah lebih layak dibandingkan hanya sebagai 
+bagian dari suatu proses metode penelitian dan merupakan suatu terobosan dalam 
+dunia akedmis khususnya pada bidang metode penelitian. Artikel ini menyajikan 
+63 
+ 
+proses tinjauan literatur secara sistematis mengikuti pendekatan “input-processing-
+output” sebagai langkah-langkah yang berurutan (Sethi & King, 1998). 
+ 
+2. Pemahaman Tinjauan Literatur 
+Tinjauan literature merupakan suatu proses analisis yang berlangsung secara terus-
+menerus untuk menjawab pertanyaan teori dan metode (O'leary, 2017); sehingga 
+dengan demikian, tinjauan literatur seyogyanya mampu memberikan ulasan kritis 
+terhadap berbagai literatur dan penegasan tentang ciri khas penelitian yang hendak 
+dikerjakan (Muhanum, 2021; Snyder, 2023). Merujuk pada pandangan O’leary (2021) 
+dan Muhanum (2021), maka pada hakekatnya aktivitas tinjauan literature bisa 
+mendapat pemahaman lebih luas dari pengertian sebatas aktivitas membuat kajian 
+dan ringkasan tertulis mengenai artikel dari jurnal, buku, dan dokumen lain yang 
+mendeskripsikan teori serta informasi baik masa lalu maupun saat ini, 
+mengorganisasikan  
+pustaka ke dalam topik dan dokumen yang dibutuhkan untuk proposal penelitian 
+(Creswell, 2018; Taylor dan Procter, 2010). Pemahaman yang lebih luas dan kompleks 
+disampaikan oleh Torres et al. (2018), bahwa studi tinjauan pustaka dilakukan untuk 
+sejumlah kegunaan antara lain analisis kerangka teoritis dan ruang lingkup 
+penelitian, kemudian menjawab pertanyaan-pertanyaan praktis berdasarkan 
+literatur terkini tentang subjek tersebut; untuk merealisasi aktivitas yang luas dan 
+kompleks ini, tentunya aktivitas tinjauan literature memiliki metode dan proses yang 
+sistimatis. Sebagaimana yang dikemukakan oleh Sethi & King, (1998) bahwa proses 
+tinjauan literatur  adalah pendekatan “input-processing-output”; maka laporan atau 
+karya tinjauan literature mencakup kajian pikiran dengan fokus yang terarah 
+berdasarkan fakta-fakta dan ide-ide yang logis, kemudian hasilnya disajikan secara 
+sistematis dengan paparan baik dan jelas (Hartley 2008; Randolph 2009; Kumar 2019).  
+ 
+3. Proses Tinjauan Literatur 
+Tinjauan literature merupakan hasil akhir melalui beberapa tahap proses (Paré et al., 
+2015) berdasarkan ide sendiri dan dari sumber lain, berbeda dengan bibliografi 
+beranotasi (Thomas, 2021); sehingga dengan demikian aktivitas tinjauan literatur 
+merupakan rangkaian kegiatan layaknya suatu metode penelitian yang terdiri dari 
+masukan data, proses dan keluaran hasil.  
+Proses tinjauan literatur dari awal sampai akhir, pada hakekatnya melalui beberapa 
+tahapan penting (Snyder, 2019; Paré et al, 2015; Levy & Ellis, 2006), yakni:  
+a. Identifikasi subjek atau topik  
+b. Cakupan tinjauan atau pola tinjauan;  
+c. Temuan empiris terkait cakupan tinjauan  
+d. Kajian dan ulasan 
+64 
+ 
+e. Perumusan dalil atau teori baru  
+f. Evaluasi kebutuhan kajian lebih lanjut. 
+ 
+Secara narasi skema proses dan tahapan aktivitas tinjauan literature (gambar 1) 
+dibuat oleh Levy & Ellis (2006).  
+ 
+ 
+ 
+ 
+ 
+Sumber : Levy & Ellis, 2006 
+Gambar 1: 3 Tahap proses Tinjauan Literatur 
+                                        
+4. Jenis Sumber Literatur 
+Pada hakekatnya sumber literatur mengacu pada kumpulan tulisan ilmiah tentang 
+suatu topik, yang terdiri dari (Sheppard, 2020):  
+a. Artikel jurnal peer review. 
+b. Buku akademik yang diedit. 
+c. Artikel di jurnal profesional. 
+d. Data statistik pemerintah. 
+e. Materi website asosiasi profesi 
+Dalam praktis dikotomi literature terdiri dari 2 sub-bagian, yakni literature karya 
+ilmiah akademik (scholary literature) dan karya ilmiah abu-abu (grey literature). Secara 
+ringkas pengertian karya ilmiah akademik (scholary literature) adalah karya ilmiah 
+akademisi lembaga pendidikan berupa artikel ulasan yang telah ditinjau oleh peneliti 
+sejawat (peer-reviewed), makalah, buku dan lain-lain yang dipublikasi oleh  penerbit 
+komersial (Colorado, 2022; Illinois, 2023); sedangkan karya ilmiah abu-abu (grey 
+literature) dipahami sebagai karya ilmiah yang diproduksi oleh individu atau 
+organisasi di luar penerbit komersial dan atau akademis (Cornel, 2021; Kansas, 2024; 
+). Pada konferensi literature abu-abu (grey literature) ke 3 di Luxembourg (1997) dan 
+konferensi ke 6 di New York (2004) menegaskan literatur abu-abu adalah semua 
+karya tulis instansi pemerintah, akademisi, bisnis dan industri dalam format cetak 
+dan elektronik, namun tidak dikendalikan oleh penerbit komersial. Definisi ini 
+sekarang diterima secara luas oleh komunitas ilmiah dan sudah lazim disitat oleh 
+para peneliti, walaupun sebagian akademisi masih menganggap grey literature 
+sebagai sumber yang kurang layak karena tidak melalui proses tinjauan sebagaimana 
+karya ilmiah akademis (McAdden, 2019).  
+ 
+65 
+ 
+5. Pendekatan Tinjauan Literatur 
+Secara praktis, aktivitas tinjauan literatur dilakukan dengan 3 pendekatan, yakni 
+(Snyder, 2019; Pare et al, 2015): 
+a. Tinjauan sistimatis 
+Tinjauan literatur sistematis adalah aktivitas utama yang dilakukan dalam ilmu 
+kedokteran dan dikembangkan untuk mensintesis temuan penelitian dengan 
+cara yang sistematis, transparan, dan dapat direproduksi, bahkan disebut sebagai 
+standar tingkat atas (Davis et al, 2014). Penerapan metode ini belum terlalu lazim 
+dalam penelitian bisnis, namun ada indikasi peningkatan (Snyder et al, 2016; 
+Witell et al, 2016). Pada hakekatnya, tinjauan sistematis merupakan metode 
+penelitian melalui langkah identifikasi dan menilai secara kritis temuan 
+penelitian yang relevan (Liberati et al, 2009). Tujuan dari tinjauan sistematis 
+adalah untuk mengidentifikasi semua bukti empiris sesuai dengan kriteria 
+inklusi yang telah ditentukan sebelumnya untuk menjawab pertanyaan atau 
+hipotesis penelitian tertentu. (Snyder, 2019). Tinjauan literatur sistematis bersifat 
+komprehensif dan teoritis dengan rincian periode literatur yang jelas dengan 
+tujuan bisa menyajikan hasil yang bersifat meta-analisis dan meta-sintesis. 
+b. Tinjauan semi sistimatis atau naratif 
+Pendekatan tinjauan ini dirancang untuk menganalisis topik yang telah dikonsep 
+oleh berbagai kelompok peneliti dengan latar belakang displin ilmu yang 
+berbeda-beda (Wong et al, 2013). Pendekatan tinjauan naratif adalah strategi 
+meninjau literatur yang condong ke arah interpretasi kualitatif dari pengetahuan 
+sebelumnya (Sylvester et al., 2011). Pendekatan ini juga dianggap  tidak sistematis 
+atau tidak terstruktur, karena pemilihan informasi dari artikel utama bersifat 
+subyektif, tidak memiliki kriteria inklusi yang jelas dan dapat menyebabkan 
+interpretasi atau kesimpulan yang bias (Green et al, 2006). Namun demikian, 
+pendekatan naratif merupakan tinjauan literatur terfokus pada tema yang sudah 
+ditentukan atau bersifat tematik untuk mengidentifikasi kesenjangan kumpulan 
+pengetahuan saat ini yang mungkin ditindaklanjuti dengan penelitian di masa 
+depan. 
+c. Tinjauan terintegrasi 
+Pendekatan tinjauan integratif adalah bersifat kritis; analisis dilakukan dengan  
+membandingkan temuan beberapa penelitian dari basis berbagai displin ilmu,  
+kemudian mensintesis kerangka teoritis untuk melahirkan perspektif baru 
+(Torraco, 2005). Tujuan penggunaan metode tinjauan integratif adalah untuk 
+meninjau 
+topic 
+secara 
+Kritis 
+berdasarkan 
+ilmu 
+pengetahuan 
+dengan 
+kecendrungan mengkonsep ulang dan             untuk memperluas landasan teoritis 
+yang terkini seiring dengan perkembangannya.             Tujuan metode tinjauan 
+integrasi adalah menghasilkan kemajuan pengetahuan dan             Kerangka 
+teoritis dalam bentuk konsep baru atau teori; sehingga bukan sekedar             
+Memberikan gambaran umum atau deskripsi topic penelitian (Snyder, 2019), 
+melainkan             Berupa sebuah metodologi dengan fondasi yang melekat untuk 
+menyelidik dengan             Logika pembenaran, posisi, prosedur, dan alasan yang 
+66 
+ 
+saling berhubungan erat             (Onwuegbuzie & Frels, 2016; Greene, 2006). 
+Namun demikian, dalam praktek sering             ditemukan tinjauan literatur 
+integratif tidak memberikan paparan sesuai dengan tujuan              tinjauan, tetapi 
+cendrung dalam bentuk ringkasan sering terjadi hanyalah ringkasan studi             
+dan tidak benar-benar integratif. (Snyder, 2019; Toraraco, 2005). 
+ 
+B. Metode 
+Metode yang digunakan dalam penelitian ini adalah berbasis metode tinjauan 
+literatur, yang mengkaji temuan literatur terkait tema penelitian berupa artikel di 
+jurnal dan teori yang ada didalam buku; bertujuan memberi sajian  dengan 
+penegasan pada materi yang diteliti yang pada akhirnya bisa menghasilkan temuan 
+terkini (Paré et al., 2015; Xiao & Watson, 2019; Snyder, 2019; Snyder 2023; 
+Onwuegbuzie & Frels, 2016). Dengan metode ini paparan penelitian mencakup 
+eksplorasi perkembangan ulasan tinjauan literatur sebagai metode penelitian yang 
+independen dan bukan semata-mata sebagai bagian dari proses yang mendukung 
+metode penelitian kualittatif dan metode penelitian kuantitatif. Tujuan dari 
+penelitian 
+ini 
+adalah agar 
+peneliti 
+akademik 
+dan 
+non 
+akademik 
+bisa 
+mempertimbangkan proses tinjauan literatur sebagai metode penelitian; dengan 
+mengikuti dengan tahapan proses tinjauan literatur, sehingga dengan demikian pada 
+akhirnya bisa menghasilkan temuan yang independen dan terkini. 
+ 
+C. Hasil & Pembahasan 
+Berdasarkan literatur yang terkait dengan makna, proses dan keluaran tinjauan 
+literatur, maka paparan pada bagian ini adalah menyajikan terkait dengan proses, 
+kontribusi, aktualisasi, independensi dan kehandalan hasil tinjauan literatur. Proses 
+Tinjauan Pustaka. Merujuk rangkaian kegiatan tinjauan yang terdiri dari masukan 
+data, proses dan keluaran hasil (Pare et al, 2015; Levy & Ellis, 2006); sehingga dengan 
+demikian, proses yang dijalankan tinjauan literatur selayaknya sudah seperti 
+kegiatan metode penelitian lainnya. Pada hakekatnya, proses tinjauan literatur sudah 
+sesuai dengan idealisme penelitian yang memberikan hasil objektif dan handal; 
+karena materi masukan dalam tinjauan literatur adalah berupa materi karya ilmiah 
+maupun materiyang terbit berdasarkan data dan informasi, kemudian ditelaah 
+dengan 7 kegiatan dan difinalisasi dengan keluaran (lihat gambar 1). 
+1. Kontribusi tinjauan Pustaka 
+Dalam pandangan Snyder (2023); Torraco (2005); Davies et al (2014); Whittemore 
+& Knafl (2005) menjelaskan bahwa tinjauan literatur memberikan kontribusi 
+akademis dalam beberapa hal antara lain: 
+a. Eksplorasi kolektif bukti temuan penelitian  
+Suatu tinjauan literatur adalah melakukan evaluasi dan penelusuran teori 
+atau bukti temuan penelitian tertentu, sehingga bisa memetakan 
+67 
+ 
+pertumbuhan pengetahuan berupa ikhtisar yang bisa dikembangkan atau 
+didiskusikan untuk mengidentifikasi area yang hilang atau kesenjangan 
+penelitian yang sama. 
+b. Pengembangan teori 
+Pada hakekatnya dengan pendekatan sistimatika tinjauan literatur, hasil 
+eksplorasi literatur bisa memberikan konsep baru terkait teori maupun dalil; 
+yang kemudian bisa dikembangkan dan bisa berkontribusi pada bidang 
+penelitian tertentu melalui sintesis temuan penelitian sebelumnya. 
+c. Pedoman penelitian selanjutnya 
+Pengembangan sintesis temuan penelitian-penelitian sebelumnya bisa 
+merupakan acuan untuk penelitian lanjutan dengan proposisi yang lebih 
+spesifik atau lebih luas berlandaskan pemetaan kesenjangan temuan 
+penelitian. 
+2. Kehandalan keluaran  
+Tinjauan literatur adalah satu cara mensintesis temuan penelitian untuk 
+menunjukkan bukti pada tingkat meta dan untuk mengungkap bidang-bidang 
+yang memerlukan lebih banyak penelitian, yang merupakan komponen penting 
+dalam penciptaan kerangka teoritis dan membangun model konseptual (Snyder, 
+2023). Pandangan ini memberikan indikasi bahwa keluaran tinjauan literatur bisa 
+diandalkan untuk tindak lanjut dalam aktivitas penelitian, yang ditegaskan oleh 
+Onwuegbuzie et al., (2012) bahwa tinjauan pustaka sebagai sebuah metodologi 
+yang berpotensi untuk menghasilkan sesuatu yang substansial kontribusi 
+terhadap teori, praktik, atau kebijakan.Walaupun ada pendapat yang meragukan 
+bahwa tinjauan literatur digambarkan sebagai cara yang kurang sistematis dalam 
+mengumpulkan dan mensintesis penelitian sebelumnya (Baumeister & Leari, 
+1997; Tranfield et al., 2003). Namun keraguan ini tidak menghambat pandangan 
+lain yang berpendapat dan mendukung bahwa tinjauan pustaka merupakan 
+aktivitas akademis komprehensif yang mencakup analisis temuan-temuan 
+penelitian kuantitatif dan temuan penelitian kualitatif; kemudian mensintesis 
+temuan kuantitatif dan kualitatif dalam laporan tinjauan literatur yang sama. 
+Sehingga dengan demikian, kehandalan keluaran dari tinjauan literature sudah 
+mengacu pada proses penelitian ilmiah yang menjalankan fungsi sebagai studi 
+penelitian campuran, berisi sistem atau serangkaian aktivitas metode, aturan, 
+dan prinsip dalam bidang penelitian tertentu. (Onwuegbuzie et al., 2010; 
+Onwuegbuzie & Frels, 2016; Torres-Carrión et al., 2018). 
+ 
+D. Kesimpulan 
+1. Berdasarkan cakupan aktivitas dan proses tinjauan literatur sampai mencapai hasil 
+akhir, maka pada hakekatnya tinjauan literatur bisa berperan lebih dari hanya 
+68 
+ 
+sebagai bagian dari proses metode penelitian kuantitatif atau metode penelitian 
+kualitatif atau metode penelitian campuran. Peran lebih yang dimaksud adalah 
+beraktivitas secara independen sebagai metode penelitian dengan posisi setara 
+dengan jenis metode pemelitian lainnya. 
+2. Merujuk pada pengembangan logika berpikir dan proses aktivitas penelitian maka 
+tinjauan literatur bisa dipertimbangkan sebagai metode penelitian independen 
+dalam bidang penelitian pustaka; karena temuannya bisa berfungsi sebagai 
+penegasan dan menjadi pendukung, bahkan mensintesis temuan penelitian lainnya 
+yakni hasil dari penelitian metode campuran, metode kuantitatif dan metode 
+kualitatif. 
+3. Tinjauan literatur layak berdiri secara independen sebagai metode penelitian, karena 
+proses tinjauan literatur adalah melakukan penelaahan suatu fenomena perilaku 
+social maupun perkembangan akademik secara akademis berbasis literatur ilmiah 
+dengan keluaran yang obyektif dan handal. 
+4. Keluaran (output) penelitian tinjauan pustaka bisa bersifat teoritis, tematik, 
+metodologi dan kronologis. 
+ 
+Refrensi 
+Baumeister, R.F. & Leary,M.R. (1977). Writing Narrative Literature   Reviews. Review of 
+General Psychology, Vol. 1, No. 3, pp.311-320. 
+Brocke, J.v. , Simons, A., Niehaves, B., Riemer, K., Plattfaut, R., & Cleven, A. (2009). 
+Reconstructing the Giant: On the Importance of Rigour in Documenting the 
+Literature Search Process. Conference (June): 17th European Conference on 
+Information Systems (ECIS)At: Verona, Italy. http://www.alexandria.unisg.ch/ 
+Publikationen/67910. Ditarik 5 April 2024 
+Colorado Boulder, University (2022). Strategy: Scholarly Literature.  Last Updated: Nov 
+3, 2022 3:21; https://libguides.colorado.edu/strategy/scholarly. Ditarik 7 April 
+2024 
+Corner, University Library (2021). Tutorial: Evaluating Information: Scholarly Literature 
+Types. Last Updated: Oct 20, 2021; 11:11 AM. https://guides.library.cornell.edu/ 
+evaluate. Ditarik 7 April 2024. 
+Creswell, J.W (2018). Educational Research “Planning, Conducting, and Evaluating 
+Quantitative and Qualitative Research", 6th edition, Pearson. 
+Davis, J., Mengersen, K., Bennett, S., & Mazerolle, L. (2014). Viewing systematic reviews 
+and meta-analysis in social research through different lenses. Springer Plus, 3, 511. 
+https://doi.org/10.1186/2193-1801-3-511. 
+Green, B.N., Johnson, C.D., Adams, A. (2006). Writing narrative literature reviews for 
+peer-reviewed journals: secrets of the trade. Journal of Chiropractic Medicine. Vol. 
+69 
+ 
+5(3):101-17. doi: 10.1016/S0899-3467(07)60142-6. PMID: 19674681; PMCID: 
+PMC2647067. 
+Hart, C. (2018). Doing Literature Review: Releasing the Social Science Research 
+Imagination. 2nd edition, SAGE Publications Ltd. 
+Hartley, J. (2008). Academic Writing and Publishing: A Practical Guide. Routledge, New 
+York. 
+Illinois, University (2023). What is Grey Literature? https://guides.library.illinois.edu 
+/c.php?g=1310347#:~:text=It%20is%20easier%20to%20describe,referred%20to%2
+0as%20White%20Literature. Last Updated: Sep 27, 2023 10:43 AM. Ditarik 06/04/ 
+2024 
+Kansas, State University (2024). Overview of Grey Literature and White Papers. ENGL 
+417 - Written Communication for the Workplace. Library Research Guide. 
+https://guides.lib.k-state.edu/c.php?g=181814&p=6804869. Ditarik 06/04/2024 
+Kumar, R. (2019). Research Methodology: A Step-by step Guide for Beginners , 5th  Ed., 
+SAGE Publications. 
+Levy, Y., Ellis, T.J.(2006).  A Systems Approach to Conduct an Effective Literature Review 
+in Support of Information Systems Research. Informing Science. Journal Volume 9, 
+2006, pp. 181-212 
+Liberati, A., Altman, D. G., Tetzlaff, J., Mulrow, C., Gøtzsche, P. C., Ioannidis, J. P. A., 
+Moher, D. (2009). The PRISMA statement for reporting systematic reviews and meta 
+analyses of studies that evaluate health care interventions: Explanation and 
+elaboration. 
+Annals 
+of 
+Internal 
+Medicine, 
+151, 
+W–65. 
+https:// 
+doi.org/10.7326/0003-4819-151-4-200908180-00136. Ditarik 5 April 2024 
+McAdden,V.(2019). Not Just Black and White: Using Grey Literature in Your Research. 
+https://www.distillersr.com/resources/blog/not-just-black-and-white-using-
+grey- literature-in-youresearch #:~:text=Grey 20literature 20challenges&text= 
+Since 20grey 20 literature 20 is 20usually, 2C 20bias 2C 20 or  20 incomplete  20 
+information. Ditarik 7 April 2024. 
+Moher, D., Liberati, A., Tetzlaff, J., & Altman, D. G. (2009). Preferred reporting items for 
+systematic reviews and meta-analyses: The PRISMA statement. Annals of Internal 
+Medicine, 
+151, 
+264–269. 
+https://doi.org/10.7326/0003-4819-151-4-200908180 
+00135. 
+Muhanum (2021). Tinjauan Kepustakaan. ALACRITY : Journal Of Education Volume 2 
+No 1 Juni (2021) Page : 1- 12. 
+O'LEARY, Z. (2021). The essential guide to doing your research project. 4th edition, SAGE 
+Publications, Ltd. 
+Onwuegbuzie, A.J. & Frels, R.(2016).Seven Steps to a Comprehensive Literature Review: 
+A Multimodal and Cultural Approach. 1st edition. Sage. 
+70 
+ 
+Onwuegbuzie, A. J., Leech, N. L., & Collins, K. M. (2012). Qualitative Analysis 
+Techniques for the Review of the Literature. The Qualitative Report, 17(28), 1-28. 
+https://doi.org/10.46743/2160-3715/2012.1754 
+Palmatier, R. W., Houston, M. B., & Hulland, J. (2018). Review articles: Purpose, process, 
+and structure. Journal of the Academy of Marketing Science, 46, 1–5. 
+https://doi.org/ 10.1007/s11747-017-0563-4 
+Paré,G., Trudel,M.C., Jaana,M.,Kitsiou,S. (2015). Synthesizing information systems 
+knowledge: A typology of literature reviews. Information & Management, Volume 
+52,  Issue 2, March, Pages 183-199. https://doi.org/10.1016/j.im.2014.08.008 
+Randolph, J.J. 2009. A guide to writing the dissertation literature review. Pr. Assess. Res. 
+Eval. [e-journal] 14(13). Available: https://pareonline.net/getvn.asp?v=14&n=13 
+Ditarik 10 April 2024. 
+Sethi, V., & King, W. R. (1998). Organizational transformation thought business process 
+reengineering. Prentice Hall. 
+Sheppard, V. (2020). Research Methods for the Social Sciences: An Introduction. Press 
+Books. https://pressbooks.bccampus.ca/jibcresearchmethods/ Simon, Fraser 
+University. Grey literature: What it is & how to find it. https:// www. lib. Sfu. Ca 
+/help/research-assistance/format-type/grey-literature. Ditarik 7 April 2024 
+Snyder, H.(2019). Literature review as a research methodology: An overview and 
+guidelines. Journal of Business Research. Volume 104, November 2019, Pages 333-
+339. https://doi.org/10.1016/j.jbusres.2019.07.039 
+Snyder, H. (2023). Designing the literature review for a strong contribution, Journal of 
+Decision Systems (31 March). DOI: 10.1080/12460125.2023.2197704 Snyder, H., 
+Witell, L., Gustafsson, A., Fombelle, P., & Kristensson, P. (2016). Identifying 
+categories of service innovation: A review and synthesis of the literature. Journal 
+of 
+Business 
+Research, 
+69, 
+2401–2408. 
+https://doi.org/10.1016/j.jbusres. 
+2016.01.009. 
+Sylvester,A., 
+Tate,M., 
+Johnstone,D. 
+(2011). 
+Beyond 
+synthesis: 
+re-presenting 
+heterogeneous research literature. Behaviour & Information Technology, vol. 32, 
+issue 12, pp. 1199-1215, DOI: 10.1080/0144929X.2011.624633 
+Taylor, D., Procter, M. (2010). “The Literature Review: A Few Tips on Conducting It” 
+https://advice.writing.utoronto.ca/types-of-writing/literature-review/ (ditarik 1 
+April 2024) 
+Thomas, C.G. (2021). Research Methodology and Scientific Writing. Springer, 2nd edition. 
+https://doi.org/10.1007/978-3-030-64865-7 
+Torraco, R. J. (2005). Writing integrative literature reviews: Guidelines and examples. 
+Human Resource Development Review, 4, 356–367. https://doi.org /10.1177 
+/1534484305278283. 
+71 
+ 
+Torres, C. P. V., Gonzales, C. S., Aciar, S., Rodriguez, M. G. (2018). Methodology for 
+systematic literature review applied to engineering and education. IEEE Global 
+Engineering Education Conference (EDUCON). IEEE, 1364-1373. 
+Tranfield, D., Denyer, D., & Smart, P. (2003). Towards a methodology for developing 
+evidence-informed management knowledge by means of systematic review. 
+British Journal of Management, 14, 207–222. https://doi.org/10.1111/1467-
+8551.00375 
+Whittemore, R., & Knafl, K. (2005). The integrative review: Updated methodology. 
+Journal of Advanced Nursing, 52, 546–553. https://doi.org/10.1111/j.1365-
+2648.2005.03621.x 
+Witell, L., Snyder,H., Gustafsson,A., Fombelle,P., Kristensson,P. (2016). Defining service 
+innovation: A review and synthesis. Journal of Business Research. Volume 69, Issue 
+8, August 2016, Pages 2863-2872. https://doi.org/10.1016/j.jbusres.2015.12.055 
+Wong, G., Greenhalgh, T., Westhorp, G., Buckingham, J., & Pawson, R. (2013). Rameses 
+publication standards: Meta - narrative reviews. BMC Medicine, 11, 20. https:// 
+bmcmedicine.biomedcentral.com/articles/10.1186/1741-7015-11-
+20.doi.org/10.1186/1741 - 7015-11-20. 
+ 

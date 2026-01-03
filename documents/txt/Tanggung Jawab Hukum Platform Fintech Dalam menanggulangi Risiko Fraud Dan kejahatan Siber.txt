@@ -1,0 +1,512 @@
+Blantika: Multidisciplinary Jornal
+Volume 3 Number 4, Februari, 2025
+p- ISSN 2987-758X e-ISSN 2985-4199
+Tanggung Jawab Hukum Platform Fintech Dalam Menanggulangi
+Risiko Fraud dan Kejahatan Siber
+Kata kunci:
+Platform
+Fintech,
+Kejahatan
+Siber,
+Fraud, Perlindungan
+Konsumen, Regulasi
+OJK
+ABSTRAK
+Perkembangan financial technology (fintech) telah membawa
+transformasi besar dalam sistem keuangan global, mencakup
+layanan pembayaran, pinjaman, investasi, hingga perencanaan
+keuangan. Di Indonesia, fintech disambut positif oleh
+masyarakat karena kemampuannya meningkatkan efektivitas
+dan efisiensi keuangan pribadi. Namun, kemunculan fintech
+juga menghadirkan tantangan serius berupa peningkatan risiko
+kejahatan siber dan fraud, yang mengancam kelangsungan
+lembaga keuangan digital. Penelitian ini bertujuan untuk
+menganalisis tanggung jawab hukum platform fintech dalam
+menghadapi risiko tersebut di Indonesia. Jenis penelitian yang
+digunakan adalah yuridis normatif dengan pendekatan
+perundang-undangan, menggunakan data sekunder dari literatur
+hukum, peraturan perundang-undangan, dan doktrin. Hasil
+penelitian menunjukkan bahwa platform fintech wajib
+menyediakan mekanisme penyelesaian sengketa melalui
+layanan pengaduan konsumen sebagaimana diatur dalam Pasal
+40 POJK No. 13/2018. Selain itu, Otoritas Jasa Keuangan
+(OJK) berwenang menjatuhkan sanksi administratif kepada
+platform yang melanggar ketentuan perlindungan konsumen
+dan keamanan data, berdasarkan Pasal 39 POJK No. 13/2018.
+Penelitian ini mengimplikasikan pentingnya penguatan regulasi
+dan kepatuhan platform fintech untuk menjaga kepercayaan
+konsumen dan stabilitas industri keuangan digital di Indonesia.
+ABSTRACT
+Keywords: Fintech
+Platform,
+Cybercrime, Fraud,
+Consumer
+Protection, OJK
+Regulation
+The development of financial technology (fintech) has brought
+significant transformation to the global financial system,
+encompassing services such as payment systems, loans,
+investments, and financial planning. In Indonesia, fintech is
+positively welcomed by the public due to its ability to enhance
+personal financial effectiveness and efficiency. However, the
+rise of fintech also presents serious challenges, particularly the
+increased risk of cybercrime and fraud, which threaten the
+stability of digital financial institutions. This study aims to
+analyze the legal responsibilities of fintech platforms in
+mitigating these risks in Indonesia. The research employed a
+normative juridical method with a statutory approach, using
+secondary data derived from legal literature, regulations, and
+legal doctrines. The findings show that fintech platforms are
+required to provide dispute resolution mechanisms through
+502
+consumer complaint services, as stipulated in Article 40 of OJK
+Regulation No. 13/2018. Furthermore, the Financial Services
+Authority (OJK) has the authority to impose administrative
+sanctions on platforms that violate consumer protection and
+data security provisions, according to Article 39 of OJK
+Regulation No. 13/2018. This study implies the urgent need to
+strengthen regulations and compliance among fintech platforms
+to maintain consumer trust and the stability of the digital
+financial industry in Indonesia.
+
+Manuscript accepted:Date
+Revised: Date
+Date of publication: Date
+Ini adalah artikel akses terbuka di bawah lisensi CC BY-SA .
+This is an open access article under the CC BY-SA license.
+PENDAHULUAN
+Hukum haruslah berjalan progresif dikarenakan kejahatan semakin bertumbuh secara
+progresif yang dilakukan dengan berbagai cara mengikuti perkembangan zaman. Dalam hal
+ini berarti mala in prohibition harus selalu mengikuti perkembangan teknologi agar tidak
+hanya dipandang sebagai mala in se dalam kehidupan masyarakat. Manusia
+mengembangkan teknologi sepanjang perjalanan, menghasilkan berbagai barang untuk
+meningkatkan dan menyederhanakan semua pekerjaan manusia.
+Kemajuan teknologi informasi yang pesat menimbulkan transformasi sosial, ekonomi,
+dan budaya yang substansial, menghasilkan keuntungan dan dampak yang besar bergantung
+pada pengguna teknologi ini. Efek menguntungkan dari teknologi informasi termasuk
+membantu orang atau organisasi dalam melaksanakan tugas mereka, sementara konsekuensi
+yang merugikan muncul dari eksploitasi teknologi oleh individu atau kelompok untuk
+kejahatan yang dapat menimbulkan kerugian pada orang lain. Era digital sebagai saksi
+kemajuan teknologi yang luar biasa, yang kini merambah hampir pada setiap aspek
+kehidupan dalam peradaban global. Financial Technology (selanjutnya disingkat:
+“Fintech”) merupakan salah satu dari sekian banyak hal sederhana dan kompleks yang
+dikembangkan oleh kemajuan teknologi.
+Kemajuan teknologi yang pesat diikuti oleh langkah-langkah keamanan yang lebih
+kompleks sebagai respons terhadap peningkatan signifikan dalam kejahatan siber.
+Akibatnya, para pelaku kejahatan siber menjadi lebih aktif dan mahir dalam
+berinovasi di dalam kerangka kerja keamanan yang ditetapkan oleh langkahlangkah
+anti-kejahatan siber, yang terkadang disebut sebagai keamanan siber (cyber security). Situasi
+yang mengkhawatirkan muncul ketika para pelaku kejahatan siber memiliki keahlian dalam
+langkah-langkah anti-kejahatan siber, sehingga metodologi kejahatan siber yang baru sulit
+diidentifikasi dan ditangani melalui upaya keamanan siber (cyber security). Proliferasi cepat
+ancaman kejahatan siber yang disandingkan dengan keamanan siber (cyber security) yang
+stagnan merupakan masalah mendesak yang memerlukan penyelesaian segera.
+Memperkirakan dan memverifikasi biaya dari kejahatan siber merupakan suatu
+tantangan besar, karena bukan hanya kerugian finansial saja, melainkan diperparah oleh
+kerugian lainnya, termasuk penurunan reputasi yang diakibatkan oleh kehilangan, atau
+kebocoran data pribadi. Serangan kejahatan dunia maya berdampak pada semua negara di
+503
+dunia, khususnya negara-negara yang berada dalam tahap perkembangan teknologi
+informasi dan komunikasi, yang mengalami peningkatan signifikan dalam tingkat kejahatan
+siber. Pemerintah harus mengambil langkah-langkah proaktif untuk mencegah kejahatan
+siber dengan merumuskan dan menegakkan aturan, sekaligus memotivasi sektor swasta
+untuk meningkatkan upaya keamanan siber dalam memerangi kejahatan siber. Kemajuan
+lebih lanjut untuk mengurangi kejahatan siber adalah memberikan pendidikan etika tentang
+penggunaan teknologi informasi kepada generasi muda atau mengembangkan langkahlangkah keamanan dunia maya yang kuat.6
+Fintech ini terbagi atas sistem pembayaran, transfer dana, remitansi, pinjaman, crowd
+funding, intermediasi keuangan, investasi ritel, perencanaan keuangan, riset keuangan, dan
+berbagai layanan keuangan lainnya. Masyarakat pada umumnya menyambut baik fintech,
+karena berpotensi untuk berubah menjadi alat yang tangguh untuk meningkatkan efektivitas
+dan efisiensi yang sejalan dengan kebiasaan dan kehidupan individu. Munculnya fintech
+menghadirkan tantangan yang signifikan terhadap kelangsungan hidup lembaga keuangan
+yang berkembang dari tradisional hingga modern berbasis digital seperti pada lingkup
+perbankan dan asuransi yang memiliki berbagai macam ancaman kejahatan siber.
+Kemajuan pesat fintech mengandung risiko yang melekat dalam pelaksanaannya.
+Fintech menghadapi risiko teknis dan komersial yang berbeda beda tergantung masingmasing bidang spesifiknya. Adapun beberapa risiko yang umum terjadi di dunia fintech yaitu
+seperti kejahatan transfer dana, penipuan dalam bentuk phissing melalui media online
+korban, pencurian data nasabah, pemerasan dan kejahatan lainnya, sehingga diperlukan
+kesadaran para pelaku fintech untuk meningkatkan keamanan siber (cyber security) guna
+melindungi data yang dimilikinya dari segala bentuk kejahatan siber serta terus berkembang
+semakin maju (baik dari sumber daya manusia maupun teknologi itu sendiri) dan mengikuti
+perkembangan teknologi terkini.
+Apabila para pelaku fintech tidak mampu untuk mengikuti perkembangan teknologi
+dan tidak mampu pula secara sumber daya manusia, maka kejahatan siber akan semakin
+meningkat dan menyebabkan risiko fraud yang sangat tinggi baik bagi perusahaan dan juga
+masyarakat. Maka dari hal tersebut, penulisan artikel ini fokus untuk mengkaji terkait:
+Tanggung Jawab Hukum Platform Fintech Dalam Menanggulangi Risiko Fraud dan
+Kejahatan Siber.
+Penelitian sebelumnya oleh Widiastuti dan Santoso (2021) telah menekankan
+meningkatnya kerentanan platform teknologi finansial (tekfin) terhadap kejahatan siber,
+yang menyoroti perlunya kerangka kerja regulasi yang kuat untuk memitigasi risiko yang
+terkait dengan penipuan dan pembobolan data. Demikian pula, penelitian oleh Suryanto dan
+Wibowo (2022) mengidentifikasi tantangan yang dihadapi perusahaan tekfin dalam
+mematuhi peraturan keamanan siber, terutama dalam melindungi data konsumen dan
+memastikan keamanan transaksi.
+Kebaruan dari penelitian ini terletak pada analisis terfokus pada tanggung jawab
+hukum platform tekfin di bawah hukum Indonesia, terutama terkait kepatuhan terhadap
+POJK No. 13/2018, dan eksplorasi upaya pemerintah dalam mencegah penipuan dan
+kejahatan siber dalam ekosistem tekfin. Meskipun penelitian sebelumnya telah membahas
+risiko keamanan siber di fintech secara luas, penelitian ini memberikan perspektif hukum
+504
+dan peraturan yang spesifik dalam konteks Indonesia, yang menawarkan wawasan baru
+tentang peran proaktif pemerintah dan platform itu sendiri.
+Adapun tujuan dalam penelitian ini, yaitu: (1) untuk membahas dan menganalisis
+tanggung jawab hukum platform fintech dalam menanggulangi risiko Fraud dan Kejahatan
+Siber di Indonesia, dan (2) untuk menjelaskan dan mengetahui upaya pemerintah dalam hal
+mencegah terjadinya risiko Fraud dan Kejahatan Siber oleh platform fintech.
+METODE PENELITIAN
+Jenis penelitian yang diangkat adalah kajian Yuridis Normatif (library legal research),
+sebagaimana ditunjukkan oleh judul artikel ini. Kajian tentang normanorma hukum yang
+terdapat dalam suatu sistem hukum tertentu merupakan pokok bahasan utama penelitian
+yuridis normatif, hal ini merupakan salah satu jenis metodologi penelitian hukum.
+Pendekatan ini bertujuan untuk mengkaji unsurunsur hukum normatif, yakni norma,
+pedoman, dan undang-undang yang mengatur interaksi hukum dalam suatu masyarakat atau
+sistem hukum. Undang-undang, peraturan pemerintah, putusan pengadilan, doktrin
+hukum/pendapat para ahli dan pustaka hukum lainnya akan dianalisis dan diinterpretasikan
+oleh para sarjana yang melakukan kajian yuridis normatif. Tujuan utama kajian ini adalah
+membangun argumen atau konsepsi hukum berdasarkan interpretasi tersebut dan
+memperoleh pemahaman yang mendalam tentang substansi dan makna norma hukum yang
+relevan.
+Sumber data penelitian ini adalah data sekunder. Konsep hukum, gagasan hukum,
+doktrin hukum, dan aturan yang relevan dapat dikutip, disalin, dan dianalisis untuk
+mendapatkan data sekunder dari penelitian kepustakaan.
+Dalam penelitian yang
+menggunakan sumber data sekunder berarti menggunakan bahan hukum primer, sekunder
+dan tersier dalam memperoleh data-data untuk melakukan analisis penelitian ini.
+Metode pendekatan yang digunakan adalah Pendekatan Perundang-undangan karena
+merupakan cara yang sederhana untuk membahas suatu masalah dan berfungsi sebagai
+panduan untuk subjek yang sedang dibahas. Pendekatan perundang-undangan
+menggambarkan metode untuk memahami, menganalisis, dan menerapkan hukum. Untuk
+memahami tujuan dan maksud hukum serta bagaimana hukum harus diterapkan dalam
+konteks peristiwa dan kejadian tertentu, metode ini memanfaatkan konsep hukum dan alat
+interpretasi hukum.
+HASIL DAN PEMBAHASAN
+Tanggung Jawab Hukum Platform Fintech Dalam Menanggulangi Risiko Fraud Dan
+Kejahatan Siber Di Indonesia
+Dewasa ini, sudah hampir seluruh kegiatan pembayaran di Indonesia menggunakan
+Platform Fintech, seperti Shopee, Dana, Tokopedia, M-banking dan masih banyak lagi.
+Bentuk dari Fintech ini juga beragam, mulai dari Digital Payment, Peer to Peer Lending dan
+Crowd Funding, Account Aggregator, Information and Feeder Site, dan Personal Finance.
+Awalnya, pengaturan mengenai platform fintech ini diatur dalam Peraturan Bank Indonesia
+Nomor 19/12/PBI/2017 Tentang Penyelenggaraan Teknologi Finansial. Namun pada tahun
+2018 pemerintah menambahkan aturan baru pula, yaitu melalui POJK No. 13/POJK.02/2018
+tentang Inovasi Keuangan Digital Di Sektor Jasa Keuangan yang secara khusus mengatur
+505
+kewajiban platform fintech dalam menjaga kepercayaan pengguna dan memitigasi risiko
+kejahatan siber. Aturan ini dibuat sebagai bahan pertimbangan bahwa seiring kemajuan
+teknologi, inovasi keuangan digital tidak dapat diabaikan dan perlu dikelola agar dapat
+memberikan manfaat sebesarbesarnya untuk kepentingan masyarakat.
+Pada ketentuan Pasal 1 angka 1 POJK No. 13/POJK.02/2018 tentang Inovasi
+Keuangan Digital Di Sektor Jasa Keuangan disebutkan bahwa Inovasi Keuangan
+Digital yang selanjutnya disingkat IKD adalah aktivitas pembaruan proses bisnis, model
+bisnis, dan instrumen keuangan yang memberikan nilai tambah baru di sektor jasa keuangan
+dengan melibatkan ekosistem digital. Selanjutnya pada ketentuan Pasal 1 angka 5 disebutkan
+bahwa Ekosistem IKD adalah komunitas yang terdiri dari otoritas, Penyelenggara,
+konsumen, dan/atau pihak lain yang memanfaatkan platform digital secara bersama untuk
+mendorong IKD yang bermanfaat bagi masyarakat.
+Pendekatan ekosistem ini menunjukkan bahwa keberhasilan inovasi keuangan digital
+tidak hanya bergantung pada perusahaan fintech atau lembaga keuangan, tetapi juga pada
+kolaborasi antara berbagai pemangku kepentingan. Sebagai regulator (khususnya OJK dan
+BI) memiliki peran dalam memastikan aspek keamanan, perlindungan konsumen, dan
+mitigasi risiko sistemik, sementara pelaku usaha bertanggung jawab dalam menyediakan
+layanan keuangan yang inovatif dan aman. Konsumen, di sisi lain, harus memiliki
+pemahaman yang baik terhadap layanan digital yang mereka gunakan, sehingga dapat
+berpartisipasi secara aktif dalam ekosistem ini.
+Ruang lingkup IKD ini meliputi:
+a. “penyelesaian transaksi;
+b. penghimpunan modal;
+c. pengelolaan investasi;
+d. penghimpunan dan penyaluran dana;
+e. perasuransian;
+f. pendukung pasar;
+g. pendukung keuangan digital lainnya; dan/atau
+h. aktivitas jasa keuangan lainnya.”
+Adapun penyelenggara Platform Fintech terdiri dari Lembaga Jasa Keuangan dan pihak
+lain yang melakukan kegiatan di sektor jasa keuangan. Pada ketentuan Pasal 17 ayat (1)
+POJK No. 13/POJK.02/2018 tentang Inovasi Keuangan Digital Di Sektor Jasa Keuangan
+disebutkan bahwa OJK yang memiliki wewenang untuk melakukan pemantauan terhadap
+Penyelenggara yang telah tercatat dan terdaftar di OJK.
+Setiap penyelenggara platform fintech diwajibkan untuk menerapkan prinsip pemantauan
+secara mandiri, yang seminimalnya harus memenuhi prinsip:
+a.
+b.
+a.
+b.
+c.
+
+“prinsip tata kelola teknologi informasi dan komunikasi sesuai dengan peraturan
+perundangundangan;
+perlindungan konsumen sesuai dengan ketentuan Peraturan Otoritas Jasa
+Keuangan ini;
+edukasi dan sosialisasi kepada konsumen;
+kerahasiaan data dan/atau informasi konsumen termasuk data dan/atau informasi
+transaksi;
+506
+d.
+e.
+
+prinsip manajemen risiko dan kehati-hatian;
+prinsip anti pencucian uang dan pencegahan pendanaan terorisme sesuai dengan
+ketentuan peraturan perundang-undangan; dan
+f.
+inklusif dan prinsip keterbukaan informasi.”
+Selain harus memenuhi prinisip-prinsip tersebut penyelenggara atau platform fintech,
+secara mandiri wajib menginventarisasi risiko utama yang seminimalnya memenuhi:
+a.
+“risiko strategis;
+b.
+risiko operasional sistemik;
+c.
+risiko operasional individual;
+d.
+risiko pencucian uang dan pendanaan terorisme;
+e.
+risiko perlindungan data konsumen;
+f.
+risiko penggunaan jasa pihak ketiga;
+g.
+risiko siber; dan
+h.
+risiko likuiditas.”
+Setiap penyelenggara platform fintech juga diwajibkan untuk menerapkan prinsip dasar
+perlindungan konsumen, yaitu:
+a.
+“transparansi;
+b.
+perlakuan yang adil;
+c.
+keandalan;
+d.
+kerahasiaan dan keamanan data/informasi konsumen; dan
+e.
+penanganan pengaduan serta penyelesaian sengketa konsumen secara sederhana,
+cepat, dan biaya terjangkau.”
+Selain itu, penyelenggara platform fintech juga wajib menyediakan pusat pelayanan
+konsumen berbasis teknologi. Pusat pelayanan konsumen berbasis teknologi paling sedikit
+terdiri atas penyediaan pusat layanan konsumen yang dapat dilaksanakan sendiri atau
+melalui pihak lain. Hal tersebut menjelaskan bahwa setiap penyelenggara harus mempunyai
+wadah bagi konsumen yang merasa dirugikan untuk melakukan penyelesaian masalahnya,
+apabila penyelenggara tidak memiliki wadah, maka dapat meminta bantuan pihak lain
+sebagai alternatifnya.
+Adapun larangan-larangan terhadap penyelenggara platform fintech ini, diatur pada
+ketentuan Pasal 38 ayat (1) dan (2) POJK No. 13/POJK.02/2018 tentang Inovasi Keuangan
+Digital Di Sektor Jasa Keuangan. yang menyebutkan bahwa:
+(1)
+“Penyelenggara dilarang memberikan data dan/atau informasi mengenai konsumen
+kepada pihak ketiga.
+(2)
+Larangan sebagaimana dimaksud pada ayat (1) dikecualikan dalam hal:
+a.
+konsumen memberikan persetujuan secara elektronik; dan/atau
+b.
+Penyelenggara diwajibkan oleh ketentuan peraturan perundangundangan untuk
+memberikan data dan/atau informasi mengenai konsumen kepada pihak ketiga.”
+Dapat dilihat dari uraian Pasal 38 ayat (1) secara tegas melarang penyelenggara
+platform fintech untuk memberikan data dan/atau informasi mengenai konsumen kepada
+pihak ketiga. Larangan ini mencerminkan komitmen untuk melindungi privasi konsumen
+dan menjaga kepercayaan publik terhadap layanan fintech. Dalam era digital, di mana data
+pribadi sangat berharga, perlindungan ini menjadi sangat penting untuk mencegah
+507
+penyalahgunaan data yang dapat merugikan konsumen. Akan tetapi ketentuan Pasal 38 ayat
+(2) huruf b dapat menimbulkan kontradiksi, dimana data konsumen dapat disalahgunakan
+oleh pihak yang tidak bertanggungjawab.
+Mengenai tanggungjawab penyelenggara platform fintech dapat dilihat dalam
+ketentuan Pasal 39 sampai dengan Pasal 40 POJK No. 13/POJK.02/2018 tentang Inovasi
+Keuangan Digital Di Sektor Jasa Keuangan. Pada ketentuan Pasal 39 ayat 1 disebutkan
+bahwa Otoritas Jasa Keuangan berwenang mengenakan sanksi administratif terhadap setiap
+pihak yang melakukan pelanggaran ketentuan Peraturan Otoritas Jasa Keuangan ini,
+termasuk pihak yang menyebabkan terjadinya pelanggaran tersebut berupa:
+a.
+peringatan tertulis;
+b.
+denda, yaitu kewajiban untuk membayar sejumlah uang tertentu;
+c.
+pembatalan persetujuan; dan/atau d. pembatalan pendaftaran
+Kemudian, pada ketentuan Pasal 40 disebutkan bahwa selain sanksi administratif
+sebagaimana dimaksud dalam Pasal 39, Otoritas Jasa Keuangan dapat melakukan tindakan
+tertentu terhadap setiap pihak yang melakukan pelanggaran.
+Dari uraian di atas dapat dianalisis bahwa, dalam hal terjadi fraud atau kejahatan siber
+yang menyebabkan kerugian pada konsumen, platform fintech memiliki tanggung jawab
+untuk menyediakan mekanisme penyelesaian sengketa yang efektif, sesuai dengan Pasal 40
+POJK No. 13/2018. Mekanisme ini hanya ayanan pengaduan konsumen yang wajib
+disediakan oleh platform fintech tersebut untuk membantu konsumen yang dirugikan. Jika
+platform fintech terbukti melakukan pelanggaran terhadap ketentuan keamanan data dan
+perlindungan konsumen, OJK memiliki wewenang untuk menjatuhkan sanksi administratif
+berdasarkan Pasal 39 POJK No. 13/2018 berupa peringatan tertulis, denda administratif,
+pembatalan persetujuan operasional dan pembatalan pendaftaran atau izin usaha.
+Sesuai dengan teori pertanggungjawaban hukum, tanggung jawab hukum platform
+fintech dalam menanggulangi risiko fraud dan kejahatan siber mencakup kepatuhan terhadap
+regulasi perlindungan data, penerapan standar keamanan siber, serta penyediaan mekanisme
+penyelesaian sengketa bagi korban fraud. OJK memiliki kewenangan untuk menjatuhkan
+sanksi terhadap fintech yang melanggar ketentuan keamanan data dan perlindungan
+konsumen. Namun dalam hal ini perlunya regulasi yang lebih efektif, yaitu perlu dilakukan
+penguatan pengawasan terhadap fintech ilegal, edukasi kepada konsumen mengenai
+keamanan transaksi digital, serta peningkatan standar keamanan bagi seluruh platform
+fintech yang beroperasi di Indonesia.
+Upaya Pemerintah Dalam Hal Mencegah Terjadinya Risiko Fraud Dan Kejahatan
+Siber Oleh Platform Fintech
+Dilansir melalui Website Kominfo, pada tahun 2021 Johnny G Plate selaku Menteri
+Kominfo melakukan Press Relase, yang menyatakan telah melakukan berbagai upaya dalam
+memerangi fintech illegal. Menkominfo bersama OJK telah melakukan pemutusan akses
+terhadap 3.856 platform fintech tanpa izin atau ilegal. Selain itu, Kemkominfo melalui
+Gerakan Nasional Literasi Digital Siberkreasi, turut membekali masyarakat dengan beragam
+kemampuan untuk mencerna informasi yang benar dan tepat selama menggunakan internet.
+Literasi digital dilakukan pada 514 kab/kota di Indonesia dengan target.15
+508
+Selain upaya tersebut, pemerintah melalui Lembaga OJK pada tahun 2024, telah
+menerbitkan Panduan Strategi Anti Fraud Penyelenggara Inovasi Teknologi Sektor
+Keuangan (disingkat ITSK).16 OJK berkomitmen dengan sedang menyusun pengaturan
+khusus mengenai Penerapan Strategi Anti Fraud bagi Penyelenggara Inovasi Teknologi
+Sektor Keuangan. Selain OJK, Komisi Pemberantasan Korupsi (KPK) juga gencar
+menggalakkan upaya pencegahan kejadian fraud. Pada tahun 2021 misalnya, KPK telah
+menerbitkan Surat Edaran (SE) KPK Nomor 19 tahun 2021 tentang Pengendalian Gratifikasi
+bagi Industri Jasa Keuangan (IJK).
+Upaya lain yang telah dilakukan OJK dalam rangka memperkuat industri Inovasi
+Teknologi Sektor Keuangan, terwujud melalui rencana jangka menengah yang tertuang
+dalam Digital Finance Innovation Roadmap and Action Plan bagi Inovasi Teknologi Sektor
+Keuangan tahun 2020-2024. Salah satu inisiatif dalam Digital Finance Innovation Roadmap
+and Action Plan, dengan menargetkan pengembangan yang suportif dan komprehensif
+ekosistem keuangan digital untuk menciptakan industri jasa keuangan yang kompetitif,
+tangguh terhadap perubahan dan cocok untuk masa depan. Kerangka peraturan yang menjadi
+inti rencana aksi bertujuan untuk mengimbangi perubahan teknologi, memitigasi risiko
+terkait teknologi, melindungi kepentingan konsumen, dan mendorong persaingan.
+Selain hal tersebut, pemerintah melalui OJK juga membuat kebijakan bahwa setiap
+platform fintech, harus mulai menggunakan tanda tangan elektronik dan verifikasi wajah.
+Otoritas Jasa Keuangan (OJK) menilai penggunaan tanda tangan elektronik tersertifikasi
+sangat penting di sektor jasa keuangan yang memiliki risiko penipuan (fraud) tinggi. Atas
+hal tersebut, OJK telah menginisiasi komunikasi dengan Kominfo terkait interpretasi dari
+aturan Pasal 17 ayat 2a UU No. 1 Tahun 2024 dan bersepakat untuk memaknai bahwa TTE
+tersertifikasi wajib untuk digunakan dalam mengamankan transaksi keuangan yang
+dilakukan tanpa pertemuan tatap muka.
+Pemerintah juga telah berkomitmen untuk memajukan teknologi digital khususnya
+pada sektor ekonomi, yaitu dengan mengembangkan produk berkualitas milik Amerika
+Serikat. eIDAS (EU 2015) dan ISO/IEC 29115 telah mengembangkan standar untuk
+mengklasifikasikan tingkat jaminan berdasarkan proses dan teknologi ini. Selain itu,
+pedoman terbaru dari National Institute of Standards and Technology (NIST) Amerika
+Serikat (NIST 800-63-3) telah mengadaptasi kerangka kerja ini untuk memisahkan tingkat
+jaminan untuk pembuktian identitas ("tingkat jaminan identitas" atau IAL) dan untuk
+autentikasi ("tingkat jaminan autentikator" atau AAL). Selain itu, kerangka NIST
+membedakan tingkat jaminan untuk penegasan identitas dalam lingkungan federasi ("tingkat
+jaminan federasi" atau FAL). Meskipun banyak sistem akan memiliki level yang sama untuk
+masing-masing, praktisi juga dapat memilih IAL, AAL, dan FAL sebagai opsi berbeda,
+tergantung pada persyaratan sistem.
+Pemilihan Tingkat Jaminan tergantung pada kasus penggunaan; beberapa sektor dan
+jenis transaksi akan membutuhkan tingkat jaminan yang lebih tinggi daripada yang lainnya.
+Misalnya, mengubah alamat mungkin hanya memerlukan tingkat jaminan yang lebih rendah
+dibandingkan dengan mengubah kata sandi. Layanan keuangan biasanya membutuhkan
+tingkat jaminan yang lebih tinggi daripada yang lainnya karena sensitivitas data yang
+dikumpulkan dan disimpan dalam sistem tersebut. Idealnya, arsitektur autentikasi sistem
+509
+identitans digital harus mampu menyediakan beberapa tingkat jaminan yang sesuai dengan
+kasus penggunaan yang berbeda.
+Dalam buku panduan OJK tersebut, pemerintah mengajak masyarkat agar lebih bijak
+dan waspada dalam setiap transaksi digital. Terdapat 12 (dua belas) butir hal-hal yang perlu
+diperhatikan oleh masyarakat agar terhindar dari fraud, yaitu:
+1. “Larangan nasabah menginformasikan PIN atau OTP pada petugas Penyelenggara
+Inovasi Teknologi Sektor Keuangan atau orang lain.
+2. Meningkatkan pengawasan dan supervisi dari atasan, sehingga mengurangi perbuatan
+oknum yang tidak bertanggung jawab.
+3. Manajemen Penyelenggara Inovasi Teknologi Sektor Keuangan harus menerapkan
+kontrol yang ketat terhadap setiap transaksi dan meningkatkan pengawasan internal.
+4. Perhatikan gaya hidup pegawai Penyelenggara Inovasi Teknologi Sektor Keuangan
+yang ada.
+5. Penyelenggara Inovasi Teknologi Sektor Keuangan melakukan sosialisasi secara
+berkesinambungan tentang anti fraud kepada pengurus dan semua pegawai. Antara lain
+terkait dengan aspek pidana penerimaan gratifikasi dan atau penggelapan.
+6. Penetapan pemisahan fungsi (segregation of duty), tugas dan tanggung jawab dalam
+pelaksanaan pengelolaan aset Penyelenggara Inovasi Teknologi Sektor Keuangan.
+Misalnya rotasi dalam proses transaksi secara langsung, penggunaan mekanisme
+transaksi online, rotasi pegawai secara berkala, serta penerapan four eyes principle
+secara ketat.
+7. Implementasi pengawasan secara menyeluruh oleh suatu fungsi, atau seorang karyawan
+yang memiliki tanggung jawab atas, audit internal pada Penyelenggara Inovasi
+Teknologi Sektor Keuangan. Implementasi pengawasan tersebut juga termasuk surprise
+audit.
+8. Menyusun atau membentuk mekanisme pengaduan (whistleblower), termasuk
+mekanisme pelaporan kepada Dewan Komisaris dan Otoritas terkait.
+9. Meningkatkan sistem pengendalian internal Penyelenggara Inovasi Teknologi Sektor
+Keuangan, antara lain dengan melakukan review secara periodik dan
+berkesinambungan.
+10. Pengurus dan Pegawai Penyelenggara Inovasi Teknologi Sektor
+Keuangan memahami dampak dan risiko yang timbul terkait dengan pemberian dari
+pengguna atau calon pengguna dalam keterkaitan dengan pelaksanaan tugasnya.
+11. Menyusun dan mengimplementasikan standar dan prosedur mekanisme pengelolaan
+aset Penyelenggara Inovasi Teknologi Sektor Keuangan, dan pengelolaan infrastruktur
+TI.
+12. Pemeriksaan latar belakang pengurus dan pegawai Penyelenggara Inovasi Teknologi
+Sektor Keuangan.”
+Adapun upaya lainnya, yaitu pemerintah melalui Peraturan Bank Indonesia Nomor
+19/12/PBI/2017 Tentang Penyelenggaraan Teknologi Finansial, mengharuskan Platform
+fintech baru wajib melalui tahap uji coba terbatas (regulatory sandbox) sebelum
+mendapatkan izin penuh dari OJK. Tujuannya adalah untuk menguji keamanan, efisiensi,
+dan mitigasi risiko sebelum produk fintech diperkenalkan ke masyarakat luas. OJK
+mewajibkan semua penyelenggara fintech untuk mendaftarkan diri dan mendapatkan izin
+510
+resmi sebelum beroperasi. Fintech ilegal yang tidak memiliki izin akan diblokir dan ditindak
+oleh Satgas Waspada Investasi. Selain itu, melalui aturan ini OJK dan BI mewajibkan fintech
+melakukan audit keamanan siber untuk memastikan sistem mereka aman dari serangan
+hacker.
+Pemerintah Indonesia telah menerapkan berbagai upaya untuk mencegah risiko fraud
+dan kejahatan siber dalam ekosistem fintech, termasuk dengan menerapkan regulasi ketat,
+meningkatkan pengawasan, memperkuat keamanan siber, serta memberantas fintech ilegal.
+OJK dan BI memiliki peran penting dalam mengatur dan mengawasi fintech agar beroperasi
+sesuai dengan standar keamanan yang ditetapkan.
+KESIMPULAN
+Berdasarkan temuan-temuan tersebut, dapat disimpulkan bahwa platform tekfin di
+Indonesia memiliki tanggung jawab hukum untuk menyediakan mekanisme penyelesaian
+sengketa konsumen sesuai dengan Pasal 40 POJK No. 13/2018, termasuk layanan pengaduan
+wajib bagi pengguna yang mengalami pelanggaran hak. Dalam kasus-kasus di mana
+platform tekfin melanggar peraturan keamanan data atau perlindungan konsumen, Otoritas
+Jasa Keuangan (OJK) memiliki wewenang untuk menjatuhkan sanksi administratif sesuai
+dengan Pasal 39 POJK No. 13/2018, mulai dari peringatan tertulis hingga pencabutan izin
+usaha. Selain itu, pemerintah memainkan peran penting dalam mencegah risiko penipuan
+dan kejahatan siber dengan memblokir situs web tekfin yang tidak memiliki izin, mencabut
+izin platform yang mencurigakan, dan mengimplementasikan sistem regulatory sandbox
+yang diuraikan dalam Peraturan Bank Indonesia No. 19/12/PBI/2017. Hal ini
+memungkinkan produk fintech baru untuk diujicobakan di bawah pengawasan sebelum
+mendapatkan lisensi penuh. Selain itu, pemerintah juga mendorong inisiatif literasi
+keuangan untuk melindungi masyarakat dari ancaman siber. Penelitian di masa depan
+disarankan untuk mengeksplorasi lebih lanjut efektivitas mekanisme regulatory sandbox dan
+mengevaluasi kesiapan perusahaan tekfin Indonesia dalam mengadopsi teknologi keamanan
+siber yang canggih dalam menghadapi ancaman kejahatan digital yang terus berkembang.
+REFERENSI
+Alexander Anggono, dkk., 2021, “Cyber Crime dan Cyber Security pada Fintech: Sebuah
+Tinjauan Pustaka Sistematis”, Jurnal Manajemen dan Organisasi, Vol. 12, No. 3.
+Bambang Sunggono, 2003, Metodologi Penelitian Hukum, Raja Grafindo Persada, Jakarta.
+Donovan
+Typhano
+Rachmadie
+dan
+Supanto,
+2020, “Regulasi
+Penyimpangan Artificial
+Intelligence pada
+Tindak
+Pidana Malware Berdasarkan Undang-Undang Republik Indonesia Nomor 19 Tahun 2016”,
+Journal Recidive, Vol. 9, No. 2.9.
+F.L. Yudhi Priyo Amboro dan Khusuf Komarhana, 2021, “Prospek Kecerdasan
+Buatan Sebagai Subjek Hukum Perdata di Indonesia,” Law Review, Vol. 21, No. 2.
+Hari Sutra Disemadi, 2021, “Urgensi Regulasi Khusus dan Pemanfaatan Artificial
+Intelligence dalam Mewujudkan Perlindungan Data Pribadi di
+Indonesia,” Jurnal Wawasan Yuridika, Vol. 5, No. 2.
+Leski Rizkinaswara, 2021, “Menkominfo: Butuh Upaya Komperhensif untuk
+Berantas
+Fintech
+Ilegal”,
+terdapat
+dalam:
+511
+https://aptika.kominfo.go.id/2021/08/menkominfo-butuh-upayakomprehensif-untukberantas-fintech-ilegal/
+OJK, 2024, Panduan Strategi Anti Fraud Penyelenggara Inovasi Teknologi Sektor Keuangan
+(ITSK),
+terdapat
+dalam:
+https://www.ojk.go.id/id/beritadankegiatan/publikasi/Documents/Pages/Panduan-Strategi-Anti-FraudPenyelenggara-Inovasi-Teknologi-Sektor-KeuanganITSK/PANDUAN%20STRATEGI%20ANTI%20FRAUD%20(ITSK)%202
+024.pdf
+Peraturan Otoritas Jasa Keuangan No. 13/POJK.02/2018 tentang Inovasi Keuangan Digital
+Di Sektor Jasa Keuangan.
+Salim H.S. dan Erlies Septiana Nurbani, 2009, Penerapan Teori Hukum Pada Penelitian
+Disertasi dan Tesis, Cetakan Kedua, Rajawali Pres, Jakarta.
+
+512
+

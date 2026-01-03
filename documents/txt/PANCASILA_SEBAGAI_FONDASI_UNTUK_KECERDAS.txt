@@ -1,0 +1,413 @@
+         PANCASILA SEBAGAI FONDASI UNTUK KECERDASAN
+                  BUATAN YANG ETIS DALAM RANAH DIGITAL
+                     Mohammad Rizki Maulana1, Fatma Ulfatun Najicha2
+                         Fakultas Teknologi Informasi dan Sains Data
+         Universitas Sebelas Maret Jl. Ir. Sutami no. 36 Kentingan, Jebres, Surakarta.
+         Email: rizkimaul32@student.uns.ac.id1, fatmanajicha_law@staff.uns.ac.id2
+
+                                        ABSTRACT
+
+        This research reveals that the values of Pancasila can serve as a strong ethical
+foundation in the development of artificial intelligence (AI) in Indonesia. The findings show
+that the application of Pancasila principles, such as justice, diversity, and humanity, can guide
+ethical and responsible AI development. In addition, Pancasila can also strengthen Indonesia's
+role in the global context, making it a leader in AI development that blends technological
+innovation with human values. With proper regulation, public education, and understanding
+of AI ethics, Pancasila can serve as a foundation for creating an AI culture that is beneficial
+and in line with national values.
+
+Keywords: Pancasila, Artificial Intelligence (AI), AI Ethics, Ethical Values.
+
+                                         ABSTRAK
+
+        Penelitian ini mengungkap bahwa nilai-nilai Pancasila dapat menjadi dasar etis yang
+kuat dalam pengembangan kecerdasan buatan (AI) di Indonesia. Temuan menunjukkan bahwa
+penerapan prinsip-prinsip Pancasila, seperti keadilan, keberagaman, dan kemanusiaan, dapat
+membimbing perkembangan AI yang etis dan bertanggung jawab. Selain itu, Pancasila juga
+dapat memperkuat peran Indonesia dalam konteks global, menjadikannya pemimpin dalam
+pengembangan AI yang memadukan inovasi teknologi dengan nilai-nilai kemanusiaan.
+Dengan regulasi yang tepat, pendidikan masyarakat, dan pemahaman etika AI, Pancasila dapat
+menjadi landasan untuk menciptakan budaya AI yang berdaya guna dan sesuai dengan nilai-
+nilai nasional.
+
+Kata kunci: Pancasila, Kecerdasan Buatan (AI), Etika AI, Nilai-Nilai Etis.
+1. PENDAHULUAN                                       diagnosis medis, dan mobil otonom. AI
+     Dalam era digital yang berkembang               menjanjikan       manfaat       besar      bagi
+  pesat, kecerdasan buatan (AI) telah                pertumbuhan ekonomi, perkembangan
+  menjadi unsur penting dalam berbagai               sosial, serta peningkatan kesejahteraan
+  aspek      kehidupan.     Seiring        dengan    dan keselamatan manusia (Siau &
+  perkembangan         teknologi      AI     yang    Wang, 2020).
+  semakin canggih, muncul berbagai                      Penelitian     ini    bertujuan      untuk
+  pertanyaan etis terkait penggunaannya.             menjelajahi      bagaimana        nilai-nilai
+  Kemajuan       teknologi        yang       terus   Pancasila      dapat    diterapkan      dalam
+  bertambah pesat telah membawa kita ke              pengembangan AI agar selaras dengan
+  zaman di mana hampir semua hal                     prinsip kemanusiaan dan keadilan.
+  bersumber dari teknologi digital (Santo            Implementasi      nilai-nilai    yang      ada
+  Gitakarma & Putu Ary Sri Tjahyanti,                dalam       Ideologi     Pancasila        harus
+  2022). Segala aspek kehidupan bisa                 dilakukan oleh seluruh rakyat dengan
+  dilakukan hanya dengan menggunakan                 tujuan menciptakan masyarakat yang
+  perangkat          serbaguna.          Dengan      memiliki sikap yang sesuai dengan
+  perkembangan teknologi yang semakin                nilai-nilai Pancasila (Teuku Muharam
+  canggih ini, kita cenderung berpikir               Rizqullah & Fatma Ulfatun Najicha,
+  bahwa manusia memiliki kemampuan                   2022). Walaupun Pancasila telah dulu
+  untuk mengendalikan dunia (Kirani &                termasuk dalam Konstitusi Indonesia,
+  Najicha,     2022).      Ketika      manusia       penggunaannya telah tidak lagi menjadi
+  mengarahkan          perkembangan           ini,   kebiasaan. Namun, nilai-nilai Pancasila
+  mereka      juga     akan    menghasilkan          tetap hadir dalam kehidupan kita karena
+  perubahan      yang     mengganggu          dan    mendasari struktur negara (Dewi &
+  menimbulkan tantangan baru yang                    Najicha, 2022a). Pentingnya praktik
+  dapat mempengaruhi struktur ekonomi,               dari    sila   ketiga    Pancasila,       yang
+  hukum, dan etika (Hammadi, 2020).                  menekankan persatuan Indonesia dalam
+  Dalam konteks Indonesia, Pancasila,                keberagaman yang ada di Indonesia,
+  sebagai      dasar      filosofis        negara,   tidak dapat diabaikan. Prinsip persatuan
+  menawarkan fondasi etis yang kuat                  Indonesia      dalam     sila    ketiga     ini
+  untuk mengarahkan pengembangan AI.                 mencerminkan semangat nasionalisme
+  Teknologi berbasis kecerdasan buatan               pada setiap aspek pelaksanaannya.
+  (AI) telah mencapai banyak pencapaian              Dengan semangat nasionalisme yang
+  penting, seperti pengenalan wajah,                 memprioritaskan         kepentingan        dan
+keamanan       bangsa,     hal    ini   akan      modernisasi        serta    kemajuan     ilmu
+menghasilkan terciptanya persatuan                pengetahuan dan teknologi yang terus
+dan kesatuan (Fitri Lintang & Ulfatun             berkembang (Zulfa & Najicha, 2022).
+Najicha, 2022). AI telah memberikan               Era digital saat ini memungkinkan
+dampak positif dalam berbagai bidang              kemudahan akses dan kecepatan dalam
+kehidupan manusia seperti ekonomi,                berbagai sumber informasi, termasuk
+pendidikan, tata kelola pemerintahan,             bahan pembelajaran, jurnal ilmiah, dan
+serta sektor pertahanan dan keamanan              sumber      daya      pendidikan       lainnya
+(Michael Reskiantio Pabubung, 2021).              (Mahesti Shakira & Ulfatun Najicha,
+Sebagai konsep ideologis Indonesia,               2023).
+Pancasila tidak merupakan hasil ciptaan
+negara, melainkan berasal dari warisan          2. METODE PENELITIAN
+spiritual, moral, dan budaya yang telah                 Penelitian      ini     menggunakan
+menjadi bagian integral dari keyakinan            pendekatan kualitatif dengan fokus
+masyarakat Indonesia (Nur Fadhila &               pada studi literatur dan analisis kasus.
+Najicha, 2021). Oleh karena itu, nilai-           Pertama, kami akan melakukan tinjauan
+nilai Pancasila akan terus mengalami              literatur          menyeluruh           untuk
+evolusi sejalan dengan perkembangan               mengumpulkan           informasi       terkait
+masyarakat Indonesia. Oleh karena itu,            perkembangan AI terkini dan prinsip-
+Prinsip-prinsip Pancasila bukan hanya             prinsip     Pancasila.       Sumber-sumber
+merupakan bagian dari warisan budaya              literatur ini meliputi jurnal akademik,
+negara, tetapi juga nilai-nilai yang harus        artikel, dan publikasi yang relevan.
+dihormati secara tinggi. Tidak terhindar          Kedua,      kami      akan     menganalisis
+dari berbagai rintangan dan tantangan             beberapa kasus penggunaan AI di
+dalam menerapkan serta menjalankan                Indonesia untuk melihat bagaimana
+prinsip Pancasila (Ambarningrum &                 nilai-nilai Pancasila diterapkan atau
+Najicha, 2022). Melalui pendekatan ini,           bisa     diterapkan    dalam    praktiknya.
+penelitian      berupaya         memberikan       Metode ini akan membantu memahami
+pandangan baru tentang bagaimana                  interaksi antara prinsip etika Pancasila
+teknologi canggih dapat dikembangkan              dan     penerapan      AI,    menghasilkan
+dengan tetap memperhatikan nilai-nilai            pemahaman yang mendalam tentang
+etika dan moral yang mendalam, sesuai             cara-cara memadukan keduanya secara
+dengan       ideologi    Pancasila      untuk     efektif.
+mencapai tujuan negara pada masa
+3. TEMUAN PENELITIAN                                ide-ide baru serta konsep-konsep yang
+     Temuan utama dari penelitian ini               belum pernah ada sebelumnya dalam
+  menunjukkan bahwa prinsip-prinsip                 era sebelumnya (Dewi & Najicha,
+  Pancasila    dapat        diterapkan     secara   2022b). Kecerdasan Buatan (Artificial
+  efektif dalam pengembangan AI di                  Intelligence/AI)               merujuk              pada
+  Indonesia. Melalui analisis kasus dan             kecerdasan yang disematkan dalam
+  tinjauan literatur, kami menemukan                mesin       atau        sistem.      Perkembangan
+  bahwa       Sila        pertama   Pancasila,      teknologi          di        era     digital        telah
+  "Ketuhanan         Yang       Maha       Esa",    memajukan               AI         sehingga         dapat
+  mendukung pengembangan AI yang                    diaplikasikan dalam beragam sektor
+  menghormati              keragaman         dan    kehidupan               seperti            pendidikan,
+  inklusivitas. Sila kedua, "Kemanusiaan            ekonomi,         kesehatan,              dan     lainnya.
+  yang Adil dan Beradab", menekankan                Kapabilitasnya yang sangat berguna
+  pentingnya         AI     yang    etis     dan    dalam menyelesaikan tugas dengan
+  bertanggung jawab. Sila ketiga dan                efisiensi        dan          kemudahan             telah
+  keempat, mengenai persatuan Indonesia             menjadikannya sangat diminati pada
+  dan kerakyatan yang dipimpin oleh                 masa      kini      (Virza          et    al.,     2023).
+  hikmat kebijaksanaan, mengarah pada               Pertumbuhan                  digitalisasi           telah
+  AI yang memperkuat integrasi sosial               memperluas lingkup dunia dengan
+  dan partisipasi demokratis. Terakhir,             semua       proses           pengumpulan            serta
+  Sila kelima, "Keadilan Sosial bagi                penyimpanan data yang dijalankan
+  Seluruh Rakyat Indonesia", mendorong              melalui       sistem           digital,          sehingga
+  pengembangan AI yang berorientasi                 kehidupan manusia menjadi semakin
+  pada pemerataan dan kesejahteraan.                terdigitalisasi           (Hammadi,                2020).
+  Contoh nyata penerapannya termasuk                Sebelum AI dapat melakukan analisis
+  AI yang digunakan untuk pelayanan                 dan pengambilan keputusan, perlu
+  publik yang inklusif dan pengambilan              dilakukan penginputan data, fakta, dan
+  keputusan yang adil.                              informasi ke dalam sistem AI. Data dan
+                                                    informasi ini memungkinkan AI untuk
+4. PEMBAHASAN                                       beroperasi mirip dengan kecerdasan
+     Kemajuan teknologi yang semakin                manusia.                Namun,                 kesamaan
+  canggih dan pesat bersama dengan arus             kemampuan ini tidak menjadikan AI
+  globalisasi telah mengurangi beban                memiliki status sebagai subjek hukum
+  kerja manusia dan juga menghasilkan               yang dapat melakukan tindakan hukum,
+membentuk         ikatan        hukum,      atau    untuk berpikir secara lebih maju
+menghasilkan           konsekuensi       hukum      (Imtiyaz & Najicha, 2022). Penerapan
+(Ghazmi, 2021).                                     nilai-nilai       Pancasila           dalam
+    Temuan penelitian ini menunjukkan               pengembangan AI juga membawa
+bahwa Pancasila dapat berperan sebagai              implikasi     penting     terkait    dengan
+kerangka kerja etis yang kuat dalam                 pengaturan, pendidikan, dan kesadaran
+pengembangan dan implementasi AI di                 masyarakat. Dalam konteks regulasi,
+Indonesia.        Penerapan          nilai-nilai    pentingnya merumuskan pedoman dan
+Pancasila       dalam      AI    tidak    hanya     kebijakan      yang      mempromosikan
+memastikan teknologi ini berkembang                 penggunaan AI yang etis menjadi lebih
+dengan etis, tetapi juga memperkuat                 jelas. Selain itu, upaya pendidikan dan
+identitas nasional dalam konteks global.            kesadaran publik mengenai etika AI dan
+Misalnya, aplikasi Sila Kemanusiaan                 nilai-nilai Pancasila menjadi krusial
+yang Adil dan Beradab mengarahkan                   untuk memastikan penerimaan dan
+pengembang AI untuk memprioritaskan                 pemahaman       yang      luas      terhadap
+keadilan, privasi, dan transparansi.                implementasi AI yang sesuai dengan
+Transparansi           mengharuskan         para    nilai-nilai nasional. Dengan begitu,
+desainer algoritma untuk memberikan                 Pancasila tidak hanya menjadi panduan,
+penjelasan       tentang    cara     algoritma      tetapi juga alat untuk membangun
+mengambil              keputusan         kepada     budaya AI yang etis dan bermanfaat
+pengguna           (Rahardja,             2022).    bagi Indonesia. Selain itu, penting
+Implikasinya, AI yang dikembangkan                  untuk mencatat bahwa penerapan nilai-
+tidak hanya efisien secara teknis, tetapi           nilai Pancasila dalam pengembangan
+juga berempati dan responsif terhadap               AI tidak hanya relevan di tingkat
+kebutuhan dan keberagaman sosial-                   nasional tetapi juga dalam konteks
+budaya di Indonesia. Pendekatan ini                 global (Darmawan et al., 2019). Dalam
+menggabungkan kemajuan teknologi                    dekade terakhir, penggunaan AI telah
+dengan nilai-nilai kemanusiaan dan                  melonjak      secara     signifikan     dan
+keadilan,       mencerminkan             aspirasi   mempengaruhi            banyak        sektor
+Indonesia dalam era digital. Dengan                 kehidupan, termasuk industri kreatif,
+majunya         ilmu     pengetahuan         dan    pendidikan, dan bahkan aspek-aspek
+teknologi, masyarakat menjadi lebih                 ritual keagamaan (Firdhausi, 2023).
+terfasilitasi     dalam         melaksanakan        Dengan menerapkan nilai-nilai etis ini,
+kegiatan rutin sehari-hari dan didorong             Indonesia     dapat     berperan     sebagai
+pemimpin dalam pengembangan dan                  pengembangan AI yang menghormati
+penerapan AI yang bertanggung jawab              keberagaman agama dan kepercayaan.
+secara internasional. Ini juga dapat             Prinsip ini menampung keberagaman
+memperkuat citra Indonesia sebagai               agama yang ada di Indonesia dan
+negara      yang    memadukan        inovasi     mengedukasi         tentang         nilai-nilai
+teknologi          dengan          nilai-nilai   keagamaan sebagai dasar moral dalam
+kemanusiaan           dan          keadilan.     kehidupan sebagai bagian dari bangsa
+Pemanfaatan teknologi dengan bijak               dan negara (Astuti et al., n.d.).
+dan terkontrol mampu mempercepat                 Sementara Sila Kemanusiaan yang Adil
+perkembangan        pendidikan      (Hakim,      dan Beradab menekankan pentingnya
+2022). Kehadiran sistem kecerdasan               AI yang mengedepankan hak asasi
+buatan juga dapat meningkatkan daya              manusia dan etika. Sila Persatuan
+tarik pembelajaran (Zahara et al., 2023).        Indonesia    dan        Kerakyatan       yang
+Di dalam etika Pancasila sendiri                 Dipimpin oleh Hikmat Kebijaksanaan
+tercantum nilai sila Pancasila seperti           mendorong pengembangan AI yang
+ketuhanan, kemanusiaan, persatuan,               mendukung keutuhan nasional dan
+dan      kerakyatan        serta    keadilan     kebijakan yang demokratis. Demokrasi
+(Sulistiani Putri & Anggtaeni Dewi,              memegang prinsip bahwa pengambilan
+2020).      Maka,     diperlukan       suatu     keputusan yang baik dilakukan secara
+panduan, dan dalam hal ini, Pancasila            kolektif atau bersama-sama (Pratama &
+sebagai landasan negara, terhubung erat          Najicha,    2022).       Akhirnya,        Sila
+dengan struktur kehidupan masyarakat.            Keadilan Sosial bagi Seluruh Rakyat
+Lebih dari itu, nilai-nilai Pancasila            Indonesia        menuntut      AI        yang
+dalam setiap silanya saling terhubung            berkontribusi pada pemerataan dan
+dan membentuk sebuah kesatuan yang               kemajuan sosial, sila ini menjadi tujuan
+utuh (Wardani et al., 2022).                     utama dari Negara Kesatuan Republik
+                                                 Indonesia    yang        mencakup        nilai
+      Temuan ini mengungkapkan bahwa             keadilan       sosial       yang        harus
+Pancasila, sebagai ideologi dan fondasi          direalisasikan      dalam          kehidupan
+etis, memiliki potensi signifikan untuk          bersama. Sila tersebut mendorong
+membimbing pengembangan AI yang                  tindakan mulia berdasarkan semangat
+bertanggung        jawab     dan    etis   di    kekeluargaan      dan     prinsip      gotong
+Indonesia. Penerapan Sila Ketuhanan              royong (Afgrinadika Wibowo et al.,
+Yang      Maha       Esa     mengadvokasi        2022). Implikasinya luas, mulai dari
+pengembangan AI yang inklusif hingga                     dalam ranah kecerdasan buatan, serta
+pemanfaatannya             dalam        kebijakan        mengambil peran utama dalam hal
+publik      yang       berkeadilan           sosial.     hukum, regulasi, dan norma etika yang
+Pentingnya menggambarkan nilai-nilai                     memfasilitasi kemajuan AI. Berperan
+Pancasila dalam konsep etika ruang                       aktif      dalam         pengaturan         dan
+digital adalah untuk memastikan bahwa                    kepemimpinan        dalam          pengelolaan
+nilai-nilai Pancasila tetap terjaga dan                  kecerdasan       buatan      secara      global
+diterapkan      baik       dalam      kehidupan          (Karman, 2021).
+digital maupun dunia nyata masyarakat
+(Hidayah     et     al.,     2022).         Dengan     5. KESIMPULAN
+menerapkan         nilai-nilai          Pancasila,           Penelitian     ini     menggarisbawahi
+Indonesia tidak hanya memastikan                         pentingnya        penerapan          nilai-nilai
+bahwa AI berkembang sesuai dengan                        Pancasila        dalam       pengembangan
+norma-norma         lokal,         tetapi      juga      kecerdasan buatan (AI) di Indonesia.
+memberikan model etika global yang                       Temuan menunjukkan bahwa Pancasila
+unik dan berkelanjutan. Dari perspektif                  dapat berperan sebagai kerangka kerja
+etika, menjaga kehormatan dan nilai                      etis yang kuat dalam mengarahkan
+tinggi      manusia         harus         menjadi        pengembangan                AI            yang
+pertimbangan        utama         dalam      setiap      memperhatikan aspek kemanusiaan,
+proses       pengembangan,                  karena       keadilan, dan keberagaman. Hal ini
+pengembangan               atau         kemajuan         menciptakan              peluang          untuk
+teknologi sejatinya bertujuan untuk                      mengembangkan AI yang responsif
+meningkatkan           kualitas       kehidupan          terhadap      kebutuhan            masyarakat,
+manusia (Pabubung, 2023). Dengan                         berkontribusi      pada       pembangunan
+bijaksana dalam mengadopsi teknologi,                    sosial, dan mencerminkan nilai-nilai
+diharapkan         identitas        kebangsaan           nasional. Dengan demikian, Pancasila
+Indonesia kita tidak akan hilang. Lebih                  dapat menjadi panduan yang berharga
+jauh, pemanfaatan teknologi secara                       dalam       memastikan           bahwa       AI
+bijak diharapkan dapat memajukan                         memberikan manfaat yang seimbang
+Indonesia       sebagai        negara         yang       bagi seluruh masyarakat Indonesia.
+memiliki penguasaan teknologi yang                       Pancasila        menitikberatkan           pada
+lebih    maju      (Septiano        &       Ulfatun      prinsip-prinsip     kemanusiaan          seperti
+Najicha, 2022). Menguatkan lembaga-                      keadilan, toleransi, dan gotong royong.
+lembaga pelatihan tenaga kerja lokal                     Dalam pengembangan AI, penting
+  untuk    memperhatikan    aspek   etika   Dewi, N. N., & Najicha, F. U. (2022b).
+  dalam pemanfaatan teknologi ini dan          Pentingnya Menjaga Nilai
+                                               Pancasila dalam Kehidupan
+  memastikan bahwa keputusan yang              Bermasyarakat bagi Generasi Z.
+  diambil oleh AI sejalan dengan nilai-        Jurnal Penelitian Ilmu
+                                               Humaniora, 2(2).
+  nilai kemanusiaan yang sama (Virza et
+                                            Firdhausi, A. (2023). Etika dalam
+  al., 2023).
+                                                 Artificial Intelligence.
+                                                 ResearchGet, March.
+6. REFERENSI                                Fitri Lintang, F. L., & Ulfatun Najicha,
+                                                  F. (2022). NILAI-NILAI SILA
+  Afgrinadika Wibowo, K., Ulfatun
+                                                  PERSATUAN INDONESIA
+      Najicha, F., & Artikel Abstrak, I.
+                                                  DALAM KEBERAGAMAN
+      (2022). Aktualisasi Pancasila
+                                                  KEBUDAYAAN INDONESIA.
+      dalam Kehidupan Masyarakat di
+                                                  Jurnal Global Citizen : Jurnal
+      Era Globalisasi. Journal of
+                                                  Ilmiah Kajian Pendidikan
+      Education, Psychology and
+                                                  Kewarganegaraan, 11(1).
+      Counseling, 4(1).
+                                                  https://doi.org/10.33061/jgz.v11i1
+  Ambarningrum, N. H. T., & Najicha,              .7469
+     F. U. (2022). Implementasi Nilai-
+                                            Ghazmi, S. F. (2021). Urgensi
+     Nilai Pancasila Di Era Pandemi
+                                                Pengaturan Artificial Intelligence
+     Covid 19. Jurnal
+                                                pada Sektor Bisnis Daring di
+     Kewarganegaraan, 6(2).
+                                                Indonesia. Jurnal Hukum Lex
+  Astuti, S. T., Najicha, F. U., &              Generalis, 2(8).
+      Ekonomi Dan Bisnis, F. (n.d.).            https://doi.org/10.56370/jhlg.v2i8.
+      PANCASILA SEBAGAI                         104
+      LANDASAN ETIKA DALAM
+                                            Hakim, L. (2022). Peranan Kecerdasan
+      BERPERILAKU MASYARAKAT
+                                                Buatan (Artificial Intelligence)
+      INDONESIA.
+                                                dalam Pendidikan. Kemenristek
+  Darmawan, J., Alvine, M., & Harnoko,          Dirjen Guru Dan Tenaga
+      I. (2019). Degradasi Etika dalam          Kependidikan.
+      Animasi Sintesis Citra Manusia
+                                            Hammadi, A. H. (2020). Diskusi Etika
+      dengan Kecedasan Buatan.
+                                               Informasi Kecerdasan Buatan dan
+      Journal of Contemporary
+                                               Penerapannya di Masa Depan.
+      Indonesian Art, 5(2).
+                                               Academia.Edu.
+      https://doi.org/10.24821/jocia.v5i
+      2.3445                                Hidayah, Y., Simatupang, E., &
+                                                Belladonna, A. P. (2022).
+  Dewi, N. N., & Najicha, F. U. (2022a).
+                                                Pembudayaan Nilai-nilai
+     Antropocene : Jurnal Penelitian
+                                                Pancasila dalam Konsep Etika
+     Ilmu Humaniora Pentingnya
+                                                Ruang Digital di Era Post-
+     Menjaga Nilai Pancasila dalam
+                                                Pandemi. Pancasila: Jurnal
+     Kehidupan Bermasyarakat bagi
+                                                Keindonesiaan, 2(2), 208–215.
+     Generasi Z. Jurnal Penelitian
+     Ilmu Humaniora, 2(2).
+     https://doi.org/10.52738/pjk.v2i2.       MENGIMPLEMENTASIKAN
+     91                                       NILAI-NILAI PANCASILA DI
+                                              LINGKUNGAN
+Imtiyaz, M. N. A., & Najicha, F. U.
+                                              MASYARAKAT. Pro Patria:
+     (2022). MEMBANGUN
+                                              Jurnal Pendidikan,
+     KEMBALI SIKAP
+                                              Kewarganegaraan, Hukum,
+     NASIONALISME BANGSA
+                                              Sosial, Dan Politik, 4(2).
+     INDONESIA DALAM
+                                              https://doi.org/10.47080/propatria.
+     MENANGKAL BUDAYA
+                                              v4i2.1303
+     ASING DI ERA GLOBALISASI.
+     Harmony: Jurnal Pembelajaran         Pabubung, M. R. (2023). Era
+     IPS Dan PKN, 7(2).                       Kecerdasan Buatan dan Dampak
+     https://doi.org/10.15294/harmony.        terhadap Martabat Manusia dalam
+     v7i2.61267                               Kajian Etis. Jurnal Filsafat
+                                              Indonesia, 6(1).
+Karman. (2021). STRATEGI DALAM
+                                              https://doi.org/10.23887/jfi.v6i1.4
+    MENGEMBANGKAN
+                                              9293
+    TEKNOLOGI KECERDASAN
+    BUATAN. MAJALAH SEMI                  Pratama, M. I., & Najicha, F. U.
+    ILMIAH POPULER                             (2022). Meningkatkan Kesadaran
+    KOMUNIKASI MASSA, Vol. 2                   Bela Negara Pada Setiap Individu
+    No. 2, 173–184.                            Dengan Nilai-Nilai Pancasila
+                                               Pada Era Globalisasi Saat ini.
+Kirani, A. P., & Najicha, F. U. (2022).
+                                               Jurnal Kewarganegaraan, 6(1).
+    Pentingnya Pendidikan
+    Kewarganegaraan sebagai               Rahardja, U. (2022). Masalah Etis
+    Pedoman dalam Menghadapi Era              dalam Penerapan Sistem
+    Society 5.0 Mendatang. Jurnal             Kecerdasan Buatan. Technomedia
+    Educatio FKIP UNMA, 8(2).                 Journal, 7(2), 181–188.
+    https://doi.org/10.31949/educatio.        https://doi.org/10.33050/tmj.v7i2.
+    v8i2.2391                                 1895
+Mahesti Shakira, A., & Ulfatun            Santo Gitakarma, M., & Putu Ary Sri
+   Najicha, F. (2023). SINERGI                Tjahyanti, L. (2022). Peranan
+   TEKNOLOGI INFORMASI                        Internet of Things Dan
+   DAN PENDIDIKAN                             Kecerdasan Buatan Dalam
+   KEWARGANEGARAAN DI                         Teknologi Saat Ini. Jurnal
+   ERA DIGITAL. Borneo Law                    Komputer Dan Teknologi Sains
+   Review.                                    (KOMTEKS), 1(1).
+Michael Reskiantio Pabubung. (2021).      Septiano, A. K., & Ulfatun Najicha, F.
+    Epistemologi Kecerdasan Buatan             (2022). UPAYA
+    (AI) dan Pentingnya Ilmu Etika             PENINGKATAN RASA
+    dalam Pendidikan Interdisipliner.          NASIONALISME DENGAN
+    Jurnal Filsafat Indonesia, 4(2).           PENDIDIKAN
+                                               KEWARGANEGARAAN
+Nur Fadhila, H. I., & Najicha, F. U.
+                                               KEPADA GENERASI MUDA
+    (2021). PENTINGNYA
+                                               DI ERA PERKEMBANGAN
+    MEMAHAMI DAN
+                                               TEKNOLOGI. Jurnal Global
+     Citizen : Jurnal Ilmiah Kajian             https://doi.org/10.23971/jpsp.v3i1
+     Pendidikan Kewarganegaraan,                .4022
+     11(1).
+                                            Zulfa, A., & Najicha, F. U. (2022).
+     https://doi.org/10.33061/jgz.v11i1
+                                                 Urgensi Penguatan Identitas
+     .7460
+                                                 Nasional dalam Menghadapi
+Siau, K., & Wang, W. (2020).                     Society 5.0 di Era Globalisasi.
+     Artificial intelligence (AI) Ethics:        Jurnal Kalacakra: Ilmu Sosial
+     Ethics of AI and ethical AI. In             Dan Pendidikan, 3(2).
+     Journal of Database Management              https://doi.org/10.31002/kalacakra
+     (Vol. 31, Issue 2).                         .v3i2.6267
+     https://doi.org/10.4018/JDM.2020
+     040105
+Sulistiani Putri, F., & Anggtaeni Dewi,
+     D. (2020). Implementasi
+     Pancasila Sebagai Sistem Etika.
+     EduPsyCouns Journal, 3(1).
+Teuku Muharam Rizqullah, & Fatma
+    Ulfatun Najicha. (2022).
+    PEGIMPLEMENTASIAN
+    IDEOLOGI PANCASILA
+    DALAM KEHIDUPAN
+    BERBANGSA DAN
+    BERNEGARA. Jurnal
+    Kewarganegaraan, 6(2).
+Virza, M., Nurrahman, A., & Najicha,
+     F. U. (2023). Dampak Kehadiran
+     Artificial Intelligence Terhadap
+     Penegakan Nilai-Nilai Pancasila
+     di Indonesia. Journal UMMAT.
+Wardani, W., Pramesti S, S., &
+    Rohmatunnisa, S. (2022).
+    Menghilangkan Break the Rules
+    Habbit dengan Meningkatkan
+    Pemahaman Nilai Etika Pancasila.
+    Pancasila: Jurnal Keindonesiaan.
+    https://doi.org/10.52738/pjk.v2i1.
+    77
+Zahara, S. L., Azkia, Z. U., & Chusni,
+    M. M. (2023). Implementasi
+    Teknologi Artificial Intelligence
+    (AI) dalam Bidang Pendidikan.
+    Jurnal Penelitian Sains Dan
+    Pendidikan (JPSP), 3(1), 15–20.
+

@@ -1,0 +1,681 @@
+130 
+ 
+Jurnal Kedokteran Syiah Kuala                                                                                          
+ 
+       
+        ISSN: 1412-1026  
+Volume 21, Number 2, Agustus  2021                                                           
+ 
+ 
+    
+     E-ISSN: 25500112 
+Pages: 130-135  
+ 
+ 
+ 
+             
+                           DOI: .org/10.24815/jks.v21i2.20552   
+ 
+ 
+ 
+Coding untuk menganalisis data pada penelitian kualitatif di bidang kesehatan 
+ 
+Diah Prihapsari, Rosaria Indah 
+ 
+Fakultas Ilmu Komputer Universitas Brawijaya - Malang  
+Fakultas Kedokteran Universitas Syiah Kuala – Banda Aceh  
+Email: rosariaindah@unsyiah.ac.id  
+      
+Abstrak. Saat ini jumlah penelitian di bidang kedokteran yang menggunakan metodologi penelitian kualitatif semakin meningkat. 
+Data kualitatif yang dihasilkan dari wawancara, observasi, maupun dokumen biasanya sangatlah banyak jumlahnya dan perlu 
+diberi kode agar mudah menganalisanya. Proses coding sebenarnya cukup rumit dan memerlukan keterampilan tinggi. Sayangnya, 
+hanya sedikit literatur yang menerangkan tentang coding dalam bahasa Indonesia. Artikel ini bertujuan untuk membantu peneliti-
+peneliti muda di Indonesia untuk melakukan coding. Dalam artikel ini dijelaskan definisi dan karakteristik penelitian kualitatif, 
+langkah-langkah sebelum dan ketika coding dilakukan, siklus coding, penggunaan memo, cara melaporkan coding karya ilmiah, 
+dan contoh-contoh penelitian terdahulu yang menggunakan coding serta limitasi dari proses tersebut. Dengan menguasai teknik 
+coding, data yang banyak dapat diorganisir dengan baik dan menghasilkan tema yang mampu menjawab pertanyaan penelitian. 
+Namun, coding juga memiliki keterbatasan yang harus dipertimbangkan secara seksama oleh peneliti. 
+Kata kunci: Analisis data, coding, memo, penelitian kualitatif, wawancara. 
+ 
+Abstract. There is an increasing number of qualitative researches in medical field. Large body of data produced from interviews, 
+observations, and texts are analyzed by coding them. Coding is a complex method that requires high competence. Yet, there is 
+scant literature exploring coding in Bahasa Indonesia. This article aims to help budding researchers in Indonesia to conduct 
+coding. The article elaborates definition and characteristics of qualitative research, steps before and during coding, as well as 
+cycles of coding. It also describes how memo helps researchers to make coding scheme, ways to report coding in articles and 
+thesis, and considerations in conducting coding. Good coding scheme helps researchers to manage large amount of data and 
+organize them to produce themes that can answer research questions. However, there are several aspects of coding that need to be 
+considered by researchers. 
+ 
+Keywords: Data analysis, coding, memo, qualitative research, interview. 
+ 
+Pendahuluan  
+Penggunaan metodologi penelitian dengan paradigma 
+kualitatif telah semakin luas digunakan di dunia kesehatan. 
+Metodologi kualitatif digunakan terutama jika peneliti ingin 
+mengumpulkan dan menganalisa lebih detil data-data yang 
+tidak sesuai jika dinilai secara numerik.1 Contoh data jenis ini 
+adalah persepsi dan perilaku pasien, dokter, mahasiswa 
+kedokteran, staf rumah sakit, dan lainnya terhadap intervensi 
+pengobatan, perubahan gaya hidup, kredibilitas informasi, 
+cara pasien mencari informasi, dan lain sebagainya. Persepsi 
+dan perilaku manusia tak mudah untuk dikuantifikasi namun 
+sangat penting untuk dijabarkan dengan detil2 agar dapat 
+dijadikan input berguna bagi perbaikan pelayanan kesehatan. 
+Untuk merekam persepsi partisipan penelitian, peneliti 
+kesehatan paling sering menggunakan metode wawancara, 
+focus-group discussion, terkadang dikombinasi dengan 
+metode kualitatif lainnya seperti observasi, analisa dokumen, 
+dan lain-lain. Setelah dikumpulkan maka peneliti harus 
+menganalisa data tersebut.3 Sedangkan langkah pertama dari 
+analisis data adalah mentranskripsi data ke dalam bentuk 
+teks, dan langkah kedua adalah coding.4 
+Dalam dunia kesehatan coding dapat memiliki beberapa 
+makna. 
+Istilah 
+coding 
+terkadang 
+digunakan 
+dalam 
+menganalisis data medis dan memasukkannya ke rekam 
+medis. Tapi pada penelitian, coding bermakna proses 
+memaknai dan mengelompokkan data ke dalam kategori 
+tertentu4 agar lebih mudah dianalisis pada tahap berikutnya. 
+Sayangnya, sedikit sekali literatur yang membahas tentang 
+proses coding di bidang kesehatan. Hal ini mungkin 
+disebabkan oleh dominannya pendekatan positivism yang 
+mengutamakan paradigma kuantitatif di bidang ini.5 Oleh 
+karena itu, dengan semangat ingin memperkaya berbagai 
+pendekatan dalam menyelesaikan masalah dalam penelitian 
+di bidang kesehatan, maka artikel ini dibuat.  
+Artikel ini menjabarkan cara-cara melakukan coding 
+kualitatif untuk analisis data hasil wawancara sehingga hasil 
+penelitian dapat digunakan untuk menjelaskan berbagai 
+fenomena dalam dunia medis. Dengan adanya artikel ini, 
+diharapkan penelitian di bidang kesehatan, misalkan 
+Jurnal Kedokteran Syiah Kuala 21 (2): -, Agustus 2021 
+131 
+ 
+kedokteran, keperawatan, dan bidang terkait dengannya 
+seperti sistem informasi kesehatan, psikologi dan lainnya, di 
+masa depan akan menggunakan semakin banyak pendekatan, 
+tidak hanya kuantitatif tetapi juga kualitatif.  
+Artikel ini adalah artikel metodologis berbasis scoping 
+review. Yang dimaksud dengan scoping review adalah 
+tinjauan pustaka berdasarkan suatu topik. Jadi artikel ini 
+bukanlah bagian dari laporan penelitian empiris melainkan 
+artikel ilmiah yang berfokus kepada salah satu metode 
+penelitian,6 yaitu coding. Oleh karena itu, berbeda dengan 
+struktur pada laporan penelitian empiris, struktur artikel ini 
+memiliki struktur yang sedikit unik. Setelah bagian 
+introduksi, pada bagian dua akan dipaparkan definisi dan ciri 
+penelitian kualitatif. Selanjutnya, di bagian tiga dibahas 
+mengenai teknik-teknik detail melakukan coding. Berikutnya 
+kami menukilkan cara menggunakan memo dalam coding 
+lengkap dengan contoh memo, cara menulis proses coding 
+sebagai bagian dari cara analisis data di bab/sub-bab 
+metodologi penelitian dan juga melengkapinya dengan 
+contoh yang berasal dari artikel-artikel jurnal unggulan 
+dunia. Di bagian akhir artikel ada kesimpulan yang 
+merangkum keseluruhan isi artikel ini.  
+Penelitian kualitatif 
+Penelitian kualitatif adalah jenis penelitian yang fleksibel,  
+disainnya disesuaikan dengan data, berkarakteristik tidak 
+terstruktur/non-numerik, 
+mengutamakan 
+peran 
+penting 
+subyek, mengeksplorasi kasus-kasus dalam jumlah terbatas 
+namun secara sangat mendetil, dan menganalisisnya secara 
+verbal, tidak secara statistik.”7 Berdasarkan definisi tersebut, 
+penelitian kualitatif merupakan sebuah bentuk penelitian 
+sosial yang desain penelitiannya dipengaruhi oleh data yang 
+didapat. Dengan demikian desain metode penelitian dapat 
+berubah sesuai dengan jenis data yang diperoleh. Selain itu, 
+penelitian kualitatif juga memberi ruang besar bagi 
+interpretasi peneliti sebagai subyek/pelaku penelitian.2 
+ 
+Saat ini metodologi penelitian kualitatif sudah diterima 
+dengan baik di berbagai bidang, termasuk kedokteran. Hal 
+itu disebabkan karena cakupan penelitian kualitatif sangatlah 
+luas, yaitu berbagai fenomena di dunia nyata, berbeda 
+dengan penelitian yang disertai rekayasa tertentu seperti 
+pada penelitian eksperimental. Berbagai penelitian kualitatif 
+di bidang kedokteran mampu mengekstrak kekayaan 
+pengetahuan unik yang didapat dari interaksi kehidupan 
+keseharian manusia dan pelayanan kesehatan. Misalnya 
+tentang efek sikap paternalistik  dokter saat berinteraksi 
+dengan pasien,8 proses komunikasi terapeutik mahasiswa 
+keperawatan,9 refleksi saat dokter meneliti di daerah 
+bencana,10 pengalaman dosen kedokteran meneliti proses 
+belajar mahasiswanya,11 dan pengalaman anak-anak di 
+rumah sakit.12 Hasil dari penelitian tersebut mengungkapkan 
+hasil-hasil menarik yang sulit didapat dengan pendekatan 
+kuantitatif.  
+Contoh-contoh penelitian itu juga menunjukkan karakter-
+karakter unik penelitian kualitatif, yaitu 13:  
+1. Mempelajari tentang manusia di situasi real-life 
+2. Menghargai 
+pandangan 
+dan 
+perspektif 
+manusia 
+(biasanya disebut sebagai partisipan, bukan objek 
+penelitian) 
+3. Melingkupi konteks situasi yang berada di sekitar 
+partisipan 
+4. Berkontribusi kepada wawasan mengenai konsep baru 
+atau konsep lama untuk menjelaskan perilaku manusia 
+5. Mengutamakan menggunakan berbagai sumber data 
+daripada hanya mengandalkan data tunggal 
+Sumber data penelitian kualitatif 
+Ada dua hal yang harus diperhatikan dalam pengumpulan 
+data 
+penelitian 
+kualitatif: 
+Pertama 
+adalah 
+metode 
+pengumpulan data dan yang kedua adalah format data. Data 
+dapat dikumpulkan melalui berbagai cara, antara lain 
+melalui 
+1) 
+pengamatan 
+langsung 
+(observasi), 
+yaitu 
+pengambilan data secara sistematis yang meliputi mencatat 
+dan merekam perilaku, artifacts, dan hal-hal yang terkait  di 
+situasi nyata, 2) participant observation, adalah pengamatan 
+dimana peneliti terlibat atau menjadi bagian dari situasi 
+nyata yang diamati, 3) mengeksplorasi dokumen/teks, dan 4) 
+melakukan wawancara.14,15 Sedangkan format data dapat 
+berbentuk 
+transkrip 
+wawancara, 
+catatan 
+lapangan 
+(fieldnotes), foto, dan video.  
+Karena ada berbagai metode dan format data pada penelitian 
+kualitatif, menganalisis data yang dihasilkan menjadi sebuah 
+tantangan tersendiri. Analisis yang baik adalah analisis yang 
+menghasilkan deskripsi yang kaya serta akurat tentang suatu 
+fenomena yang diteliti.16 Deskripsi ini didapat dengan 
+mengubah data dari wawancara, dokumen pengamatan, foto, 
+maupun video ke dalam bentuk text (proses transkripsi) lalu 
+text tersebut diinterpretasi dan dikelompokkan. Proses ini 
+disebut sebagai coding. 
+Coding diperlukan untuk menolong agar peneliti mampu 
+melihat jawaban dari pertanyaan penelitiannya dari 
+tumpukan data hasil wawancara yang biasanya jumlah 
+katanya sangat banyak.17 Karena itu, diperlukan suatu 
+metode untuk melakukan analisis kualitatif dalam rangka 
+menghasilkan analisis yang kaya, dan coding adalah salah 
+satu langkah awalnya. Coding adalah istilah yang biasa 
+digunakan untuk proses menghasilkan code/kode. Coding 
+dibutuhkan untuk menunjukkan keterkaitan antara data yang 
+didapat dengan analisis yang dihasilkan.  
+Sebuah kode diartikan sebagai sebuah kata atau frase pendek 
+yang menggambarkan makna dari sekelompok data.3 Berikut 
+adalah contoh kode dari sekelompok makna yang didapat 
+dari wawancara dengan partisipan penelitian.  
+Hasil transkripsi data 
+Kode 
+“Saya melihat rumah-rumah di sana 
+memiliki 
+rantai 
+yang 
+besar 
+untuk 
+mengunci rumah. Pemilik rumah juga 
+memelihara anjing, anjing penjaga, 
+dengan tanda pada pagar: Hati-hati ada 
+anjing galak”.  
+KEAMANAN 
+(SECURITY) 
+Gambar 1. Contoh kode (diadaptasi dari Saldana3) 
+Jurnal Kedokteran Syiah Kuala 21 (2): -, Agustus 2021 
+132 
+ 
+Pada contoh di atas, terdapat sebuah potongan wawancara 
+yang mendeskripsikan pagar rumah. Potongan wawancara 
+tersebut dikodekan dalam sebuah kode bernama “security 
+(keamanan)”. Kode tersebut diberikan untuk menunjukkan 
+bahwa dua kalimat tersebut menunjukkan atribut keamanan. 
+Jika dilihat lebih detail, dapat terlihat bahwa deskripsi yang 
+diberikan menggambarkan berbagai usaha yang dilakukan 
+pemilik rumah untuk keamanan.  
+Proses tersebut tidak berhenti sampai hanya menghasilkan 
+kode. Tahapan selanjutnya adalah menggabungkan kode-
+kode itu menjadi kategori yang lebih umum. Penjelasan 
+lebih detail mengenai proses tersebut akan dipaparkan pada 
+bagian berikut.  
+Teknik coding kualitatif 
+Sebagaimana 
+yang 
+sudah 
+disebutkan 
+pada 
+bagian 
+sebelumnya, 
+sebuah 
+kode 
+harus 
+terlebih 
+dahulu 
+dikategorikan dan disusun sedemikian rupa sehingga dapat 
+menghasilkan sebuah teori atau penjelasan akan suatu 
+fenomena. Saldana menggambarkan proses tersebut seperti 
+pada Gambar 2 di bawah ini. Walaupun hasil akhirnya 
+tampak sederhana, akan tetapi proses di dalamnya jauh lebih 
+kompleks dari apa yang terlihat.18 Semakin kode mendekati 
+teori maka istilah yang digunakan juga akan semakin umum. 
+Dengan kata lain, jika kode biasanya diambil spesifik 
+berdasarkan sebuah frase, maka pada kategori dan tema, 
+penamaan akan semakin umum. 
+ 
+Kode
+Kode
+Kode
+Kode
+Kategori
+TEMA/KONSEP
+TEORI
+Kategori
+DATA 
+(wawancara, potongan teks, transkripsi gambar, dll)
+Kode
+Kode
+Semakin khusus
+Semakin umum
+ Gambar 2. Proses coding3 
+Sebelum coding dilakukan, ada beberapa hal yang harus 
+dilakukan oleh tim peneliti, yakni persiapan data, memberi 
+tanda pre-coding, dan menentukan strategi coding3: 
+1. Persiapan data 
+Sebelum 
+coding 
+dilakukan, 
+peneliti 
+harus 
+mempersiapkan data menjadi bentuk teks. Misal, jika 
+data berupa wawancara, maka rekaman wawancara 
+yang masih berupa audio harus diubah dahulu 
+menjadi transkrip. Sedikit berbeda dengan data 
+wawancara yang dapat lebih mudah diubah menjadi 
+bentuk teks, transkripsi data visual dapat menjadi 
+lebih kompleks. Menurut Saldana, transkripsi atau 
+interpretasi data visual harus kaya akan deskripsi.  
+2. Tanda pre-coding 
+Sebelum melakukan coding, tidak ada salahnya 
+melakukan pre-coding. Pre-coding dilakukan dengan 
+memberi tanda pada kalimat-kalimat atau data yang 
+sangat kuat, menarik atau diduga kuat akan 
+membantu penelitian, dan kemungkinan besar dapat 
+menjawab pertanyaan penelitian. Hal ini akan 
+memudahkan coding karena bagian-bagian penting 
+telah diberikan tanda agar peneliti memberikan 
+perhatian pada bagian yang telah ditandai.  
+3. Menentukan skema umum coding  
+Langkah selanjutnya yang harus ditentukan oleh 
+peneliti adalah menentukan apakah coding akan 
+dilakukan satu orang (solo) atau oleh beberapa orang 
+dalam tim khusus, apakah coding akan dilakukan 
+berdasarkan teori (literature driven) atau bebas 
+berdasarkan data yang muncul (data driven), ataukah 
+menggabungkan strategi-strategi tersebut (hybrid).    
+Pilihan tentang cara melakukan alias skema coding ini 
+memang sangat tergantung kepada pilihan penelitinya. Jika 
+peneliti tersebut mementingkan keakuratan coding, maka ia 
+mungkin akan melakukan coding sendiri (solo). Namun, 
+pada penelitian berskala besar melakukan solo coding 
+tidaklah mungkin karena sangat banyaknya data. Selain 
+memudahkan tim dalam memenej data, coding secara tim 
+juga akan meningkatkan keterpercayaan (trustworthiness) 
+dari hasil analisis data. Alasan lain dalam melakukan coding 
+dengan mengikutsertakan lebih dari satu orang adalah 
+adanya keinginan untuk mengakomodasi berbagai perspektif 
+dalam coding. Metode yang biasanya digunakan dalam 
+coding dalam tim adalah cohen kappa.19  
+Proses coding sendiri dilakukan dalam beberapa siklus, 
+minimal dua siklus. Pada siklus pertama, peneliti membaca 
+seluruh data secara keseluruhan untuk memahami data dan 
+mengenali detilnya, sembari melakukan coding. Pada tahap 
+ini, setiap kalimat/frase/paragraf yang bermakna dikodekan 
+dan kemudian kode-kode tersebut dikumpulkan pada 
+kategori-kategori tertentu. Pada siklus perdana ini, peneliti 
+berusaha menguliti data yang didapat, memberi kode sesuai 
+dengan skema yang telah disepakati sebelum coding 
+dimulai. Kode yang dihasilkan masih dapat direvisi jika ada 
+alternatif kode yang lebih baik.  
+Setelah seluruh data diberi kode tertentu sesuai skema 
+coding, selanjutnya peneliti mengulang membaca data dan 
+kode-kode yang telah dibuat. Hal ini perlu dilakukan karena 
+biasanya hasil siklus coding pertama seringkali kurang tepat 
+karena peneliti belum cukup akrab dengan data. Oleh karena 
+itu, kode dan kategori yang telah dibuat pada siklus pertama 
+ini perlu dibaca ulang dan bahkan dikelompokkan ulang 
+sehingga kategori dan tema yang didapat mampu menjawab 
+pertanyaan penelitian. Second cycle coding dapat lagi 
+diulang berkali-kali sampai peneliti merasa puas dengan 
+tema-tema yang diperoleh dan pertanyaan penelitian benar-
+benar terjawab dengan tuntas.  
+Menggunakan memo untuk coding 
+Jurnal Kedokteran Syiah Kuala 21 (2): -, Agustus 2021 
+133 
+ 
+Agar peneliti mampu mengingat mengapa datum (satu unit 
+data) diberi kode tertentu maka ia perlu mencatat alasannya 
+secara ringkas dan informal. Catatan pendek ini disebut 
+memo coding.3 Memo ini dibuat untuk merekam ide-ide baru 
+yang muncul saat peneliti membaca data, juga mencatat tema 
+yang muncul karena ada hubungan kode satu dengan kode 
+lainnya.20 Selain dibuat saat menciptakan kode, memo juga 
+dibuat saat peneliti menggabungkan kode-kode atau 
+mengatur kembali kode-kode itu dalam parental code yang 
+menjelaskan hubungan kode satu dengan kode lainnya. 
+Berikut adalah salah satu contoh memo saat penulis membuat 
+kode, menggabungkan kode, dan mengembangkan tema 
+‘interaksi negatif pasien-nakes’: 
+“Saat aku berdiskusi dengan salah satu teman dari 
+komunitas peneliti Southeast Asia Centre tentang 
+transkrip dan analisis dataku, ia mengatakan bahwa 
+mungkin 
+fenomena 
+ketidaknyamanan 
+pasien 
+saat 
+dianamnesis oleh perawat ada kaitannya dengan 
+ekspektasi 
+mereka 
+yang 
+tak 
+terpenuhi 
+ataupun 
+pengalaman 
+negatif 
+sebelumnya 
+saat 
+mereka 
+berhubungan dengan tenaga kesehatan di masa lampau. 
+Aku tandai data ini dengan kode ‘stress saat 
+diwawancarai tenaga kesehatan.’  Kode ini sepertinya 
+berhubungan dengan kode lain yaitu ‘kekecewaan pasien 
+terhadap 
+tenaga 
+kesehatan.’ 
+Mungkin 
+dapat 
+dikelompokkan menjadi satu kode gabungan, yaitu 
+‘interaksi negatif pasien dan tenaga kesehatan’.”  
+Dapat dilihat pada memo di atas bahwa peneliti menerangkan 
+mengapa ia menciptakan kode ‘stress saat diwawancarai 
+tenaga kesehatan’ dan hubungan kode itu dengan kode 
+lainnya yang nantinya mungkin dapat digabung dalam 
+kelompok kode yang berpotensi memunculkan tema yang 
+akan ditulis di bagian hasil penelitian. Jadi, memo dapat 
+membantu peneliti mengingat alasan ia mengelompokan 
+kode-kode dalam kelompok tertentu dan mengapa ia 
+memunculkan tema tertentu dari hubungan antar kode yang 
+didapatkan.(4) Alasan-alasan yang ditulis dalam memo ini 
+kemudian dapat dijadikan catatan yang kemudian dapat 
+melengkapi tulisan tentang ‘proses coding’ pada bagian 
+analisis data.  
+Bagaimana menulis tentang coding dalam karya ilmiah? 
+Saat menulis bab metodologi dalam artikel maupun tesis, 
+peneliti studi kualitatif biasanya menggambarkan bagaimana 
+proses analisis data dilakukan pada penelitiannya. Salah satu 
+bagian penting dalam proses ini adalah coding. Terkadang 
+desripsi proses coding sangatlah singkat: Bisa jadi ia hanya 
+terdiri atas sebuah kalimat (seperti pada artikel ilmiah yang 
+jumlah katanya terbatas) hingga maksimal dua paragraf 
+(biasanya pada tesis).21 Hal-hal terkait coding yang diuraikan 
+antara lain adalah apa sumber-sumber kode yang digunakan, 
+siapa yang ikut melakukan coding dan ikut menyusun skema 
+coding, hal-hal khusus terkait kata, frase, dan bahasa yang 
+digunakan, jumlah kode secara keseluruhan, software yang 
+digunakan, dan hal-hal lain yang terkait. Cara penulisan 
+coding yang cukup singkat dalam artikel ilmiah dapat dilihat 
+di contoh berikut:  
+“Setelah peneliti membaca data secara satu kesatuan 
+yang utuh maka dibuatlah sebuah skema coding. Skema 
+ini peneliti susun dari tiga sumber: masalah-masalah 
+yang ditulis dalam tujuan penelitian, masalah yang 
+dikemukakan partisipan penelitian, dan masalah-masalah 
+lain yang muncul secara berulang dalam data. Skema ini 
+didiskusikan dengan peneliti lainnya dalam tim yang ikut 
+dalam pengumpulan data. Karena pengumpulan data 
+dilakukan dalam bahasa Thai maka kode yang didapat 
+disesuaikan ke dalam bahasa Inggris. Skema coding ini 
+terdiri atas 99 kode yang kemudian memunculkan 
+beberapa tema. Skema tersebut digunakan peneliti untuk 
+men-coding seluruh transkrip penelitian dibantu dengan 
+software Atlas.Ti”.22  
+Penulisan cara coding juga dapat ditulis dengan detil seperti 
+berikut: 
+“Empat orang peneliti membaca teks hasil transkripsi 
+berulang kali untuk mendapatkan ide-ide pokok yang ada 
+dalam isinya. Kemudian transkrip dikembalikan kepada 
+partisipan agar mereka dapat membaca dan mengoreksi 
+jika ada hal-hal yang ditranskripsi namun tidak sesuai 
+dengan apa yang ingin partisipan kemukakan. Setelah 
+itu, para peneliti itu juga membaca kembali transkripsi 
+pada fase kedua analisis data dengan lebih teliti, kata 
+demi kata. Pada fase ini para peneliti menentukan kode-
+kode primer dengan mengungkap makna teks yang 
+panjang 
+ke 
+dalam 
+frase-frase 
+singkat, 
+lalu 
+mengelompokkan frase-frase yang banyak itu ke dalam 
+kategori-kategori 
+tertentu 
+berdasarkan 
+kesamaan 
+ataupun perbedaan antar kode. Pada fase ketiga, para 
+peneliti memasukkan kode tersebut ke dalam software 
+MAXQDA 12 untuk memudahkan proses analisis content. 
+Teks mulai diinterpretasi menggunakan kode-kode 
+tersebut, hingga ke-18 teks interview selesai dikode dan 
+tidak ada kode baru (sekunder) yang muncul. Dengan 
+demikian, para peneliti memutuskan bahwa saturasi data 
+telah tercapai.”9 
+Contoh penelitian dan berbagai pertimbangan dalam 
+penggunaan qualitative coding  
+Pada bagian ini akan diberikan beberapa pertimbangan 
+dalam penggunaan coding dengan disertai contoh-contoh 
+penelitian yang menggunakan qualitative coding. Contoh 
+pertama adalah sebuah penelitian mengenai kemampuan 
+media sosial untuk meningkatkan kualitas hidup pasien.23 
+Berbeda pada penelitian sebelumnya yang menggunakan 
+wawancara langsung sebagai sumber data, penelitian ini 
+mengamati komunikasi di komunitas online (Facebook) 
+yang 
+digunakan 
+sebagai 
+sumber 
+data. 
+Berdasarkan 
+qualitative coding yang dilakukan pada interaksi di 
+komunitas online dihasilkan kesimpulan bahwa media sosial 
+dapat 
+memberikan 
+dukungan 
+pada 
+pasien 
+terutama 
+memenuhi kebutuhan pasien akan interaksi sosial.  
+Kombinasi sumber data wawancara dan media sosial pun 
+juga dapat menjadi sumber data untuk coding seperti pada 
+penelitian yang dilakukan Priharsari & Abedin.24 Pada 
+Jurnal Kedokteran Syiah Kuala 21 (2): -, Agustus 2021 
+134 
+ 
+penelitian tersebut, peneliti mendemonstrasikan bahwa 
+faktor-faktor sukses pada penelitian-penelitian sebelumnya 
+tidak selalu membawa kesuksesan pada sebuah komunitas 
+online. Misalnya, sebuah kemampuan teknologi, misal 
+“visibility” yang diduga memberikan kenyamanan bagi 
+partisipan pada komunitas online juga memiliki aspek yang 
+menyebabkan ketidaknyamanan.  
+Walaupun qualitative coding banyak digunakan pada 
+penelitian terkait interaksi sosial, namun metode ini 
+bukanlah 
+metode 
+analisis 
+yang 
+tanpa 
+kelemahan. 
+Sebagaimana telah disebutkan secara implisit pada latar 
+belakang, qualitative coding merupakan salah satu metode 
+interpretative, sehingga hasilnya sangat dipengaruhi oleh 
+peneliti.25 Latar belakang yang melandasi interpretivism 
+adalah sebuah upaya memahami makna-makna subyektif 
+yang ada, misal dengan mengetahui keberadaannya, 
+merekonstruksi makna-makna subyektif, memahami serta 
+menggunakan makna-makna tersebut untuk menghasilkan 
+teori. Tentu saja pada interpretivism subyektifitas tidak 
+dihindari sehingga hal tersebut berdampak pada kualitas 
+penelitian terkait transferability kesimpulan yang didapat. 
+Berbagai penelitian terdahulu yang dapat menunjukkan 
+argumentasi 
+yang 
+tepat 
+untuk 
+menjawab 
+keraguan 
+tersebut.5,19,25 
+Selain itu, data kualitatif sangat banyak, multiinterpretasi, 
+dan bisa berakhir pada endless looping.13,15 Oleh karena itu, 
+melakukan 
+penelitian 
+kualitatif 
+harus 
+juga 
+mempertimbangkan waktu serta tenaga yang dibutuhkan 
+untuk melakukan coding hingga mampu menyelesaikan 
+penelitian dalam waktu yang diharapkan. Seringkali 
+dibutuhkan negosiasi antara kedalaman analisis dengan 
+tenaga dan waktu yang tersedia. 
+Kesimpulan 
+Coding kualitatif adalah bagian utama dari proses analisis 
+data pada penelitian dengan metodologi kualitatif. Tujuannya 
+adalah agar data kualitatif yang terdiri dari banyak sekali 
+kata-kata mampu diekstrak maknanya oleh peneliti sehingga 
+dapat menjawab pertanyaan penelitian. Namun agar data 
+penelitian kualitatif dapat di-coding maka sebelum memulai 
+coding peneliti perlu melakukan tiga hal penting, yakni 
+persiapan data, tanda pre-coding, dan penentuan skema 
+coding. 
+Proses coding sediri dilakukan dalam siklus berulang. Pada 
+siklus pertama, peneliti membaca ulang data secara 
+keseluruhan sambil memberi kode sesuai skema yang 
+ditentukan sebelumnya. Setelah semua data diberi kode, 
+peneliti membaca ulang data dan kode sambil menilai 
+validitas kode-kode yang dihasilkan. Saat membuat kode, 
+peneliti sebaiknya merekam alasan pemberian kode dalam 
+memo coding. Memo ini membantu peneliti untuk 
+menggabungkan kode-kode menjadi kategori, dan beberapa 
+kategori diharapkan dapat dikumpulkan menjadi tema-tema 
+yang diharapkan dapat menjawab pertanyaan penelitian.  
+Proses coding ditulis di bagian metode penelitian. Peneliti 
+perlu menuliskan sumber-sumber kode yang digunakan, 
+siapa yang ikut melakukan coding, hal-hal khusus terkait 
+kata, frase, dan bahasa yang digunakan, jumlah kode secara 
+keseluruhan, software yang digunakan, dan keterangan lain 
+yang berhubungan langsung dengan proses coding agar 
+pembaca dapat memahami bagaimana hasil penelitian 
+dianalisis. Penulisan proses coding yang baik akan 
+meningkatkan keterpercayaan hasil penelitian kualitatif 
+secara signifikan.  
+Daftar Pustaka 
+1.  Silverman D. A very short, fairly interesting and 
+reasonably cheap book about qualitative research. 
+Second Edition. Los Angeles : London: SAGE; 
+2013. 175 p.  
+2.  Maxwell JA. Qualitative research design: An 
+interactive approach. Vol. 41. Sage publications; 
+2012.  
+3.  Saldana J. The Coding Manual for Qualitative 
+Researchers. 3rd ed. California: Sage; 2016.  
+4.  Stuckey HL. The second step in data analysis: 
+Coding qualitative research data. J Soc Health 
+Diabetes. 2015;3(01):007–10.  
+5.  Priharsari D. Critical realism sebagai alternatif 
+landasan filosofis di penelitian sistem informasi. J 
+Teknol Inf Dan Ilmu Komput.  
+6.  Sarker S, Xiao X, Beaulieu T. Qualitative studies in 
+information systems: a critical review and some 
+guiding principles. Mis Q. 2013;37(4):3–18.  
+7.  Hammersley M. Defining qualitative research. 
+What Qual Res. 2013;1:1–20.  
+8.  Thompson GA, Whiffen LH. Can physicians 
+demonstrate high quality care using paternalistic 
+practices? A case study of paternalism in Latino 
+physician–patient interactions. Qual Health Res. 
+2018;28(12):1910–22.  
+9.  Ghiyasvandian S, Abdolrahimi M, 
+Zakerimoghadam M, Ebadi A. Therapeutic 
+Communication of Iranian Nursing Students: A 
+Qualitative Study. Pertanika J Soc Sci & Hum. 
+2018;26(3):1757--1774.  
+10. Indah R. Probing problems: Dilemmas of 
+conducting an ethnographic study in a disaster-
+affected area. Int J Disaster Risk Reduct. 
+2018;31:799–805.  
+11. Indah R. Insider Dilemmas: An Ethnographic 
+Study on Community-Based Medical Education in 
+Aceh, Indonesia. Explorations. 2019;15:86–92.  
+12. Pölkki T, Pietilä A-M, Rissanen L. Pain in 
+children: Qualitative research of Finnish 
+school‐aged children’s experiences of pain in 
+hospital. Int J Nurs Pract. 1999;5(1):21–8.  
+Jurnal Kedokteran Syiah Kuala 21 (2): -, Agustus 2021 
+135 
+ 
+13. Yin RK. Qualitative Research from Start to Finish. 
+New York: A division of Quilford Publications. 
+Inc; 2004.  
+14. Marshall C, Rossman GB. Designing qualitative 
+research. Sage publications; 2014.  
+15. Kozinets R V. Netnography. Handb Qual Res 
+Methods Mark. 2006;129–42.  
+16. Suter WN. Qualitative data, analysis, and design. 
+Introd Educ Res Crit Think Approach. 2012;2:342–
+86.  
+17. Auerbach C, Silverstein LB. Qualitative data: An 
+introduction to coding and analysis. Vol. 21. NYU 
+press; 2003.  
+18. Young M-L, Kuo F-Y, Myers MD. To share or not 
+to share: a critical research perspective on 
+knowledge management systems. Eur J Inf Syst. 
+2012;21(5):496–511.  
+19. Priharsari D, Abedin B, Mastio E. Orchestrating 
+firm sponsored communities of interest: A critical 
+realist case study. In: paper presented at Pacific 
+Asia Conference on Information Systems, 8-12 July 
+2019, Xi’an, China,  
+20. Indah R. Community-based medical education: 
+Exploring doctor-patient interactions in post-
+disaster Aceh, Indonesia. 2020;  
+21. Chu JTW, Wang MP, Shen C, Lam TH, Viswanath 
+K, Chan SSC. How, when and why people seek 
+health information online: qualitative study in Hong 
+Kong. Interact J Med Res. 2017;6(2):e7000.  
+22. Pongpirul K, Walker DG, Winch PJ, Robinson C. 
+A qualitative study of DRG coding practice in 
+hospitals under the Thai universal coverage 
+scheme. BMC Health Serv Res. 2011;11(1):71.  
+23. Erfani SS, Blount Y, Abedin B. The influence of 
+health-specific social network site use on the 
+psychological well-being of cancer-affected people. 
+J Am Med Inform Assoc. 2016;23(3):467–76.  
+24. Priharsari D, Abedin B. What Facilitates and 
+Constrains Value Co-Creation in Online 
+Communities: a Sociomateriality Perspective. Inf 
+Manage. 2021;103433.  
+25. Goldkuhl G. Pragmatism vs interpretivism in 
+qualitative information systems research. Eur J Inf 
+Syst. 2012;21(2):135–46.  
+ 

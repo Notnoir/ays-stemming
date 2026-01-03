@@ -1,0 +1,357 @@
+         PEMBUATAN ROBOT SEBAGAI APLIKASI KECERDASAN BUATAN
+
+                                         Ni Made Satvika Iswari (13508077)
+
+                                             Program Studi Teknik Informatika
+                                           Sekolah Teknik Elektro dan Informatika
+                                                 Institut Teknologi Bandung
+                                               Jalan Ganesha no 10 Bandung
+                                            e-mail: if18077@students.if.itb.ac.id
+
+
+ABSTRAK                                                           Kajian ilmu logika adalah azas-azas yang menentukan
+                                                                pemikiran yang lurus dan tepat. Agar dapat berpikir
+Logika merupakan studi penalaran, yaitu cara                    seperti itu, logika menyelidiki, merumuskan, serta
+berpikir      dengan       mengembangkan      sesuatu           menerapkan hukum-hukum yang harus ditepati. Hal ini
+berdasarkan akal budi dan bukan perasaan. Pelajaran             menunjukkan bahwa logika bukanlah sebatas teori, tapi
+logika difokuskan pada hubungan antara pernyataan-              juga merupakan suatu keterampilan untuk menerapkan
+pernyataan. Saat ini logika memiliki aplikasi yang              hukum-hukum pemikiran dalam praktek. Ini sebabnya
+luas, salah satunya adalah kecerdasan buatan                    logika disebut filsafat yang praktis.
+(artificial intelligence). Kecerdasan buatan adalah               Logika pertama kali dikembangkan oleh Aristoteles,
+kecerdasan yang ditunjukan oleh suatu entitas buatan.           seorang filsuf yang berasal dari Yunani, sejak sekitar 2300
+Kecerdasan buatan ini besar peranannya dalam                    tahun yang lalu. Aristoteles membagi beberapa kerja dasar
+perkembangan robotika saat ini. Robot merupakan                 intelektual, yaitu memahami obyek, membentuk dan
+suatu mesin yang telah dirancang untuk melakukan                memilah, menalar dari sesuatu yang diketahui kepada
+berbagai macam aktifitas tanpa adanya campur                    sesuatu yang tidak diketahui. Proses tersebut pada
+tangan manusia. Perkembangan robot di Indonesia                 akhirnya membentuk suatu pemikiran yang kemudian
+sendiri telah banyak mengukir prestasi yang dapat               disebut dengan “Logika”.
+dibanggakan. Dalam makalah ini, penulis menjelaskan               Saat ini logika mempunyai aplikasi yang luas. Misalnya
+tentang pembuatan robot dan evolusi robot di                    saja dalam bidang pemrograman, analisis kebenaran
+Indonesia.                                                      algoritma, kecerdasan buatan (artificial intelligence),
+                                                                perancangan komputer dan sebagainya. Selanjutnya
+Kata kunci: logika, kecerdasan buatan, robot                    penulis akan melakukan pembahasan pada topik
+                                                                kecerdasan buatan atau artificial intelligence (AI).
+
+1. PENDAHULUAN                                                  1.2     Perkembangan Kecerdasan                  Buatan
+                                                                      (Artificial Intelligence)
+1.1   Logika
+  Manusia secara jasmani dikaruniai akal dan pikiran.              Kecerdasan Buatan atau Artificial Intelligence (AI)
+Oleh sebab itu pada hakikatnya manusia memiliki rasa            adalah kecerdasan yang ditunjukkan oleh suatu entitas
+ingin tahu yang begitu besar dan selalu berusaha mencari        buatan. Sistem seperti ini umumnya dianggap komputer.
+jawaban terhadap suatu kejadian atau gejala dalam rangka        Kecerdasan diciptakan dan dimasukkan ke dalam suatu
+memperoleh kebenaran. Pikiran manusia akan selalu               mesin (komputer) agar dapat melakukan pekerjaan seperti
+berproses. Dalam proses pencarian kebenaran tersebut,           yang dapat dilakukan manusia. Beberapa macam bidang
+manusia harus berpikir logis. Kebenaran ini hanya               yang menggunakan kecerdasan buatan antara lain sistem
+menyatakan serta mengandaikan adanya jalan, cara,               pakar, permainan komputer (games), logika fuzzy,
+teknik, serta hukum-hukum yang perlu diikuti. Semua hal         jaringan syaraf tiruan dan robotika.
+ini diselidiki serta dirumuskan lebih lanjut dalam logika.           Pada tahun 1736 seorang penemu dari perancis,
+  Secara singkat logika dapat dikatakan sebagai ilmu            Jacques de Vaucanson (1709-1782) membuat suatu
+pengetahuan dan kemampuan untuk berpikir lurus. Ilmu            mesin pemain seruling berukuran seperti seorang manusia
+pengetahuan sendiri adalah kumpulan pengetahuan                 yang dapat memainkan 12 melodi nada. Tidak hanya itu,
+tentang pokok tertentu. Kumpulan ini merupakan suatu            mekanik tersebut juga dapat memindahkan bibir dan
+kesatuan yang sistematis serta memberikan penjelasan            lidahnya secara nyata untuk mengontrol arus dari angin ke
+yang dapat dipertanggungjawabkan. Penjelasan ini                dalam seruling.
+dilakukan dengan menunjukkan sebab atau asal mulanya.
+
+
+
+
+  MAKALAH IF2091 STRUKTUR DISKRIT TAHUN 2009
+     Pada tahun 1774 seorang penemu dari perancis,           terutama untuk pekerjaan 3D, yaitu Dirty, Dangerous,
+Pierre Jacques Drotz mencengangkan masyarakat Eropa          Difficult (kotor, berbahaya, dan sulit). Hal ini dilakukan
+dengan suatu automation berukuran sekitar seorang anak       untuk mempermudah pekerjaan manusia, ketika pekerjaan
+laki-laki yang dapat duduk dan menulis suatu buku            yang dilakukan memerlukan ketelitian yang cukup tinggi,
+catatan. Penemuan ini kemudian dilanjutkan dengan yang       robot merupakan solusi cerdas, apalagi ketika pekerjaan
+lainnya, yaitu automation yang berupa seorang gadis          tersebut memiliki risiko yang cukup besar bagi
+manis yang dapat memainkan harpsichord. Semuanya             keselamatan manusia. Negara yang banyak menggunakan
+masih merupakan proses mekanik yang melakukan gerak          robot untuk industri adalah Jepang, Amerika Serikat dan
+dengan telah ditentukan terlebih dahulu.                     Jerman Barat.
+     Pada tahun 1769, dataran Eropa dikejutkan dengan
+suatu permainan catur yang dapat menjawab langkah-           Penggolongan Robot
+langkah permainan catur yang belum ditentukan terlebih         Penggolongan robot dapat dilakukan dengan beberapa
+dahulu. Mesin ini disebut dengan Maelzel Chess               cara. Penggolongan tersebut dapat dilakukan menurut
+Automation dan dibuat oleh Wolfgang Von Kempelan             sumber tenaganya, yaitu elektronik, hidrolik, dan
+(1734-1804) dari Hungaria. Akan tetapi mesin ini             pneumatic. Ada juga yang menggolongkannya
+akhirnya terbakar pada tahun 1854 di Philadelphia            berdasarkan tingkat kerumitannya, misalnya robot yang
+Amerika Serikat. Banyak orang yang tidak percaya akan        sederhana hanya dapat bergerak dalam satu, dua atau tiga
+kemampuan mesin tersebut. Dan seorang penulis dari           jurusan saja, sedang robot yang canggih dapat bergerak
+Amerika Serikat, Edgar Allan Poe (1809-1849) menulis         puluhan sudut secara serentak. Robot dapat juga
+sanggahan terhadap mesin tersebut, dia dan kawan-            digolongkan dalam daya angkatnya, ada robot yang hanya
+kawannya ternyata benar, bahwa mesin tersebut adalah         dapat mengangkat benda-benda yang ringan saja dan ada
+tipuan, dan kenyataannya bukanlah aoutomation, tetapi        juga robot yang mampu mengangkat beban berat. Ada
+merupakan konstruksi yang sangat baik yang dikontrol         juga yang menggolongkan robot berdasarkan kecepatan
+oleh seorang pemain catur handal yang bersembunyi di         geraknya, ketepatannya serta metode penggunaannya.
+dalamnya.                                                      Berdasarkan penggunaannya, robot dapat digolongkan
+     Pada tahun 1914, didemonstrasikan untuk pertama         sebagai berikut:
+kalinya sebuah mesin permainan catur. Penemu mesin ini       - Robot pribadi (personal robots) : ditujukan untuk
+adalah Leonardo Torres Y Quevedo, direktur dari              membantu pekerjaan-pekerjaan rumah tangga menjadi
+Laboratorio de Automatica di Madrid, Spanyol. Beberapa       lebih otomatis.
+tahun kemudian, ide permainan catur dikembangkan dan
+diterapkan di komputer oleh Arthur L. Samuel dari IBM        - Robot industri (industrial robots) : digunakan untuk
+dan dikembangkan lebih lanjut oleh Claude Shannon.           membantu proses produksi, misalnya untuk menangani
+     Pada abad ke 20, Automation sudah banyak                material, mengelas, mengecat, memasang komponen dan
+dikembangkan dan diterapkan terutama pada Angkatan           lain sebagainya. Contoh robot yang digunakan pada
+bersenjata Amerika Serikat, berupa program-program           industri:
+simulasi peperangan. Sekarang ini, perkembangan AI              a. Motionmate: merupakan robot industri yang paling
+sudah mencapai pada tahap yang dapat dikatakan                  sederhana untuk melakukan proses mengambil dan
+fantastis, terutama di bidang-bidang berikut:                   meletakkan komponen-komponen di dalam proses
+     - Game Playing                                             produksi. Robot ini dapat mengangkat komponen
+     - General Problem Solving                                  sebesar 5 pound (sekitar 2,268 Kg).
+     - Natural Language Recognition                             b. The Rhino Charger: robot ini dibuat oleh pabrik
+     - Speech Recognition                                       Rhino Robots, Inc. dan dengan menggunakan komputer
+     - Visual Recognition                                       Apple serta disk drive dapat untuk mengontrol gerak
+     - Robotics                                                 dalam 6 arah sumbu. Dengan daya angkatnya sampai
+     - Dan Sistem Pakar                                         dengan 50 pound (sekitar 22,68 Kg) dan tingkat gerak
+                                                                maksimumnya adalah 200 inches per detik.
+1.3   Robot                                                     c. Prab Model 4200: robot ini dibuat oleh Prab
+    Robot berasal dari kata Robota, dari bahasa                 Robots, Inc. dengan daya angkatnya sebesar 75 pound
+Chekoslavia yang berarti tenaga kerja. Kata ini digunakan       (sekitar 34,02 Kg). Lengan robot ini dapat berputar
+oleh dramawan Karel Capek pada tahun 1920 pada                  secara horisontal sebesar 250 derajat.
+sandiwara fiksinya, yaitu R.U.R (Rossum’s Universal             d. Cincinnati/Milacron T3: Robot ini oleh
+Robots).                                                        Cincinnati/Milacron     Corporation    dengan    daya
+    Robot adalah suatu mesin yang dapat diarahkan untuk         angkatnya sebesar 100 pound (sekitar 45,36 Kg). Robot
+mengerjakan bermacam-macam tugas tanpa campur                   ini sangat fleksibel dalam arah geraknya. Dapat
+tangan lagi dari manusia. Secara ideal robot diharapkan         bergerak dalam 6 arah sumbu.
+dapat melihat, mendengar, menganalisa lingkungannya             e. Pra FC: Robot ini mempunyai daya angkat sebesar
+dan dapat melakukan tindakan-tindakan yang terprogram.          1 ton. Kemampuan ini dapat digunakan untuk
+Saat ini, robot banyak digunakan untuk keperluan industri,
+
+
+
+
+MAKALAH IF2091 STRUKTUR DISKRIT TAHUN 2009
+  memindahkan sebuah mesin mobil atau benda berat             tujuan pembuatan robot memang untuk kebaikan manusia.
+  lainnya selama proses produksi.                             Oleh karena itu, sebelum terjun dalam bidang robotika,
+  f. Cybotech P15: Robot ini diproduksi oleh Cybotech         ada beberapa hal yang perlu diperhatikan, yaitu:
+  Corporation dan dapat mengangkat seberat 15 Kg.                  1. Robot tidak boleh menciderai manusia atau
+  Robot ini banyak digunakan utuk pekerjaan mengecat.              dalam keadaan tanpa aksi mengijinkan manusia
+  g. Puma Model 500: Robot ini merupakan produksi                  mendekat untuk disakiti.
+  dari Unimation, Inc. yang kemudian perusahaan                    2. Robot harus menuruti perintah yang diberikan
+  tersebut dibeli oleh Westinghouse. Puma Model 500                oleh manusia kecuali jika perintah tersebut
+  merupakan robot elektronik teknologi tinggi yang dapat           bertentangan dengan hukum yang pertama.
+  bergerak dalam 5 sumbu, yaitu putaran pinggang (waist            3. Robot harus melindungi eksistensinya, selama
+  rotation), putaran bahu (shoulder rotation), putaran siku        tidak bertentangan dengan hukum pertama dan kedua.
+  (elbow rotation), anggukan pergelangan tangan (wrist
+  bend) dan putaran pinggiran roda (flange rotation).
+  h. IBM Assembly Robots: IBM memproduksi dua
+  macam robot dan menggunakannya untuk proses
+  produksi komputer IBM dan produk-produk lainnya.
+  Robot ini digunakan untuk memasukkan komponen ke
+  dalam suatu lubang atau memasang komponen satu
+  yang dilekatkan dengan komponen lainnya. Robot yang
+  kedua berupa robot yang lebih kecil yang dapat
+  diprogram dengan komputer IBM PC yang digunakan
+  untuk memprogram dapat dilepas dan digunakan untuk          Ada tiga tahapan pembuatan robot, yaitu:
+  keperluan lainnya.                                              1. Perencanaan, meliputi: pemilihan hardware dan
+  i. GMF Robots: Robot ini dibuat oleh General                         design.
+  Motors Corporation dan Fanuc Machine Works dari                 2. Pembuatan, meliputi pembuatan mekanik,
+  Jepang. Kedua perusahaan tersebut bekerja sama                       elektonik, dan program.
+  memproduksi GMF robots untuk dijual dan digunakan               3. Uji coba.
+  sendiri untuk kedua perusahaan tersebut.
+                                                              2.1 Perencanaan
+  - Robot pendidikan (educational robots) : digunakan           Dalam tahap ini, akan ditentukan robot apa yang akan
+  untuk membantu dalam proses mengajar tentang operai         dibuat dan akan digunakan untuk apa. Adapun hal-hal
+  dan penggunaan dari robot industri. Contoh robot yang       yang perlu ditentukan dalam tahap ini:
+  digunakan dalam bidang pendidikan:                              • Dimensi, yaitu panjang, lebar, tinggi, dan
+  a. Rhino Robot XR-2 System: Robot ini dibuat oleh                   perkiraan berat dari robot.
+  Rhino, Inc., dan digunakan untuk simulasi tentang               • Struktur material, apakah dari alumunium, besi,
+  operasi dari robot-robot industri. Rhino XR-2 dapat                 kayu, plastik, dan sebagainya.
+  diprogram melalui komputer Apple dan programnya                 • Cara kerja robot, berisi bagian-bagian robot
+  dapat disimpan di disk.                                             dan fungsi dari bagian-bagian itu. Misalnya
+  b. Microbot: Microbot mempunyai dua macam robot,                    lengan, konveyor, lift, power supply.
+  yaitu Microot Minimower dan Microbot Teachmower.                • Sensor-sensor yang akan dipakai robot.
+  Minimower dapat diprogram dengan komputer Apple                 • Mekanisme, bagaimana sistem mekanik agar
+  atau TRS-80. Teachmower digunakan untuk simulasi                    robot dapat menyelesaikan tugas.
+  robot industri dan menggunakan teach pendant untuk              • Metode pengontrolan, yaitu bagaimana robot
+  memprogramnya serta dapat digunakan komputer Apple                  dapat dikontrol dan digerakkan, mikroprosesor
+  atau TRS-80 untuk menyimpan program.                                yanga digunakan, dan blok diagram sistem.
+  c. Hero-1: Robot ini dibuat oleh Heath/Zenith,                  • Strategi untuk memenangkan pertandingan, jika
+  merupakan robot yang dapat bergerak dan dirancang                   memang robot itu akan diikutkan lomba/kontes
+  untuk membantu mempelajari robot industri. Robot ini                robot Indonesia/Internasional.
+  mempunyai beberapa unit sensor. Unit sensor ini dapat
+  mendeteksi gerak, mengukur jarak sampai 15 feet,
+  mendeteksi perubahan tinggkat cahaya, membedakan
+  dua buah suku kata dan menggunakan speech
+                                                              2.2 Pembuatan
+  synthesizer, sehingga dapat berbicara. Hero-1 juga              Ada tiga perkerjaan yang harus dilakukan dalam
+  dilengkapi dengan teach pendant.                            tahap ini, yaitu pembuatan mekanik, elektronik, dan
+                                                              programming. Masing-masing membutuhkan spesialisasi
+                                                              yang berbeda-beda, yaitu:
+2. PEMBUATAN ROBOT                                                • Spesialis Mekanik, bidang ilmu yang cocok
+   Seperti yang telah diuraikan sebelumnya, robot dapat
+                                                                      adalah teknik mesin dan teknik industri.
+membantu meringankan pekerjaan manusia. Adapun
+
+
+
+
+MAKALAH IF2091 STRUKTUR DISKRIT TAHUN 2009
+    •   Spesialis Elektronika, bidang ilmu yang cocok
+        adalah teknik elektro.
+    •   Spesialis Programming, bidang ilmu yang
+        cocok adalah teknik informatika.
+
+Pembuatan mekanik
+     Setelah merancang gambaran garis besar bentuk
+robot, maka rangka dapat mulai dibuat. Satu ruas rangka
+terhubung satu sama lain dengan keling alumunium.
+Keling adalah semacam paku alumunium yang berguna
+untuk menempelkan lembaran logam dengan erat.
+
+Pembuatan sistem elektronika
+     Bagian sistem elektronika dirancang sesuai dengan
+fungsi yang diinginkan. Misalnya untuk menggerakkan
+motor DC diperlukan h-brigde, sedangkan untuk                      Gambar 2. Pembuatan Sistem Elektronika
+menggerakkan relay diperlukan saklar transistor. Sensor-
+sensor yang akan digunakan dipelajari dan dipahami cara    Pembuatan Software/Program
+kerjanya, misalnya:                                             Pembuatan software dilakukan setelah alat siap untuk
+     1. Sensor jarak, bisa menggunakan SRF04,              diuji. Software ini ditanamkan (didownload) pada
+         GP2D12, atau merakit sendiri modul sensor         mikrokontroler sehingga robot dapat berfungsi sesuai
+         ultrasonik atau inframerah.                       dengan yang diharapkan.
+     2. Sensor arah, bisa menggunakan sensor kompas
+         CMPS03 atau Dinsmore.
+     3. Sensor suhu, bisa menggunakan LM35 atau
+         sensor yang lain.
+     4. Sensor nyala api/panas, bisa menggunakan
+         UVTron atau Thermopile.
+     5. Sensor line follower / line detector, bisa
+         menggunakan led & photo transistor.
+
+
+
+
+                                                                    Gambar 3. Pembuatan Software/Program
+
+                                                           Tahap pembuatan program ini meliputi:
+                                                               1. Perancangan Algoritma atau alur program.
+                                                                   Untuk fungsi yang sederhana, algoritma dapat
+                                                                   dibuat langsung pada saat menulis program.
+                                                                   Untuk fungsi yang kompleks, algoritma dibuat
+                                                                   dengan menggunakan flow chart.
+  Gambar 1. Sensor ultrasonik, inframerah, UVTron, dan
+                         kompas
+                                                               2. Penulisan Program, dapat dilakukan dalam
+                                                                   Bahasa C, Assembly, Basic, atau Bahasa yang
+Pembuatan sistem elektronika ini meliputi tiga tahap:              paling dikuasai.
+   • Design PCB, misalnya dengan program Altium                3. Compile dan download, yaitu mentransfer
+       DXP.                                                        program yang kita tulis kepada robot.
+   • Pencetakan PCB, bisa dengan Proboard.
+   • Perakitan dan pengujian rangkaian elektronika.        2.3 Uji Coba
+                                                                Setelah mendownload program ke mikrokontroler
+                                                           (otak robot) berarti telah siap dilakukan tahapan terakhir
+                                                           dalam membuat robot, yaitu uji coba. Pada proses ini,
+                                                           dilakukan pengujian terhadap alat yang dibuat, apakah
+                                                           sudah sesuai dengan spesifikasi yang diharapkan. Jika
+
+
+
+
+MAKALAH IF2091 STRUKTUR DISKRIT TAHUN 2009
+ternyata hasilnya tidak memuaskan, dapat dilakukan             pengguna mesin otomatis, telah menguasai pengetahuan
+perancangan ulang.                                             mengenai operasionalisasi robot untuk teknologi pesawat
+     Untuk KRCI (Kontes Robot Cerdas Indonesia),               terbang dan teknologi perkapalan.
+ujicoba dilakukan pada arena seluas sekitar 4×4 meter dan           Kontes Robot Indonesia pertama kali diselenggarakan
+berbentuk seperti puzzle. Dalam arena KRCI ini                 oleh Depdiknas tahun 1990. Sebelas tahun berikutnya,
+diletakkan lilin-lilin yang harus dipadamkan oleh robot        tepatnya pada tahun 2001, salah satu perwakilan dari
+cerdas pemadam api.                                            Indonesia, yaitu tim B-Cak dari PENS-ITS telah berhasil
+     Untuk lomba robot KRI (Kontes Robot Indonesia),           mencapai prestasi yang spektakuler, yakni dengan keluar
+dibutuhkan ruangan yang lebih besar, yaitu sekitar 15×15       sebagai Juara Pertama pada Asia Pasific Broadcasting
+meter. Dalam KRI 2008, masing-masing robot harus               (ABU) Robocon yang diselenggarakan di Tokyo.
+meraih target (bola/kubus) yang diletakkan di tempat yang           Pada tahun 2001 juga, Kementerian Ristek bersama
+tinggi, jadi sebuah robot harus bisa naik di atas robot yang   dengan Depdiknas telah mempromosikan juara Kontes
+lain untuk meraih target tersebut (seperti panjat pinang).     Robot Indonesia dalam pameran Ristek tahunan yaitu
+                                                               RITECH EXPO (Research, Inovation, Technology Expo)
+                                                               yang diselenggarakan di Balai Sidang Jakarta. Dalam
+                                                               pameran tersebut terlihat respon positif dan antusiasme
+                                                               dari masyarakat.
+                                                                    Menjelang     Kontes    Robot    Indonesia    2004,
+                                                               Kementerian Ristek bekerjasama dengan Departemen
+                                                               Pendidikan Nasional - Fakultas Teknik Universitas
+                                                               Indonesia telah menyelenggarakan semiloka (seminar dan
+                                                               lokakarya) dengan tema "Peluang dan Tantangan
+                                                               Teknologi Robot di Indonesia". Semiloka ini
+                                                               diselenggarakan dengan tujuan mempertemukan pihak-
+                                                               pihak yang berkepentingan dalam rangka pengembangan
+                                                               teknologi robot, agar para stakeholders tersebut dapat
+                                                               saling berbagi informasi terbaru dan berbagi pemahaman
+   Gambar 4. Sebuah Robot Dalam Arena Pertandingan
+                                                               mengenai isu-isu teknologi robot yang sedang
+                                                               berkembang saat itu. Sasaran yang ingin di capai dengan
+3. EVOLUSI ROBOT INDONESIA                                     semiloka ini adalah terdifusinya teknologi robot ke
+     Sampai saat ini, belum ada data yang dapat                kalangan masyarakat yang lebih luas. Yang menjadi
+memberikan kepastian mengenai kapan robot mulai                sasaran dalam semiloka tersebut adalah difusi teknologi
+dikembangkan di Indonesia. Namun mulai tahun 80-an,            robot pada kalangan masyarakat yang lebih luas. Dengan
+kebijakan nasional dalam pengembangan riset teknologi          diselenggarakannya seminar ini, diharapkan kalangan
+telah memberikan dukungan pada litbang permesinan              mahasiswa dapat memperoleh informasi mengenai
+otomatis dalam rangka mencermati dan menunjang                 kebijakan-kebijakan yang telah ditetapkan pemerintah
+Sumber Daya Manusia Indonesia yang memiliki minat              serta kebutuhan industri dalam pemanfaatan dan
+dan kemampuan untuk menguasai teknologi robot. Salah           pendayagunaan robot. Disisi lain, pihak industri bisa
+satu wujud konkretnya adalah dikembangkannya sejumlah          mendapatkan informasi dan gambaran mengenai
+laboratorium, seperti MEPPO (Mesin Perkakas Teknik             pemanfaatan dan pendayagunaan robot untuk keperluan
+Produksi dan Otomatis) yang diprakarsai oleh BPPT              dan kepentingan industry, serta prospek dan kemampuan
+bekerjasama dengan ITB, Industri strategis, serta LET          yang para mahasiswa dalam mengembangkan teknologi
+(Laboratorium Elektronika Terapan) di LIPI.                    robot.[5]
+     Sejak dikembangkannya sejumlah laboratorium
+tersebut, beraneka macam permesinan otomatis / robot           4. KESIMPULAN
+telah berhasil dikembangkan, diproduksi, serta
+dikomersilkan oleh berbagai industri, baik industri
+                                                                 Secara umum kegunaan robot adalah untuk
+strategis maupun industri lainnya di Indonesia. Bahkan
+                                                               menggantikan kerja manusia yang membutuhkan
+dalam pengembangan robot terbaru saat ini, telah
+                                                               ketelitian yang tinggi atau mempunyai resiko yang sangat
+dikembangkan jenis robot yang memiliki kemampuan
+                                                               besar atau bahkan mengancam keselamatan manusia.
+untuk mengontrol seluruh sistem operasi suatu pabrik.
+                                                               Sebagai contoh, seseorang yang bekerja di bagian welding
+     Sejak tahun 80an, pendayagunaan dan pemanfaatan
+                                                               di sebuah industri assembling kendaraan, akan
+permesinan otomatis telah dilakukan terutama melalui
+                                                               mempunyai resiko kecelakaan kerja yang cukup tinggi.
+sejumlah industri strategis, diantaranya: PT PINDAD
+                                                               Maka untuk mengurangi rtesiko kerja tersebut perlu
+(sistem, peralatan, dll.), PT LEN Industri (IT, perangkat
+                                                               digunakan robot yang menggantikan kerja manusia di
+lunak, komputasi), PT Bharata dan PTBBI (pengecoran
+                                                               bidang tersebut, sehingga resiko kecelakaan kerja dapat
+presisi untuk membuat bagian-bagian mesin), dll.
+                                                               dikurangi bahkan dihilangkan.
+Disamping itu, PT DI dan PT PAL, yang merupakan
+
+
+
+
+MAKALAH IF2091 STRUKTUR DISKRIT TAHUN 2009
+  Perkembangan robotika di Indonesia banyak melahirkan
+hasil-hasil yang patut untuk dikembangkan, hal ini dapat
+dilihat dari prestasi-prestasi yang telah dibuat oleh para
+pembuat robot di Indonesia.
+
+5. PENUTUP
+  Penulis mengucapkan terima kasih kepada pihak –
+pihak yang telah membantu penulis dalam penyusunan
+makalah ini, terutama kepada Bapak Ir. Rinaldi Munir,
+M.T. selaku dosen mata kuliah Struktur Diskrit dan
+kepada rekan-rekan yang telah banyak memberikan
+masukan dan saran kepada penulis.
+
+REFERENSI
+[1] Membuat Robot Itu Mudah.
+    http://mumtaz-anas.com/2007/10/23/257/; Tanggal akses :
+     17 Desember 2009
+[2] http:/jak-stik.ac.id; Tangga; akses : 19 Desember 2009
+[3] Tutorial Gratis (dot) Net.
+    http://tutorialgratis.net/2008/05/28/tutorial-membuat-robot-
+     cerdas/; Tanggal akses : 17 Desember 2009
+[4] Robotik Smada.
+    http://ekstrarobotik.tripod.com/id3.html; Tanggal akses : 19
+     Desember 2009
+[5] Wikipedia.
+    http://id.wikipedia.org/wiki/Robotika_Indonesia;     Tanggal
+     akses : 20 Desember 2009
+
+
+
+
+MAKALAH IF2091 STRUKTUR DISKRIT TAHUN 2009
+

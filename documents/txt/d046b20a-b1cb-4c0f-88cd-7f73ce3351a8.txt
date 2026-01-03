@@ -1,0 +1,8561 @@
+Pengantar 
+Penelitian Dengan 
+Subyek Tunggal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Juang Sunanto 
+Universitas Pendidikan Indonesia 
+Koji Takeuchi 
+Universitas Tsukuba 
+Hideo Nakata 
+Universitas Tsukuba 
+ 
+ 
+Center for Research on International Cooperation in Educational Development (CRICED) 
+University of Tsukuba 
+ 
+0
+10
+20
+30
+40
+50
+60
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+Sesi
+Waktu Kerja (mn.)
+A
+B
+A
+Grafik 1  Disain A-B-A
+ 
+ 
+Pengantar 
+Penelitian Dengan Subyek Tunggal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Juang Sunanto 
+Universitas Pendidikan Indonesia 
+ 
+Koji Takeuchi 
+Universitas Tsukuba 
+ 
+Hideo Nakata 
+Universitas Tsukuba 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CRICED University of Tsukuba 
+2005 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Buku ini saya persembahkan untuk Istri dan Anak-anakku 
+Tercinta; Kristina S.R., Galih C., Gilang Y. 
+ 
+i
+ 
+Daftar Isi 
+ 
+ 
+Kata Pengantar    i 
+Daftar Tabel    iii 
+Daftar Grafik    iv 
+ 
+Bab 1 Konsep Dasar Modifikasi Perilaku    1  
+ 
+Pengantar    2 
+Sejarah Singkat Modifikasi Perilaku    3 
+Apakah Perilaku itu?     4 
+Karakteristik Modifikasi Perilaku    6 
+Rangkuman    8 
+Pertanyaan dan Tugas    9 
+ 
+Bab 2 Variabel dan Sistem Pengukurannya    11 
+Pengantar    12 
+Apakah Variabel itu?    12 
+Rumusan Tujuan    13 
+Jenis-jenis Ukuran Variabel   15 
+Sistem Pencatatan Data   19 
+Reliabilitas Pengukuran    28 
+Rangkuman    31 
+Pertanyaan dan Tugas    32 
+ 
+Bab 3 Bagaimana Membuat Grafik?    34 
+Pengantar    35 
+Komponen Grafik    35 
+Prinsip Membuat Grafik    39 
+Contoh Jenis-jenis Grafik    40 
+Label Kondisi    45 
+Rangkuman    49 
+Pertanyaan dan Tugas    50 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ii
+ 
+ 
+Bab 4 Disain Reversal    53 
+ 
+Pengantar    54 
+Disain A-B 55 
+ 
+Disain A-B-A    59 
+ 
+Disain A-B-A-B    63 
+ 
+Rangkuman    67 
+ 
+Pertanyaan dan Tugas    68 
+ 
+Bab 5 Disain Multiple Baseline    71 
+ 
+Pengantar    72 
+Disain Multiple Baseline Cross Varibles    74 
+Disain Multiple Baseline Cross Conditions    79 
+Disain Multiple Baseline Cross Subjects    84 
+Rangkuman    89 
+Pertanyaan dan Tugas    90 
+ 
+Bab 6 Analisis Data    92 
+ 
+Pengantar    93 
+Komponen Analisis Data    93 
+ 
+Analisis Dalam Kondisi    96 
+ 
+Analisis Antar Kondisi    100 
+ 
+Contoh Analisis Visual   104 
+Rangkuman    118 
+Pertanyaan dan Tugas    119 
+ 
+Bab 7 Bagaimana Menulis Laporan    120 
+ 
+Pengantar    121 
+ 
+Kerangka Laporan    121 
+ 
+Contoh Laporan    124 
+Rangkuman    136 
+Pertanyaan dan Tugas   137 
+ 
+Daftar Pustaka 139 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+iii
+ 
+ 
+ 
+ 
+ 
+Tabel 3-1 Rangkuman Penggunaan Simbol ............................................ 
+46 
+Tabel 3-2 Contoh Data Membuat Grafik .................................................. 
+46 
+Tabel 4-1 Data Penelitian Pada Disain A-B ............................................. 
+58 
+Tabel 4-2 Data Penelitian Pada Disain A-B-A ......................................... 
+61 
+Tabel 4.3 Data Penelitian Pada Disain A-B-A-B ...................................... 
+65 
+Tabel 5-1 Data Penelitian Dengan Disain Multiple Baseline  
+Cross Variables ........................................................................ 
+77 
+Tabel 5-2 Data Penelitian Dengan Disain Multiple Baseline  
+Cross Conditions .............................................................. …… 
+82 
+Tabel 5-3 Data Penelitian Dengan Disain Multiple Baseline  
+Cross Subjects ........................................................................  
+87 
+Tabel 6-1 Format Analisis Visual Dalam Kondisi .................................... 
+105 
+Tabel 6-2 Format Analisis Visual Antar Kondisi .....................................  
+106 
+Tabel 6-3 Rangkuman Hasil Analisis Visual Dalam Kondisi ................... 
+113 
+Tabel 6-4 Rangkuman Hasil Analisis Visual Antar Kondisi ..................... 
+117 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Daftar Tabel 
+ 
+iv
+ 
+ 
+ 
+ 
+Grafik 3-1 Komponen Utama Grafik Garis ................................................... 
+37 
+Grafik 3-2 Komponen Utama Grafik Batang ................................................ 
+38 
+Grafik 3-3 Grafik Garis Dengan Tiga Target Behavior ................................. 
+42 
+Grafik 3-4 Contoh Grafik Batang Tunggal untuk Empat Kondisi ................. 
+42 
+Grafik 3-5 Grafik Batang Membandingkan Dua Kondisi ............................. 
+43 
+Grafik 3-6 Grafik Batang Menggunakan Beberapa Batang ......................... 
+43 
+Grafik 3-7 Contoh Grafik Kumulatif ............................................................. 
+44 
+Grafik 4-1 Prosedur Dasar Disain A-B ........................................................ 
+55 
+Grafik 4-2 Hasil Penelitian Dengan Disain A-B ……………………………… 
+58 
+Grafik 4-3 Prosedur Dasar Disain A-B-A .................................................... 
+59 
+Grafik 4-4 Hasil Penelitian Dengan Disain A-B-A ....................................... 
+62 
+Grafik 4-5 Prosedur Dasar Disain A-B-A-B ................................................ 
+63 
+Grafik 4-6 Hasil Penelitian Dengan Disain A-B-A-B .................................... 
+66 
+Grafik 5-1 Prosedur Dasar Disain Multiple Baseline ................................... 
+75 
+Grafik 5-2 Prosedur Dasar Disain Multiple Baseline Cross Variables 
+Grafik 5-3 Hasil Penelitian Dengan Disain Multiple Baseline 
+Cross Variables  ............................................................................. 
+78 
+Grafik 5-4 Disain Multiple Baseline Cross Conditions .................................. 
+80 
+Grafik 5-5 Hasil Penelitian Dengan Disain Multiple Baseline  
+Cross Conditions  .......................................................................... 
+83 
+Grafik 5-6 Disain Multiple Baseline Cross Subjects ................................... 
+85 
+Grafik 5-7 Hasil Penelitian Dengan Disain Multiple Baseline  
+Cross Subjects ............................................................................. 
+88 
+Grafik 6-1 Baseline Dengan Stabilitas Berbeda .......................................... 
+97 
+Grafik 6-2 Garfik Dengan Variabilitas Tinggi ............................................... 
+99 
+Grafik 6-3 Contoh Beberapa Perubahan Kecenderungan Arah  
+Antar Kondisi ............................................................................... 
+102 
+Grafik 6-4 Contoh Perubahan Kecenderungan Arah  
+Antar Kondisi ............................................................................... 
+103 
+Grafik 6-5 Grafik Untuk Contoh Analisis ..................................................... 
+107 
+Grafik 6-6 Contoh Metode Belah Dua ........................................................ 
+109 
+Grafik 6-7 Menghitung Stabilitas ................................................................. 
+111 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Daftar Grafik 
+ 
+v
+ 
+ 
+Kata Pengantar 
+ 
+Tujuan utama pendidikan bagi anak luar biasa adalah agar kepribadian, sosial, dan 
+keterampilan komunikasi mereka dapat berkembang secara optimal sebagai bekal 
+kemandirian dan keberhasilan untuk hidup bersama dalam masyarakat. Prosedur analisis 
+perilaku telah banyak digunakan untuk mengubah dan mengorganisasikan perilaku di bidang 
+pendidikan. Prosedur tersebut misalnya digunakan untuk mengurangi atau mencegah perilaku 
+sterotip, agresif, dan perilaku sosial  atau kegiatan sehari-hari yang kurang berkembang.  
+Buku ini merupakan pengantar penelitian dengan subyek tunggal yang terdiri atas 7 
+bab, yang isinya meliputi: Konsep dasar modifikasi perilaku, Variabel dan sistem 
+pengukurannya, Pembuatan grafik, Disain reversal, Disain multiple baseline, Analisis data, 
+dan Bagaimana menulis laporan.  
+Buku ini secara khusus diperuntukan bagi guru dan mahasiswa di bidang pendidikan 
+luar biasa. Meskipun demikian buku ini juga dapat digunakan sebagai referensi bagi para 
+pembaca yang tertarik dengan program modifikasi perilaku. 
+ 
+Juang Sunanto 
+ 
+ 
+ 
+ 
+Peserta Program Visiting Foreign Research Fellow 
+di CRICED University of Tsukuba 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+vi
+ 
+Ucapan Terima Kasih 
+ 
+Buku ini ditulis selama penulis pertama mengikuti program Visiting Research Fellow 
+di Center for Research on International Cooperation in Educational Development (CRICED) 
+Universitas Tsukuba, Jepang dari tanggal 1 Agustus sampai dengan 29 Oktober 2005. 
+Program ini disponsori oleh Japan Student Service Organization (JASSO).  
+Oleh karena itu, penulis ingin menyampaikan terima kasih yang takterhingga kepada 
+Prof. Yoichi Iwasaki, Rektor Universitas Tsukuba dan Prof. Dr. Hideo Nakata, Direktur 
+CRICED yang memberikan kesempatan pada penulis untuk mengikuti program tersebut.  
+Penulis juga ingin mengucapkan terima kasih kepada Prof. Dr. H. Sunaryo 
+Kartadinta, M.Pd., Rektor Universitas Pendidikan Indonesia dan Prof. Dr. Mohamad Ali, 
+M.A., Dekan Fakultas Ilmu Pendidikan (FIP) yang memberikan izin dan dukungan kepada 
+penulis untuk menulis buku ini. Tak lupa kami ingin menyampaikan rasa terima kasih kepada 
+seluruh staf CRICED atas bantuannya selama penulis berada di Jepang. Secara khusus penulis 
+mengucapkan terima kasih kepada Dr. Koji Takeuchi atas bantuannya mendampingi dan 
+berdiskusi dengan penulis. 
+ 
+Juang Sunanto 
+ 
+ 
+ 
+ 
+Peserta Program Visiting Foreign Research Fellow 
+di CRICED University of Tsukuba 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+vii
+ 
+ 
+Preface 
+ 
+An important goal for educators of students with special education is to ensure that 
+students have the well-developed personal, social, community skills that are necessary for 
+independence and successful integration into the community. Applied Behavior Analysis 
+procedures have been widely accepted for managing or modifying behavior. The procedures  
+have been used, for example, to reduce stereotypical behaviors, aggressive behaviors, and 
+indeveloping daily living skills and social skills.  
+This textbook is an introduction to single-case design research. The purpose of the 
+textbook is to introduce basic principles of applied behavior analysis in educational settings. 
+The textbook is mainly intended for both pre-service and in-service special education teachers. 
+It can also be used as a reference for those who are interested in behavior modification 
+programs. 
+The textbook is divided into seven chapters. Content includes concept of behavior 
+modification, variables and its measurement system, creating graphs, reversal design, multiple 
+baseline design, data analysis, and how to write a report.  
+ 
+Juang Sunanto 
+ 
+ 
+ 
+ 
+Visiting Foreign Research Fellow 
+at CRICED University of Tsukuba 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+viii
+ 
+Acknowledgements 
+ 
+ 
+The textbook was written  by the first author in his capacity as a Visiting Foreign 
+Research Fellow at the Center for Research on International Cooperation in Educational 
+Development (CRICED) University of Tsukuba, from August 1 to October 29, 2005. The 
+fellowship was generously sponsored by the Japan Student Services Organization (JASSO).  
+ I would like to express my sincere gratitude to Prof. Yoichi Iwasaki, President of the 
+University of Tsukuba and Prof. Dr. Hideo Nakata, Director of CRICED for facilitating and 
+coordinating my work during my stay at CRICED where this textbook was written.  
+ I also would like to acknowledge  Prof. Dr. H. Sunaryo Kartadinta, M.Pd., the 
+Rector of Indonesia University of Education (UPI) and Prof. Dr. Mohamad Ali, M.A., Dean 
+of Faculty of Education, for authorizing my visit to Japan. 
+Lastly but not least, I would like to thank  staff members at CRICED University of 
+Tsukuba for their endless support during my stint in Japan. In particular, I would like to thank 
+Dr. Koji Takeuchi for his constructive discussion.  
+ 
+Juang Sunanto 
+ 
+ 
+ 
+ 
+Visiting Foreign Research Fellow 
+at CRICED University of Tsukuba 
+ 
+ 
+ 
+ 
+1
+ 
+ 
+ 
+ 
+ 
+Konsep Dasar 
+Modifikasi Perilaku 
+ 
+ 
+ 
+   
+ 
+ 
+Bab 1 
+Kegiatan intervensi pada anak autis di lab. Universitas Tsukuba 
+ 
+2
+Pengantar 
+Menurut psikologi behaviorisme kegiatan belajar ditandai dengan adanya perubhan 
+perilaku. Perubahan perilaku yang dimaksud adalah perilaku yang sesuai dengan 
+norma dan etika dimana seseorang berada. Di samping itu perubahan perilaku yang 
+dimaksud bersifat relatif permanen dan diperoleh dengan kesadaran. 
+  
+Jika kita mengikuti  pengertian seperti itu, maka dapat dikatakan bahwa pekerjaan 
+seorang pendidik selalu terkait dengan kegiatan perubahan perilaku (behavior 
+modification). Lebih lanjut pekerjaan pendidik atau guru secara umum akan terkait 
+dengan perubahan perilaku dalam dua kategori yaitu: membentuk, membangun atau 
+mempertahankan perilaku positif dan mencegah atau meniadakan perilaku negatif 
+peserta didik. Membangun atau memperbaiki perilaku yang baik misalnya seorang guru 
+meminta siswa untuk menghafal kosa kata baru, menghafal rumus, mempercepat 
+kecepatan membaca, datang ke sekolah tepat waktu dan sebagainya. Sedangkan 
+mengurangi atau mencegah atau meniadakan perilaku yang tidak baik misalnya  guru 
+melarang siswanya memukul teman, melakukan kegaduhan di kelas, mengambil 
+barang teman, mengeluarkan kata-kata kotor dan sebagainya  
+ 
+Ditinjau dari aspek perubahan perilaku, kegiatan mendidik atau mengajar dan meneliti 
+merupakan dua kegiatan yang saling melengkapi dan memiliki tujuan yang sama. 
+Dalam mengajar guru akan terlibat dalam menganalisis  perilaku atau kinerja siswa 
+untuk menentukan tujuan pengajaran. Hal ini sama dengan mengidentifikasi masalah 
+dalam kegiatan penelitian. Dalam kegiatan mengajar harus merumuskan tujuan 
+pengajaran yang spesifik yang mencakup kondisi,  faktor penyebab (antecedents), 
+perilaku atau kegiatan yang operasional (behavior), dan menentukan kriteria 
+keberhasilan. Dalam kegiatan penelitian kegiatan tersebut sama dengan merumuskan 
+hipotesis dan tujuan penelitian. Setelah itu  guru melaksanakan pengajaran sementara 
+peneliti melakukan penelitian. 
+ 
+Olehkarena itu, kegiatan penelitian merupakan salah satu tugas guru yang tidak dapat 
+diabaikan. Kegiatan penelitian yang dilakukan oleh seorang guru tidak harus dipandang 
+sebagai tugas khusus yang memberatkan, karena dalam kegiatan mengajar sehari-hari 
+sebenarnya banyak kegiatan yang berhubungan dengan kegiatan penelitian. Agar guru 
+dapat melakukan penelitian yang diterapkan dalam kelas, penelitian tindakan (action 
+research) merupakan salah satu jenis penelitian yang perlu diperkenalkan.  
+ 
+3
+ 
+Sejarah Singkat Modifikasi Perilaku 
+Kegiatan modifikasi perilaku (behavior modiication) secara umum mendasarkan 
+kegiatannya 
+pada 
+pemikiran 
+psikologi 
+behaviorisme. 
+Sedangkan 
+psikologi 
+behaviorisme banyak dipengaruhi oleh teori stimulus respon dari Pavlov dan yang 
+kemudian dikembangkan oleh B. F. Skinner.  Pada tahun 1938, ia menerbitkan artikel 
+dengan judul The Behavior of Organisms yang didalamnya menjelaskan hasil 
+eksperimennya pada tikus. Atas dasar hasil eksperimen tersebut  ia memperkenalkan 
+konsep dan prinsip operant conditioning.  Konsep operant conditioning  inilah 
+merupakan hal baru yang sebelumnya hanya dikenal respondent conditioning dari 
+Pavlov (Marthin dan Pear, 1999). Kemudian pada tahun 1953, B. F. Skinner  juga 
+menerbitkan buku dengan judul Science and Human Behavior. Dalam buku ini ia 
+menjelaskan penerapan prinsip dasar behaviorisme dalam kehidupan manusia sehari.  
+ 
+Psikologi behaviorisme memandang bahwa perilaku manusia dipengaruhi oleh 
+lingkungannya dan atau akibat dari perilaku itu sendiri (consequence). Mekanisme 
+hubungan antara perilaku manusia dengan lingkungan dan consequencenya inilah 
+yang mendapat sorotan utama psikologi behaviorisme. Psikologi behaviorisme 
+memandang bahwa perilaku (behavior) manusia dapat diubah atau dimodifikasi dengan 
+memberikan stimulus dalam lingkungannya. Prinsip inilah yang kemudian menjadi 
+dasar kerja modifikasi perilaku. Lingkungan (environment) yang dimaksud adalah 
+segala sesuatu yang ada di sekitar seseorang yang mempengaruhi perilakunya. Obyek 
+seperti manusia, benda, dan kejadian yang membuat perilaku seseorang terpengaruh 
+disebut stimulus atau rangsangan. Misalnya, guru, teman, papan tulis, alat peraga, 
+semuanya berpotensi menjadi stimulus bagi seorang siswa ketika belajar di dalam 
+kelas. Di samping itu perilaku seseorang itu sendiri juga dapat menjadi bagian dari 
+lingkungannya. 
+ 
+Sehubungan dengan kegiatan  modifikasi perilaku ada istilah lain yang sekarang 
+menjadi populer yaitu Applied Behavior Analysis disingkat ABA.  Istilah applied 
+behavior analysis  berasal dari Universitas Washington pada tahun 1960an. ABA pada 
+awalnya banyak diterapkan pada bidang kedokteran dan psikiatri khususnya untuk 
+pasien penderita schizophrenia. Ayllon dan Michael (1959) melaporkan bahwa 
+penerapan ABA dengan menggunakan strategi reinforcement (penguatan) berhasil  
+mengubah perilaku pasien di rumah sakit (Lutzker dan Whitaker, 2005). Beberapa 
+ 
+4
+waktu kemudian, setelah penerapan ABA mulai populer untuk menangani para 
+schizophrenia, ABA juga mulai digunakan di kalangan lain seperti pendidikan 
+khususnya pada anak tunagrahita dan autis (Maurice, Green, dan Luce, 1996). 
+ 
+Perkembangan penerapan ABA di berbagai bidang seperti pendidikan, kesehatan, 
+maupun sosial semakin pesat dan luas.  Sejak terbitnya Journal of Applied Behavior 
+Analysis tahun 1968, terbitlah  kemudian jornal yang lain seperti Behavior Modification 
+(modifikasi perilaku), Child and Family Behavior Therapy  (terapi perilaku untuk anak 
+dan keluarga), Behavioral Interventions (intervensi perilaku) dan lain-lain. 
+ 
+Kemudian inovasi dalam bidang pendidikan mulai dilakukan dengan dikembangkannya 
+penggunaan rewards (pujian) dan punishment (hukuman) untuk mengelola perilaku 
+siswa dalam proses pengajaran di kelas. Di samping itu, setelah banyak artikel tentang 
+ABA di tulis, banyak pula orang tua atau para profesi lain  yang terkait dengan 
+pendidikan yang mengadopsi prinsip-prinsip modifikasi perilaku untuk diterapkan dalam 
+mendidik anak-anak dalam keluarga (Leaf dan McEachin, 1999; Leblanc, Richardson, 
+dan McIntosh, 2005; Lerman, Vorndran, Addison, dan Kuhn, 2005). Secara sederhana 
+contoh penerapan modifikasi perilaku  oleh  orang tua misalnya seorang ibu 
+mengatakan pada anaknya “Bersihkan piring bekas makanan, nanti kamu akan diberi 
+buah”. Dalam hal ini orang tua menggunakan reinforcement positif. Penggunaan 
+reinforcement  negatif  tentu saja juga sering digunakan oleh orang tua dan guru, 
+misalnya mereka berjanji dengan mengatakan “Sebelum pekerjaan rumah (PR) 
+dikerjakan, tidak boleh nonton televisi”. 
+ 
+Apakah Perilaku itu? 
+Untuk memahami prinsip modifikasi perilaku pertama-tama yang harus dipahami adalah 
+konsep perilaku (behavior) itu sendiri. Dalam istilah sehari-hari ada beberapa istilah 
+yang dekat atau disamakan dengan istilah perilaku yaitu aktivitas, aksi, kenerja, respon, 
+dan reaksi.  Secara umum behavior didefinisikan sebagai suatu yang dikatakan atau 
+dilakukan oleh seseorang (Marthin and Pear, 199:3).  
+ 
+Perhatikan peristiwa berikut ini, Badu seorang siswa di SLB, warna matanya menjadi 
+merah karena kurang tidur semalam. Pada saat mengikuti pelajaran matanya sering 
+berkedip bahkan kadang-kadang terpejam beberapa detik. Meskipun hari ini 
+seharusnya menggunakan pakaian seragam merah-putih, tetapi Badu hari ini 
+ 
+5
+menggunakan pakaian bebas bermotif batik. Karena Pak Anton, gurunya, tampaknya 
+memahami kondisi Badu yang kurang baik dia diizinkan untuk pulang lebih cepat. 
+ 
+Perhatikan pernyataan berikut ini yang termasuk perilaku. 
+(1) Mata Badu berwarna merah 
+(2) Badu sering mengerdipkan mata 
+(3) Pakaian Badu bermotif Batik 
+(4) Badu mengenakan pakain sendiri 
+ 
+Dari empat pernyataan tersebut manakah yang termasuk perilaku? Jika Anda 
+menjawab nomor (2) dan (4) maka jawaban Anda adalah benar. Kemudian perhatikan 
+pernyataan berikut. 
+(1) Carli seorang mahasiswa mendapat nilai A untuk mata kuliah statistik 
+(2) Pak Rudi mengalami penurunan berat badan sebanyak 10 kg  
+ 
+Apakah kedua keadaan ini termasuk perilaku? Jawabannya, tidak. Hal ini tidak  
+termasuk perilaku, tetapi merupakan produk atau hasil (outcome) suatu perilaku. 
+Perilaku yang menghasilkan nilai A adalah belajar yang rajin dan perilaku yang 
+menyebabkan penurunan berat badan 10 kg adalah diet atau olah raga yang banyak. 
+ 
+Berdasarkan bisa dan tidaknya   perilaku seseorang diamati oleh orang lain, perilaku 
+dapat dibedakan menjadi dua yaitu perilaku yang teramati secara langsung disebut 
+perilaku  overt dan perilaku yang tidak dapat diamati secara langsung oleh orang lain  
+disebut perilaku covert.   
+ 
+Kegiatan seperti berjalan, berbicara, melempar bola, memandang seseorang, 
+semuanya termasuk perilaku yang dapat diamati oleh orang lain. Di samping itu ada 
+perilaku  yang tidak dapat diamati oleh orang lain secara langsung yang (covert) 
+misalnya  seorang pemain ski dalam suatu kompetisi sebelum menginjakkan kaki ke 
+salju pemain tersebut dalam benaknya berkata ”Saya berharap saya tidak jatuh” dan ia 
+tampaknya merasa  cemas (detak jantungnya meningkat). Dalam kasus itu, berfikir 
+(thinking) dan merasa (feeling) merupakan salah satu  bentuk perilaku  covert.  
+Perilaku covert maupun overt  keduanya dapat diubah  dengan teknik-teknik 
+modifikasi perilaku. 
+ 
+Bagaimana pula dengan istilah sikap? Misalnya Pak Anton, seorang guru di sekolah 
+ 
+6
+dasar, melaporkan bahwa: Budi, murid kelas 6, bersikap buruk terhadap sekolah. 
+Apakah yang dimaksud Pak Anton dengan bersikap buruk tersebut? Mungkin Budi 
+sering bolos, tidak melakukan perintah guru, tidak memperhatikan gurunya di kelas 
+ketika dijelaskan. Apapun yang dimaksud oleh Pak Anton tentang sikap buruk Budi itu  
+menunjuk pada perilaku Budi yang diperhatikan oleh Pak Anton seperti tersebut di atas. 
+Motivasi dan kreativitas juga menunjuk  jenis perilaku dimana seseorang terlibat dalam 
+situasi tertentu. Misalnya mahasiswa yang memiliki motivasi baik  banyak 
+menggunakan waktunya untuk belajar. Anak yang kreatif sering melakukan kegiatan 
+yang aneh dan tidak biasa dilakukan orang lain serta memiliki rasa ingin tahu yang 
+besar.  
+ 
+Sebelum melakukan penelitian dalam bidang modifikasi perilaku akan ditegaskan sekali 
+lagi apa yang dimaksud dengan perilaku. Berdasarkan pengalaman penulis mengajar 
+metode penelitian dengan subyek tunggal sering menjumpai mahasiswa yang salah 
+menafsirkan arti perilaku atau behavior dalam istilah target behavior untuk penelitian 
+dalam modifikasi perilaku. Mahasiswa sering menganggap bahwa behavior yang 
+dimaksud hanya domain psikomotor dalam taxonomi Bloom. Berdasarkan pemahaman 
+psikologi behaviorisme yang dimaksud perilaku atau behavior atau target behavior 
+dalam modifikasi perilaku ini adalah pikiran perasaan atau perbuatan yang dapat dicatat 
+dan diukur. Oleh karena itu, domain kognitif,  psikomoto, dan afektif, dalam taxonomy 
+Bloom tersebut semuanya dapat dijadikan sebagai target behavior. 
+ 
+ 
+ 
+ 
+     
+Karakteristik Modifikasi Perilaku  
+Modifikasi perilaku adalah kegiatan yang sekarang ini sebagian besar diaplikasikan 
+pada  perilaku manusia seperti dalam proses pengajaran, pendidikan jasmani, 
+kesehatan dan kesejahteraan manusia. Oleh karena itu dalam melakukan praktek 
+modifikasi perilaku termasuk dalam penelitian dengan subyek tunggal harus 
+memperhatikan prinsip dan etika modifikasi perilaku.  
+ 
+Berikut ini adalah  karakteristik modifikasi perilaku yang perlu mendapat perhatian para 
+praktisi modifikasi perilaku. 
+ 
+Pertama 
+Maslah perilaku yang akan dimodifikasi atau diterapi selalu didefinisikan dalam bentuk 
+perilaku (behavioral objective) yang teramati dan terukur. Ukuran perilaku tersebut 
+ 
+7
+dijadikan indikator untuk menentukan tolok ukur tercapai atau tidaknya tujuan  
+intervensinya.  
+ 
+Kedua 
+Prosedur dan teknik  intervensi yang dipilih selalu diarahkan untuk mengubah 
+lingkungan seseorang dalam rangka membantu subyek agar dapat berperilaku dalam 
+berpartisipasi pada masyarakat. Yang dimaksud dengan lingkungan adalah segala 
+sesuatu yang dapat mempengaruhi perilaku seseorang baik yang berupa benda, 
+kejadian maupun manusia.  
+ 
+Ketiga 
+Rasional metode yang digunakan dapat dijelaskan secara logis dan dapat dipahami 
+oleh orang lain. Hal ini dimaksudkan agar para praktisi lain di bidang modifikasi perilaku 
+dapat memahami prosedur tersebut dan memungkinkan untuk mengulanginya.  
+ 
+Keempat 
+Sesuai dengan karakteristik kedua, sedapat mungkin teknik modifikasi perilaku yang 
+digunakan dapat diterapkan pada lingkungan kehidupan sehari-hari. Di samping itu 
+perlu diupayakan metode dan teknik tersebut dapat digunakan oleh banyak orang 
+seperti orang tua, guru, perawat dan profesi lain yang terkait dengan pendidikan. 
+ 
+Kelima 
+Teknik dan prosedur yang digunakan dalam modifikasi perilaku selalu berdasarkan 
+pada prinsip psikologi belajar secara umum dan mengacu pada prinsip respondent 
+conditioing dan operant conditioning. 
+ 
+Keenam 
+Modifikasi perilaku dilakukan berdasarkan pengetahuan ilmiah dan semua orang yang 
+terkait dalam program modifikasi perilaku ini  mempunyai tanggung jawab yang sama.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8
+ 
+ 
+Aliran psikologi behaviorisme merupakan dasar pelaksanaan pengajaran dan penelitian 
+modifikasi perilaku. Psikologi behaviorisme memandang bahwa perilaku manusia 
+dipengaruhi oleh lingkungan dan akibat dari perilaku itu sendiri (consequence).  
+ 
+Aplikasi psikologi behaviorisme kemudian terkenal dengan berbagai istilah diantaranya 
+Applied Behavior Analysis (ABA) yang mula-mula banyak diaplikasikan di bidang 
+kedokteran dan psikiatri khususnya untuk pasien schizophrenia. Sejak tahun 1960 ABA 
+mulai digunakan di bidang-bidang lain termasuk pendidikan khususnya pendidikan bagi 
+anak berkelainan.  
+ 
+Implementasi modifikasi perilaku memilki, yaitu: masalah dirumuskan dalam bentuk 
+perilaku yang dapat diukur dan digunakan sebagai indikator perubahan perilaku; 
+prosedur atau teknik intervensi digunakan untuk mengubah target behavior dalam 
+lingkungan; metode dan teknik modifikasinya sedapat mungkin dapat diterapkan dalam 
+kehidupan sehari-hari; teknik yang digunakan berbasis pada psikologi belajar secara 
+umum yang mengacu pada respondent conditioning dan operant conditioning; suatu 
+intervensi tertentu ditujukan untuk perubahan perilaku tertentu; pihak-pihak yang terlibat 
+meiliki tanggung jawab atas program modifikasi perilaku yang dibuat.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rangkuman 
+ 
+9
+ 
+ 
+ 
+ 
+1. Jelaskan dengan kata-kata sendiri, apakah yang dimaksud dengan perilaku 
+(behavior)? 
+________________________________________________________________ 
+________________________________________________________________ 
+________________________________________________________________ 
+ 
+2. Istilah - istilah di bawah ini mana yang artinya sama dengan perilaku? 
+ 
+a. 
+belajar          f. Aktivitas 
+b. 
+kinerja   
+g. sikap  
+c. 
+reaksi 
+ 
+h. Respon 
+d. 
+konsentrasi 
+i. Berfikir 
+e. 
+motivasi  
+j. Aksi 
+ 
+3. Dalam modifikasi perilaku dikenal istilah perilaku covert dan perilaku overt.  
+a. 
+Apakah perbedaan antara kedua perilaku tersebut? 
+______________________________________________________________ 
+______________________________________________________________ 
+______________________________________________________________ 
+ 
+b. 
+Berikan contoh masing-masing 5 dari kedua jenis perilaku tersebut. 
+___________________________     ______________________________ 
+___________________________     ______________________________ 
+___________________________     ______________________________ 
+___________________________     ______________________________ 
+___________________________     ______________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pertanyaan dan Tugas 
+ 
+10
+4. Istilah apakah yang sama dengan modifikasi perilaku  
+(behavior modification)? 
+ 
+____________________________________________________________ 
+____________________________________________________________ 
+ 
+5. Manakah dari pernyataan berikut ini yang termasuk perilaku (behavior)? 
+   Beri tanda (√ ) yang termasuk perilaku dan tanda ( x ) yang bukan. 
+ 
+a. Rumah itu besar dan bagus   
+ 
+ 
+(      ) 
+ 
+b. Galih mengingat nama-nama negara Asia 
+  
+(      ) 
+ 
+c. Gilang mendapat nilai 10 dalam ulangan matematika (      ) 
+ 
+d. Budi berlari cepat  
+ 
+ 
+ 
+(      ) 
+ 
+e. Dani sering memukul temannya di kelas 
+ 
+(      ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Variabel dan  
+ Sistem Pengukurannya 
+ 
+ 
+ 
+ 
+Bab 2 
+Kegiatan intervensi pada anak autis di laboratorium universitas Tsukuba 
+ 
+12
+Pengantar 
+Dalam proses modifikasi perilaku ada empat kegiatan utama, yaitu mengidentifikasi 
+masalah dan mendefinisikan dalam bentuk perilaku (behavioral objective) yang teramati 
+dan terukur; menentukan level perilaku yang akan diubah sebelum memberikan 
+intervensi; memberikan intervensi; dan menindaklanjuti (follow up) untuk mengevaluasi 
+apakah perubahan perilaku yang terjadi menetap atau bersifat sementara. 
+ 
+Menentukan perilaku yang akan diubah dalam program modifikasi merupakan kegiatan 
+yang paling awal dan sangat penting. Dalam istilah penelitian subyek tunggal, perilaku 
+yang akan diubah disebut target behavior (perilaku sasaran). Dalam aspek penelitian 
+perilaku sasaran atau target behavior dikenal pula dengan istilah variabel terikat.  
+ 
+Dalam penelitian eksperimen, ada dua macam variabel yang saling terkait yaitu variabel 
+terikat  dan variabel bebas. Hubungan kedua variabel tersebut menjadi perhatian 
+utama karena pada hakekatnya penelitian eksperimen bertujuan untuk mengetahui 
+hubungan fungsional atau hubungan sebab akibat antara variabel bebas dan terikat.  
+Apakah Variabel itu? 
+Variabel merupakan istilah dasar dalam penelitian eksperimen termasuk penelitian 
+dengan subyek tunggal.  Variabel merupakan suatu atribut atau ciri-ciri mengenai 
+sesuatu diamati dalam penelitian. Dengan demikian variabel dapat berbentuk benda 
+atau kejadian yang dapat diamati dan diukur.  
+ 
+Dalam istilah yang lebih konseptual variabel merupakan suatu konsep yang memiliki 
+variasi nilai. Misalnya  kita mengenal istilah  badan, kendaraan,  rumah, pendidikan 
+dan lain-lain.  Badan, kendaraan, rumah, dan pendidikan tersebut merupakan sebuah 
+konsep karena menggambarkan sesuatu namun belum mengandung nilai atau ukuran 
+tertentu. Tetapi istilah seperti tinggi badan, berat badan, jenis kendaraan, tingkat 
+pendidikan di dalamnya telah terkandung ukuran atau nilai tertentu oleh karena itu 
+dapat disebut variabel. Misalnya berat badan  50 kg, 100 kg, 130 kg dan sebagainya; 
+jenis kendaraan ada truk, bus, sedan dan tingkat pendidikan ada SD, SMP, SMA atau 
+PT. Ukuran atau nilai yang dimaksud dapat berupa kuantitatif maupun kualitatif. 
+Dalam penelitian eksperimen biasanya menggunakan variabel terikat dan variabel 
+bebas. Variabel terikat adalah variabel yang dipengaruhi oleh variabel bebas. 
+Sebaliknya variabel bebas adalah yang mempengaruhi variabel terikat. Variabel terikat 
+ 
+13
+dalam penelitian kasus tunggal dikenal dengan nama target behavior (perilaku sasaran). 
+Sedangkan variabel bebas dikenal dengan istilah intervensi atau perlakuan.   
+ 
+Untuk membedakan antara variabel bebas dan variabel terikat, perhatikan pernyataan 
+ini, ”Karena Ali berolah raga setiap pagi berat badanya turun 5 kg dalam sebulan”.  
+Dalam pernyataan tersebut ada dua kata kunci yaitu olah raga dan berat badan yang 
+saling berhubungan. Dari situ kita dapat mengatakan bahwa berat badan sebagai 
+variabel terikat dan olah raga sebagai variabel bebas karena kita tahu bahwa olah raga 
+yang menyebabkan turunnya berat badan dan bukan sebaliknya. 
+ 
+Dalam  program  modifikasi perilaku melalui kegiatan pengajaran maupun penelitian 
+akan terlibat dalam menentukan variabel khususunya variabel terikat hanya saja 
+mempunyai istilah yang agak berbeda. Dalam kegiatan pengajaran penentuan variabel 
+terikat sering dikatakan merumuskan tujuan pengajaran. Sedangkan dalam penelitian 
+sering disebut merumuskan variabel terikat. Meskipun demikian, ditinjau dari sudut 
+modifikasi perilaku, merumuskan  tujuan dan variabel yang spesifik, teramati, dan 
+terukur harus dilakukan. 
+ 
+Rumusan Tujuan  
+Di sekolah-sekolah umum, yang menjadi perhatian pokok biasanya adalah tujuan 
+kurikuler, sedangkan pada SLB selain mempertimbangkan tujuan kurikuler juga perlu 
+memperhatikan tujuan khusus yang disesuaikan dengan keadaan atau kebutuhan 
+khusus anak.  Pada anak yang memiliki kelainan berat sebagian besar  tujuan 
+pengajarannya terfokus pada kebutuhan khususnya. Tujuan kurikuler dan tujuan 
+pengajaran di suatu sekolah bisanya dirumuskan dalam bentuk yang lebih luas dengan 
+target waktu yang lebih panjang. Di bawah ini adalah contoh rumusan pengajaran di 
+suatu SLB untuk anak tunagrahita. 
+      
+1. (Kognitif)  Dapat mengelompokkan obyek berdasarkan fungsinya 
+2. (Bahasa)  Dapat meningkatkan pemahaman kosa kata verbal 
+3. (Motorik) Dapat meningkatkan keterampilan motorik kasar pada tangan 
+4. (Sosial) Dapat berpartisipasi dalam kegiatan kelompok 
+5. (Maladaptif) Dapat mengurangi perilku meninggalkan kursi (out-of-seat) pada saat 
+mengikuti pelajaran 
+6. (Menolong diri)  Dapat menggunakan dan membuka sepatu yang menggunakan tali 
+ 
+14
+Sebagai  program modifikasi perilaku, tujuan pengajaran seperti pada contoh tersebut 
+belum operasional karena belum menunjukkan perilaku yang teramati dan terukur. Oleh 
+karena itu, guru masih perlu merumuskan kembali ke dalam rumusan  perilaku yang 
+terukur dan teramati, karena modifikasi perilaku target behaviornya selalu  diukur 
+secara kuantitatif. 
+ 
+Pemilihan satuan pengukuran variabel terikat sangat tergantung pada perilaku yang 
+ingin diubah serta tujuan pengajaran atau intervensinya. Misalnya, jika modifikasi 
+perilaku pada seorang siswa yang memiliki kemampuan membaca yang baik tetapi 
+waktunya sangat lambat, maka tujuan pengajaran  atau intervensinya adalah agar 
+jumlah kosa kata yang dibaca oleh siswa tersebut meningkat permenitnya. Seorang 
+siswa yang dapat membaca dengan cepat tetapi jumlah kosa kata yang dibaca banyak 
+yang salah, maka tujuan pengajarannya atau intervensinya  adalah agar jumlah atau 
+persentase kosa kata yang dibaca dengan benar (correct response) meningkat dengan 
+waktu yang sama.  
+ 
+Pemilihan variabel terikat secara langsung juga berhubungan dengan masalah 
+penelitian atau tujuan pengajaran atau intervensinya. Oleh karena itu, peneliti harus 
+hati-hati dan secara saksama mendefinisikan perilaku sasaran (terget behavior) yang 
+akan diteliti agar dapat diamati dan diukur secara tepat.  Pemilihan pengukuran 
+variabel terikat yang tidak tepat dapat menyebabkan hasil intervensi  atau pengajaran 
+tidak dapat dievaluasi secara tepat.  
+ 
+Karena dalam program modifikasi perilaku penentuan variabel terikat sangat terkait 
+dengan merumuskan tujuan pengajaran yang operasional, sebelum membahas 
+jenis-jenis ukuran untuk variabel akan dibahas sedikit tentang prinsip-prinsip 
+merumuskan tujuan pengajaran dalam bentuk perilaku sesuai dengan prinsip modifikasi 
+perilaku. Merumuskan tujuan pengajaran dalam bentuk perilaku yang spesifik dan 
+terukur di dalamnya harus mencakup menunjuk  subyek tertentu,  target perilaku, 
+kondisi intervensi, dan kriteria keberhasilannya.  Berikut ini adalah contoh rumusan 
+tujuan pengajaran yang mengandung komponen tersebut untuk pengajaran olah raga, 
+sosial, dan perilaku adaptif. 
+ 
+(1) Olah Raga 
+Dengan diberikan bola basket, Rudi dapat melempar bola ke dalam keranjang yang 
+berukuran diameter 30 cm dari jarak 3 meter sekurang-kurangnya 8 dari 10 kali 
+ 
+15
+lemparan (trial) dapat masuk ke keranjang sedikitnya 4 sesi secara berturut-turut. 
+ 
+(2) Sosial 
+Dalam kondisi duduk bersama  guru dan dua orang temannya saat mendengarkan 
+cerita, Hani akan memberikan respon secara verbal dan motorik yang tepat ketika 
+diberikan pertanyaan oleh guru minimal 3 kali dalam periode 10 menit untuk 5 sesi 
+berturut-turut.  
+ 
+(3) Perilaku Maladaptif 
+Pada periode waktu antara jam 9:00 sampai 9:30 dalam pelajaran di kelas, Tomi 
+bertahan duduk di kursi sekurang-kurangnya selama 5 hari berturut-turut.  
+ 
+Jenis-jenis Ukuran Variabel Terikat 
+Dalam memilih satuan ukuran untuk variabel terikat sangatlah penting para peneliti 
+mempertimbangkan tujuan pengajarannya. Jenis ukuran variabel terikat yang sering 
+digunakan pada modifikasi perilaku khususnya penelitian dengan subyek tunggal 
+antara lain, frekuensi, rate, persentase, durasi, latensi, magnitude, dan trial. Secara 
+lebih rinci berikut ini akan dibahas jenis-jenis satuan pengukuran tersebut. 
+ 
+Frekuensi 
+Frekuensi menunjukkan  berapa kali suatu peristiwa terjadi pada periode waktu 
+tertentu, misalnya berapa kali seorang anak autis melakukan kontak mata kepada 
+orang lain (misalnya teman sekelasnya) setiap lima menit selama belajar di kelas. 
+Frekuensi cocok digunakan jika pengamatan perilaku dilaksanakan dengan periode 
+waktu yang sama dari sesi ke sesi, misalnya siswa diminta untuk membaca 20 kosa 
+kata selama 10 menit setiap hari, maka jumlah kosa kata yang dibaca dengan benar 
+selama 10 menit tersebut dapat menjadi variabel terikat. Pada contoh ini baik jumlah 
+kosa kata dan lamanya waktu untuk membaca 20 kosa kata tersebut konstan yaitu 10 
+menit. 
+ 
+Frekuensi juga dapat digunakan untuk mengukur variabel terikat dimana perilaku yang 
+diukur dapat terjadi dalam jumlah tak terbatas jika periode pengukurannya telah 
+ditetapkan secara konstan. Misalnya peneliti menghitung jumlah kosa kata verbal yang 
+dikeluarkan oleh anak tunagrahita selama kegiatan makan bersama dalam periode 
+waktu 15 menit. 
+ 
+16
+Dalam penelitian subyek tunggal, istilah frekuensi  sering digunakan sama dengan 
+number atau sebaliknya. Dengan kata lain frekuensi dan number dapat dikatakan sama 
+yaitu bilangan yang  menunjukkan berapa kali suatu perilaku terjadi pada periode 
+waktu tertentu. 
+ 
+Persentase 
+Persen atau persentase merupakan satuan pengukuran variabel terikat yang sering 
+digunakan oleh peneliti dan guru untuk mengukur perilaku dalam bidang akademik 
+maupun sosial. Persen menunjukkan jumlah terjadinya suatu perilaku atau peristiwa 
+dibandingkan dengan keseluruhan kemungkinan terjadinya peristiwa tersebut 
+kemudian dikalikan dengan 100%.  Contoh: Seorang siswa diminta mengerjakan soal 
+matematika sebanyak 20 soal dalam waktu yang telah ditentukan misalnya selama 60 
+menit. Ternyata siswa tersebut dapat menjawab 15 soal dengan benar dan 5 soal 
+dijawab salah. Maka kalau dihitung persen jawaban benar (coorect response) siswa 
+tersebut adalah 15 dibagi 20 dikalikan 100% sama dengan 75%. 
+ 
+Rate 
+Rate hampir sama dengan frekuensi, yaitu bilangan yang menunjukkan banyaknnya 
+suatu kejadian dalam suatu periode waktu tertentu. Rate digunakan jika pengukuran 
+dilakukan pada periode waktu yang berbeda-beda. Misalnya seorang peneliti 
+mengamati terjadinya perilaku stereotype (menggosok-gosok mata) pada seorang anak 
+tunanetra pada hari ke1 selama 10 menit, hari ke 2 selama 7 menit, dan hari ke 3 
+selama 8 menit.  Adapun terjadinya perilaku stereotype tersebut selama tiga hari 
+masing-masing adalah 5, 2, 3 kali. Dengan demikian rate terjadinyan perilaku 
+stereotype anak tersebut adalah  10 dibagi 25  sama dengan 0.4 kali/menit. 
+ 
+Perbedaan antara rate dengan frekuensi adalah pada cara menyajikan datanya.  Rate 
+biasanya ditampilkan dalam bentuk banyaknya respon atau kejadian setiap menit atau 
+jam (satuan waktu). Sedangkan data frekuensi biasanya disajikan dalam bentuk 
+banyaknya respon atau kejadian dalam total waktu tertentu. 
+ 
+Rate cocok digunakan jika peneliti ingin mengetahui seberapa sering suatu kejadian 
+terjadi. Hal ini akan sangat berguna jika intervensinya ditujukan pada perilaku akademik 
+dan sosial. Contohnya: Judi 7 kali ke toilet perjam; Ali menyelesaikan 3 soal matematika 
+per menit; Joko melakukan tantrum 8 kali seminggu. 
+ 
+ 
+17
+Durasi  
+Durasi berguna untuk mengetahui berapa lama suatu kejadian atau menunjukkan 
+berapa lama waktu seseorang melakukan suatu perilaku (on-task). Contohnya: Badu 
+duduk di bangku  selama 30 menit; Ali mengerjakan soal matematika 20 menit; Joko 
+melakukan tantrum selama 45 menit. 
+ 
+Latensi  
+Latensi menunjukkan waktu yang diperlukan seseorang untuk melakukan perilaku 
+tertentu (behavior) setelah mendapat stimulus. Contohnya berapa menit Ani berhenti 
+melakukan tantrum setelah gurunya meminta dia untuk berhenti dengan mengatakan 
+“Ani jangan marah, mari kita bermain”  
+ 
+Magnitude  
+Magnitude merupakan satuan ukuran yang menunjukkan kulitas suatu respon. Yang 
+dimaksudkan respon adalah suatu kegiatan tertentu yang dapat diukur kualitasnya 
+dengan satuan tertentu baik menggunakan alat ukur  tertentu maupun tidak. 
+Contohnya berat badan Tono 45 kg; tinggi badan Rina 160 cm. 
+ 
+Trial  
+Trial merupakan ukuran variabel terikat yang menunjukkan banyaknya kegiatan (trial) 
+untuk mencapai suatu kreteria yang telah ditentukan. Jenis ukuran ini cocok untuk 
+digunakan pada penelitian yang intervensinya merupakan pengajaran praktek atau 
+mengikuti suatu kriteria tertentu. Misalnya, guru mengajarkan keterampilan koordinasi 
+mata dan tangan pada anak tunagrahita untuk memasukkan bola ke dalam keranjang. 
+Kriteria keterampilan melempar bola dianggap berhasil jika dapat memasukkan bola 
+dalam keranjang sebanyak 10 kali.  Toni dapat memasukkan bola ke dalam keranjang 
+5 kali pada sesi 1, sesi ke 2, 3, dan 4 masing-masing 6, 5, dan 10 kali, maka trial yang 
+dicapai Toni adalah 5, 6, 5, dan 10 masing-masing untuk sesi 1, 2, 3, dan 4. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+18
+Tabel 2-1 Rangkuman Satuan Ukuran Variabel Terikat 
+ 
+Jenis Ukuran 
+Definisi 
+Keterangan 
+Frekuensi 
+Perhitungan yang menunjukkan 
+berapa kali suatu peristiwa atau 
+kejadian (behavior) terjadi 
+Lamanya waktu 
+pengamatan sama untuk 
+setiap sesi 
+ 
+Persentase  
+Perbandingan antara banyaknya 
+suatu kejadian terhadap banyaknya 
+kemungkinan terjadingan kejadian 
+tersebut dikalikan seratus persen 
+Data diubah menjadi 
+satuan persentase 
+ 
+Rate 
+ 
+Banyak suatu kejadian dibagi dengan 
+satuan waktu tertentu 
+ 
+Mencacat banyaknya 
+kejadian dalam satuan 
+waktu tertentu (detik, 
+menit, jam dll) 
+Durasi 
+Lamanya waktu yang diperlukan untuk 
+melakukan suatu kegiatan 
+Menampilkan waktu yang 
+digunakan untuk 
+melakukan kegiatan dalam 
+persen 
+Latensi  
+Lamanya waktu untuk melakukan 
+suatu kegiatan setelah menerima 
+stimulus 
+ 
+Magnitude 
+Kualitas atau besarnya suatu respon 
+ 
+ 
+Trial  
+Banyaknya trial terhadap kriteria yang 
+telah ditentukan dalam melakukan 
+kegiatan tertentu 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+19
+Sistem Pencatatan Data  
+Menurut Tawney dan Gast (1984), seacara garis besar ada tiga macam prosedur 
+pencatatan data yang digunakan pada penelitian modifikasi perilaku, yaitu (1) 
+pencatatan data secara otomatis, (2) pencatatan data dengan produk permanen, dan 
+(3) pencatatan data dengan observasi langsung.  
+ 
+Pencacatan Otomatis 
+Pencacatan data dengan prosedur ini biasanya dilakukan dengan menggunakan 
+alat-alat teknologi yang moderen. Seiring penggunaan alat-alat moderen tersebut 
+hampir tidak dapat dipisahkan dengan penggunaan komputer.  Pencatatan data 
+dengan sistem komputerisasi memiliki kelebihan bahwa data dapat dicatat dengan 
+akurat dan tidak banyak mengandung resiko kesalahan pencacatatan sebagaimana 
+yang terjadi pada pencatatan secara langsung yang sering menimbulkan kesalahan 
+manusia (human eror). Di samping itu pencatatan dengan menggunakan komputer 
+waktunya lebih singkat dan dapat diolah dengan mudah. 
+ 
+Pencatatan data dengan prosedur ini digunakan misalnya untuk mengukur variabel 
+terikat (target behavior) yang tidak dapat diamati secara kasat mata misalnya detak 
+jantung sebagai parameter tingkat kecemasan, reaksi otot (reaction time), kekuatan otot 
+dan lain-lain. Alat-alat yang digunakan untuk mengukur varibel seperti itu dalam 
+penggunaannya biasanya memerlukan latihan khusus atau memerlukan bantuan 
+khusus dari para professional. Meskipun demikian, dengan kemajuan teknologi yang 
+pesat  tidak jarang guru-guru di suatu sekolah memiliki keterampilan untuk 
+menggunakan alat-alat tertentu dan komputer yang lebih canggih. 
+ 
+Pencatatan Dengan Produk Permanen 
+Pencatatan dengan produk permanen ini dilakukan terhadap variabel atau target 
+behavior yang dihasilkan oleh subyek  dimana datanya secara langsung berada pada 
+dokumen tertentu. Misalnya seorang peneliti atau guru meminta seorang siswa untuk 
+menyelesaikan soal matematika yang dikerjakan di lembar jawaban yang diberikan oleh 
+guru. Karena lembar jawaban telah disediakan maka guru dapat mencatat data 
+misalnya persen jawaban benar (percent correct response) dapat dilihat secara 
+langsung dari lembar jawaban. Lembar jawaban itulah yang dimaksud sebagai produk 
+permanen dalam hal ini.  Pada kegiatan lain seorang guru atau peneliti meminta 
+seorang siswa untuk menyelesaikan suatu puzle. Pada kegiatan ini guru atau peneliti 
+ 
+20
+dapat melihat ada berapa potongan puzle yang benar dan salah. Kemudian data 
+tersebut diubah menjadi persentase. Dengan demikian yang dimaksud dengan produk 
+permanen dalam hal ini adalah puzle tersebut.  
+ 
+Perlu ditegaskan kembali, mengambil contoh proses pencatatan data di atas, kertas 
+jawaban soal matematika, dan puzles yang telah dikerjakan semuanya merupakan 
+contoh produk permanen dalam pengukuran. Dari produk permanen inilah kemudian 
+data dicatat dan diolah. 
+ 
+Pencatatan data dengan prosedur ini sangat disarankan pada penelitian yang dilakukan 
+di seting kelas yang memfokuskan pada perilaku akademik. Lagi pula prosedur ini 
+memiliki beberapa kelebihan yaitu: cocok untuk penelitian di kelas yang memiliki 
+banyak siswa dimana guru tidak dapat mengamati secara langsung pada setiap anak. 
+Di samping itu kegiatan ini tidak mengganggu secara langsung kegiatan pengajaran di 
+kelas dan pencatatan data secara akurat serta dapat disimpan untuk dilakukan analisis 
+di kemudian waktu.  Obyektivitas yang cukup baik juga merupakan kelebihan lain dari 
+prosedur ini.   
+ 
+Pencatatan Dengan Observasi Langsung 
+Prosedur pencatatan ini adalah kegiatan observasi secara langsung yang dilakukan 
+untuk mencacatat data variabel terikat pada saat kejadian atau perilaku  terjadi. 
+Pencatatan semacam ini merupakan dasar utama pengukuran dalam penelitian 
+modifikasi perilaku. Ada beberapa jenis pencatatan data menggunakan prosedur 
+pencatatan secara langsung ini, yaitu: pencatatan kejadian, durasi, latensi, interval, dan 
+sampel waktu. 
+ 
+Pencatatan Kejadian 
+Pencatatan kejadian (menghitung frekuensi) merupakan cara yang paling sederhana 
+dan tidak memakan waktu yang banyak, yaitu dengan cara memberikan tanda (dengan 
+memberi tally) pada kertas yang telah disediakan setiap kejadian atau perilaku terjadi 
+sampai dengan periode waktu observasi yang telah ditentukan. Contoh formatnya  
+seperti di bawah ini.  
+ 
+ 
+ 
+ 
+ 
+21
+ 
+ 
+  Nama Subyek 
+: Ali       Tanggal: 15 Agustus 2005 
+  Pengamat 
+ 
+: Minarti   Perilaku: memukul teman 
+  Sesi ke 
+ 
+: (5) 
+  Waktu 
+ 
+: Mulai  08:30  Berakhir 09:00 =  Total  30 mn.  
+ 
+  Turus (tally) banyaknya kejadian 
+ 
+ 
+ 
+Banyaknya kejadian: 18 kali 
+ 
+ 
+ 
+ 
+     Nama Siswa 
+: Toni 
+     Pengamat 
+: Burhan 
+     Target behavior : Memukul teman 
+ 
+Tanggal 
+Waktu 
+start   -  stop 
+Tally terjadinya target 
+behavior 
+Total 
+Kejadian 
+15 
+Jan 
+2005 
+10:00    
+10:20 
+////  ////  // 
+12 
+16 
+Jan 
+2005 
+10:00    
+10:20 
+////  //// 
+9 
+ 
+ 
+Pencatatan Durasi   
+Pencatatan data durasi adalah pencatatan tentang berapa lama suatu kejadian atau 
+target behavior terjadi. Misalnya peneliti sedang mencatat durasi terjadinya perilaku 
+steretype (menggosok-gosok mata atau memukul kepala pada anak tunanetra). 
+Caranya adalah dengan menggunakan stopwatch: tekan tombol start pada saat 
+kejadian mulai dan tekan tombol stop pada saat kejadian selesai. Kemudian ketika ada 
+kejadian steretype lagi tekan lagi tombol start (tanpa di reset dulu) dan tekan tombol 
+stop pada saat perilaku steretype berhenti lagi. Lakukan cara ini sampai periode waktu 
+////  ////   ////   /// 
+ 
+22
+observasi yang telah ditentukan selesai. Kemudian catatlah waktu keseluruhan yang 
+tercatat pada stopwatch, waktu inilah yang disebut total durasi.  Sedangkan cara untuk 
+mencatat durasi untuk setiap kejadian (duration per occurrence) adalah: tekan tombol 
+start pada saat perilaku steretype mulai terjadi dan tekan tombol stop setalah perilaku 
+steretype berhenti. Tulislah pada kertas lain waktu yang tertera pada stop watch 
+kemudian baru tekan tombol reset. Ulangi cara ini sampai periode waktu yang telah 
+ditetapkan. Contoh format yang digunakan untuk mencatat durasi seperti format di 
+bawah ini. 
+ 
+ 
+ 
+     Nama Subyek 
+: Irfan 
+     Pengamat 
+ 
+: Efendi 
+     Target Behavior 
+: Membanting barang di kelas 
+ 
+ 
+Waktu 
+Tanggal 
+(sesi) 
+Mulai 
+Selesai 
+Durasi 
+20.09. 2005 07.15 
+07.17 
+2 mn 
+21.09.2005 
+08.00 
+08.05 
+5 mn 
+22.09.2005 
+07.20 
+07.24 
+4 mn 
+23.09.2005 
+08.10 
+08.18 
+8 mn 
+ 
+ 
+Pencatatan Interval  
+Pencatatan data interval sering digunakan pada penelitian di bidang modifikasi perilaku. 
+Cara ini dilakukan dengan membagi periode waktu observasi ke dalam interval waktu 
+yang lebih kecil dan mencacat kejadian yang terjadi pada setiap interval waktu tersebut. 
+Dalam menentukan interval waktu harus sesuai dengan target behavior yang sedang 
+diteliti, beberapa interval waktu yang sering digunakan antara lain 10 detik, 15 detik dan 
+biasanya tidak lebih dari 30 detik (Cooper, 1981 dalam Alberto dan Troutman, 1982: 
+113). Pencatatan dengan interval ini ada dua macam yaitu pencatatan terjadinya target 
+behavior (occurrence) dan pencatatan tidak terjadinya target behavior (nonoccurrence).  
+ 
+Untuk mencatat data interval ini, peneliti atau guru harus menyiapkan beberapa kotak 
+yang mewakili interval waktu tertentu. Dalam kotak atau interval waktu tersebut, peneliti 
+ 
+23
+atau guru membubuhkan tanda terjadi dan tidak terjadinya target behavior, misalnya 
+tanda (+) untuk terjadi dan (-) untuk tidak tejadi. Contoh format pencatatan data interval 
+dapat dilihat di bawah ini. 
+ 
+ 
+Nama Subyek  : Agus     Tanggal: 12 Juli 2005 
+Pengamat   
+ : Hastuti 
+ 
+ 
+ 
+Perilaku: Melakukan kerjaan 
+(on-task) 
+ 
+ 
+ 
+ 
+ 
+   
+Waktu: Mulai  10:15  Berakhir  08:25  = Total  10 mn 
+Kode : (○) terjadi     ( × ) tidak terjadi 
+ 
+ 
+15“ 
+15“ 
+15“ 
+15“ 
+1` 
+○ 
+○ 
+× 
+× 
+2` 
+× 
+× 
+○ 
+× 
+3` 
+× 
+○ 
+○ 
+○ 
+4` 
+○ 
+○ 
+× 
+× 
+5` 
+× 
+○ 
+× 
+○ 
+6` 
+○ 
+× 
+× 
+× 
+7` 
+○ 
+× 
+× 
+× 
+8` 
+× 
+○ 
+○ 
+× 
+9` 
+× 
+× 
+× 
+○ 
+10` 
+× 
+○ 
+○ 
+× 
+ 
+Banyaknya terjadi       17 
+Persentase   17:40 = 42.5% 
+Banyaknya tidak terjadi  23 
+Persentase   23:40 = 57.5% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+24
+ 
+ 
+ 
+Pencatatan Sampel Waktu  
+Pencatatan sampel waktu hampir sama dengan pencatatan interval. Bedanya pada 
+pencatatan interval pengamatan dilakukan secara terus menerus (continu) sepanjang 
+periode waktu observasi, sedangkan pada pencacatan sampel waktu, pengamatan 
+terjadi dan tidak terjadinya target behavior hanya dilakukan pada akhir setiap interval. 
+ 
+Misalnya pada penelitian dimana perilaku stereotype sebagai target behaviornya yang 
+diobservasi dengan video kamera selama 60 menit, maka prosedur pencatatan dengan 
+sampel waktu ini adalah,  total periode waktu pengamatan (60 menit) dibagi menjadi 
+12 sampel periode yaitu 1:00, 1:05, 1:10 sampai 1:55. Pengamatan terjadi atau tidaknya 
+target behavior dilakukan hanya pada periode waktu tersebut. Contoh formatnya seperti 
+di bawah ini.  
+ 
+ 
+ 
+Nama Subyek 
+: Arifin    Tanggal   : 10 Maret 2005 
+Pengamat  
+: Gunadi   Perilaku   : Meninggalkan tempat duduk 
+ 
+ 
+ 
+ 
+  Kondisi    : Mendengarkan cerita di 
+kelas 
+ 
+Waktu 
+Terjadi 
+Waktu 
+Terjadi 
+1:00 
+// 
+1:30 
+/ 
+1:05 
+/// 
+1:35 
+ 
+1:10 
+- 
+1:40 
+/ 
+1:15 
+/ 
+1:45 
+- 
+1:20 
+/// 
+1:50 
+// 
+1:25 
+// 
+1:55 
+/ 
+ 
+Total terjadi 16 
+ 
+ 
+Contoh lain misalnya seorang peneliti atau guru sedang mengamati terjadinya suatu 
+target behavior (misalnya keluar dari tempat duduk ketika belajar di kelas). Peneliti 
+ 
+25
+mengamati dengan periode waktu 30 menit yang dibagi menjadi interval 5 menit. Target 
+behavior terjadi 4 kali pada akhir interval ke 1, 2, 4 dan 5. Pada pelaksanaan 
+perekaman gambar dengan video kamera, dilakukan di dalam kelas sedemikian rupa 
+sehingga tidak mengganggu perhatian siswa. Setiap akhir periode interval (5 menit) 
+diberikan tanda dengan membunyikan bel. Format yang digunakan dapat berbentuk 
+seperti tabel di bawah ini. 
+ 
+ 
+Nama Subyek 
+: Ira   Tanggal: 6 Maret 2004 
+Pengamat  
+: Efendi  
+Target Behavior : Keluar dari tempat duduk 
+ 
+ 
+ 
+         
+ 
+ 
+ 
+ 
+Pencatatan Latensi  
+Pencatatan data latensi adalah pencatatan terhadap berapa lama waktu yang 
+diperlukan subyek untuk memulai suatu perilakur setelah mendapat stimulus. Dengan 
+kata lain prosedur ini adalah mengukur lamanya waktu antara pemberian stimulus dan 
+saat memulai suatu perilaku. Misalnya seorang peneliti atau guru meminta siswa 
+dengan mengatakan “Ali, duduklah” (antecedent stimulus) dan Ali melakukan perintah 
+itu, tetapi ia memerlukan waktu 5 menit sebelum duduk. Keadaan ini menunjukkan 
+bahwa latensi yang dapat dicatat adalah 5 menit. Adapun contoh format pencatatannya 
+adalah seperti berikut ini. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30 mn 
+5 
+10 
+15 
+20 
+25 
+Sesi 1 
+// 
+//// 
+/ 
+// 
+/// 
+Sesi 2 
+//// / 
+//// 
+/ 
+/ 
+ 
+26
+ 
+ 
+ 
+ 
+  Nama Subyek : Dani 
+  Pengamat 
+: Hasanudin 
+  Target Behavior: Duduk di kursi 
+ 
+ 
+Waktu 
+Sesi 
+Pemberian 
+stimulus 
+Mulai merepon 
+Latensi 
+1 
+10:15 
+10:20 
+5 mn 
+2 
+07:30 
+07:32 
+2 mn 
+3 
+08:00 
+08:06 
+6 mn 
+ 
+ 
+Untuk menentukan pencatatan data jenis mana yang akan digunakan prosedur yang 
+dilakukan adalah: 
+- 
+Apakah perilaku yang akan diukur dan dicatat memiliki dimensi waktu atau jumlah? 
+- 
+Jika memiliki dimensi jumlah, apakah datanya berupa deskret atau kontinyu? 
+- 
+Untuk data deskret gunakan pencatatan kejadian, sedangkan kalau kontinyu 
+gunakan pencatatan interval atau sampel waktu. Pencatatan kejadian digunakan 
+jika frekuensi kejadiannya banyak dan pengamatnya lebih dari satu orang. Bila 
+frekuensi kejadiannya sedikit dan pengamatnya hanya satu orang digunakan 
+pencatatan sampel waktu. 
+- 
+Untuk perilaku yang berdimensi waktu, jika pengukuran dilakukan dari saat 
+munculnya stimulus sampai saat melakukan perilaku digunakan pencatatan latensi. 
+Sedangkan jika yang dihitung lamanya melakukan perilaku yang digunakan 
+pencatatan durasi. Prosedur tersebut secara visual dapat digambarkan dengan 
+skema di bawah ini. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+27
+ 
+ 
+ 
+ 
+  Prosedur Pemilihan Sistem Pengukuran 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+diskret 
+kotinum 
+Pencatatan 
+Kejadian 
+Frekuensi kejadiannya 
+tinggi(pengamat lebih 
+dari satu orang) 
+Frekuensi kejadiannya rendah 
+sekurang-kurangnya satu 
+kejadian dalam 15 menit. 
+(pengamat satu orang) 
+Pencatatan 
+Interval 
+Sampel 
+Waktu 
+Dimensi Jumlah 
+Perilaku 
+(Behavior) 
+Saat munculnya 
+respon 
+Lamanya 
+melakukan perilaku 
+Pencatatan 
+Latensi 
+Pencatatan 
+Durasi 
+Dimensi Waktu 
+ 
+28
+ 
+ 
+ 
+Reliabilitas Pengukuran 
+Pengukuran data yang reliabel salah satu syarat mutlak yang harus dipenuhi dalam 
+penelitian. Reliabilitas data penelitian sangat menentukan kulitas hasil penelitian. Agar 
+hasil penelitian dapat dipercaya salah satu syaratnya adalah data penelitian tersebut 
+harus reliabel. Reliabilitas menunjukkan sejauh mana pengukuran data dapat diukur 
+secara tepat dan ajeg. Pengukuran di bidang ilmu alam pada umumnya reliabilitas 
+pengukurannya cukup baik karena alat ukurnya yang relatif baik. Misalnya panjang 
+suatu diameter yang kecil dengan menggunakan jangka sorong akan menghasilkan 
+data yang akurat dan ajeg tanpa dipengaruhi waktu dan ruang.  
+ 
+Tidak seperti pengukuran pada ilmu alam, pengukuran pada ilmu sosial dan psikologi 
+memerlukan perhatian yang serius dan hati hati untuk mendapatkan data yang reliabel. 
+Misalnya mengukur motivasi, kecerdasan, dan minat dapat tergantung pada instrumen 
+yang digunakan serta kondisi atau situasi dimana pengukuran di laksanakan. 
+Pengukuran aspek-aspek perilaku (behavior) seringkali tidak dapat dilakukan 
+menggunakan alat tertentu dan harus dilakukan secara langsung oleh manusia yang 
+mengandalkan ketelitian inderanya. Misalnya seorang peneliti yang sedang mengamati 
+perilaku anak autis dimana frekuensi kontak mata sebagai target behaviornya. Setelah 
+dilakukan perekaman video kemudian peneliti mengamatinya untuk periode waktu 
+tertentu. Jika pengamatan dilakukan oleh dua orang hasilnya bisa berbeda meskipun 
+video yang diamati sama. Seorang pengamat menemukan 15 kali terjadi kontak mata 
+sedangkan yang lain hanya 13 kali. Karena dalam penelitian modifikasi perilaku sering 
+melakukan pengukuran atau pencatatan data seperti itu, untuk mengetahui apakah 
+pencatatan data tersebut sudah reliabel atau belum perlu menghitung  persentase 
+kesepakatan (percent egrement) 
+ 
+Misalnya sebuah data penelitian yang dikumpulkan dengan cara mencatat terjadi atau 
+tidak terjadinya suatu target behavior pada periode waktu pengamatan yang dibagi 
+menjadi 10 interval yang dilakukan oleh 2 pengamat (observer) disajikan di bawah. 
+Menurut pengamat 1, pada interval 1, 4, dan 9  target behavior terjadi, sedangkan 
+menurut pengamat 2, target behavior terjadi pada interval 4, 6, dan 9 seperti terlihat 
+pada ilustrasi di bawah ini. 
+ 
+29
+ 
+ 
+ 
+ 
+Untuk menghitung percent agrement (persentase kesepakatan) dapat dilakukan 
+dengan menghitung persentase kesepakatan total (total percent agreement ) dengan 
+rumus seperti berikut. 
+ 
+%
+80
+100
+10
+6
+2
+int
+......%
+100
+=
++
+=
+=
+=
+=
++
+X
+erval
+banyaknya
+T
+t
+ceagreemen
+nonoccuren
+N
+agreement
+occurence
+O
+x
+T
+N
+O
+ 
+O (occurence agreement) adalah interval dimana target behavior terjadi dan terjadi 
+persamaan (agreement) antara observer 1 dan 2, dalam contoh di atas terjadi 2 kali 
+yaitu pada interval 4 dan 9. 
+N (nonoccurence agreement) adalah interval dimana terget behavior tidak terjadi 
+menurut kedua observer, untuk contoh data di atas terjadi sebanyak 6 kali yaitu pada 
+interval 2, 3, 5, 7, 8, dan 10.  
+T adalah banyaknya interval yang digunakan, dalam contoh data di atas adalah 10 
+interval. Oleh karena itu dengan menggunakan rumus di atas total agreement dapat 
+dihitung seperti berikut ini. 
+ 
+%
+80
+%
+100
+)
+6
+(
+)
+2
+(
+)
+2
+(
+=
++
+X
+N
+O
+O
+ 
+Berdasarkan data di atas diketahui bahwa total persen agrementnya adalah 80% 
+Untuk, menghitung occurence agreement yang digunakan adalah interval 1, 4, 6, dan 9 
+saja dimana target behavior terjadi baik pada observer 1 dan atau 2. Occurence 
+agreement dihitung dengan rumus: 
+Interval 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+Pengamat 1 
++ 
+- 
+ 
++ 
+- 
+- 
+- 
+- 
++ 
+- 
+Pengamat 2 
+- 
+- 
+- 
++ 
+- 
++ 
+- 
+- 
++ 
+- 
+ 
+30
+%
+100
+X
+nt
+disagreeme
+agreement
+agreement
++
+ 
+ 
+Pada data di atas dengan memperhatikan interval 1, 4, 6, dan 9 saja yang terjadi 
+agreement (kesepakatan) ada 2 yaitu interval 4 dan 9, sedangkan yang tidak terjadi 
+agreement juga ada 2 yaitu interval 1 dan 6. Dengan demikian dengan rumus tersebut 
+dapat dihitung: 
+ 
+%
+50
+%
+100
+)
+2
+(
+)
+2
+(
+)
+2
+(
+=
++
+X
+et
+disagreemn
+agreement
+agreement
+ 
+ 
+Jadi diketahui pada data tersebut occurence agreementnya adalah 50% 
+Jika target behavior terjadi lebih dari 75%, maka nonagreement occurence harus 
+dihitung. Untuk menghitung nonagreement perhatikan contoh data pada (Tabel 3.7)di 
+bawah ini. 
+ 
+ 
+Interval 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+Pengamat 1 
+- 
++ 
++ 
+- 
++ 
++ 
++ 
++ 
++ 
++ 
+Pengamat 2 
++ 
++ 
++ 
+- 
++ 
++ 
++ 
++ 
+- 
++ 
+ 
+Pada data tersebut  agrement (kesepakatan) antara observer 1 dan 2 terjadi sebanyak 
+8 kali dari total interval 10 kali (80%) atau lebih dari 75%, yaitu  pada interval 2, 3, 5, 6, 
+7, 8, dan 10. Oleh karena itu pada data ini nonoccurence agrement harus dihitung. 
+Adapun rumusnya sama dengan perhitungan untuk occurence agreement, tetapi yang 
+harus diperhatikan adalah interval dimana target behavior tidak terjadi pada salah satu 
+observer. Perhatikan interval 1, 4, dan 9, dari ketiga interval tersebut yang terjadi 
+persamaan sebanyak 1 kali yaitu pada interval 4, sedangkan yang terjadi tidak sama 
+(disagreement) sebanyak 2 kali yaitu pada interval 1 dan 9. Dengan demikian persen 
+nonoccurence dapat dihitung seperti di bawah ini. 
+ 
+%
+3.
+33
+%
+100
+)
+2
+(
+)1(
+)1(
+=
++
+X
+nt
+disagreeme
+greement
+agreement
+ 
+Jadi data tersebut memiliki nonoccurence agrement sebesar 33.3% 
+ 
+ 
+ 
+31
+ 
+ 
+ 
+ 
+ 
+ 
+Rangkuman 
+ 
+ 
+Variabel adalah suatu kondisi atau kejadian atau konsep yang memiliki variasi nilai. 
+Dalam penelitian eksperimen ada dua kategori variabel yaitu  variabel terikat dan 
+variabel bebas. Variabel terikat adalah variabel yang dipengaruhi oleh variabel bebas. 
+Sebaliknya variabel bebas adalah variabel yang mempengaruhi variabel terikat. Dalam 
+penelitian dengan subyek tunggal variabel terikat sering disebut target behavior dan 
+variabel bebas disebut intervensi.  
+ 
+Satuan ukuran variabel terikat dapat berupa, frekuensi, persentase, rate, durasi, latensi, 
+magnitude, atau trial sesuai dengan tujuan penelitian dan sifat variabelnya. Ada tiga 
+prosedur utama dalam pencatatan data variabel yaitu: pencatatan secara otomatis, 
+pencatatan dengan produk permanen, dan pencatatan dengan observasi langsung. 
+ 
+Ada beberapa tipe pencatatan data menggunakan prosedur pencatatan secara 
+langsung ini, yaitu: pencatatan kejadian, pencatatan durasi, latensi, interval, dan sampel 
+waktu. Urutan untuk menentukan tipe pencatatan ini adalah mula-mula pertimbangkan 
+apakah veriabel itu berdimensi jumlah atau waktu. Jika berdimensi waktu ada dua 
+pilihan datanya berbentuk diskret atau kontinyu, jika diskret gunakan frekuensi 
+(kejadian), jika kontinyu gunakan interval atau sample waktu. Untuk dimensi waktu ada 
+dua kemungkinan yaitu latensi, jika dihitung dari sejak timbulnya stimulus sampai saat 
+akan melakukan perilaku. Menggunakan durasi jika ingin mengukur berapa lama 
+perilaku berlangsung. 
+ 
+ 
+ 
+ 
+ 
+ 
+Rangkuman 
+ 
+32
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.  Buatlah definisi atau deskripsi pengertian variabel dengan kata-kata sendiri 
+_____________________________________________________________________ 
+_____________________________________________________________________ 
+_____________________________________________________________________ 
+ 
+2.  Pada pernyataan di bawah ini tunjukkan mana variabel bebas dan variabel   
+    terikatnya?.  
+ 
+a. Toni selalu marah dengan memukul temannya ketika suasana di kelas menjadi 
+gaduh. 
+b. Udara di dalam kelas yang panas menyebabkan Ali tidak dapat kosentrasi. 
+c. Frekuensi meninggalkan tempat duduk selama belajar dikelas berkurang karena 
+Dudi merasa ada teman yang sama-sama belajar di kelas.  
+ 
+a.  ___________________________   ________________________________ 
+b.  ___________________________   ________________________________ 
+c.  ___________________________   ________________________________ 
+ 
+3. Berikan sekurang-kurangnya 3 contoh target behavior yang diukur dengan frekuensi, 
+rate, dan durasi. 
+ 
+Frekuensi 
+________________________________________________________________ 
+________________________________________________________________ 
+________________________________________________________________ 
+ 
+Rate 
+Pertanyaan dan Tugas 
+ 
+33
+_________________________________________________________________ 
+_________________________________________________________________ 
+_________________________________________________________________ 
+ 
+ 
+Durasi 
+__________________________________________________________________ 
+__________________________________________________________________ 
+__________________________________________________________________ 
+ 
+4. Buatlah tiga rumusan tujuan pengajaran yang operasional sehingga teramati dan 
+terukur.  
+ 
+__________________________________________________________________ 
+__________________________________________________________________ 
+__________________________________________________________________ 
+__________________________________________________________________ 
+ 
+5. Bacalah setiap kondisi di bawah ini kemudian pilihlah termasuk jenis pengukuran 
+apakah variabel yang terkandung di dalamnya. Tulislah dalam kurung: durasi, latensi, 
+frekuensi, magnitude, trial, atau persentase.   
+ 
+a. Tono menangis selama 3 menit di kelas ( _____________) 
+ 
+b. Badu memukul temannya 3 kali selama pelajaran  
+bahasa Indonesia ( _____________ ) 
+ 
+c. Ardi  mau mengerjakan PR  5 menit setelah Ibunya mengatakan “Selesaikan PR 
+dulu, nanti boleh nonton TV” 
+( _____________ ) 
+ 
+d.Tini dapat memasukkan bola ke dalam keranjang minimal 6 kali dari sepuluh 
+kesempatan selama 6 hari berturut-turut ( _____________ ) 
+ 
+e. Dani dapat menendang bola sejauh 10 meter setelah diberikan latihan selama 2 
+minggu ( _____________ ) 
+ 
+ 
+34
+ 
+ 
+ 
+ 
+ 
+Bagaimana Membuat 
+Grafik? 
+ 
+ 
+ 
+ 
+Bab 3 
+Kegiatan pengajaran matematika di SLB C YPLB Bandung
+ 
+35
+Pengantar 
+Dalam proses analisis data pada penelitian subyek tunggal banyak mempresentasikan 
+data ke dalam grafik khususnya grafik garis. Oleh karena grafik memegang peranan 
+yang utama dalam proses analisis pada bab ini akan dibahas prinsip-prinsip umum 
+dalam membuat grafik. Pembuatan grafik memiliki dua tujuan utama yaitu, (1) untuk 
+membatu mengorganisasi data sepanjang proses pengumpulan data yang nantinya 
+akan mempermudah untuk mengevaluasi, dan (2) untuk memberikan rangkuman data 
+kuantitatif serta mendeskripsikan target behavior yang akan membatu dalam proses 
+menganalisis hubungan antara variabel bebas dan terikat. Dengan menampilkan grafik, 
+peneliti akan lebih mudah untuk menjelaskan perilaku subyek secara efisien, kompak, 
+dan detail. Di samping itu, grafik juga akan mempermudah untuk mengkomunikasikan 
+kepada pembaca mengenai urutan kondisi eksperimen, waktu yang diperlukan setiap 
+kondisi, menunjukkan variabel bebas dan terikat, disain yang digunakan, dan  
+hubungan antara variabel bebas dan terikat. 
+ 
+Ada empat prinsip dasar yang membantu agar grafik dapat mengkomunikasikan 
+informasi kepada pembaca, yaitu kejelasan, kesederhanaan, penampilan, dan 
+disainnya. Grafik yang baik akan (1) menampilkan secara jelas perbedaan antara setiap 
+data dan arahnya, (2) secara jelas memisahkan kondisi eksperimen, (3) menghindari 
+tumpang tindih dua data dalam satu grafik, (4) memberikan keterangan pada label dan 
+legend, dan (5) menggunakan proporsi dan skala yang tidak membingungkan pembaca. 
+Di samping itu, peneliti berkewajiban untuk memilih jenis grafik yang paling sesuai 
+dengan data yang ingin disampaikan. 
+ 
+Komponen Grafik 
+Sebelum membuat grafik guru perlu memahami komponen-komponen dasar grafik. 
+Beberapa komponen penting dalam grafik adalah absis, ordinat, titik awal, skala, dan 
+kabel. Dalam penelitian kasus tungga ada garis yang menunjukkan perubahan kondisi 
+misalnya dari fase baseline ke intervensi atau dari satu intervensi ke intervensi lain. 
+meliputi. Bentuk dasar grafik garis yang sering digunakan dalam penelitian modifikasi 
+umumnya seperti di bawah ini.  
+ 
+ 
+36
+0
+20
+40
+60
+80
+100
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+Absis(X)
+Ordinat(Y)
+Baseline
+Intervensi
+Judul
+Garis Perubahan kondisi
+ 
+ 
+Absis adalah sumbu X yang merupakan sumbu mendatar yang menunjukkan satuan 
+untuk variabel bebas (misalnya sesi, hari, tanggal) 
+ 
+Ordinat adalah sumbu Y merupakan sumbu vertikal yang menunjukkan satuan untuk 
+variabel terikat (misalnya persen, frekuensi, durasi). 
+ 
+Titik Awal merupakan pertemuan antara sumbu X  dengan sumbu Y sebagai titik awal 
+satuan variabel bebas dan terikat. 
+ 
+Skala garis-garis pendek pada sumbu X dan sumbu Y yang menunjukkan ukuran 
+(misalnya: 0%, 25%, 50%, 75%). 
+ 
+Label Kondisi, yaitu keterangan yang menggambarkan  kondisi eksperimen  
+misalnya baseline atau  intervensi 
+ 
+Garis Perubahan Kondisi yaitu garis vertikal yang menunjukkan adanya perubahan 
+kondisi ke kondisi lainnya. 
+ 
+Judul grafik judul yang mengarahkan perhatian pembaca agar segera diketahui 
+hubungan antara variabel bebas dan terikat.  
+ 
+37
+Grafik 3-1 dan grafik 3-2 merupakan grafik garis dan batang yang menunjukkan 
+komponen-komponen utama yang sering digunakan dalam penelitian modifikasi 
+perilaku. 
+ 
+ 
+ 
+ 
+0
+25
+50
+75
+100
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+Sesi
+Persen Kata Benar
+Persen Kata
+Benar
+Baseline
+Intervensi(1)
+data point
+jejak data
+skala
+titik awal
+garis pergantian kondisi
+Intervensi (2)
+garis perubahan
+fase intervensi
+ 
+ 
+                        Grafik 3-1 Komponen Utama Grafik Garis 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+38
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+20
+40
+60
+80
+100
+10 - 17 Jan 05
+11 - 18 Apr 05
+Tanggal
+Mean Persen Jawaban Benar
+Ekspresif
+Reseptif
+Pretes
+Postes
+skala
+garis perubahan kondisi
+titik awal
+absis
+ordinat
+ 
+                       
+ Grafik 3-2  Komponen Utama Grafik Batang 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+39
+Prinsip Membuat Grafik 
+Sebelum melakukan analisis visual pada grafik, penting sekali bagi guru atau peneliti 
+agar dapat mengevaluasi sesuai tidaknya format grafik yang akan digunakan untuk  
+menyajikan data. Fungsi utama grafik adalah mengkomunikasikan data kepada 
+pembaca tanpa menggunakan kata-kata. Untuk memenuhi hal tersebut peneliti harus 
+memilih tipe grafik yang paling sesuai  dan  menampilkan data secara jelas, lengkap, 
+dan konsisten. Bagaimana cara data ditampilkan dan bagaimana grafik dibuat secara 
+langsung akan mempengaruhi pemahaman pembaca untuk mengevaluasi hubungan 
+antara variabel terikat dan variabel bebas. Untuk mendapatkan grafik yang baik perlu 
+mengikuti beberapa petunjuk seperti berikut. Beberapa prinsip yang harus diperhatikan 
+untuk membuat grafik meliputi. 
+ 
+Absis dan Ordinat 
+Perbandingan yang dianggap paling baik antara ordinat dan absis adalah 2:3 karena 
+perbandingan ini dianggap paling sedikit mengandung kesalahan persepsi. Grafik 
+dengan ordinat terlalu panjang menyebabkan arah grafik yang menaik atau menurun 
+kelihatan terlalu tajam, sedangkan kalau absis yang terlalu panjang menyebabkan 
+sebaliknya kenaikan atau penurunan grafik tidak terlalu tampak. 
+ 
+Variabel Terikat 
+Variabel terikat atau target behavior selalu diletakkan pada ordinat (sumbu y). Dengan 
+demikian pada ordinat akan tertulis nama variabel terikat atau target behavior, misalnya 
+jumlah jawaban benar, waktu mengerjakan soal, kecepatan membaca dan lain-lain. 
+ 
+Judul dan Kondisi 
+Judul grafik harus dibuat dengan pertimbangan agar hubungan antara variabel terikat 
+dan bebas tampak jelas oleh pembaca. Di samping itu mana yang variabel terikat atau 
+bebas harus dapat segera diketahui. 
+ 
+Penampilan Data 
+Tampilan (skor) pada grafik harus menggunakan bentuk tertentu misalnya lingkaran, 
+segi tiga, atau kotak yang dapat dibedakan secara jelas untuk masing-masing target 
+behavior.  
+ 
+ 
+ 
+40
+Jejak Data  
+Jejak data harus menggunakan garis penuh (bukan putus-putus) untuk menunjukkan 
+bahwa setiap data berhubungan secara kontinyu. Bila garis putus-putus digunakan 
+berarti pada saat itu menunjukkan tidak terjadi kontinyuitas. 
+ 
+Label Kondisi 
+Label kondisi menunjukkan fase baseline dan fase intervensi. Label yang digunakan 
+biasanya A untuk baseline dan B untuk intervensi. Meskipun demikian ada variasi yang 
+lain atau langsung ditulis nama intervensinya atau kondisinya.  
+ 
+Garis Perubahan Kondisi 
+Untuk menunjukkan perubahan kondisi eksperimen dibatasi dengan garis vertikal 
+berbetuk garis penuh atau putus-putus. Garis ini harus dibuat vertikal ke atas dan harus 
+berada antara dua sesi. Data yang berada di depan dan di belakang garis pembatas 
+kondisi ini tidak dihubungkan. 
+ 
+Contoh Jenis-jenis Grafik 
+Ada tiga jenis grafik utama yang sering digunakan oleh peneliti di bidang modifikasi 
+perilaku yaitu grafik garis (poligon) grafik batang (histogram), dan grafik kumulatif. 
+Meskipun pada bab ini terutama hanya membahas grafik garis (poligon), dan grafik 
+batang (histogram), pembaca disarankan untuk mempelajari berbagai jenis grafik yang 
+lain.  
+ 
+Grafik Garis  
+Grafik garis biasanya digunakan untuk menampilkan data yang ditampilkan secara 
+kontinyu. Grafik garis mempunyai beberapa kelebihan, diantaranya yang paling penting 
+adalah sudah familier pada pembaca, dengan demikian mudah dibaca dan dipahami. 
+Selain itu, relatif mudah dibuat dan memungkinkan para guru dan peneliti untuk 
+mengevaluasi secara kontinyu efek intervensi terhadap variabel terikat. Dengan 
+demikian akan mempermudah untuk melakukan evaluasi formatif atau mengambil 
+keputusan untuk melanjutkan atau mengubah intervensi.  
+ 
+Contoh grafik garis dimana tiga target behavior (task relevant, off-task, disruptive) dapat 
+dilihat pada grafik 3.3. Untuk mempertahankan kejelasan dan kesederhanaan jarang 
+sekali lebih dari tiga target behavior ditampilkan dalam satu grafik bersama-sama. Jika 
+ 
+41
+ada target behavior yang lain atau non-target behavior yang dimonitor grafik tambahan 
+dapat dibuat tersendiri. 
+ 
+Grafik Batang  
+Grafik batang sering digunakan oleh peneliti untuk menampilkan data deskrit dan 
+membandingkan informasi. Grafik batang banyak variasinya, ada dua tipe grafik batang 
+yaitu, yang menampilkan satu batang dan yang menampilkan beberapa batang.  
+Grafik 3-4 menujukkan grafik batang tunggal yang dapat digunakan untuk menampilkan 
+satu target behavior dalam empat kondisi. Grafik 3-5 menunjukkan grafik batang yang 
+menggunakan dua batang untuk membandingkan antara kondisi sebelum latihan dan 
+setelah latihan dari empat subyek. Pada saat membuat grafik batang perlu diingat 
+bahwa lebarnya batang harus sama agar tidak menimbulkan kebingungan atau salah 
+tafsir para pembaca. 
+ 
+Grafik Kumulatif  
+Grafik kumulatif lebih jarang digunakan pada penelitian eksperimen subyek tunggal 
+dibandingkan grafik garis dan grafik batang. Meskipun demikian grafik kumulatif 
+merupakan grafik yang tepat untuk menyajikan kemajuan pencapaian siswa terhadap 
+tujuan pembelajaran. Grafik 3-7 menunjukkan grafik kumulatif yang digunakan untuk 
+membandingkan pencapaian target sebelum dan setelah training.  
+ 
+Grafik kumulatif mempunyai beberapa kelebihan bagi guru yang secara rutin memonitor 
+kemajuan siswa untuk mencapai tujuan pengajaran. Yang pertama, memberikan 
+gambaran yang jelas tentang kemajuan siswa dengan memberi warna pada bagian 
+yang menunjukkan target yang telah dicapai. Kedua, memberikan gambaran yang jelas 
+dalam evaluasi formatif. Ketiga, grafik ini cocok untuk mengevaluasi kemajuan siswa 
+dalam pencapaian tujuan pengajaran yang diberikan dalam bentuk task analisis. Ke 
+empat, mempermudah komunikasi antara guru kelas, orang tua, dan pihak lain yang 
+terkait. 
+ 
+ 
+ 
+ 
+ 
+ 
+42
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+1
+2
+3
+4
+5
+6
+7
+Persen Jawaban Benar
+Task Relevant
+Off -Task
+Disruptive
+Sesi
+ 
+                   Grafik 3-3 Grafik Garis Dengan Tiga Target Behavior 
+          
+0
+1
+2
+3
+4
+5
+6
+Preintervensi
+Intervensi
+Reversal
+Intervensi
+Kondisi
+Jumlah Tes
+ 
+            
+               Grafik 3-4 Contoh Grafik Batang Tunggal untuk Empat Kondisi 
+ 
+   
+ 
+43
+   
+ 
+ 
+              Grafik 3-5 Grafik Batang Membandingkan Dua Kondisi 
+ 
+ 
+0
+5
+10
+15
+20
+25
+25 Agt-14 Okt
+15 Okt-1 Nop
+2 Nop-24 Nop 25 Nop-10 Des
+Tanggal
+Frekuensi
+Talk-out
+Memukul
+Meninggalkan tempat
+ 
+            Grafik 3-6 Grafik Batang Menggunakan Beberapa Batang  
+ 
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+1
+Diana
+Pre Training
+Post Training
+0
+1
+2
+3
+4
+5
+6
+7
+1
+Yudi
+0
+1
+2
+3
+4
+5
+6
+7
+1
+Ali
+ 
+44
+ 
+ 
+ 
+                     Grafik 3-7 Contoh Grafik Kumulatif  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+1
+2
+3
+4
+5
+6
+7
+1
+Diana
+0
+1
+2
+3
+4
+5
+6
+7
+1
+Yudi
+0
+1
+2
+3
+4
+5
+6
+7
+1
+Ali
+Post Training
+Pre Training
+ 
+45
+Label Kondisi 
+Analisis 
+visual 
+terhadap 
+grafik 
+merupakan 
+metode 
+analisis 
+yang 
+sering 
+digunakanpenelitian subyek tunggal dibandingkan dengan analisis statistik itu sendiri. 
+Metode analisis visual, bagi guru memiliki beberapa keuntungan. Pertama, metode 
+analisis visual dapat digunakan untuk menganalisis data perorangan (individu) atau 
+kelompok kecil. Kedua, merupakan analisis yang progresif dimana data dikumpulkan 
+dan dianalisis secara kontinyu. Ketiga, dengan analisis visual dimungkinkan guru dapat 
+membuat data base selama program pengajaran. Ke empat, memfokuskan pada data 
+individu oleh karena itu berguna untuk pengajaran individu. Ke lima, dengan visual 
+analisis dimungkinkan menemukan temuan yang menarik di luar tujuan utama 
+penelitian (pengajaran). Ke enam, dengan menampilkan grafik perubahan variabel 
+terikat (target behavior) dalam hubungannya dengan variabel bebas (intervensi) dapat 
+terlihat dengan mudah. Ke tuju, dengan menganalisis semua subyek, untuk 
+menentukan efektivitas suatu intervensi kesalahan adanya underestimate dan 
+overestimate dapat dihindarkan. Dengan analisis visual terhadap grafik tidak banyak 
+tergantung pada deskritif naratif yang sering menimbulkan kesalahan penafsiran. 
+Dalam kepentingan analisis visual ini selalu digunakan huruf-huruf kapital seperti A, B, 
+BC, A-B untuk  menunjukkan kondisi penelitian.  
+ 
+Huruf A digunakan untuk menunjukkan kondisi Baseline dimana data dicatat beberapa 
+kali  dalam kondisi yang natural (sebelum mendapat intervensi). Kondisi baseline (A) 
+inilah yang sering ada di fase pertama dalam disain single subject dengan tujuan utama 
+untuk membandingkan data setelah diberikan intervensi. Huruf B) menujukkan 
+pengukuran target behavior dimana intervensi (pengajaran) telah diberikan. Dalam 
+disain subyek tunggal intervensi dapat bervariasi. Artinya dalam fase (B) intervensi, 
+mungkin saja diberikan lebih dari satu fase. Dalam hal seperti itu, variasi intervensi 
+diberikan tanda C, D, dan lain-lain yang digabung dengan B tanpa tanda hubung (BC, 
+BD, BCD).  Huruf kapital yang dihubungkan dengan tanda hubung (-) misalnya A-B, 
+A-B-C menunjukkan adanya pemisahan anatara kondisi satu dengan kondisi lain. 
+Dengan kata lain perubahan dari kondisi tertentu (misalnya baseline) ke kondisi 
+intervensi (B) ditandai dengan A-B. Huruf kapital dengan tanda petik tunggal (΄) atau 
+tanda petik rangkap ("), misalnya (B΄) dan (B") menunjukkan perbedaan intervensi 
+meskipin intervensi tersebut masih sama secara umum.  
+ 
+ 
+ 
+46
+Simbol lain yang sering digunakan adalah huruf kapital diikuti nomor tertentu misalnya 
+A1  B1.  Pada saat peneliti menggunakan disain A-B-A-B, karena ada pengulangan A 
+dan B maka digunakan simbol A1-B1-A2-B2.  
+ 
+ 
+Tabel 3-1  Rangkuman Penggunaan Simbol 
+ 
+Simbol 
+Keterangan 
+A 
+Kondisi baseline dimana intervensi belum diberikan 
+B 
+Intervensi pertama yang diberikan setelah baseline 
+C 
+Intervensi yang diberikan berikutnya 
+A-B 
+Perubahan kondisi dari A (baseline) ke B (intervensi) 
+BC 
+Intervensi yang menggabungkan antara B dan C 
+B΄- B΄΄- B΄΄΄ 
+Variasi dari intervensi B 
+A1-B1-A2-B2 
+Pengulangan baseline (A) dan interbensi (B) 
+ 
+Dengan mengikuti  prinsip-prinsip pembuatan grafik di atas berikut ini adalah contoh 
+data yang dapat dibuat grafik. Berdasarkan pada data pada tabel 3-2 buatkah grafik 
+garis (poligon) dan grafik batang (histogram) 
+ 
+ 
+Tabel 3-2 Contoh Data Membuat Grafik 
+ 
+Baseline  
+(A1) 
+Intervensi  
+(B1) 
+Baseline  
+(A2) 
+Intervensi  
+(B2) 
+sesi 
+% 
+sesi 
+% 
+sesi
+% 
+sesi 
+% 
+1 
+20 
+6 
+40 
+13 
+30 
+18 
+50 
+2 
+30 
+7 
+55 
+14 
+50 
+19 
+75 
+3 
+45 
+8 
+75 
+15 
+35 
+20 
+70 
+4 
+20 
+9 
+70 
+16 
+40 
+21 
+80 
+5 
+15 
+10 
+80 
+17 
+45 
+22 
+90 
+ 
+ 
+11 
+90 
+ 
+ 
+23 
+95 
+ 
+ 
+12 
+95 
+ 
+ 
+24 
+98 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rata-rata 
+26 
+ 
+72.1 
+ 
+40 
+ 
+79.7 
+ 
+47
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Baseline 
+(A1) 
+Baseline 
+(A2) 
+Intervensi 
+(B1) 
+Intervensi 
+(B2) 
+ 
+48
+ 
+Format untuk membuat grafik
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+49
+ 
+ 
+ 
+Grafik memiliki peranan penting pada saat menganalisis data dalam penelitian 
+modifikasi 
+perilaku 
+dengan 
+disain 
+subyek 
+tungga. 
+Grafik 
+berfungsi 
+untuk 
+mengkomunikasikan data kepada pembaca tanpa menggunakan kata-kata. Agar fungsi 
+tersebut tercapai peneliti harus memilih tipe grafik yang paling sesuai  agar data yang 
+disajikan dapat jelas, lengkap, dan konsisten. Ada tiga jenis grafik utama yang sering 
+digunakan oleh peneliti di bidang modifikasi perilaku yaitu grafik garis, batang, dan 
+kumulatif.  
+ 
+Komponen yang penting membuat grafik untuk penelitian modifikasi perilaku yang perlu 
+mendapat perhatian adalah perbandingan absis dan ordinat, menggunakan garis 
+perubahan kondisi, menggunakan label A untuk baseline dan B untuk intervensi, target 
+behavior terletak di ordinat.  
+ 
+Grafik garis digunakan untuk menampilkan data yang kontinyu. Grafik garis mempunyai 
+beberapa kelebihan, diantaranya sudah familier pada pembaca, dengan demikian 
+mudah dibaca dan dipahami. Selain itu, relatif mudah dibuat dan memungkinkan para 
+guru dan peneliti untuk mengevaluasi secara kontinyu efek intervensi terhadap variabel 
+terikat.  
+ 
+Grafik batang sering digunakan untuk menampilkan data deskrit dan membandingkan 
+informasi. Pada saat membuat grafik batang lebarnya batang harus sama agar tidak 
+menimbulkan kebingungan atau salah tafsir para pembaca. 
+Grafik kumulatif lebih jarang digunakan pada penelitian eksperimen subyek tunggal 
+dibandingkan grafik garis dan grafik batang. Meskipun demikian grafik kumulatif 
+merupakan grafik yang tepat untuk menyajikan kemajuan pencapaian siswa terhadap 
+tujuan pembelajaran.  
+ 
+Grafik kumulatif mempunyai beberapa kelebihan yaitu, memberikan gambaran yang 
+jelas tentang kemajuan siswa dengan memberi warna pada bagian yang menunjukkan 
+target yang telah dicapai. Kedua, memberikan gambaran yang jelas dalam evaluasi 
+formatif. Ketiga, grafik ini cocok untuk mengevaluasi kemajuan siswa dalam pencapaian 
+tujuan pengajaran yang diberikan dalam bentuk task analisis. Ke empat, mempermudah 
+komunikasi antara guru kelas, orang tua, dan pihak lain yang terkait. 
+Rangkuman 
+ 
+50
+ 
+ 
+ 
+ 
+1. Ada dua grafik yang utama digunakan dalam penelitian modifikasi perilaku yaitu 
+grafik garis dan grafik batang. Apakah perbedaan prinsipnya? 
+___________________________________________________________________ 
+___________________________________________________________________ 
+___________________________________________________________________ 
+ 
+2. Grafik garis juga disebut 
+ 
+a. poligon    b. Histogram   c. kumuilatif 
+ 
+3. Satuan ukuran variabel terikat (target behavior) dalam grafik garis selau diletakkan 
+pada 
+ 
+a. aksis      b. ordinat    c. label 
+ 
+ 
+4. Simbol huruf A sering digunakan untuk menyatakan  
+ 
+a. fase baseline      b. fase intervensi      c. variabel bebas 
+ 
+5. Masukkan huruf di depan kata-kata berikut ini pada kotak yang sesuai dalam grafik 
+ 
+a. Prosentasi Jawaban Benar 
+b. Minggu 
+c. Intervensi 
+d. Baseline 
+ 
+ 
+ 
+ 
+ 
+ 
+Pertanyaan dan Tugas 
+ 
+51
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6. Buatlag grafik garis menggunakan kertas yang disediakan di bawah untuk data pada 
+tabel berikut ini. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Baseline 
+Intervensi 
+sesi 
+Frekuensi
+sesi
+Frekuensi 
+1 
+25 
+6 
+10 
+2 
+15 
+7 
+8 
+3 
+20 
+8 
+8 
+4 
+18 
+9 
+11 
+5 
+20 
+10 
+12 
+ 
+ 
+11 
+6 
+ 
+ 
+12 
+7 
+ 
+ 
+13 
+5 
+ 
+ 
+14 
+4 
+ 
+ 
+15 
+2 
+ 
+ 
+ 
+ 
+ 
+52
+ 
+ 
+ 
+0
+4
+8
+12
+16
+20
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+53
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Disain Reversal 
+ 
+ 
+ 
+ 
+Bab 4 
+Alat latihan ADL di SLB C Laboratorium Universitas Tsukuba di Otsuka
+ 
+54
+Pengantar 
+Desain penelitian eksprimen secara garis besar dapat dibedakan menjadi dua 
+kelompok yaitu (1) desain kelompok (group design) dan (2) desain subyek tunggal 
+(single subject design). Disain kelompok memfokuskan pada data yang berasal dari 
+kelompok individu, sedangkan desain subyek tunggal memfokuskan pada data individu 
+sebagai sampel penelitian (Rosnow dan Rosenthal, 1999). Desain kelompok digunakan 
+untuk membandingkan kinerja (performance) antara kelompok individu. Dalam 
+perbandingan antar kelompok tersebut sering menggunakan skor rata-rata (mean) dari 
+variabel terikat yang sedang diteliti.  
+ 
+Dalam penelitian modifikasi perilaku, penggunaan skor individu lebih utama dari pada 
+skor rata-rata kelompok. Pada disain subyek tunggal pengukuran variabel terikat atau 
+target behavior dilakukan berulang-ulang  dengan periode waktu tertentu misalnya 
+perminggu, perhari, atau perjam. Perbandingan tidak dilakukan antar individu maupun 
+kelompok tetapi dibandingkan pada subyek yang sama dalam kondisi yang berbeda. 
+Yang dimaksud kondisi di sini adalah kondisi baseline dan kondisi eksperimen 
+(intervensi). Baseline adalah kondisi dimana pengukuran target behavior dilakukan 
+pada keadaan natural sebelum diberikan intervensi apapun. Kondisi eksperimen adalah 
+kondisi dimana suatu intervensi telah diberikan dan target behavior diukur di bawah 
+kondisi tersebut. Pada penelitian dengan disain subyek tunggal selalu dilakukan 
+perbandingan antara fase baseline dengan sekurang-kurangnya satu fase intervensi.  
+ 
+Disain penelitian pada bidang modifikasi perilaku dengan eksperimen kasus tunggal 
+secara garis besar ada dua kategori yaitu (1) Disain reversal yang terdiri dari empat 
+macam yaitu (a) disain A-B, (b) disain A-B-A, (c) disain A-B-A-B (DeMario dan Crowley, 
+1994), dan (2) Disain Multiple Baseline, yang terdiri dari (a) multiple baseline cross 
+conditions, (b) multiple baseline cross variabels, dan (c) multiple baseline cross subjects 
+(Johnson, dkk , 2005) . Pada bab ini akan dibahas disain reversal dengan tiga macam 
+disainnya. Sedangkan disain multiple baseline akan dibahas pada bab selanjutnya. 
+ 
+ 
+ 
+  
+ 
+55
+Disain A-B 
+Desain A-B merupakan disain dasar dari penelitian eksperimen subyek tunggal. 
+Prosedur disain ini disusun atas dasar apa yang disebut dengan logika baseline 
+(baseline logic). Dengan penjelasan yang sederhana, logika baseline menunjukkan 
+suatu pengulangan pengukuran perilaku atau target behavior pada sekurang-kurangnya 
+dua kondisi yaitu kondisi baseline (A) dan kondisi intervensi (B). Oleh karena itu, dalam 
+melakukan penenlitian dengan disain kasus tunggal akan selalu ada pengukuran target 
+behavior pada fase baseline dan pengulangannya pada sekurang-kurangnya satu fase 
+intervensi (Hasselt dan Hersen1981). Disain-disain yang lain dari kasus tunggal yang 
+lain sebenarnya merupakan variasi dan pengembangan dari disain A-B ini.  
+ 
+Prosedur utama yang ditempuh dalam disain A-B meliputi pengukuran target behavior 
+pada fase baseline dan setelah trend dan  level datanya stabil kemudian intervensi 
+mulai diberikan.  Selama fase intervensi target behavior secara kontinyu dilakukan 
+pengukuran sampai mencapai data yang stabil (Lovaas, 2003; Tawney dan Gast, 1984). 
+Jika terjadi perubahan target behavior pada fase intervensi setelah dibandingkan 
+dengan baseline, diasumsikan bahwa perubahan tersebut karena adanya pengaruh 
+dari variabel independen atau intervensi. Secara umum disain A-B mempunyai 
+prosedur dasarseperti digambarkan pada grafik 4-1. 
+ 
+Sesi (waktu)
+Target Behavior
+Baseline(A)
+Intervensi (B)
+    
+ 
+                       Grafik 4-1 Prosedur Dasar Disain A-B 
+ 
+ 
+ 
+56
+Pada disain A-B ini tidak ada replikasi (pengulangan) pengukuran dimana  fase 
+baseline (A) dan intervensi (B) masing-masing dilakukan hanya sekali untuk subyek 
+yang sama. Oleh karena itu, dengan disain ini tidak dapat disimpulkan atau tidak ada 
+jaminan bahwa perubahan pada target behavior disebabkan semata-mata oleh variabel 
+bebas (intervensi). Dengan kata lain karena tidak ada pengukuran ulang pada fase 
+baseline maupun fase intervensi sehingga tidak bisa membandingkan masing-masing 
+kondisi tersebut. Dengan demikian tidak dapat dipastikan adanya pengaruh intervensi 
+terhadap variabel terikat (target behavior), sehingga dimungkinkan perubahan pada 
+target behavior juga dipengaruhi oleh faktor atau variabel lain yang tidak terkontrol. 
+Faktor-faktor tersebut bisa terjadi karena faktor alamiah misalnya faktor kematangan. 
+ 
+Untuk meningkatkan validitas penelitian menggunakan disain A-B, ada beberapa hal 
+yang perlu mendapat perhatian yaitu: 
+- 
+Mendefinisikan target behavior sebagai perilaku yang dapat diukur secara 
+akurat 
+- 
+Melaksanakan pengukuran dan pencatatan data pada kondisi  baseline (A) 
+secara kontinyu sekurang-kurangnya 3 atau 5 kali (atau sampai trend dan level 
+data diketahui secara jelas) 
+- 
+Memberikan intervensi (B) setelah kondisi baseline stabil 
+- 
+Melakukan pengukuran target behavior pada kondisi intervensi (B) secara 
+kontinyu selama periode waktu tertentu  sampai trend dan level data menjadi 
+stabil  
+- 
+Menghindari mengambil kesimpulan adanya hubungan fungsional (sebab 
+akibat) antara variabel terikat dengan variabel bebas (Tawney dan Gast,1984). 
+ 
+Agar mendapat gambaran yang lebih jelas dalam mengimplementasikan disain ini, 
+berikut akan diberikan ilustrasi pelaksanaan  penelitian dengan menggunakan disain 
+A-B.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+57
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Data penelitian yang dikumpulkan seperti terlihat pada tabel 4-1 dan hasil penelitiannya 
+disajikan pada grafik 4-2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ilustrasi 1 
+Seorang guru atau peneliti melakukan penelitian tentang 
+keterampilan membaca suatu bacaan yang menekankan pada pemahaman 
+isi bacaan. Dengan demikian target behavior penelitian ini adalah 
+kemampuan memahami isi bacaan. Selanjutnya memahami isi bacaan 
+dimaknai secara sederhana seberapa banyak subyek dapat menjawab 
+pertanyaan tentang bacaan yang telah dibacanya. Dengan kata lain satuan 
+ukuran target behavior penelitian ini adalah  banyaknya jawaban benar 
+(correct response).  
+Pengukuran data pada kondisi baseline (A) dilakukan setiap hari 
+selama 5 hari, sedangkan pengukuran pada kondisi intervensi (B) juga 
+dilakukan selama 5 hari. Intervensi yang diberikan adalah memberikan 
+waktu bebas selama 2 menit setiap siswa dapat menjawab benar pertanyaan 
+sebagai reward dan kemudian dilanjutkan memberikan pertanyaan lagi.  
+ 
+ 
+58
+Tabel 4-1 Data Penelitian Pada Disain A-B 
+ 
+Baseline 
+Sesi 
+          Jumlah Jawaban Benar 
+             (correct response) 
+1 
+2 
+2 
+1 
+3 
+0 
+4 
+2 
+5 
+1 
+Intervensi 
+Sesi 
+ 
+6 
+5 
+7 
+6 
+8 
+4 
+9 
+8 
+10 
+6 
+ 
+ 
+0
+2
+4
+6
+8
+10
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Sesi (Hari)
+Jumlah Jawaban Benar
+Baseline (A)
+Intervensi (B)
+ 
+Grafik 4-2 Hasil Penelitian Dengan Disain A-B 
+ 
+ 
+ 
+ 
+59
+Disain A-B-A 
+Desain A-B-A merupakan salah satu pengembangan dari disain dasar A-B, disain A-B-A 
+ini telah menunjukkan adanya hubungan sebab akibat antara variabel terikat dan 
+variabel bebas. Prosedur dasarnya tidak banyak berbeda dengan disain A-B, hanya 
+saja telah ada pengulangan fase baseline. Mula-mula target behavior diukur secara 
+kontinyu pada kondisi baseline (A1) dengan periode waktu tertentu kemudian pada 
+kondisi intervensi (B). Berbeda dengan disain A-B, pada disain A-B-A  setelah 
+pengukuran pada kondisi intervensi (B) pengukuran pada kondisi baseline kedua (A2) 
+diberikan. Penambahan kondisi baseline yang kedua (A2) ini dimaksudkan sebagai 
+kontrol untuk fase intrvensi sehingga memungkinkan untuk menarik kesimpulan adanya 
+hubungan fungsional antara variabel bebas dan variabel terikat. Hampir sama dengan 
+struktur disain A-B, struktur dasar disain A-B-A adalah seperti grafik 4-3  
+ 
+ 
+ 
+Sesi (waktu)
+Target Behavior
+Baseline(A)
+Intervensi (B)
+Baseline(A)
+ 
+ 
+Grafik 4-3 Prosedur Dasar Disain A-B-A 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+60
+Untuk mendapatkan validitas penelitian yang baik, pada saat melakukan eksperimen 
+dengan disain A-B-A, peneliti perlu memperhatikan beberapa hal berikut ini. 
+- 
+Mendefinisikan target behavior sebagai perilaku yang dapat diukur secara 
+akurat 
+- 
+Mengukur dan mengumpulkan data pada kondisi baseline (A1) secara kontinyu 
+sekurang-kurangnya 3 atau 5 atau sampai trend dan level data menjadi stabil 
+- 
+Memberikan intervensi setelah trend data baseline stabil 
+- 
+Mengukur dan mengumpulkan data pada fase intervensi (B) dengan periode 
+waktu tertentu sampai data menjadi stabil 
+- 
+Setelah kecenderungan dan level data pada fase intervensi (B) stabil 
+mengulang fase baseline (A2) 
+ 
+Untuk memberikan gambaran yang lebih jelas bagaimana penelitian dengan desain 
+A-B-A dilaksanakan, akan diberikut ilustrasi sebagai berikut. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ilustrasi 2 
+Seorang peneliti atau guru ingin meningkatkan jumlah kosa 
+kata verbal seorang anak autis pada saat bermain bersama dengan 
+teman sekelasnya. Dengan demikian target behavior dalam 
+penelitian ini adalah kosa kata verbal yang akan diukur dengan 
+menghitung berapa banyak kosa kata yang diucapkan subyek pada 
+saat bermain bersama teman.  
+Pencatatan data target behavior dilakukan selama 5 hari 
+untuk fase baseline (A1), 8 hari untuk fase intervensi (B), dan 5 hari 
+lagi untuk fase baseline kedua (A2). Setiap hari dilakukan 
+perekaman data menggunakan video kamera selama 50 menit pada 
+saat subyek sedang bermain di kelas.  
+Adapun intervensi yang diberikan adalah peneliti atau guru 
+memberikan mainan yang disukai oleh subyek setiap kali berhasil 
+mengucapkan  kosa kata dengan benar.  
+ 
+ 
+61
+Data ilustrasi tersebut ditampilkan pada tabel 4-2 dan grafik hasil penelitian yang 
+didasarkan pada tabel di atas setelah dibuat grafik tampak seperti pada grafik 4-4.   
+ 
+ 
+Tabel 4-2 Data Penelitian Pada Disain A-B-A 
+ 
+Baseline (A1) 
+Sesi 
+Jumlah 
+Kosa kata Verbal 
+1 
+3 
+2 
+1 
+3 
+4 
+4 
+3 
+5 
+2 
+Intervensi (B) 
+Sesi 
+ 
+1 
+3 
+2 
+5 
+3 
+2 
+4 
+6 
+5 
+8 
+6 
+5 
+7 
+8 
+8 
+10 
+Baseline (A2) 
+Sesi 
+ 
+1 
+2 
+2 
+3 
+3 
+4 
+4 
+1 
+5 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+62
+ 
+ 
+0
+2
+4
+6
+8
+10
+12
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+Sesi
+Jumlah Kata Verbal
+Baseline
+    (A1)
+Intervensi
+    (B1)
+Baseline
+    (A2)
+ 
+ 
+                      Grafik 4-4 Hasil Penelitian Dengan Disain A-B-A 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+63
+Disain A-B-A-B 
+Disain A-B-A-B menunjukkan adanya kontrol terhadap variabel bebas yang lebih kuat 
+dibandingkan dengan disain A-B-A. Oleh karena itu validitas internal lebih meningkat 
+sehingga hasil penelitian yang menunjukkan hubungan fungsional antara variabel 
+terikat dan bebas lebih meyakinkan. Dengan membandingkan dua kondisi baseline 
+sebelum dan sesudah intervensi keyakinan adanya pengaruh intervensi lebih dapat 
+diyakinkan. 
+ 
+Pada desain A-B-A-B ini langkah pertama adalah mengumpulkan data target behavior 
+pada kondisi baseline pertama (A1). Setelah data menjadi stabil pada kondisi baseline, 
+intervensi (A1) diberikan. Pengumpulan data pada kondisi intervensi dilaksanakan 
+secara kontinyu sampai data mencapai trend dan level yang jelas. Setelah itu 
+masing-masing kondisi yaitu baseline (A1) dan intervensi (B1) diulang kembali pada 
+subyek yang sama. Prosedur utama disain A-B-A-B ini secara visual dapat 
+digambarkan seperti grafik 4-5. 
+ 
+ 
+Sesi (waktu)
+Target Behavior
+Baseline(A)
+Intervensi (B)
+Baseline(A)
+Intervensi (B)
+ 
+ 
+Grafik 4-5 Prosedur Dasar Disain A-B-A-B 
+ 
+ 
+Untuk memberikan gambaran yang lebih jelas penggunaan disain A-B-A-B ini akan 
+diberikan ilustrasi seperti berikut.  
+ 
+64
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Data penelitian tersebut disajikan pada tabel 4-3 dan hasil penelitiannya disajikan pada 
+grafik 4-6.  
+ 
+ 
+Ilustrasi 3 
+Seorang guru ingin mengubah perilaku seorang anak yang 
+berperilaku agresif yaitu sering memukul teman atau bahkan gurunya di 
+kelas.  Peneliti atau guru ingin memperbaiki perilaku agresif anak 
+tersebut dimana frekuensi memukulnya ingin dikurangi atau bahkan 
+ditiadakan. Oleh karena itu yang menjadi target behavior adalah jumlah 
+atau banyaknya (frekuensi) perilaku memukul teman.  
+Untuk mengukur berapa banyak subyek memukul temannya 
+digunakan pencatatan data kejadian (event recording) dengan merekam 
+kegiatan subyek  di kelas selama 2 jam setiap hari.  Pencatatan data 
+pada fase baseline (A1) selama 15 hari, intervensi (B1) 10 hari, baseline 
+kedua (A2) 8 hari, dan intervensi kedua (B2) 8 hari. Intervensinya disebut 
+contingent exercise dengan prosedur sebagai berikut: 
+(1) Peneliti atau guru akan memberikan peringatan pada subyek pada saat 
+subyek memukul teman dengan meminta meminta subyek melakukan 
+duduk dan berdiri sebanyak 10 kali dengan mengatakan,”Anton, 
+jangan memukul. Lakukan duduk dan berdiri 10 kali” 
+(2) Jika, Aton tidak mengikuti permintaan no.(1) peneliti atau guru 
+menggunakan perintah yang lebih tegas disertai gerakan tubuh. 
+Gerakan tubuh digunakan jika subyek tidak menghiraukan perintah 
+verbal. 
+(3) Jika perintah no.(2) juga tidak dihiraukan, peneliti atau guru akan 
+memberikan perintah yang lebih tegas lagi yaitu menyuruh dengan 
+menggunakan kata yang lebih keras ”Duduk!”, ”Berdiri!” seperti 
+perintah dalam latihan fisik. 
+ 
+65
+Tabel 4-3 Data Penelitian Pada Disain A-B-A-B 
+ 
+Hari ke 
+ 
+Baseline
+(A1) 
+ 
+Hari ke 
+Intervensi
+(B1) 
+Hari ke
+Baseline
+(A2) 
+Hari ke 
+Intervensi
+(B2) 
+1 
+10 
+18 
+11 
+28 
+0 
+36 
+3 
+2 
+9 
+19 
+8 
+29 
+0 
+37 
+2 
+3 
+10 
+20 
+2 
+30 
+1 
+38 
+2 
+4 
+14 
+21 
+0 
+31 
+0 
+39 
+0 
+5 
+15 
+22 
+0 
+32 
+0 
+40 
+2 
+6 
+5 
+23 
+0 
+33 
+5 
+41 
+0 
+7 
+34 
+24 
+0 
+34 
+20 
+42 
+1 
+8 
+35 
+25 
+0 
+35 
+19 
+43 
+0 
+9 
+25 
+26 
+0 
+ 
+ 
+ 
+ 
+10 
+60 
+27 
+1 
+ 
+ 
+ 
+ 
+11 
+45 
+ 
+ 
+ 
+ 
+ 
+ 
+12 
+20 
+ 
+ 
+ 
+ 
+ 
+ 
+13 
+29 
+ 
+ 
+ 
+ 
+ 
+ 
+14 
+28 
+ 
+ 
+ 
+ 
+ 
+ 
+15 
+30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+66
+0
+10
+20
+30
+40
+50
+60
+70
+0
+5
+10
+15
+20
+25
+30
+35
+40
+Hari
+Jumlah Pukulan
+Baseline
+   (A1)
+Baseline
+   (A1)
+Intervensi
+   (B1)
+Intervensi
+   (B2)
+                    Grafik 4-6 Hasil Penelitian Dengan Disain A-B-A-B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+67
+ 
+ 
+ 
+ 
+Ada dua kelompok disain subyek tunggal yang digunakan dalam penelitian modifikasi 
+perilaku. yaitu disain reversal dan disain multiple baseline. Disain reversal memiliki tiga 
+macam disain utama, yaitu disain A-B, A-B-A, dan A-B-A-B. Meskipun demikian ada 
+juga beberapa disain variasi dari disain utama tersebut.   
+ 
+Desain A-B merupakan disain dasar penelitian subyek tunggal dimana prosedurnya 
+disusun atas dasar logika baseline (baseline logic). Logika baseline menunjukkan 
+suatu pengulangan pengukuran perilaku pada sekurang-kurangnya dua kondisi 
+eksperimen misalnya kondisi baseline (A) dan kondisi intervensi (B).  
+ 
+Desain A-B-A merupakan pengembangan dari disain dasar A-B dimana pengukuran 
+fase baseline diulang dua kali. Prosedur dasarnya adalah pengukuran pada fase 
+baseline (A1) kemudian pada kondisi intervensi (B) dan pengukuran kembali pada fase 
+baseline.  
+ 
+Disain A-B-A-B menunjukkan adanya kontrol terhadap independen yang lebih kuat 
+dibandingkan disain A-B-A. Oleh karena itu validitas internal lebih meningkat sehingga 
+hasil penelitian yang menunjukkan hubungan fungsional antara variabel terikat dan 
+bebas lebih meyakinkan. Desain A-B-A-B adalah pengulangan dari disain A-B.  
+Dengan prosedur ini dimungkinkan ditarik kesimpulan adanya hubungan sebab akibat. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rangkuman 
+ 
+68
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Dari ilustrasi di atas tuliskan variabel terikat dan variabel bebasnya. 
+ 
+a. Variabel Terikat  
+: ______________________________ 
+(target behavior) 
+ 
+b. Variabel Bebas 
+: ______________________________ 
+(intervensi) 
+ 
+2. Dari ilustrasi di atas data yang dapat dicatat oleh Pak. Burhan disajikan pada tabel di 
+bawah ini. Dengan data tersebut buatlah grafiknya menggunakan kertas yang 
+disediakan. 
+ 
+ 
+ 
+Pertanyaan dan Tugas 
+Ilustrasi 4 
+Pak. Burhan seorang guru di SLB sedang memberikan 
+program latihan bagi Ardi untuk menghafal kosa kata. Pak. Burhan 
+melatih Ardi di ruangan khusus dengan menggunakan pasangan kartu 
+kata dan bunyi tertentu. Proses yang dilakukan adalah Pak Burhan 
+menunjukkan pasangan satu kosa kata dengan tiga gambar satu 
+diantaranya sesuai dengan kosa kata tersebut. Ardi diminta untuk 
+menunjuk gambar yang sesuai dengan kosa kata tersebut. Setiap Ardi 
+menunjuk gambar dengan benar Ardi boleh mendengarkan lagu yang 
+disukai sebagai penguat (reinforcement). Di samping itu pujian verbal 
+dan tepuk tangan juga diberikan. Sebelum latihan, Pak. Burhan telah 
+mengobservasi kemampuan menghafal kosa kata Ardi selama 5 kali.  
+ 
+69
+ 
+Sesi 
+Baseline (A) 
+(%) 
+Sesi
+Intervensi (B) 
+(%) 
+1 
+25 
+6 
+40 
+2 
+10 
+7 
+60 
+3 
+15 
+8 
+50 
+4 
+20 
+9 
+75 
+5 
+15 
+10 
+80 
+ 
+ 
+11 
+90 
+ 
+ 
+12 
+85 
+ 
+ 
+13 
+95 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Baseline 
+Intervensi
+ 
+70
+3. Setelah mengisi rancangan grafik di atas buatlah grafik sebenarnya menggunakan 
+format yang disediakan di bawah ini. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+71
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Disain Multiple Baseline 
+ 
+ 
+  
+ 
+ 
+ 
+Bab 5 
+Kegiatan intervensi pada anak autis di SLB C YPLB Bandung
+ 
+72
+Pengantar 
+Disain multilpe baseline mula-mula diperkenalkan oleh Baer, Wolf, dan Risley (1968), 
+sejak itu disain ini digunakan secara luas di lingkungan pendidikan. Disain multiple 
+baseline digunakan jika pengukuran pada fase baseline diulang pada variabel, kondisi, 
+atau subyek. Ada tiga variasi dalam disain multiple baseline yaitu, (1) disain multiple 
+baseline cross variables, (2) disain multiple baseline cross conditions, dan (3) disain 
+multiple baseline cross subjects.  
+ 
+Disain multiple baseline merupakan disain yang memiliki validitas internal yang lebih 
+baik dari disain yang lain. Disain ini memberikan kontrol yang ketat terhadap kondisi 
+eksperimen atau intervensi, dengan demikian kesimpulan pada penelitian dengan 
+desain multiple baseline ini memungkinkan hasil yang menunjukkan adanya hubungan 
+fungsional (sebab akibat) antara variabel bebas dengan variabel terikat. Kontrol yang 
+ketat terhadap kondisi eksperimen ditunjukkan dengan prosedur dasar dimana peneliti 
+mula-mula mengumpulkan data baseline secara simultan pada tiga atau lebih (varibel, 
+kondisi, atau subyek). Setelah data baseline mencapai trend dan level stabil intervensi 
+mulai diberikan kepada (variabel, kondisi, atau subyek) yang pertama. 
+ 
+Secara logika target behavior  (variabel, kondisi, atau subyek) yang pertama ini akan 
+berubah, sementara target behavior untuk (variabel, kondisi, atau subyek) yang lain 
+masih tetap stabil seperti keadaan semula. Jika target behavior untuk (variabel, kondisi, 
+atau subyek) yang pertama telah stabil dan mencapai kriteria tertentu, intervensi 
+kemudian diberikan pada (variabel, kondisi, atau subyek) kedua sambil intervensi untuk 
+(variabel, kondisi, atau subyek) pertama tetap dilanjutkan dan pada (variabel, kondisi, 
+atau subyek) ketiga masih tetap dalam kondisi baseline. Setelah data terget behavior 
+(variabel, kondisi, atau subyek) ke dua juga mencapai kriteria tertentu dan stabil 
+intervensi untuk (variabel, kondisi, atau subyek) ke tiga mulai diberikan. Demikian 
+selanjutnya sampai semua (behavior, kondisi, atau subyek) mendapat intervesi. Secara 
+umum prosedur ketiga disain multiple baseline ini dapat digambarkan pada grafik 5-1.  
+ 
+ 
+ 
+ 
+ 
+ 
+73
+ 
+ 
+Grafik 5-1 Prosedur Dasar Disain Multiple Baseline 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Target Behavior
+Baseline(A)
+Intervensi (B)
+Target Behavior
+Target Behavior
+Sesi 
+ 
+74
+ 
+Pada penelitian yang menggunakan disain multiple baseline peneliti harus 
+memperhatikan enam hal sebagai petunjuk berikut ini. 
+(1) Merumuskan tujuan sebelum memulai penelitian 
+(2) Memberikan intervensi setelah  data pada fase baseline level dan trendnya 
+stabil 
+(3) Memberikan intervensi pada fase baseline yang lain setelah data  pada fase 
+intervensi pertama  mencapai level tertentu sesuai dengan kriteria yang 
+ditentukan 
+   (4) Menentukan tiga target  atau lebih pada fase baseline 
+(5) Mengupayakan agar ketiga fase baseline benar-benar independen terhadap 
+satu dengan yang lain untuk menghindari adanya pencampuaradukan pengaruh 
+intervensi 
+(6) Mengupayakan kondisi baseline yang sama untuk menghindari intervensi yang 
+tidak konsisten 
+ 
+Disain Multiple Baseline Cross Variables 
+Disain multiple baseline cross variables ini digunakan jika peneliti atau guru ingin 
+mengubah perilaku dengan suatu intervensi dimana intervensi tersebut diperkirakan 
+dapat memberikan efek terhadap dua atau lebih target behavior. Meskipun demikian 
+target behavior tersebut harus saling independent agar dapat diketahui efek intervensi 
+tersebut terhadap masing-masing target behavior. 
+ 
+Sebagaimana telah dijelaskan di atas bahwa prosedur disain multiple baseline cross 
+variables sama dengan multiple baseline cross yang lain. Pada cross variables 
+efektivitas suatu intervensi dikontrol dengan kondisi baseline untuk masing-masing 
+target behavior. Prosedur tersebut dapat digambarkan secara visual seperti Grafik 5-2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+75
+ 
+ 
+Grafik 5-2 Prosedur Dasar Disain Multiple Baseline Cross Variables 
+ 
+ 
+Agar mendapat gambaran yang lebih jelas implementasi penggunaan disain multiple 
+baseline cross behaviors ini akan diberikan contoh ilustrasi sebagai berikut.  
+ 
+ 
+ 
+Variabel 1
+Baseline(A)
+Intervensi (B)
+Variabel 2
+Variabel 3
+Sesi 
+ 
+76
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ilustrasi 5 
+Seorang guru menenliti seorang anak autis berusia 12 tahun. 
+Peneliti bermaksud mengurangi atau meniadakan perilaku anak tersebut 
+seperti menarik rambut sendiri (touching hair), menghisap tangan (touching 
+face), dan melempar atau mengambil benda (taking objects).  
+Variabel terikat atau target behaviornya meliputi touching face, 
+touching hair, dan taking objects. Touching face merupakan perilaku 
+menghisap tangan setelah menyentuh bagian tubuh yang lain. Touching hair 
+adalah kegiatan membuat reaksi terhadap tubuh sendiri dengan cara 
+menarik, memutar-mutar, atau mengacak-acak rambut sendiri. Sedangkan 
+taking object adalah mengambil atau melempar barang milik temannya 
+Tujuan 
+penenlitian 
+ini 
+untuk 
+menguji 
+efektivitas 
+prosedur ”overcorrection” yaitu serangkaian kegiatan untuk mencegah atau 
+menghilangkan perilaku tertentu.  Prosedur overcorrection dilakukan 
+dengan cara, guru atau peneliti melarang subyek ketika melakukan 
+perbuatan seperti yang telah ditetapkan sebagai target behavior dengan 
+mengatakan ”Jangan begitu” kemudian membawa subyek ke tempat lain 
+dan memberikan latihan agar tidak mengulang perbuatan tersebut sekitar 3 
+menit. Di samping itu pujian seperti ”kamu anak yang baik”, ”Oh bagus 
+sekali” juga diberikan pada saat subyek melakukan perilaku yang baik. 
+Pengukuran data dilakukan selama 20 hari (sesi). Setiap sesi data 
+diambil dengan cara merekam kegiatan subyek dengan video kamera 
+selama 1 jam. Adapun urutan pengambilan datanya adalah: (1) Baseline 
+untuk ”touching face” selama 5 sesi, intervensi ”overcorrection” 15 sesi, (2) 
+Baseline untuk ”touching hair” selama 9 sesi, intervensi ”overcorrection” 
+11 
+sesi 
+(3) 
+Baseline 
+untuk 
+”taking 
+object” 
+selama 
+13 
+sesi, 
+intervensi ”overcorrection” 7 sesi 
+ 
+ 
+77
+ 
+Berdasarkan prosedur di atas data penelitian dirangkum dalam tabel tabel 5-1 dan 
+penyajian datanya dalam grafik 5-3.   
+ 
+Tabel 5-1 Data Penelitian Dengan Disain Multiple Baseline Cross Variables 
+ 
+Variabel Terikat (target behavior) 
+Sesi 
+Touching Face 
+Touching Hair 
+Taking Object 
+1 
+100 
+5 
+90 
+2 
+50 
+200 
+85 
+3 
+105 
+0 
+150 
+4 
+95 
+200 
+85 
+5 
+200 
+200 
+100 
+6 
+3 
+100 
+100 
+7 
+2 
+70 
+180 
+8 
+0 
+148 
+185 
+9 
+0 
+150 
+150 
+10 
+0 
+5 
+10 
+11 
+0 
+0 
+0 
+12 
+0 
+0 
+150 
+13 
+0 
+0 
+160 
+14 
+0 
+0 
+1 
+15 
+0 
+0 
+0 
+16 
+0 
+0 
+0 
+17 
+0 
+0 
+0 
+18 
+0 
+0 
+3 
+19 
+0 
+0 
+0 
+20 
+0 
+0 
+0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+78
+ 
+ 
+ 
+Grafik 5-3 Hasil Penelitian Dengan Disain Multiple Baseline Cross Variables 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+50
+100
+150
+200
+Touching Face
+0
+50
+100
+150
+200
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20
+Sesi
+Taking Objects
+0
+50
+100
+150
+200
+Touching Hair
+ 
+79
+Disain Multiple Baseline Cross Conditions 
+Penelitian dengan disain multiple baseline cross conditions, peneliti melakukan 
+intervensi pada seorang subyek dalam kondisi yang berbeda. Kondisi yang dimaksud  
+pada disain ini dapat berupa dimensi waktu, aktivitas, model pengajaran, tempat dan 
+lain-lain (Koenig dan Ross, 1991). Berbeda dengan disain multiple baseline cross 
+behaviors, disain ini hanya mengukur satu target behavior pada satu orang subyek 
+pada  minimal tiga kondisi yang berbeda. 
+ 
+Prosedur dasarnya adalah peneliti mengadakan pengukuran target behavior pada fase 
+baseline secara simultan untuk ketiga kondisi. Intervensi diberikan pada kondisi 
+pertama setelah data baseline pada kondisi pertama mencapai level tertentu dan stabil, 
+sementara pengukuran target behavior fase baseline untuk kondisi kedua dan ketiga 
+masih dilanjutkan. Setelah data baseline untuk kondisi kedua stabil, intervensi 
+kemudian diberikan, sementara pengukuran pada fase baseline untuk kondisi ketiga 
+masih dilanjutkan. Setelah data baseline pada kondisi ketiga juga stabil, intervensi juga 
+diberikan untuk kondisi ketiga. Intervensi tetap diberikan untuk ketiga kondisi sampai 
+masing-masing mencapai kriteria tertentu dan stabil. Prosedur dasar tersebut dapat 
+digambarkan secara visual seperti grafik 5-4. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+80
+  
+ 
+ 
+ 
+Grafik 5-4 Disain Multiple Baseline Cross Conditions 
+ 
+ 
+Kondisi 1
+Baseline(A)
+Intervensi (B)
+Kondisi 1
+Kondisi 3
+Sesi 
+ 
+81
+Agar mendapat gambaran yang lebih jelas implementasi disain ini akan diberikan 
+ilustrasi sebagai berikut.  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Data penelitian yang terkumpul diberikan pada tabel 5-2 dan hasilnya pada grafik 5-5.  
+ 
+ 
+ 
+ 
+Ilustrasi 6 
+Seorang ingin memperbaiki perilaku seorang anak tunanetra 
+yang 
+sering 
+melakukan 
+perilaku 
+stereoptype 
+behavior 
+menggerak-gerakkan atau memutar kepala dengan menggunakan 
+pendekatan 
+kognitif. 
+Tujuannya 
+untuk 
+mengetahui 
+efektivitas 
+pendekatan kognitif (cognitive approach) untuk mengurangi perilaku 
+stereotype.  
+Penelitian ini akan dilakukan pada tiga kondisi yaitu pada 
+pelajaran bahasa, saat makan siang, dan olah raga. Karena penelitian 
+dilakukan pada tiga kondisi yang berbeda maka disain yang cocok 
+adalah disain multiple baseline cross conditions. Intervensi yang 
+digunakan dalam penelitian ini adalah pendekatan kognitif (cognitive 
+approach) dengan prosedur, bila subyek menggerakkan kepala peneliti 
+atau guru memberikan peringatan verbal dengan menyebut nama 
+subyek atau menyentuh sikutnya. 
+Pengukuran atau pengumpulan data baseline dilakukan pada 
+tiga kondisi  yaitu pada kelas membaca 10 hari, saat makan siang 15 
+hari, dan pada pelajaran olah raga 20 hari. Pengambilan data dilakukan 
+dengan merekam kegiatan pada setiap kondisi menggunakan video 
+kamera masing-masing selama 20 menit. 
+ 
+82
+ 
+Tabel 5-2 Data Penelitian Dengan Disain Multiple Baseline Cross Conditions 
+ 
+Kondisi 
+Sesi 
+P. Membaca 
+Makan Siang 
+P. Olah Raga 
+1 
+18 
+22 
+19 
+2 
+24 
+14 
+16 
+3 
+23 
+11 
+11 
+4 
+14 
+14 
+15 
+5 
+22 
+17 
+12 
+6 
+25 
+16 
+15 
+7 
+11 
+15 
+16 
+8 
+12 
+15 
+12 
+9 
+17 
+20 
+14 
+10 
+15 
+15 
+12 
+11 
+1 
+11 
+11 
+12 
+0 
+15 
+13 
+13 
+0 
+14 
+13 
+14 
+1 
+15 
+16 
+15 
+1 
+15 
+15 
+16 
+1 
+2 
+15 
+17 
+0 
+2 
+6 
+18 
+0 
+1 
+8 
+19 
+1 
+1 
+10 
+20 
+1 
+0 
+10 
+21 
+1 
+0 
+4 
+22 
+1 
+0 
+3 
+23 
+1 
+0 
+1 
+24 
+1 
+1 
+1 
+25 
+1 
+0 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+83
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Grafik 5-5 Hasil Penelitian Dengan Disain Multiple Baseline Cross Conditions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+5
+10
+15
+20
+25
+30
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+Sesi
+Gerakan Kepala
+P. Olah Raga
+0
+5
+10
+15
+20
+25
+30
+ Gerakan Kepala
+P. Membaca
+0
+5
+10
+15
+20
+25
+30
+Gerakan Kepala
+Makan Siang
+ 
+84
+Disain Multiple Baseline Cross Subjects 
+Berbeda dengan dengan dua disain multiple baseline terdahulu, penelitian dengan 
+disain multiple baseline cross subjects ini dilakukan pada tiga orang subyek dengan 
+target behavior yang sama. Tiga subyek yang dipilih harus  seimbang dalam beberapa 
+hal misalnya IQ, jenis kelamin, usia dan lain-lain sesuai dengan target behavior yang 
+sedang diteliti. Keadaan subyek yang seimbang itu penting karena  kontrol terhadap 
+variabel bebas ini didasarkan atas keadaan  ketiga subyek tersebut. 
+ 
+Prosedur dasar disain ini tidak jauh berbeda dengan dua disain sebelumnya, 
+pengukuran data baseline dilakukan secara simultan untuk ketiga subyek. Setelah data 
+baseline pada subyek pertama stabil kemudian diberikan intervensi, sementara untuk 
+kedua subyek yang lain masih dilanjutkan pengukuran baseline. Intervensi untuk 
+subyek kedua diberikan setelah data baseline menjadi stabil demikian juga untuk 
+subyek ketiga. Prosedur dasar disain multiple baseline cross subjects ini dapat 
+digambarkan secara visual seperti tampak pada grafik 5-6. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+85
+ 
+ 
+  
+Grafik 5-6 Disain Multiple Baseline Cross Subjects 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Baseline 
+(A) 
+Intervensi 
+(B) 
+Sesi 
+Subyek 1 
+Subyek 2  
+Subyek 3 
+ 
+86
+Agar mendapat gambaran yang lebih jelas, berikut ini akan diberikan contoh 
+penggunaan disain multiple baseline cross subjects.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Data pada penelitian tersebut ditampilkan pada tabel 5-3 dan hasilnya disajikan pada 
+grafik 5-7 
+ 
+ 
+ 
+Ilustrasi 7 
+Pak Ahmad ingin mengetahui efektivitas suatu program 
+yang disebut  ”self controll”  terhadap kemampuan melakukan 
+tugas (on-task) pada anak autis. Yang dimaksud dengan on-task 
+adalah 
+kemampuan 
+anak 
+untuk 
+tetap 
+berkonsentrasi 
+atau 
+terus-menerus melakukan suatu kegiatan tanpa meninggalkan 
+kegiatan tersebut. Oleh karena itu yang menjadi target behavior 
+dalam penelitian ini adalah durasi anak auitis melakukan kegiatan 
+(mengerjakan soal berhitung). Penelitian ini dilakukan pada tiga 
+anak auitis. 
+Intervensi 
+yang 
+digunakan 
+adalah 
+seorang 
+subyek 
+mengerjakan soal matematika di ruang khusus, di dekat subyek 
+dipasang jam yang dapat mengeluarkan bunyi setiap 3 menit. Pada 
+saat jam berbunyi subyek diminta untuk menghentikan bunyi jam 
+tersebut dengan menekan tombol. Penelitian dilakukan selama 15 
+hari, dengan 2 sesi setiap harinya. Pengukuran pada subyek 
+pertama: baseline 5 sesi, intervensi 15 sesi, pada subyek kedua: 
+baseline 10 sesi, intervensi 10 sesi, pada subyek ketiga: baseline 15 
+sesi, intervensi 5 sesi.  
+ 
+87
+ 
+Tabel 5-3 Data Penelitian Dengan Disain Multiple Baseline Cross Subjects 
+ 
+Subyek 
+Sesi 
+Anton 
+Barli 
+Carli 
+1 
+8 
+10 
+15 
+2 
+10 
+10 
+15 
+3 
+8 
+20 
+10 
+4 
+15 
+8 
+20 
+5 
+10 
+10 
+10 
+6 
+15 
+15 
+15 
+7 
+15 
+8 
+12 
+8 
+18 
+20 
+15 
+9 
+20 
+15 
+10 
+10 
+20 
+15 
+10 
+11 
+10 
+20 
+10 
+12 
+20 
+20 
+15 
+13 
+25 
+25 
+16 
+14 
+26 
+25 
+15 
+15 
+27 
+26 
+18 
+16 
+30 
+26 
+20 
+17 
+25 
+28 
+25 
+18 
+27 
+30 
+30 
+19 
+29 
+30 
+30 
+20 
+30 
+30 
+30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+88
+ 
+ 
+ 
+Grafik 5-7 Hasil Penelitian Dengan Disain Multiple Baseline Cross Subjects 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+5
+10
+15
+20
+25
+30
+35
+On-Task
+Anton
+0
+5
+10
+15
+20
+25
+30
+35
+On-Task
+Barli
+0
+5
+10
+15
+20
+25
+30
+35
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+Sesi
+On-Task
+Carli
+ 
+89
+ 
+ 
+ 
+ 
+Ada tiga variasi dalam disain multiple baseline yaitu, disain multiple baseline cross 
+variabel,  cross kondisi, dan subyek. Disain multiple baseline merupakan disain yang 
+memiliki validitas internal yang lebih baik dari pada disain yang lain. Prosedur dasar 
+multiple baseline adalah pengumpulan data pada fase baseline secara simultan pada 
+tiga atau lebih (variabel, kondisi, atau subyek). 
+ 
+Prosedur dasar multiple baseline adalah pengumpulan data pada fase baseline secara 
+simultan pada tiga atau lebih (variabel, kondisi, atau subyek) yang berbeda.  Setelah 
+data baseline dari ketiga variabel mencapai kecenderungan dan level yang stabil 
+intervensi mulai diberikan kepada (variabel, kondisi, atau subyek) yang pertama. Jika 
+target behavior (variabel, kondisi, atau subyek) yang pertama telah stabil dan mencapai 
+kriteria tertentu, intervensi kemudian diberikan pada (variabel, kondisi, atau subyek) 
+kedua sambil intervensi untuk (variabel, kondisi, atau subyek) pertama tetap dilanjutkan 
+dan pada (variabel, kondisi, atau subyek) ketiga masih tetap dalam kondisi baseline. 
+Setelah terget behavior untuk (variabel, kondisi, atau subyek) ke dua juga mencapai 
+kriteria tertentu dan stabil intervensi untuk (variabel, kondisi, atau subyek) ke tiga mulai 
+diberikan. Demikian selanjutnya sampai semua (variabel, kondisi, atau subyek) 
+mendapat intervesi. 
+ 
+Dalam menggunakan disain multiple baseline ada 6 hal yang perlu diperhatikan, yaitu: 
+(1) merumuskan tujuan sebelum memulai penelitian, (2) memberikan intervensi setelah  
+data pada fase baseline menjadi stabil dan mencapai level tertentu, (3) memberikan 
+intervensi pada fase baseline yang lain setelah fase intervensi pertama  mencapai 
+level tertentu, (4) menentukan tiga target  atau lebih pada fase baseline, (5) 
+mengupayakan agar ketiga fase baseline benar-benar independen terhadap satu 
+dengan yang lain, dan (6) mengupayakan kondisi baseline yang sama untuk 
+menghindari intervensi yang tidak konsisten. 
+ 
+ 
+ 
+ 
+ 
+Rangkuman 
+ 
+90
+ 
+ 
+ 
+ 
+1. Isilah kotak –kotak kosong pada pada grafik dengan kata-kata di bawah ini  
+ 
+  a. Baseline 
+ 
+b.Intervensi 
+ 
+c. Kecepatan Membaca  
+  d. Ali  
+ 
+e. Dudi  
+ 
+f. Toni 
+  g. Hari      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pertanyaan dan Tugas 
+ 
+91
+ 
+2. Apakah perbedaan antara disain multiple baseline cross variables dan cross 
+   conditions? 
+_______________________________________________________________ 
+_______________________________________________________________ 
+_______________________________________________________________ 
+ 
+ 
+3. Pada disain multiple baseline cross condition (kondisi), apakah yang  
+  dimaksud dengan kondisi ? Berikan contoh. 
+_______________________________________________________________ 
+_______________________________________________________________ 
+_______________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+92
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Analisis Data 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bab 6 
+   Kegiatan pelajaran matematika di SLB C YPLB Bandung
+ 
+93
+Pengantar 
+Analisis data merupakan tahap terakhir sebelum menarik kesimpulan. Pada penelitian 
+eksperimen pada umumnya pada saat menganalisis data menggunakan teknik statistik 
+deskriptif. Oleh karena itu pada penelitian dengan kasus tunggal penggunaan statistik 
+yang komplek tidak dilakukan tetapi lebih banyak menggunakan statistik deskriptif yang 
+sederhana. Seperti telah dijelaskan pada bab terdahulu, penelitian dengan disain kasus 
+tunggal terfokus pada data individu dari pada data kelompok. Meskipun demikian data 
+kelompok kadang-kadang juga digunakan. 
+           
+Komponen Analisis Data 
+Dalam analisis data dengan metode analisis visual ada beberapa hal yang menjadi 
+perhatian peneliti, yaitu; banyaknya data point (skor) dalam setiap kondisi, banyaknya 
+variabel terikat yang ingin diubah, tingkat stabilitas dan perubahan level data dalam 
+suatu kondisi atau antar kondisi, arah perubahan dalam kondisi maupun antar kondisi. 
+Secara rinci hal-hal tersebut akan dibahas satu-persatu. 
+ 
+Panjang Kondisi  
+Panjangnya kondisi dilihat dari banyaknya data point atau skor pada setiap kondisi. 
+Seberapa banyak data point yang harus ada pada setiap kondisi tergantung pada 
+masalah penelitian dan intervensi yang diberikan. Untuk panjang kondisi baseline 
+secara umum bisa digunakan tiga atau lima data point. Meskipun demikian yang 
+menjadi pertimbangan utama bukan banyaknya data point tersebut melainkan tingkat 
+kestabilannya. Jika telah dilakukan sebanyak tiga atau lima pengukuran pada kondisi 
+baseline tetapi data tersebut belum menunjukkan kestabilan dan level tertentu maka 
+pengukuran harus dilanjutkan sampai diperoleh kestabilan dan level tertentu. 
+ 
+Sedangkan panjang dan pendeknya kondisi intervensi sangat tergantung pada jenis 
+intervensi yang diberikan. Dalam intervensi yang terkait dengan perubahan perilaku 
+misalnya penguasaan keterampilan motorik tertentu mungkin membutuhkan intervensi 
+yang panjang sedangkan perubahan perilaku yang terkait dengan menghafal fakta 
+misalnya dibutuhkan intervensi yang tidak terlalu panjang. Di samping itu, panjang 
+pendeknya intervensi juga dipengaruhi oleh apakah intervensi itu memiliki akibat buruk 
+atau tidak pada subyek. Intervensi yang memiliki dampak buruk sedapat mungkin 
+dilaksanakan tidak terlalu lama. Meskipun demikian tidak ada aturan yang tegas 
+ 
+94
+tentang panjang pendeknya kondisi ini. Pertimbangan  harus diambil secara tepat baik 
+pertibangan secara teoretis maupun praktis. 
+ 
+Perubahan Untuk Satu Variabel  
+Untuk mengetahui pengaruh variabel bebas (intervensi) terhadap variabel terikat (target 
+behavior) secara jelas, peneliti harus terfokus pada perubahan satu terget behavior dua 
+kondisi. Perhatikan dengan saksama apakah benar-benar hanya ada satu target 
+behavior yang berubah sepanjang fase intervensi (B) dan bagaimana perubahannya 
+dibandingkan dengan fase baseline (A). Jika benar bahwa terjadinya perubahan pada 
+fase baseline dan fase intervensi benar-benar hanya pada satu variabel terikat, hal ini 
+mengindikasikan adanya pengaruh intervensi terhadap target behavior. 
+ 
+Untuk memastikan hal ini, perhatikan baik-baik pada grafik khususnya pada perubahan 
+antar kondisi. Pada grafik yang baik, seperti telah dibicarakan terdahulu perbedaan 
+antara variabel terikat yang satu dengan yang lain dibedakan dengan bentuk data 
+pointnya (lingkaran, segitiga, kotak). Di samping itu grafik yang baik juga akan dapat 
+segera diketahui disain mana yang digunakan.  
+ 
+Level 
+Istilah level menunjukkan pada besar kecilnmya data yang berada pada skala ordinat 
+(sumbu Y). Membicarakan tentang level ini pada saat melakukan analisis visual ada 
+dua jenis level yaitu level (tingkat) stabilitas dan level (tingkat) perubahannya. Tingkat 
+stabilitas (level stability) menunjukkan derajat variasi atau besar kecilnya rentang 
+kelompok data tertentu. Jika rentang datanya kecil atau tingkat variasinya rendah maka 
+data dikatakan stabil. Secara umum jika 80% - 90% data masih berada pada 15% di 
+atas dan di bawah mean, maka data dikatakan stabil. Mean level untuk data di suatu 
+kondisi dihitung dengan cara menjumlahkan semua data yang ada pada ordinat dan 
+dibagi dengan banyaknya data. Kemudian garis mean ini digambar secara pararel 
+terhadap absis. Untuk menentukan tingkat stabilitas data biasanya digunakan 
+persentase penyimpangan dari mean sebesar (5, 10, 12, dan 15%). Persentase 
+penyimpangan terhadap mean yang digunakan untuk menghitung stabilitas digunakan 
+yang kecil (10%) jika data mengelompok di bagian atas dan digunakan persentase 
+besar (15%) jika data mengelompok di bagian tengah maupun bagian bawah.  
+ 
+Aspek kedua tentang level ini adalah tingkat perubahan (level change) yang 
+menunjukkan berapa besar terjadinya perubahan data dalam suatu kondisi. Cara 
+ 
+95
+menghitungnya adalah (1) menentukan berapa besar data point (skor) pertama dan 
+terakhir dalam suatu kondisi, (2) kurangi data yang besar dengan data yang kecil, (3) 
+tentukan apakah selisihnya menunjukkan arah yang membaik (therapeutic) atau 
+memburuk (contratherapeutic) sesuai dengan tujuan intervensi atau pengajarannya. 
+ 
+Aspek ketiga dari level ini adalah tingkat perubahan level data pada dua kondisi yang 
+berbeda misalnya kondisi  baseline dengan intervensi. Untuk menghitung tingkat 
+perubahan level data antar dua kondisi ini adalah: (1) menentukan data point (skor) 
+terakhir pada kondisi pertama dan menentukan data point (skor) pertama pada kondisi 
+kedua, (2) kurangi data point yang besar dengan yang kecil, dan (3) menentukan 
+apakah perubahan level tersebut membaik atau memburuk sesuai dengan tujuan 
+intervensi atau pengajarannya. Jika selisihnya besar dan membaik, hal ini  
+mengindikasikan bahwa intervensi yang diberikan memiliki pengaruh yang kuat 
+terhadap variabel terikat (target behavior). 
+ 
+Kecenderungan  
+Bagi peneliti di bidang modifikasi perilaku, kecenderungan arah (trend/slope) data pada 
+suatu grafik sangat penting untuk memberikan gambaran perilaku subyek yang sedang 
+diteliti. Dengan menggunakan kombinasi antara level dan trend, peneliti secara reliabel 
+dapat menentukan pengaruh kondisi (intervensi) yang dikontrol. Kecenderungan arah 
+grafik (trend) menunjukkan perubahan setiap data path (jejak) dari sesi ke sesi (waktu 
+ke waktu). Ada tiga macam kecenderungan arah grafik (trend) yitu, (1) meningkat, (2) 
+mendatar, dan (3) menurun. Masing-masing maknanya tergantung pada tujuan 
+intervensinya. 
+ 
+Ada dua cara untuk menentukan kecenderungan arah grafik (trend) yaitu metode 
+freehand dan metode split-middle. Metode freehand adalah mengamati secara 
+langsung terhadap data point pada suatu kondisi kemudian menarik garis lurus yang 
+membagi data point menjadi dua bagian. Sedangkan metode split-middle adalah 
+menentukan kecenderungan arah grafik berdasarkan median data point  nilai 
+ordinatnya. Karena metode ini menggunakan ukuran data secara pasti (median) maka 
+dipastikan lebih reliabel dibandingkan dengan metode freehand. Untuk itu penggunaan 
+metode ini lebih disarankan.  
+ 
+ 
+ 
+96
+Analisis Dalam Kondisi 
+Yang dimaksud dengan analisis perubahan dalam kondisi adalah menganalisis 
+perubahan data dalam satu kondisi misalnya kondisi base line atau kondisi intervensi, 
+sedangkan komponen yang akan dianalisis meliputi komponen seperti yang 
+dibicarakan di atas yakni tingkat stabilitas, kecenderungan arah, dan tingkat perubahan 
+(level change). 
+ 
+Grafik 6-1 menunjukkan beberapa stabilitas pada fase baseline. Grafik (a) menunjukkan 
+5 data yang stabil. Rentang skornya secara konsisten  berada antara 30% dan 40% 
+dari meannya. Dengan data baseline seperti itu mengindikasikan bahwa intervensi 
+dapat dimulai. Grafik (b) menampilkan data yang tidak stabil. Peneliti yang memiliki data 
+baseline seperti ini memiliki dua pilihan, yaitu; melanjutkan pengukuran pada fase 
+baseline sampai mencapai data yang stabil, atau mencari penyebab ketidakstabilan 
+data tersebut. Grafik c dan d menunjukkan data baseline yang stabil. Dengan keadaan 
+data baseline seperti itu secara meyakinkan bahwa intervensi perlu segera diberikan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+97
+ 
+ 
+Grafik 6-1 Baseline Dengan Stabilitas Berbeda 
+ 
+Grafik 6-2 menunjukkan empat contoh data baseline yang tingkat variabilitasnya cukup 
+tinggi. Grafik (a) menunjukkan data baseline dimana pada sesi-sesi awal bervariasi 
+kemudian pada sesi selanjutnya menjadi stabil. Ketidak stabilan pada sesi-sesi awal 
+dimungkinkan karena subyek belum beradaptasi dengan tugas (task) yang diberikan 
+dalam rangka pengukuran data. Setelah beberapa sesi menjadi stabil, hal ini 
+diperkirakan telah terjadi proses adaptasi (penyesuaian). Jika penenliti menghadapi 
+kondisi seperti ini perlu memberikan kesempatan pada subyek untuk beradaptasi 
+dengan tugas atau keadaan yang diberikan dengan cara memperpanjang sesi baseline 
+sampai data menjadi stabil. Setelah itu intervensi dapat diberikan.  
+ 
+Grafik (b) menunjukkan kondisi baseline dimana pada sesi-sesi awal stabil dan pada 
+sesi selanjutnya menjadi tidak stabil. Berlawanan dengan grafik (a), kondisi ini akan 
+0
+20
+40
+60
+80
+100
+0
+1
+2
+3
+4
+5
+Sesi
+Persen Jawaban Benar
+0
+25
+50
+75
+100
+0
+1
+2
+3
+4
+5
+6
+Hari
+Persen Jawaban Benar
+(a) 
+(b) 
+0
+10
+20
+30
+40
+0
+1
+2
+3
+4
+5
+Hari
+Jumlah Self Slaps
+0
+2
+4
+6
+8
+10
+0
+1
+2
+3
+4
+5
+Sesi
+Jumlah Benar
+(c) 
+(d) 
+ 
+98
+menjadi masalah. Hal ini diperkirakan setelah melakukan suatu tugas (task) ada kondisi 
+tertentu yang menyebabkan kondisi menjadi terganggu misalnya setalah beberapa sesi 
+subyek sakit atau adanya faktor eksternal yang mengganggu. Dengan kondisi baseline 
+seperti ini direkomendasikan pada peneliti agar memperpanjang pengukuran pada fase 
+baseline.  
+ 
+Grafik (c) menunjukkan data baseline yang tingkat variasinya (variability) cukup tinggi 
+dan kecenderungan (trend) arahnya  menaik. Pada kondisi seperti ini peneliti perlu 
+memikirkan adanya penyebab ketidakstabilan data tersebut dan di samping itu perlu 
+melanjutkan pengukuran pada fase baseline sampai diperoleh data yang stabil.  
+ 
+Grafik (d) menunjukkan data baseline yang tidak biasa ditemukan dalam penenlitian 
+dengan subyek tunggal. Pada contoh grafik (d) tersebut pengumpulan data dilakukan 
+pada tiap  hari senin, rabu, dan jumat.  Pada data ini yang menarik adalah setiap hari 
+jumat jumlah talk-out meningkat. Hal ini menunjukkan adanya siklus yang teratur 
+dimana pada hari atau sesi tertentu terjadi perubahan target behavior yang cenderung 
+sama. Keadaan ini perlu diselidiki penyebabnya sampai diperoleh data yang stabil. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+99
+ 
+ 
+ 
+ 
+Grafik 6-2  Garfik Dengan Variabilitas Tinggi 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+20
+40
+60
+80
+100
+0
+1
+2
+3
+4
+5
+6
+7
+8
+Sesi
+Persen Jawaban
+0
+1
+2
+3
+4
+5
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9 10
+Hari
+Respon Permenit
+(a) 
+(b) 
+0
+20
+40
+60
+80
+100
+0
+1
+2
+3
+4
+5
+6
+7
+8
+Sesi
+Persen Jawaban Benar
+0
+5
+10
+15
+20
+S
+R
+J
+S
+R
+J
+S
+R
+J
+Hari
+Jumlah Talk Outs
+(c) 
+(d) 
+ 
+100
+Analisis Antar Kondisi  
+ 
+Untuk memulai menganalisis perubahan antar kondisi, data yang stabil harus 
+mendahului kondisi yang akan dianalisis. Untuk mempermudah penjelasan perhatikan 
+graf 6-3. Misalnya ketika data baseline bervariasi (tidak stabil) lihat grafik (a), maka 
+akan mengalami kesulitan untuk menginterpretasi pengaruh intervensi terhadap 
+variabel terikat. Di samping aspek stabilitas, ada tidaknya pengaruh intervensi terhadap 
+variabel terikat juga tergantung pada aspek perubahan level, dan besar kecilnya  
+overlap yang terjadi antara dua kondisi yang sedang dianalisis.  
+ 
+Pada grafik (a) dan (b) menunjukkan data yang tidak stabil dan terjadi overlap. Kondisi 
+seperti itu sulit untuk diinterpretasi ada tidaknya pengaruh intervensi terhadap variabel 
+terikat. Grafik (c) menunjukkan perubahan level stabilitas yang cukup tinggi dari level 
+yang rendah menjadi level yang lebih tinggi. Grafik (d) sama dengan grafik (c) tetapi 
+berbeda dalam hal perubahan levelnya yaitu dari tinggi ke rendah. Grafik (c) 
+menunjukkan efektivitas intervensi meningkatkan target behavior sedangkan grafik (d) 
+menunjukkan efektivitas untuk menurunkan target behavior. Grafik (e) menunjukkan 
+tidak adanya perubahan level antara dua kondisi dimana kedua konsisi mempunyai 
+efek yang sama. Jika kondisi itu adalah kondisi baseline (A) dan intervensi (B), maka 
+peneliti perlu memberikan intervensi yang baru misalnya mengembangkan intervensi B 
+menjadi BC atau yang lain. 
+ 
+Secara umum pembaca biasanya lebih tertarik pada intervensi yang menghasilkan 
+perubahan level yang jelas dengan baseline. Untuk menganalisis pengaruh intervensi 
+terhadap variabel terikat  peneliti tidak boleh hanya terpaku pada perubahan level saja 
+tetapi juga harus memperhatikan panjang dan pendeknya intervensi atau pengukuran 
+yang diberikan pada kedua kondisi. Di samping itu perbedaan prosedur pengukuran 
+antar kondisi juga perlu diperhatikan. 
+ 
+Grafik (f–l) menunjukkan perubahan trend yang sering terjadi dalam penelitian dengan 
+subyek tunggal. Grafik (f) memperlihatkan bahwa trend berubah secara berlawanan 
+dengan baseline setelah intervensi diberikan. Sedangkan grafik (g) menunjukkan trend 
+yang berhenti setelah intervensi diberikan. Pada grafik (h) memperlihatkan bahwa 
+terjadi trend yang meningkat setelah diberikan intervensi. Pada semua contoh tersebut 
+menunjukkan adanya perubahan trend setelah intervensi diberikan. Apakah perubahan 
+ 
+101
+trend itu menjadi membaik atau memburuk sangat tergantung pada tujuan 
+intervensinya. Misalnya jika pada grafik (h) target behaviornya adalah persen jawaban 
+benar atas soal matematika, maka trend yang meningkat menunjukkan adanya 
+perbaikan selama fase intervensi. Sebaliknya jika target behaviornya adalah jumlah 
+talk-out maka data tersebut menunjukkan perubahan yang memburuk. 
+ 
+Grafik (i) memperlihatkan tidak adanya perubahan trend setelah diberikan intervensi 
+karena kemiringan grafik pada fase baseline dengan intervensi sama. Keadaan ini 
+dapat diinterpretasikan menunjukkan sama dengan yang terjadi pada grafik (e) dimana 
+variabel bebas (intervensi) tidak mempengaruhi perubahan pada variabel terikat (target 
+behavior). 
+ 
+Grafik j, k, dan l merupakan contoh grafik yang menunjukkan adanya perubahan trend 
+dan diikuti oleh perubahan level setelah diberikan intervensi. Pada ketiga grafik tersebut, 
+kondisi semua baseline stabil tetapi setelah diberikan intervensi trendnya menjadi 
+menurun untuk grafik (j) dan mendatar untuk grafik (k) serta menaik untuk grafik (l). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+102
+ 
+ 
+ 
+ 
+Grafik 6-3 Contoh Beberapa Perubahan Kecenderungan Arah Antar Kondisi 
+ 
+ 
+Grafik 6-4 menunjukkan tiga pola grafik yang lain. Grafik (a) memperlihatkan perubahan 
+level yang sementara. Grafik (b) menunjukkan tidak adanya perubahan level yang 
+sementara. Grafik (c) dan (a) menunjukkan perubahan level yang cukup tinggi setelah 
+diberikan intervensi akan tetapi lambat laun berubah mendekati sama dengan level 
+pada baseline. Pola seperti itu menunjukkan pengaruh intervensi yang lemah atau tidak 
+menentap dan diperkirakan ada pengaruh faktor dari luar khususnya pada sesi-sesi 
+awal. 
+ 
+(a) 
+(b) 
+(c) 
+(d) 
+(e) 
+(f) 
+(g) 
+(h) 
+(i) 
+(j) 
+(k) 
+(l) 
+ 
+103
+ 
+ 
+          Grafik 6-4 Contoh Perubahan Kecenderungan Arah Antar Kondisi 
+(a) 
+(b) 
+(c) 
+ 
+104
+Contoh Analisis Visual 
+Pada bagian ini akan diberikan contoh bagaimana melakukan analisis visual suatu 
+grafik yang meliputi analisis dalam kondisi dan antar kondisi. Untuk keperluan analisis 
+visual ada beberapa komponen yang penting.  
+ 
+Komponen analisis visual untuk dalam kondisi meliputi enam komponen, yaitu:  
+(1) panjang kondisi,  
+(2) estimasi kecenderungan arah,  
+(3) kecenderungan stabilitas,  
+(4) jejak data,  
+(5) level stabilitas dan rentang, dan  
+(6) level perubahan.  
+ 
+Sedangkan analisis visual untuk antar kondisi ada lima komponen, yaitu:  
+(1) jumlah variabel yang diubah,  
+(2) perubahan kecenderungan dan efeknya,  
+(3) perubahan stabilitas,  
+(4) perubahan level, dan  
+(5) data overlap.  
+ 
+Tabel 6-1 dan 6-2 merupakan format analisis visual dan komponennya masing-masing 
+untuk analisis dalam kondisi dan antar kondisi. 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+105
+Tabel 6-1  Format Analisis Visual Dalam Kondisi 
+ 
+Kondisi 
+ 
+    1 
+ 
+    2 
+ 
+    3 
+ 
+    4 
+ 
+1.Panjang Kondisi 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Estimasi Kecenderungan 
+  Arah 
+ 
+ 
+ 
+(   ) 
+ 
+ 
+(   ) 
+ 
+ 
+(   ) 
+ 
+ 
+(   ) 
+ 
+3.Kecenderungan Stabilitas  
+ 
+ 
+ 
+ 
+`_______ 
+ 
+ 
+______ 
+ 
+ 
+______ 
+ 
+ 
+______ 
+ 
+4.Jejak Data  
+ 
+ 
+ 
+ 
+(   ) 
+ 
+ 
+(   ) 
+ 
+ 
+(   ) 
+ 
+ 
+(   ) 
+ 
+5. Level Stabilitas dan 
+Rentang 
+ 
+ 
+ 
+ 
+(   ) 
+ 
+ 
+(   ) 
+ 
+ 
+(   ) 
+ 
+ 
+(   ) 
+ 
+6. Perubahan Level 
+ 
+ 
+ 
+ 
+(   ) 
+ 
+ 
+(   ) 
+ 
+ 
+(   ) 
+ 
+ 
+(   ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+106
+Tabel 6-2  Format Analisis Visual Antar Kondisi 
+ 
+Kondisi yang 
+Dibandingkan 
+ 
+1 
+2 
+3 
+4 
+ 
+1. Jumlah Variabel 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Perubahan arah  
+dan Efeknya 
+ 
+ 
+(  )  (  )
+_________
+ 
+(  )  (  )
+_________
+ 
+(  )  (  )
+_________
+ 
+(  )  (  ) 
+_________ 
+ 
+3. Perubahan 
+Stabilitas 
+ 
+ 
+ 
+ 
+Ke 
+ 
+ 
+ 
+ 
+Ke 
+ 
+ 
+ 
+ 
+Ke 
+ 
+ 
+ 
+ 
+ke 
+ 
+ 
+ 
+4. Perubahan Level 
+ 
+ 
+ 
+(    -    )
+_________
+ 
+(    -    )
+_________
+ 
+(    -    )
+_________
+ 
+(    -    ) 
+_________ 
+ 
+5. Persentase 
+   Overlap 
+ 
+ 
+_________
+_____% 
+ 
+_________
+____% 
+ 
+_________
+_____% 
+ 
+_________
+____% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+107
+Sebai contoh analisis visual, digunakan data yang disajikan pada grafik 6-5. 
+ 
+ 
+ 
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+Hari
+Jumlah Talk-Outs
+Baseline
+     (A)
+Intervensi
+     (B)
+ 
+ 
+Grafik 6-5  Grafik untuk Contoh Analisis 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+108
+Analisis Dalam Kondisi 
+Langkah ke 1.  
+Isi baris pertama dengan huruf Kapital sesuai dengan kondisinya misalnya (A) untuk 
+baseline dan (B) untuk intervensi. Karena pada grafik contoh menggunakan disain A-B, 
+maka pada baris pertama diisi seperti ini 
+ 
+Kondisi 
+A/1 
+B/2 
+ 
+Langkah ke 2 
+Menentukan panjang interval, panjang interval  menunjukkan ada berapa sesi dalam 
+kondisi tersebut. Pada contoh ada 8 sesi pada fase baseline (A) dan 13 pada fase 
+intervensi (B). Dengan demikian pada tabel dimasukkan seperti ini. 
+ 
+ 
+Kondisi 
+A/1 
+B/2 
+1. Panjang Kondisi 
+8 
+13 
+ 
+Langkah ke 3 
+Mengestimasi kecenderungan arah dengan menggunakan metode belah dua 
+(split-middle). Untuk menggunakan metode ini perhatikan pada grafik 6.15 pada kondisi 
+baseline. 
+ 
+ 
+- 
+Langkah 1: Bagilah data pada fase baseline menjadi dua bagian, karena data 
+point ada 8 (genap) maka garis yang membaginya ada di antara dua data(1) 
+- 
+Langkah 2a: Dua  bagian kanan dan kiri juga dibagi menjadi dua bagian (2a) 
+- 
+Langkah 2b: tentukan posisi median dari masing-masing belahan (2b) 
+- 
+Langkah 3: Tariklah garis sejajar dengan absis  yang menghubungkan titik 
+temu antara (2a) dengan (2b)  
+ 
+ 
+ 
+ 
+109
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+Hari
+Jumlah Talk-Outs
+2a
+2a
+2a
+2a
+1
+1
+2b
+3
+2b
+2b
+ 
+Grafik 6-6 Contoh Metode Belah Dua 
+ 
+ 
+Dengan memperhatikan pada garis (3) maka diketahui bahwa pada fase baseline (A) 
+arah trendnya menaik dan pada fase intervensi (menurun) dan dalam tabel dapat 
+dimasukkan seperti berikut ini. 
+ 
+Kondisi 
+A/1 
+B/2 
+ 
+2. Estimasi Kecenderungan Arah 
+ 
+ 
+ 
+ 
+    ( - ) 
+ 
+ 
+ 
+ ( + ) 
+ 
+ 
+Langkah ke 4 
+Menentukan kecenderungan  stabilitas, dalam hal ini menggunakan kriteria stabilitas 
+15%, maka perhitungannya sepeti ini. 
+ 
+ 
+ 
+ 
+ 
+110
+ 
+Skor  
+tertingi 
+ 
+X 
+Kriteri
+a 
+Stabili
+tas 
+ 
+ 
+= 
+Rentang 
+stabilitas 
+ 
+20 
+ 
+X 
+ 
+0.15 
+ 
+= 
+ 
+3.0 
+ 
+ 
+Hutunglah mean level dengan cara : 
+(lihat data pada baseline):18+20+16+14+18+18+16+19 = 139 
+139: 8 = 17.35 (mean level) 
+Tetukan batas atas dengan cara: 
+17.35 (mean level) + setengah dari rentang  stabilitas (1.5)  diperoleh 18.85 
+Tentukan batas bawah dengan cara: 
+17.35 (mean level) – setengah dari rentang stabilitas (1.5) diperoleh 15.85. 
+Perhatikan (Grafik 6.) contoh menentukan kecenderungan stabilitas pada fase baseline. 
+Menghitung persentase data point pada kondisi baseline (A) yang berada dalam 
+rentang stabilitas dengan cara: 
+ 
+Banyaknya data 
+point yang ada 
+dalam rentang 
+ 
+  : 
+Banyaknya 
+data point 
+ 
+ 
+= 
+Persentase 
+stabilitas 
+ 
+        5 
+ 
+ 
+: 
+ 
+   8 
+ 
+= 
+ 
+62.5% 
+ 
+Jika persentase stabilitas sebesar 85% - 90% dikatakan stabil, sedangkan dibawah itu 
+dikatakan  tidak stabil (variable). Karena hasil perhitungan untuk fase basline (A) 
+adalah 65% maka diperoleh hasil tidak stabil atau variabel. 
+ 
+Kondisi 
+A/1 
+B/2 
+3. Kecenderungan 
+Stabilitas 
+ 
+ 
+Variabel  
+(tidak stabil) 
+(65%) 
+ 
+Stabil 
+(100%) 
+ 
+ 
+111
+ 
+ 
+0
+4
+8
+12
+16
+20
+24
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+Hari
+Jumlah Talk-Outs
+Mean level (17.35)
+(18.85)
+(15.85)
+ 
+Grafik 6-7  Menghitung Stabilitas 
+ 
+Langkah ke 5 
+Menentukan Kecenderungan jejak data, hal ini sama dengan kecenderungan arah di 
+atas. Oleh karena itu masukkan hasil yang sama seperti kecenderungan arah. 
+Meskipun demikian pada fase intervensi (B) pada sesi 9 - 15 menurun dan sesi 16 – 21 
+cenderung mendatar. 
+ 
+Kondisi 
+A/1 
+B/2 
+ 
+4. Kcenderungan 
+Jejak  
+ 
+ 
+ 
+( - ) 
+ 
+ 
+  (+)        ( = ) 
+ 
+Langkah ke 6 
+Menentukan level stabilitas dan rentang: sebagaimana telah dihitung di atas bahwah 
+pada fase baseline (A) datanya variabel atau tidak stabil. Adapun rentangnya 14 – 20. 
+Pada fase intervensi (B) datanya stabil dengan rentang 0 – 15. 
+ 
+ 
+ 
+112
+ 
+ 
+Kondisi 
+A/1 
+B/2 
+ 
+5. Level stabilitas dan 
+rentang 
+ 
+   
+Variabel 
+14 - 20 
+ 
+  Stabil 
+  0 - 15 
+ 
+Langkah ke 7 
+Menentukan level perubahan dengan cara; tandai data pertama (hari ke 1) dan data 
+terakhir (hari ke 8) pada fase baseline (A). Hitung selisih antara kedua data dan 
+tentukan arahnya menaik atau menurun dan beri tanda (+) jika membaik, (-) memburuk, 
+dan (=) jika tidak ada perubahan. 
+ 
+Data yang 
+besar 
+(hari ke 8) 
+ 
+- 
+Data yang 
+kecil 
+(hari ke 1) 
+ 
+ 
+=
+Persentase 
+stabilitas 
+      19 
+- 
+18 
+=
+  1 
+ 
+Dengan demikian, level perubahan data dapat ditulis seperti berikut ini. 
+ 
+ 
+Kondisi 
+A/1 
+B/2 
+ 
+6. Level perubahan 
+ 
+  19 – 18 
+__________
+(-1) 
+       12 – 2 
+_     _________ 
+        (+10) 
+ 
+Catatan: 
+Tanda (+) menunjukkan makna yang membaik (meskipun menurun) 
+Tanda (-) menunjukkan makna memburuk (meskipun menaik) 
+karena hal ini disesuaikan dengan tujuan intervensi.  
+ 
+Jika ke enam komponen analisis visual dalam kondisi dimasukkan pada format 
+rangkuman, maka hasilnya seperti tabel 6-3 
+ 
+ 
+113
+ 
+Tabel 6-3  Rangkuman Hasil Analisis Visual Dalam Kondisi 
+ 
+Kondisi 
+A 
+1 
+B 
+2 
+ 
+    3 
+ 
+    4 
+ 
+1.Panjang Kondisi 
+ 
+ 
+ 
+8 
+ 
+ 
+13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.Estimasi Kecenderungan 
+ Arah 
+ 
+ 
+ 
+( - ) 
+ 
+ 
+( + ) 
+ 
+ 
+(   ) 
+ 
+ 
+(   ) 
+ 
+3.Kecenderungan Stabilitas  
+ 
+ 
+ 
+Variabel 
+`________ 
+ 
+Stabil 
+_______ 
+ 
+ 
+______ 
+ 
+ 
+______ 
+ 
+4.Jejak Data  
+ 
+ 
+ 
+ 
+( - ) 
+ 
+ 
+( + ) 
+ 
+ 
+(   ) 
+ 
+ 
+(   ) 
+ 
+5. Level Stabilitas dan 
+Rentang 
+ 
+ 
+ 
+Variabel 
+( 14 – 20 ) 
+ 
+Stabil 
+( 0 – 15 )
+ 
+ 
+(    ) 
+ 
+ 
+(    ) 
+ 
+6. Perubahan level 
+ 
+19 - 18 
+( -1 ) 
+ 
+12 - 2 
+( + 10 ) 
+ 
+ 
+(    ) 
+ 
+ 
+(    ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+114
+Analisis Antar Kondisi 
+ 
+Untuk melakukan analisis antar kondisi ini pertama-tama masukkan kode kondisi pada 
+baris pertama. Jika kita sedang menganalisis antara kondis1 baseline (A) dengan 
+kondisi intervensi (B), maka yang dimasukkan dalam format adalah seperti berikut ini. 
+ 
+Perbandingan 
+Kondisi 
+B1/A1 
+(2:1) 
+ 
+Langkah ke 1 
+Menentukan jumlah variabel yang diubah. Pada data rekaan variabel yang akan diubah 
+dari kondisi baseline (A) ke intervensi (B) adalah 1. Dengan demikian pada format akan 
+diisi seperti berikut. 
+ 
+ 
+Perbandingan Kondisi 
+B1/A1 
+(2:1) 
+1. Jumlah variabel yang 
+diubah 
+1 
+ 
+ 
+Langkah ke 2 
+Menentukan perubhan kecenderung arah dengan mengambil data pada analisis dalam 
+kondisi di atas, maka format dapat diisi seperti ini. 
+ 
+ 
+Perbandingan Kondisi 
+B1/A1 
+(2:1) 
+ 
+  
+( - ) 
+ 
+ 
+ ( + ) 
+2. Perubahan kecenderungan arah 
+dan efeknya 
+      Positif 
+ 
+ 
+ 
+115
+Langkah ke 3 
+Menentukan perubahan kecenderungan stabilitas: lihat kecendeungan stabilitas pada 
+fase baseline (A) dan intervensi (B) pada rangkuman analisis dalam kondisi dan 
+masukkan pada format. 
+ 
+ 
+Perbandingan Kondisi 
+B1/A1 
+(2:1) 
+3. Perubahan kecenderungan 
+stabilitas 
+ 
+Variabel 
+ke 
+Stabil 
+ 
+Langkah ke 4 
+Menentukan level perubahan dengan cara; tentukan data point pada kondisi baseline 
+(A) pada sesi terakhir (18) dan sesi pertama pada kondisi intervensi (B) yaitu (12) 
+kemudian hitung selisih antara keduanya (18 – 12) maka diperoleh 6. Karena 
+perubahan ini menurun sementara yang menjadi target behaviornya adalah talk-out, 
+maka menurun maknanya membaik. Karena membaik maka diberi tanda (+). 
+ 
+Perbandingan Kondisi 
+B1/A1 
+(2:1) 
+4. Perubahan level 
+ 
+(18 – 12) 
+  +6 
+ 
+Langkah ke 5 
+Menentukan overlap data pada kondisi baseline (A) dengan intervensi (B) dengan cara: 
+a. Lihat kembali batas bawah dan atas pada kondisi baseline 
+b. Hitung ada berapa data point pada kondisi intervensi (B) yang berada pada rentang 
+kondisi (A) (1) 
+c. Perolehan pada langkah (b) dibagi dengan banyaknya data point dalan kondisi (B) 
+(13) kemudian dikalikan 100, maka hasilnya (1: 13) x 100 = 7.69% 
+ 
+ 
+116
+Perbandingan Kondisi 
+B1/A1 
+(2:1) 
+5. Persentase overlap 
+7.69% 
+ 
+Catatan: Semakin kecil persentase overlap makin baik pengaruh intervensi terhadap 
+       target behavior. 
+Komponen analisis antar kondisi di atas jika dirangkum dalam tabel akan menjadi 
+seperti tabel 6-4. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+117
+ 
+Tabel 6-4  Rangkuman Hasil Analisis Antar Kondisi 
+ 
+Kondisi yang 
+Dibandingkan 
+ 
+B1 
+ 
+A1 
+( 2:1) 
+ 
+ 
+(  :  ) 
+ 
+ 
+(  :  ) 
+ 
+ 
+(  :  ) 
+1. Jumlah 
+Variabel 
+1 
+ 
+ 
+ 
+ 
+2. Perubahan 
+Arah dan 
+Efeknya 
+ 
+ 
+ 
+( - )  ( + ) 
+positif 
+ 
+ 
+(  )  (  ) 
+ 
+ 
+ 
+(  )  (  ) 
+ 
+ 
+ 
+(  )  (  ) 
+ 
+ 
+3. Perubahan 
+Stabilitas 
+Variabel 
+Ke 
+Stabil 
+ 
+ 
+ 
+ 
+4. Perubahan 
+Level 
+ 
+ 
+( 18 - 12 ) 
+ +6 
+ 
+(   -   ) 
+________ 
+ 
+(  -  ) 
+________ 
+ 
+(   -   ) 
+_______ 
+ 
+5. Persentase 
+Overlap 
+ 
+7.69% 
+ 
+_______ 
+ 
+_______ 
+ 
+_______ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+118
+ 
+ 
+ 
+ 
+Dalam menganalisis data pada penelitian dengan disain subyek tunggal ada tiga hal 
+utama, yaitu pembuatan grafik, penggunaan statistik diskriptif, dan menggunakan 
+analisis visual. Dalam analisis data ini pada dasarnya ada tiga langkah yaitu, analisis 
+dalam kondisi, antar kondisi, dan antar kondisi yang sama.  
+ 
+Untuk analisis dalam kondisi, hal-hal  yang perlu dianalisis meliputi, (1) panjang 
+Kondisi, (2) estimasi Kecenderungan arah, (3) kecenderungan stabilitas, (4) jejak data, 
+(5) level stabilitas dan rentang, serta (6) level perubahan. Untuk analisis antar kondisi 
+yang perlu dianalisis meliputi: (1) jumlah variabel, (2) perubahan trend  dan efeknya, 
+(3) perubahan stabilitas, (4) perubahan level, dan (5) persentase overlap. Sedangkan 
+analisis antar kondisi yang sama dilakukan terhadap hal-hal seperti pada analisis dalam 
+kondisi. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rangkuman 
+ 
+119
+ 
+ 
+ 
+ 
+1. Sebutkan 6 hal yang harus dianalisis dalam kondisi 
+a. ____________________________ 
+b. ____________________________ 
+c. ____________________________ 
+d. ____________________________ 
+e. ____________________________ 
+f. _____________________________ 
+ 
+2. Tulislah (B) jika benar dan (S) jika salah pada setiap oernyataan di bawah ini. 
+a. Dalam analisis visual  grafik yang meningkat menunjukkan perbaikan (   ) 
+b. Analisis dalam kondisi membandingkan dua kondisi (   ) 
+c. Analisi antar kondisi membandingkan misalnya antara fase baseline dan  
+  fase intervensi (   ) 
+d. Yang dimaksud dengan ”panjang kondisi” adalah lamanya waktu intervensi  
+   dan baseline (   ) 
+e. Stabilitas data dugunakan pada analisis antar dan dalam kondisi (   ) 
+ 
+3. Persentase data overlaping merupakan salah satu komponen analisis antar kondisi.  
+  Apa maknanya jika diketahui tingkat overlapnya terlalu tinggi? 
+   _________________________________________________________________ 
+   _________________________________________________________________ 
+   _________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pertanyaan dan Tugas 
+ 
+120
+ 
+  
+  
+ 
+ 
+ 
+Bagaimana  
+Menulis Laporan? 
+ 
+ 
+ 
+Bab 7 
+Hasil karya siswa SLB C laboratoriun universitas Tsukuba di Otsuka 
+ 
+121
+Pengantar 
+Sebuah karya penelitian tidak ada manfaatnya jika setelah selesai hasil penelitian di 
+simpan dalam lemari tanpa dikomunikasikan. Sebaliknya hasil npenelitian akan 
+bermanfaat bagi banyak orang jika hasilnya dikomunikasikan kepada orang lain yang 
+terkait dengan tema penelitian. Cara yang bpaling efektif untuk mengkomunikasikan 
+hasil penelitian adalah dengan cara menulisnya menjadi sebuah artikel. Di samping 
+bermanfaat bagi orang yang berkepentingan, peneliti juga mendapat masukan berupa 
+saran maupun kritik sehingga akan termotivasi untuk selalu meneliti yang lebih baik.  
+ 
+Mengkomunikasikan hasil penelitian yang paling efektiif adalah dengan cara menulis 
+artikel dan mempresentasikan dalam forum tertentu yang terkait dengan tema. Di 
+beberapa negara telah banyak forum-forum ilmiah yang memberikan kesempatan untuk 
+saling berdiskusi atau tukar informasi tentang hasil penelitian. Di samping itu, forum 
+yang lebih representaif untuk mengkomunikasikan hasil penelitian adalah melalui 
+penerbitan jurnal ilmiah. Salah satu jornal ilmiah yang terkait dengan penelitian subyek 
+tunggal adalah Journal of Applied Behavior Analysis yang bertarah internasional. 
+ 
+Penulisan artikel hasil penelitian di berbagai jornal ilmiah mempunyai corak yang 
+berbeda-beda. Meskipun demikian secara umum semua artikel ilmiah hasil penelitian 
+mempunyai pola yang hampir sama. Pada bab ini akan dibahas bagaimana menulis 
+laporan penelitian dengan subyek tunggal yang meliputi komponen utama: 
+Pendahuluan, Metode, Hasil, dan Pembahasan. 
+ 
+Kerangka Laporan  
+Berdasarkan beberapa jornal ilmiah outline penenulisan ilmiah sekurang-kurangnya 
+meliputi: Judul, Abstrak, Pendahuluan, Metode yang di dalamnya (meliputi subyek, 
+peralatan yang dipakai, dan prosedur), Hasil penelitian, Pembahasan (diskusi, dan 
+daftar referensi.  
+ 
+Judul 
+Judul sebaiknya secara jelas dapat menggambarkan masalah yang diteliti dengan 
+menggunakan istilah yang memiliki arti ganda. Agar maslahnya penelitiannya tampak 
+upayakan variabel utama penelitian juga terdapat dalam judul. Tidak ada rumus yang 
+baku untuk merumuskan judul laporan penelitian, namun demikian beberapa 
+ 
+122
+pertimbangan 
+yang 
+perlu 
+dalam 
+merumuskan 
+judul 
+adalah 
+jelas 
+artinya 
+menggambarkan masud peneliti secara jelas dan tidak menggandung penafsiran, 
+singkat artinya menggunakan kata yang benar-benar diperlukan secara efektif, dan 
+mengngandung suatu masalah yang akan diteliti dan dicarikan solusinya. 
+ 
+Abstrak  
+Abstrak berbeda dengan rangkuman, abstrak memberikan gambaran secara singkat 
+dan global tentang penelitian tersebut. Pembaca yang tidak punya banyak waktu untuk 
+membaca keseluruhan artikel dengan membaca abstrak dapat mengetahui garis besar 
+perihal penelitian tersebut. Meskipun singkat abstrak mengandung konsep¥konsep 
+pokok dari laporan penelitian. 
+ 
+Pendahuluan 
+Pendahuluan berfungsi memberikan orientasi kepada pembaca tentang masalah 
+penelitian. Oleh karena itu, dalam pendahuluan sekurang-kurangnya berisi tiga bagian, 
+yaitu: 
+(1)  Perntaan masalah 
+(2) Pembahasan singkat hasil penelitian terdahulu yang terfokus pada maslah 
+penelitian  
+(3)  Pernyataan tujuan penelitian  
+ 
+Panjang pendeknya pendahuluan tidak ada ketentuan yang pasti. Berdasarkan 
+kebiasaan yang digunakan beberapa jornal ilmiah antara 3 sampai dengan 5 paragrap.  
+Beberapa pola kalimat yang biasa digunakan untuk pendahuluan adalah seperti berikut. 
+(1) Masalah penelitian ini adalah ………… atau pertanyaannya adalah ……………… 
+(2) Penelitian terdahulu telah menjelaskan perihal ……………………………………… 
+(3) Aspek baru dari penelitian ini adalah ……………………………………………….… 
+(4) Dengan penelitian ini akan diperoleh …………………………………………….…… 
+(5) Saya menduga (hipotesis) bahwa ……………………………………………….……. 
+ 
+Metode 
+Dalam bagian metode ini biasanya menjelaskan juga tentan subyek penelitian, seting, 
+prosedur, Secara garis besar metode menjelaskan apa yang dilakukan peneliti dan 
+peralatan apa yang digunakan. 
+ 
+ 
+ 
+123
+ 
+Subyek 
+Informasi utama tentang subyek yang harus diberikan adalah: 
+(1) banyaknya subyek  
+(2) Usia dan jenis kelamin 
+(3) Kondisi dan level target behavior 
+(4) Maslah spesifik yang ada 
+(5) Kondisi fisik subyek yang dapat mempengaruhi perilaku yang diteliti 
+(6) Riwayat perilaku subyek yang terkait dengan perilakunyang diteliti 
+(7) Alasan pemilihan subyek tersebut dan kriteria yang digunakan  
+ 
+Seting 
+Jelaskan secara singkat elemen-elemen lingkungan dimana penelitian atau intervensi 
+dilakukan. Misalnya kondisi yang unik atau khusus yang mungkin dapat mempengaruhi 
+hasil penelitian. Jika memungkinkan dan perlu dapat juga dideskripsikan kondisi seting 
+secara detail , misalnya ukuran ruang, warna cat ruangan, ada apa saja dan siapan saja 
+dalam ruangan itu dan sebagainya. 
+ 
+Prosedur 
+Pada bagian prosedur harus dijelaskan secara rinci ukuran yang digunakan untuk 
+mengukur target behavior dan sistem pengukurannya. Di samping itu prosedur 
+intervensinya jilaskan serinci mungkin termasuk kalau menggunakan penguatan atau 
+reinforcement verbal kata apa yang digunakan misalnya “Bagus”, “Anak pintar”, dan 
+lain-lain. Siapa yang melakukan intervensi sendirian atau ada orang lain, waktu 
+pelaksanaannya dan berapa lama dalam setiap sesi, misalnya intervensi dimulai kapan. 
+Penjelasan disain yang digunakan juga merupakan hal penting yang perlu dijelaskan 
+npada bagian prosedur ini. 
+ 
+Hasil Penelitian 
+Hasil penelitian harus berhubungan dengan grafik yang disajikan karena penelitian 
+modifikasi perilaku dengan subyek tunggal hasil utamanya selalu disajikan dalam 
+bentuk grafik.  Bersumber dari grafik tersebut harus dijelaskan: 
+(1) Penjelasan umum perilaku subyek 
+(2) Perubahan pada variabel terikat atau target behavior antar kondisi 
+(3) Menjelaskan bagian-bagian terpenting yang ada dalam grafik maupun tabel 
+(4) Menjelaskan data yang mewakili besaran ukuran baik dalam maupun antar kondisi 
+ 
+124
+(5) Rentang dan level untuk setiap kondisi 
+(6) Faktor-faktor yang mungkin mempengaruhi hasil penelitian ketika subyek tidak 
+mengikuti hadiri karena alasan tertentu 
+(7) Menjelaskan perubahan perilaku sesuai dengan perubahan kondisi 
+ 
+Dalan bagian hasil harus ditulis dengan bahasa yang konsisten  dan menghindari 
+spekulasi dan interpretasi. Beberapa pola kalimat yang dapat digunakan misalnya: 
+ 
+Grafik 1 menunjukkan ……………………………………………………………….……….. 
+Selama fase baseline perilaku subyek tinggi, rendah, tidak stabil ………………………. 
+Ketika intervensi mulai diberikan perilaku subyek meningkat, menurun, tidak berubah 
+dan lain-lain 
+ 
+Diskusi atau Pembahasan 
+Pada sesi diskusi dimulai dengan paragraf pendek yang berisi ringkasan hasil penelitian, 
+misalnya dengan mengatakan hasil penelitian menunjukkan bahwa intervensi 
+memberikan pengaruh terhadap perilaku subyek. Diawali dari hal inilah kemudian 
+dilakukan diskusi sesuai dengan tema. Jelaskan hasil penemuan dengan referensi 
+khusus yang terkait. Jelaskan kontribusi hasil penelitian terhadap terhadap literatur 
+yang terkait. Diskusikan hasil penelitian yang paling menarik.   
+ 
+Contoh Laporan Penelitian 
+Agar memperoleh gambaran yang lebihk jelas tentang hal-hal yang baru saja dibahas, 
+berikut ini diberikan contoh sebuah laporan hasil penelitian.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+125
+Judul  
+A Case Study of Examing the Effects of Self-Monitoring on Improving Academic 
+Performance by a Student with Autism  
+(Studi Kasus Pengaruh Self-Monitoring pada Peningkatan Kinerja Akademik pada Siswa dengan Autis) 
+ 
+Abstrak 
+Pengaruh prosedur self-monitoring terhadap kinerja akademik dalam tiga 
+pelajaran bahasa Jepang, IPS, dan IPA diteliti pada seorang anak autis pada seting 
+di rumah. Penelitian ini menggunakan prosedur self-monitoring of attention 
+(SMA) dan self-monitoring of performance (SMP). Hasilnya menunjukkan 
+bahwa persentase jawaban benar terhadap soal tes (academic accuracy) dan 
+waktu yang digunakan untuk menjawab soal (academic productivity) meningkat 
+sedangkan permintaan waktu istirahat menurun. Hasil penelitian ini dibahas 
+berdasarkan proses belajar menggunakan SMA dan kemungkinan penggunaan 
+SMA dalam kehidupan sehari-hari.. 
+ 
+Pendahuluan 
+Seringkali dijumpai anak autis yang memiliki sekor kecerdasan yang tinggi. Di 
+samping itu anak autis sering dapat belajar dengan baik melaui pengajaran yang 
+individual. Pretasi belajar mereka sering menjadi jelek ketika belajar sendiri. Kemajuan 
+belajar yang lambat sering diperlihatkan. 
+Jika anak autis dapat meningkatkan kemampuannya untuk belajar sendiri 
+kemungkinan prestasi akademiknya juga akan meningkat. Self-monitoring (Red, 1996) 
+mungkin merupakan prosedur yang cocok untuk meningkatkan kemampuan belajar 
+sendiri (self-learning). Self-monitoring meliputi kegiatan anak pertama-tama harus 
+menyadari tentang perilakunya sendiri dan kemudian harus mampu mencatat ada dan 
+tidak adanya response yang diinginkan (Nelson dan Hayes, 1981). 
+Beberapa studi tentang self-monitoring melaporkan bahwa self-monitoring 
+efektif untuk meningkatkan durasi waktu kerja atau on-task (Hallahan, Marshall, dan 
+Lloyd, 1981; Marshall, Lloyd, dan Hallahan, 1993; Prater, Hogan, dan Miller, 1992) dan 
+produktivitas akademik misalnya menyelesaikan soal matematika (DiGangi, Maag, 
+danRutherford, 1991; Harris, Graham, Reid, McElroy, dan Hamby, 1994; Maag, 
+DiGangi, dan Rutherford, 1992; Reid dan Harris, 1993). Dan lagi, beberapa studi 
+menggunakan disain eksperimental yang sistematik secara jelas menunjukkan efek 
+positif self-monitoring pada ketepatan akademik, misalnya persentase jawaban benar 
+atas soal matematikaka (reid, 1996). 
+ 
+126
+ 
+Dunlap dan Dunlap (1989) menggunakan prosedur self-monitoring yang 
+menunjukkan peningkatan dalam keterampilan pengurangan untuk anak LD yang pada 
+mulanya 
+tidak 
+dapat 
+mengerjakan 
+pengurangan. 
+Dalam 
+prodedur 
+self-monitoringmula-mula peneliti mengadakan analisis kesalahan untuk menentukan 
+langkah dalam pengurangan. Siswa meletakkan tanda cek pada kertas self-monitoring 
+ketika dia menyelesaikan setiap langkah dalam proses pengurangan. Hasilnya 
+menunjukkan bahwa self-monitoring seperti itu dapat meningkatkan ketepatan 
+pengurangan. 
+ 
+Self-monitpring mencakup dua tipe prosedur yaitu Self-monitoring of 
+Performance (SMP) dan Self-monitoring of Attention (SMA). SMP mencakup prosedur 
+pengajaran pada siswa untuk menilai (self-asses) tentang produktivitas, ketepatan, dan 
+atau strategi yang digunakan serta mencatat hasilnya (self-record). SMA mencakup 
+prosedur pengajaran kepada siswa untuk menilai sendiri (self-asses) ada tidaknya 
+perhatian dan mencatat hasilnya (self-record) setiap kali diberikan tanda waktu. Tanda 
+waktu yang diberikan diset untuk periode waktu tertentu (Reid, 1996). 
+ 
+Dunlap dan Dunlap (1989) memperlihatkan bahwa prosedur SMP dapat 
+meningkatkan ketepatan akademik (academic accuracy). Meskipun demikian belum ada 
+penelitian tentang pengaruh prosedur SMA terhadap peningkatan ketepatan akademik 
+(academic accuracy). 
+ 
+Tujuan 
+Penelitian 
+ini 
+bertujuan 
+untuk 
+mengevaluasi 
+pengaruh 
+prosedur 
+Self-Monitoring (SMA) pada peningkatan kinerja akademik anak autis. Secara khusus 
+penelitian ini ingin mempelajari hubungan antara intervensi yang berupa prosedur 
+Self-Monitoring terhadap beberapa variabel terikat (target behavior) yang meliputi: (a) 
+waktu untuk menyelesaikan tugas (time required to complete tasks, (b) waktu jedah 
+(rest time requeated by the student), (c) persentase jawaban yang benar terhadap soal 
+(percent correct response). 
+ 
+Metode 
+Subyek 
+Penelitian ini dilakukan pada seorang subyek autis, laki-laki, yang belajar di 
+sekolah reguler kelas VI. Berdasarkan Tes Inteligensi Binet untuk siswa di Jepang Iqnya 
+84 (CA: 12 th 3 bln). Meskipun subyek dapat berkomunikasi (percakapan) sederhana 
+dalam kegiatan seharihari, ia  sering minta lawan bicaranya untuk mengulang 
+pertanyaan dengan suara yang keras.  
+ 
+127
+ 
+Untuk  partisipasi di kelas subyek sering ditemani guru dan atau temannya. Ia 
+mengikuti pelajaran individu untuk aritmatika selama 2 atau 3 kali seminggu karena dia 
+kesulitan  memahami konsep aritmatika. Dia sangat tertarik pada pelajaran IPS dan 
+Bahasa Jepang termasuk membaca, menulis dan memahami kalimat dan cerita. Dia 
+telah membaca bukuteks IPS berulang-ulang sampai ia dapat menghafal banyak kalimat 
+dari buku tersebut.   
+ 
+Variabel Terikat (target behavior) 
+Sebagaimana terdapat dalam rumusan tujuan, maka variabel terikat (target 
+behavior) dalam penelitian ini adalah: 
+(a) waktu untuk menyelesaikan tugas (time required to complete tasks,  
+(b) waktu istirahat (rest time requeated by the student),  
+(c) persentase jawaban yang benar terhadap soal (percent correct response), yang  
+meliputi soal Bahasa Jepang, Ilmu Pengetahuan Sosial, Dan Ilmu Pengetahuan Alam. 
+ 
+Variabel Bebas  
+Intervensi yang digunakan dalam penelitian ini yaitu “Self-Monitoring of 
+attention procedure” (SMA) dan “Self-Monitoring of performance procedure” (SMP).  
+Prosedur SMA adalah pada saat subyek bekerja diberikan alarm jam yang telah 
+diset akan berhenti secara otomatis setiap 5 menit. Pada setiap alarm berhenti subyek 
+diminta untuk memonitor diri sendiri apakah ia masih tetap konsentrasi pada 
+pekerjaanya atau tidak dengan menandai pada lembar monitor yang telah disiapkan. 
+Prosedur SMP adalah subyek diminta membuat grafik sendiri untuk 
+menunjukkan persentase jawaban benar terhadap soal yang dikerjakan. Jika subyek 
+salah menghitung persentase, peneliti yang mengoreksi dan subyek memperbaiki 
+grafiknya lagi. 
+ 
+Setting 
+Penelitian ini dilaksanakan di kamar pribadi subyek di rumah orang tuanya. 
+Ruang tersebut berukuran kira-kira 4 x 4 m. dan di dalam kamar ada meja dan kursi 
+sehingga subyek dapat melakukan pekerjaannya secara bebas. Peneliti menunggu 
+kira-kira 2 m di belakang subyek atau di ruang lain tetapi masih dapat mengamati 
+subyek. Data dikumpulkan selama 3 bulan dengan menggunakan video kamera..  
+ 
+ 
+ 
+128
+Peralatan 
+Peralatan yang digunakan meliputi: buku pelajaran Bahasa Jepang, IPS, dan 
+IPA. Setiap halaman dalam buku tersebut terdapat soal antara 15-20 soal baik soal 
+pilihan ganda maupun jawaban deskripsi. 
+ 
+Prosedur  
+Baseline 
+Pada setiap sesi subyek diminta mengerjakan tiga soal yaitu; Bahasa Jepang, 
+IPS, dan IPA. Peneliti mula-mula memperlihatkan soal ketiga pelajaran (Bhs. Jepang, 
+IPS, dan IPA) kepada subyek. Peneliti mengatakan “Soal mana yang ingin kamu 
+kerjakan dulu?” Setelah menentukan pilihannya, segera subyek menjawab soal tersebut.  
+Subyek diberitahu supaya tidak menuliskan apa-apa kalau tidak tahu 
+jawabannya. Setelah selesai mengerjakan, peneliti menunjukkan jawaban yang benar 
+dan subyek diminta untuk mengoreksi sendiri jawaban yang salah menggunakan pulpen 
+warna merah agar subyek mengetahui mana yang salah. 
+Sebelum dilanjutkan pada soal pelajaran lain, peneliti bertanya “apakah kamu 
+perlu istirahat?” Jika subyek merasa perlu, peneliti mengatakan “berapa menit?” 
+Kemudian diberikan waktu istirahat sesuai kemauannya. Jika tidak perlu, langsung 
+dilanjutkan ke soal pelajaran lain. Masing-masing soal dilaksanakan dengan dua trial 
+(trial 1 dan trial 2) Pada trial ke 2 subyek diminta menjawab soal sama yang digunakan 
+pada trial 1. Untuk mengetahui  variabel atau aspek apa saja yang diukur secara lebih 
+jelas, perhatikan diagarm di bagian akhir. 
+ 
+Hasil Penelitian  
+ 
+Waktu kerja untuk menjawab soal untuk setiap mata pelajaran (Bhs. Jepang, 
+IPS, dan IPA) disajikan dalam (Grafik 1). Selama prosedur SMA, waktu kerja untuk 
+menyelesaikan soal lebih pendek dibandingkan pada fase baseline 1 untuk semua mata 
+pelajaran. Pada baseline 2, waktu kerja sedikit meningkat untuk semua mata pelajaran. 
+Prosedur SMP tidak menunjukkan pengaruh terhadap waktu kerja untuk mata pelajaran 
+IPA ketika ditambahkan pada prosedur SMA.  
+Persentase jawaban benar pada pelajaran Bhs. Jepang dan IPS pada saat 
+diberikan prosedur SMA meningkat. Sedangkan pada pelajaran IPA, persentase jawaban 
+benar meningkat ketika diberikan prosedur SMA dan SMP.  
+Pada pelajaran Bhs. Jepang, persentase jawaban benar meningkat pada saat 
+diberikan prosedur SMA (Grafik 2). Pada fase baseline 2, perbedaan persentase jawaban 
+ 
+129
+benar antara trial 1 dan trial 2 lebih jauh dan pada trial 2 lebih baik. 
+Pada mata pelajaran IPS, prosedur SMA meningkatkan persentase jawaban 
+benar (Grafik 3). Pada prosedur SMA, persentase jawaban benar tidak stabil pada trial 1 
+sedangkan pada trial 2 meningkat secara konsisten dan stabil dan mencapai skor optimal 
+pada sesi-sesi akhir. Pada fase baseline 2, persentase jawaban benar pada trial 2 secara 
+konsisten lebih tinggi dari pada trial 1.  
+Pada pelajaran IPA, ketika diberikan kombinasi prosedur SMA dan SMP, 
+persentasi jawaban benar meningkat. Meskipun demikian, pada prosedur SMA, tidak 
+menampakan perbedaan yang jelas antara jawaban benar pada trial 1 dan trial 2. Pada 
+fase prosedur SMA dan SMP, persentase jawaban benar pada trial 2 relatif lebih tinggi. 
+Kecenderungan ini bertahan sampai pada fase prosedur SMA 2 dan baseline 2 (grafik 
+4). 
+Data untuk waktu istirahat (rest time) ditampilkan pada (Grafik 5). Pada fase 
+baseline, subyek secara spontan memerlukan waktu istirahat selama 20 menit. Pada 
+prosedur SMA waktu istirahat secara konsisten menurun. Pada baseline 2 dan 3, waktu 
+istirahat relatif meningkat.  
+Waktu yang diperlukan dalam sesi (intervensi) disajikan pada Grafik 6). 
+Selama prosedur SMA, waktu sesi menurun secara bertahap. Sedangkan pada fase 
+baseline 2 dan 3 sedikit meningkat. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+130
+0
+10
+20
+30
+40
+50
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+Sesi
+Waktu Kerja (mn.)
+Baseline
+SMA
+Baseline
+SMA2
+Bhs. Jepang
+ 
+0
+10
+20
+30
+40
+50
+60
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+Sesi
+Waktu Kerja (mn.)
+Baseline
+SMA
+Baseline2
+IPS
+ 
+ 
+0
+10
+20
+30
+40
+50
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+Sesi
+Waktu Kerja (mn.)
+Baseline
+SMA
+SMA +SMP
+SMA2
+Baseline2
+IPA
+ 
+          Grafik 1 Waktu untuk Menjawab Soal pada Tiga Mata Pelajaran 
+ 
+131
+0
+20
+40
+60
+80
+100
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+Sesi
+Jawaban Benar (%)
+Baseline
+SMA
+Baseline2
+SMA2
+Bhs. Jepang
+ 
+          Grafik 2 Persentase Jawaban Benar Pada Pelajaran Bhs. Jepang 
+ 
+ 
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+Sesi
+Jawaban Benar (%)
+Baseline
+SMA
+Baseline2
+IPS
+          
+Grafik 3 Persentase Jawaban Benar Pada Pelajaran IPS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+132
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+Sesi
+Jawaban Benar (%)
+Trial2
+Trial1
+Baseline
+SMA
+SMA +SMP
+SMA2
+Baseline2
+IPA
+ 
+ 
+              Grafik 4 Persentase Jawaban Benar Pada Pelajaran IPA 
+ 
+ 
+ 
+ 
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+Sesi
+Waktu Istirahat (mn.)
+Baseline
+SMA +SMP
+Baseline2
+SMA
+B 2
+ 
+Grafik 5  Waktu Istirahat 
+ 
+ 
+ 
+133
+0
+20
+40
+60
+80
+100
+120
+140
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+Sesi
+Waktu Sesi (mn.)
+Baseline
+SMA +SMP
+Baseline2
+B 2
+SMA
+ 
+                                Grafik 6  Waktu Sesi 
+ 
+ 
+Diskusi 
+ 
+Hasil penelitian ini dapat dirangkum sebagai berikut: pertama, Self-monitoring 
+of attention (SMA) dapat meningkatkan ketepatan dan produk akademik. Kedua, SMA 
+dapat menurunkan waktu istirahat. Studi terdahulu (misalnya, Reid, 1996) melaporkan 
+bahwa SMA efektif untuk meningkatkan produktivitas akademik tetapi sering tidak 
+efektif untuk ketepatan akademik. Hasil penelitian ini menunjukkan adanya peningkatan 
+ketepatan akademik pada fase SMA untuk pelajaran bahasa Jepang dan IPS. Anak autis 
+sering menghadapi kesulitan untuk mempertahankan perhatiannya dalam suatu 
+pekerjaan, dimana hal ini sangat penting dalam proses belajar. Pada prosedur SMA, 
+dalam penelitian ini, bunyi alarm jam ditampilkandengan nada yang biasa sebagai 
+stimuli agar timbul perhatian dalam bekerja (belajar) dan merangsang agar anak mau 
+melanjutkan pekerjaannya. 
+Prosedur SMA dapat mengurangi waktu untuk menyelesaikan tugas dengan 
+meningkatkan perhatian terhadap pekerjaan. Jika hal itu benar, interval antara mendapat 
+informasi mengenai jawaban yang benar dan mengoreksi jawaban untuk soal yang sama 
+akan menjadi lebih pendek. Persentase jawaban benar akan meningkat sebab subyek 
+dapat dengan mudah mengingat jawaban dalam waktu yang pendek. Hal ini 
+menjelaskan mengapa prosedure SMA dapat meningkatkan persentase jawaban benar. 
+Riset selanjutnya sangat diperlukan untuk meneliti hubungan antara produktivitas dan 
+ 
+134
+ketepatan akademik dalam prosedur SMA. 
+Meskipun ketepatan akademik pada pelajaran IPA menurun  selama fase SMA, 
+tetapi dapat meningkat setelah diberikan SMP bersama dengan SMA. Soal untuk IPA 
+terdiri dari memilih huruf (pilihan ganda) tetapi mungkin subyek menulis jawabannya 
+sehingga ia hanya mengingat hurufnya tetapi tidak pada jawabannya. Pemberian 
+prosedur SMP menuntut subyek untuk memperhatikan jawaban yang benar sambil 
+mengerjakan soal. 
+Prosedur SMA menurunkan waktu untuk mengerjakan soal untuk setiap mata 
+pelajaran, hal ini menunjukkan peningkatan pada produktivitas. Hasil ini sama dengan 
+hasil penelitian sebelumnya (misalnya, Harris dkk, 1994; Maag dkk, 1992) yang 
+menunjukkan bahwa SMA efektif untuk meningkatkan produktivitas akademik. 
+Prosedur SMA dapat menghasilkan waktu menjawab soal yang lebih cepat dengan 
+meningkatkan dan memelihara perhatian subyek. Menjawab dengan lebih cepat 
+diperkuat dengan waktu istirahat (reinforcement). 
+Waktu istirahat yang diminta subyek secara bertahap menurun pada bagian 
+akhir fase SMA dan SMP. Sejalan dengan makin lamanya sesi, waktu merespon 
+(response time) subyek diperkuat (reinforcement) oleh jawaban itu sendiri dari pada 
+waktu istirahat. Hal ini yang menyebabkan makin singkatnya menjawab soal dan 
+menurunnya waktu istirahat. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+135
+ 
+Penjelasan Variabel Terikat yang Diukur 
+Menjawab Soal B 
+Mengoreksi 
+istirahat 
+Menjawab Soal A 
+Mengoreksi 
+istirahat 
+Menjawab Soal C 
+Mengoreksi 
+Trial 2 
+Trial 1 
+Waktu Mengerjakan 
+ Soal A 
+Waktu Mengerjakan 
+ Soal B 
+Waktu Mengerjakan 
+ Soal C 
+Total waktu 
+istirahat
+Waktu Sesi 
+Menjawab Soal A 
+Mengoreksi 
+istirahat 
+Menjawab Soal B 
+Mengoreksi 
+istirahat 
+istirahat 
+Menjawab Soal B 
+Mengoreksi 
+Trial 1 
+ 
+136
+ 
+ 
+ 
+ 
+ 
+Secara umum komponen dalam outline penenulisan karya ilmiah sekurang-kurangnya 
+meliputi: judul, abstrak, pendahuluan, dan metode. Dalam metode tercakup di 
+dalamnya adalah subyek, peralatan yang dipakai, dan prosedur. Setelah itu hasil 
+penelitian, dan pembahasan  atau diskusi. Outline ini bukanlah satu-satunya tetapi 
+merupakan salah satu contoh saja. Banyak ragam outline yang digunakan oleh 
+berbagai jurnal ilmiah baik di tingkat nasional maupun internasional. Salah satu 
+petunjuk tata cara penulisan karya ilmiah yang sering dijadikan referensi adalah yang 
+diterbitkan oleh American Psychology Association (APA) 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rangkuman 
+ 
+137
+ 
+ 
+ 
+ 
+1. Amatilah salah seorang anak di suatu sekolah atau di sekitar Saudara, kemudian 
+tulislah perilaku negatif apa saja yang ada pada anak tersebut? 
+_________________________________________________________________ 
+_________________________________________________________________ 
+_________________________________________________________________ 
+_________________________________________________________________ 
+ 
+2. Pilihlah salah satu perilaku negatif tersebut dan rumuskan tujuan yang ingin  
+  Saudara capai untuk mengubah perilaku anak yang bersangkutan (boleh lebih  
+  dari satu) 
+__________________________________________________________________ 
+__________________________________________________________________ 
+__________________________________________________________________ 
+__________________________________________________________________ 
+ 
+3. Setelah merumuskan tujuan, kemudian rumuskan target behaviornya. 
+a. Ukuran apa yang akan Saudara gunakan untuk mengukur perilaku tersebut (target 
+behavior)? 
+________________________________________________________________ 
+________________________________________________________________ 
+________________________________________________________________ 
+ 
+b. Bagaimana Saudara akan mengukur target behavior tersebut? 
+________________________________________________________________ 
+________________________________________________________________ 
+________________________________________________________________ 
+  
+ 
+ 
+ 
+ 
+ 
+Pertanyaan dan Tugas 
+ 
+138
+ 
+Daftar Pustaka 
+ 
+Alberto, P. A. and Trouttman, A. C. (1982). Applied Behavior Analysis. Columbus: Merrill 
+Publishing Company. 
+DeMario, N. C. and Crowley, E. P. (1994). Using Applied Behavior Analysis Procedures 
+to Change the Behavior of Students with Visual Disabilities: A Research Review. 
+Journal Visual Impairment & Blindness, 88, 532-543. 
+Hasselt, V. B. and Hersen, M. (1981). Applications of Single-Case Designs to Research 
+with Visually Impaired Individuals. Journal Visual Impairment and Blindness. 75, 
+359-362. 
+Johnson, B. M., et al. (2005). Evaluation of Behavioral Skills Training for Teaching 
+Abduction-Prevention Skills to Young Children, Journal of Applied Behavior 
+Analysis, 38, 67-78. 
+Koenig, A. J. and Ross, D. B. (1991). A Cognitive Approach to Reducing Stereotypic 
+Head Rocking. Journal Visual Impairment & Blindness, 85, 17-19. 
+Leaf, R. and McEachin, J. (eds.) (1999). A Work in Progress: Behavior Management 
+Strategies and a Curriculumm for Intensive Behavioral Treatment of Autism.New 
+York: Autism Partnership. 
+Leblanc, L., Richardson, W., and McIntosh, J. (2005). The Use of Applied Behavioural 
+Analysis in Teaching Children with Autism. The International Journal of Special 
+Education, 20, 13-34. 
+Lerman, D. C., Vorndran, C., Addison, L., and Kuhn, S. A. C. (2005). A Rapid 
+Assessment of Skills in Young Children with Autism. Journal of Applied Behavior 
+Analysis, 37, 11-26. 
+Lovaas, O. I. (2003). Teaching Individuals with Developmental Delays: Basic 
+Intervenstion Techniques. Austin:Pro-ed. 
+Lutzker, J. R. and  Whitaker, D. J. (2005). The Expanding Role of Behavior Analysis 
+and Support. Behavior Modification, 29, 575-594. 
+Martin, G. and Pear, J. (1999). (Sixth Edition). Behavior Modification: What It Is and How 
+To Do It. New Jersey: Prentice Hall. 
+ 
+ 
+ 
+ 
+ 
+ 
+139
+Maurice, C., Green, G., and Luce, S. C. ed. (1996). Behavioral Intervention for Young 
+Children with Autism. A Manual for Parents and Professionals. Austin: Pro. ed. 
+Rosnow, R. P. and Rosenthal, R. (1999). Beginning Behavioral Research: A Conceptial 
+Primer. New Jersey: Prentice Hall. 
+Tawney, J. W. and Gast, D. L. (1984). Single Subject Research in Special Education. 
+Columbus: A Bell and Howell Company. 
+Takeuchi, K. and Yamamoto, J. (2001). A Case of Examining the Effects of 
+Self-Monitoring on Improving Academic Performance by a Student with Autism. 
+Japanese Journal of Special Education, 38, 105-116. 
+ 
+ 
+ 
