@@ -117,10 +117,81 @@ if query:
     st.markdown("---")
     st.subheader("📊 Hasil Pencarian")
     
-    # Tampilkan Query yang diproses
-    with st.expander("ℹ️ Detail Query (Preprocessing)", expanded=False):
-        st.write("**Query Asli:**", query)
-        st.write("**Token Hasil Stemming:**", query_stems)
+    # Tampilkan Query yang diproses dengan detail SEMUA tahapan preprocessing
+    with st.expander("ℹ️ Detail Query (Preprocessing)", expanded=True):
+        from preprocessing import preprocess_query_detailed
+        
+        # Dapatkan detail lengkap preprocessing
+        detail = preprocess_query_detailed(query)
+        
+        st.markdown("### 📋 Tahapan Preprocessing")
+        
+        # Tahap 1: Teks Asli
+        st.markdown("#### 1️⃣ Teks Asli")
+        st.code(detail['original_text'], language=None)
+        
+        # Tahap 2: Case Folding
+        st.markdown("#### 2️⃣ Case Folding (Mengubah ke huruf kecil)")
+        st.code(detail['case_folding'], language=None)
+        
+        # Tahap 3: Tokenizing
+        st.markdown("#### 3️⃣ Tokenizing (Memecah menjadi kata)")
+        st.code(str(detail['tokens_all']), language="python")
+        st.caption(f"Jumlah token: {len(detail['tokens_all'])}")
+        
+        # Tahap 4: Filtering + Stemming
+        st.markdown("#### 4️⃣ Filtering (Hapus Stopword & Simbol) + Stemming")
+        st.caption("Detail setiap token:")
+        
+        for idx, token_info in enumerate(detail['tokens_detail'], 1):
+            token = token_info['token']
+            
+            if token_info['filtered_out']:
+                # Token dihapus saat filtering
+                with st.container():
+                    col1, col2 = st.columns([1, 2])
+                    with col1:
+                        st.markdown(f"**Token #{idx}:** `{token}`")
+                        st.error(f"❌ Dihapus - {token_info['filter_reason']}")
+                    with col2:
+                        st.caption("Token ini tidak diproses lebih lanjut")
+            else:
+                # Token lolos filtering, ada detail stemming
+                stemming_info = token_info['stemming_detail']
+                
+                with st.container():
+                    col1, col2 = st.columns([1, 3])
+                    with col1:
+                        st.markdown(f"**Token #{idx}:** `{token}`")
+                        st.success("✓ Lolos Filtering")
+                        st.markdown(f"**Hasil Stemming:** `{stemming_info['result']}`")
+                        
+                        if stemming_info['prefix_removed']:
+                            st.caption(f"Prefix: {stemming_info['prefix_removed']}-")
+                        if stemming_info['suffix_removed']:
+                            st.caption(f"Suffix: -{stemming_info['suffix_removed']}")
+                        if stemming_info['in_dictionary']:
+                            st.success("✓ Di Kamus")
+                        else:
+                            st.warning("⚠ Tidak di kamus")
+                    
+                    with col2:
+                        st.markdown("**Proses Stemming:**")
+                        for step in stemming_info['steps']:
+                            if '✓' in step:
+                                st.success(step, icon="✅")
+                            elif '⚠' in step:
+                                st.warning(step, icon="⚠️")
+                            else:
+                                st.info(step, icon="ℹ️")
+            
+            st.divider()
+        
+        # Ringkasan Hasil Akhir
+        st.markdown("#### 5️⃣ Hasil Akhir")
+        final_tokens = [t['stemming_detail']['result'] for t in detail['tokens_detail'] if not t['filtered_out']]
+        st.success(f"**Token Hasil Preprocessing:** {final_tokens}")
+        st.metric("Jumlah Token Akhir", len(final_tokens))
 
     # Hitung Similarity
     results = []

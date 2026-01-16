@@ -66,3 +66,52 @@ def preprocess_detailed(text):
             })
     
     return detailed_results
+
+def preprocess_query_detailed(text):
+    """
+    Preprocessing query dengan tracking lengkap setiap tahapan
+    Returns: dict dengan detail semua tahapan preprocessing
+    """
+    from stemming_ays import stemming_ays_detailed
+    
+    result = {
+        'original_text': text,
+        'case_folding': '',
+        'tokens_all': [],
+        'tokens_detail': []
+    }
+    
+    # Step 1: Case Folding
+    text_casefolded = case_folding(text)
+    result['case_folding'] = text_casefolded
+    
+    # Step 2: Tokenizing
+    tokens_all = tokenizing(text_casefolded)
+    result['tokens_all'] = tokens_all
+    
+    # Step 3: Filtering + Stemming dengan detail
+    for token in tokens_all:
+        is_alpha = token.isalpha()
+        is_stopword = token in STOPWORDS
+        
+        token_info = {
+            'token': token,
+            'is_alpha': is_alpha,
+            'is_stopword': is_stopword,
+            'filtered_out': not is_alpha or is_stopword,
+            'filter_reason': None,
+            'stemming_detail': None
+        }
+        
+        if not is_alpha:
+            token_info['filter_reason'] = 'Bukan huruf (mengandung angka/simbol)'
+        elif is_stopword:
+            token_info['filter_reason'] = 'Stopword (kata umum yang dihapus)'
+        else:
+            # Token lolos filtering, lakukan stemming dengan detail
+            stemming_detail = stemming_ays_detailed(token)
+            token_info['stemming_detail'] = stemming_detail
+        
+        result['tokens_detail'].append(token_info)
+    
+    return result
